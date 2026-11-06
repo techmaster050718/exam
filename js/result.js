@@ -11,10 +11,12 @@
   let questions = [];
   let state     = null;
   let activeFilter = 'all';
+  let subjectId = 'general';
 
   /* ── Boot ───────────────────────────────────────────────── */
   document.addEventListener('DOMContentLoaded', async () => {
     App.initTheme();
+    App.applyBranding().catch(() => {});
     App.qs('#theme-toggle').addEventListener('click', () => {
       const t = App.toggleTheme();
       App.qs('#theme-toggle').textContent = t === 'dark' ? '☀️' : '🌙';
@@ -28,7 +30,7 @@
     App.showLoading(root, 'Loading results…');
 
     try {
-      const papers = await App.loadPapersList();
+      const [papers, subjects] = await Promise.all([App.loadPapersList(), App.loadSubjects()]);
       paperMeta = papers.find((p) => p.id === paperId);
       if (!paperMeta) throw new Error(`Paper "${paperId}" not found`);
 
@@ -42,9 +44,11 @@
       paperData = await App.loadPaper(paperMeta.file);
       questions = App.flattenQuestions(paperData);
 
-      // Find next paper
-      const idx     = papers.findIndex((p) => p.id === paperId);
-      const nextP   = papers[idx + 1] || null;
+      // Next unfinished paper stays within the current subject.
+      const validSubjects = new Set(subjects.map((s) => s.id));
+      subjectId = paperMeta.subject && validSubjects.has(paperMeta.subject) ? paperMeta.subject : 'general';
+      const paperSubject = (p) => p.subject && validSubjects.has(p.subject) ? p.subject : 'general';
+      const nextP = papers.find((p) => paperSubject(p) === subjectId && p.id !== paperId && App.getPaperState(p.id)?.status !== 'submitted') || null;
 
       render(root, nextP, papers);
 
@@ -350,8 +354,9 @@
   function buildActions(nextPaper, allPapers) {
     const wrap = App.el('div', { className: 'result-actions' });
 
-    const homeBtn = App.el('a', { href: 'index.html', className: 'btn btn-secondary btn-lg' }, '← Back to Home');
+    const homeBtn = App.el('a', { href: 'index.html', className: 'btn btn-secondary btn-lg' }, '⌂ Home');
     wrap.appendChild(homeBtn);
+    wrap.appendChild(App.el('a', { href: `subject.html?subject=${encodeURIComponent(subjectId)}`, className: 'btn btn-secondary btn-lg' }, '← Back to Subject'));
 
     const retakeBtn = App.el('button', { className: 'btn btn-secondary btn-lg' }, '🔄 Retake Paper');
     retakeBtn.addEventListener('click', () => {

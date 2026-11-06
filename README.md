@@ -1,203 +1,113 @@
-# IBPS SO IT Officer (Mains) Practice Tests
+# Lakshya mock-test platform
 
-A fully offline, single-file MCQ exam practice website built with plain HTML, CSS and vanilla JavaScript — no frameworks, no build tools, no backend.
+A static, multi-subject MCQ practice site built with HTML, CSS, and vanilla JavaScript. It has no build step or backend. All progress stays in the browser under the existing `ibps_mocktest_v1` localStorage key.
 
----
+## Run locally
 
-## 🚀 How to Run
+The JSON files require a local HTTP server:
 
-> **Important**: The site uses `fetch()` to load JSON data files. This requires a local HTTP server — opening `index.html` directly via `file://` will fail in most browsers (CORS restriction).
-
-### Option 1 — VS Code Live Server (easiest)
-1. Install the **Live Server** extension in VS Code.
-2. Right-click `index.html` → **Open with Live Server**.
-3. Browser opens at `http://127.0.0.1:5500`.
-
-### Option 2 — Python (built-in on macOS/Linux)
 ```bash
 cd /path/to/Exam
 python3 -m http.server 8000
-# then open http://localhost:8000
 ```
 
-### Option 3 — Node `http-server`
+Open `http://localhost:8000`. Do not open the HTML files directly with `file://`.
+
+## Structure
+
+```
+index.html          subject dashboard
+subject.html        papers for one subject
+test.html           timer-based exam screen
+result.html         score, section analysis, and answer review
+data/site.json      platform branding
+data/subjects.json  subject directory
+data/papers.json    paper directory and marking rules
+data/*.json         question files
+images/             optional question and option images
+js/                 application code
+css/style.css       responsive styles
+```
+
+## Content formats
+
+`data/site.json` controls the name, tagline, and footer everywhere:
+
+```json
+{"name":"Lakshya","tagline":"Mock tests for IBPS, CDS & SSB","footer":"Practice smart. Aim higher."}
+```
+
+`data/subjects.json` is an array of subject cards:
+
+```json
+[{"id":"ibps-aptitude","title":"IBPS - Aptitude & Reasoning","description":"Practice sets","icon":"🧮"}]
+```
+
+Register each paper in `data/papers.json`:
+
+```json
+{
+  "id":"my-paper",
+  "subject":"ibps-aptitude",
+  "title":"My Practice Paper",
+  "subtitle":"Topic description",
+  "file":"data/my-paper.json",
+  "durationMin":45,
+  "correctMark":1,
+  "negativeMark":0.25
+}
+```
+
+Papers without a valid `subject` are safely shown under **General**. A subject with no papers displays as “Coming soon.”
+
+Each question file contains sections and questions:
+
+```json
+{
+  "id":"my-paper",
+  "sections":[{
+    "name":"Arithmetic",
+    "questions":[{
+      "q":"What is 2 + 2?",
+      "options":["2","3","4","5"],
+      "answer":2,
+      "img":"images/my-paper/q1.png",
+      "optionImgs":["images/my-paper/a.png",null,null,null]
+    }]
+  }]
+}
+```
+
+`answer` is the zero-based option index. `img` and `optionImgs` are optional; omit them for normal text questions. Image paths are relative to the site root.
+
+## Add content
+
+1. Add the question JSON file in `data/`.
+2. Add its entry in `data/papers.json`, setting `subject` to an existing subject ID.
+3. For a new category, add one entry in `data/subjects.json`.
+4. Put any optional visual assets under `images/` and reference their relative paths in questions.
+
+No HTML, CSS, or JavaScript edits are needed to add future subjects or papers.
+
+## Scoring
+
+For each paper, the score is:
+
+`(correct × correctMark) − (wrong × negativeMark)`
+
+Unattempted questions score zero. The percentage is score divided by total available marks. `negativeMark` may be `0`, and marking values can be fractional. Results preserve section-wise marks; the subject page aggregates the weakest completed sections.
+
+## Deploy to GitHub Pages
+
+All internal paths are relative, and `.nojekyll` is included for GitHub Pages sub-path hosting.
+
 ```bash
-npx http-server . -p 8000
-# then open http://localhost:8000
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<username>/<repo>.git
+git push -u origin main
 ```
 
----
-
-## 🌐 Deploy to GitHub Pages (Static Hosting)
-
-The site is built with 100% vanilla web standards, relative URLs, and an empty `.nojekyll` file, making it directly deployable on GitHub Pages:
-
-1. **Initialize Git & Commit**:
-   ```bash
-   cd /path/to/Exam
-   git init
-   git add .
-   git commit -m "Initial commit: IBPS SO IT Officer Practice Tests"
-   ```
-
-2. **Create a GitHub repository** and link it:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git push -u origin main
-   ```
-
-3. **Enable GitHub Pages**:
-   - In your GitHub repo, go to **Settings** → **Pages**.
-   - Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
-   - Under **Branch**, select `main` and `/ (root)`, then click **Save**.
-   - Your site will be live at `https://<your-username>.github.io/<your-repo-name>/`.
-   - Because all internal links and asset paths are relative, it works seamlessly under subpath URLs.
-
----
-
-## 📂 File Structure
-
-```
-Exam/
-├── .nojekyll           # Bypasses Jekyll processing on GitHub Pages
-├── index.html          # Home / paper list + progress dashboard
-├── test.html           # Exam screen (loads via ?paper=<id>)
-├── result.html         # Result screen (loads via ?paper=<id>)
-├── css/
-│   └── style.css       # All styles (light + dark, responsive)
-├── js/
-│   ├── app.js          # Shared helpers (storage, scoring, loading)
-│   ├── home.js         # Home page logic
-│   ├── test.js         # Exam screen logic
-│   └── result.js       # Result page logic
-├── data/
-│   ├── papers.json     # List of all papers (master index)
-│   ├── paper1.json     # Questions for Paper 1
-│   ├── paper2.json     # Questions for Paper 2
-│   ├── paper3.json     # Questions for Paper 3
-│   └── bonus.json      # Questions for Bonus Paper
-└── README.md
-```
-
----
-
-## ➕ How to Add a New Paper (Two Steps Only)
-
-### Step 1 — Create the question file
-
-Create `data/myNewPaper.json` with this structure:
-
-```json
-{
-  "id": "myNewPaper",
-  "sections": [
-    {
-      "name": "Section Name",
-      "questions": [
-        {
-          "q": "Your question text here. Use ^n for superscript (e.g. O(n^2)).",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "answer": 1
-        }
-      ]
-    },
-    {
-      "name": "Another Section",
-      "questions": [
-        {
-          "q": "Second question?",
-          "options": ["True", "False", "Maybe", "None"],
-          "answer": 0
-        }
-      ]
-    }
-  ]
-}
-```
-
-**Rules:**
-- `answer` is the **0-based index** of the correct option (0 = A, 1 = B, 2 = C, 3 = D).
-- `id` must match the filename (without `.json`).
-- You can have any number of sections and any number of questions per section.
-- Superscripts: write `^x` or `^(expr)` — rendered as `<sup>x</sup>` safely.
-
-### Step 2 — Register in `papers.json`
-
-Add one entry to `data/papers.json`:
-
-```json
-{
-  "id": "myNewPaper",
-  "title": "My New Paper",
-  "subtitle": "Topic description",
-  "file": "data/myNewPaper.json",
-  "durationMin": 45,
-  "correctMark": 1,
-  "negativeMark": 0.25
-}
-```
-
-**That's it.** No JavaScript or HTML changes are ever needed.
-
----
-
-## 🔢 Scoring Rules
-
-| Result | Marks |
-|--------|-------|
-| Correct answer | +`correctMark` (default: +1) |
-| Wrong answer | −`negativeMark` (default: −0.25) |
-| Unattempted | 0 |
-
-- **Total Marks** = Number of questions × `correctMark`
-- **Final Score** = (Correct × correctMark) − (Wrong × negativeMark)
-- **Percentage** = Score / Total Marks × 100
-- Score can be negative (shown clearly on result page)
-- These values are set **per paper** in `papers.json`
-
----
-
-## ⌨️ Keyboard Shortcuts (Exam Screen)
-
-| Key | Action |
-|-----|--------|
-| `1` or `A` | Select Option A |
-| `2` or `B` | Select Option B |
-| `3` or `C` | Select Option C |
-| `4` or `D` | Select Option D |
-| `←` / `→` | Previous / Next question |
-| `↑` / `↓` | Previous / Next question |
-| `M` | Toggle Mark for Review |
-| `X` or `Esc` | Clear selection (unattempt) |
-
----
-
-## 💾 Data & Privacy
-
-- All progress is stored in your browser's **localStorage** only — nothing is sent to any server.
-- **Export** your progress from the home page footer as a JSON file.
-- **Import** a previously exported JSON to restore progress.
-- **Reset All** wipes all localStorage data (with confirmation).
-- Answers are stored in the JSON files. This is intentional for a personal-use tool. Answers are never shown in the UI during the test.
-
----
-
-## 🎨 Theming
-
-- Supports **Light** and **Dark** mode (toggle button in top-right, or follows your OS preference).
-- All colours are CSS custom properties in `:root` inside `css/style.css`.
-- Change `--gold-400` / `--gold-500` etc. to change the accent colour sitewide.
-
----
-
-## 📱 Browser Support
-
-Works in all modern browsers (Chrome, Firefox, Safari, Edge). Requires ES6+.
-Backdrop-filter glass effect degrades gracefully on older browsers (solid background fallback).
-
+In the GitHub repository, open **Settings → Pages**, choose **Deploy from a branch**, then select `main` and `/ (root)`.
