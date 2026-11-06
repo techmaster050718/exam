@@ -1,0 +1,1045 @@
+{
+  "id": "polity-001",
+  "sections": [
+    {
+      "name": "President and Parliament",
+      "questions": [
+        {
+          "q": "Who removes the President under Article 61?",
+          "options": [
+            "Parliament by impeachment following the constitutional procedure",
+            "The Supreme Court by simple judicial verdict",
+            "The Prime Minister acting alone",
+            "A joint sitting of the Cabinet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The President appoints a Governor on whose advice?",
+          "options": [
+            "A State legislative assembly",
+            "The Union Council of Ministers",
+            "The State Public Service Commission",
+            "The Election Commission of India"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What can the President do after a Bill is presented under Article 111?",
+          "options": [
+            "Always promulgate it as an ordinance",
+            "Refer every Bill to the Supreme Court",
+            "Give assent, withhold assent, or return a non-Money Bill with a message for reconsideration",
+            "Automatically dissolve the Lok Sabha"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A pardon under Article 72 may be granted by the President for offences in which category?",
+          "options": [
+            "Only offences tried in State courts",
+            "Only offences committed outside India",
+            "Only crimes punishable by imprisonment below one year",
+            "Offences involving Union law, court-martial cases, or death sentences"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The President’s ordinance-making power is found in:",
+          "options": [
+            "Article 123",
+            "Article 352",
+            "Article 356",
+            "Article 360"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which body constitutes the President’s electoral college?",
+          "options": [
+            "All sitting and retired judges",
+            "Elected members of both Houses of Parliament and elected members of State Legislative Assemblies",
+            "All State Governors and Chief Ministers",
+            "Members of Panchayati Raj institutions alone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Article supplies the procedure for impeachment of the President?",
+          "options": [
+            "Article 74",
+            "Article 110",
+            "Article 61",
+            "Article 280"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Can the President exercise functions without advice from the Council of Ministers?",
+          "options": [
+            "No, every action is personally decided by Parliament",
+            "Yes, the President can replace the Cabinet at will",
+            "No, only the Chief Justice may advise assent",
+            "Yes, in a few discretionary acts expressly permitted by the Constitution"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Vice-President is ex officio Chairman of which House?",
+          "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Legislative Council of every State",
+            "National Development Council"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A vacancy in the office of Vice-President is filled within what period generally prescribed by the Constitution?",
+          "options": [
+            "Exactly within six months only",
+            "As early as possible, within the period under Article 68",
+            "Within one year under every circumstance",
+            "It must wait until the next general election"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A decision of the Union Cabinet is ordinarily communicated to the President by:",
+          "options": [
+            "The Vice-President",
+            "The Attorney General",
+            "The Prime Minister",
+            "The Cabinet Secretary acting as appointing authority"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which condition must a person satisfy to be eligible for President?",
+          "options": [
+            "Citizen of India, at least 45, and a former judge",
+            "Citizen for 20 years and member of Rajya Sabha",
+            "At least 40 and resident of the capital territory",
+            "Citizen of India, at least 35, and qualified for Lok Sabha membership"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Executive and Bills",
+      "questions": [
+        {
+          "q": "The President’s normal term is:",
+          "options": [
+            "Five years from entering office",
+            "Six years from election",
+            "Four years from oath",
+            "Five years from the declaration of the result"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The President can be re-elected:",
+          "options": [
+            "Only once",
+            "Without any constitutional numerical limit",
+            "Only after ten years",
+            "Only if Parliament approves unanimously"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which oath office does the President swear to preserve, protect and defend?",
+          "options": [
+            "The Fundamental Duties",
+            "The Directive Principles",
+            "The Constitution of India",
+            "The State list"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What happens if a Bill is returned for reconsideration but passes again?",
+          "options": [
+            "It becomes law without any assent",
+            "It must first receive Governor assent",
+            "A joint sitting becomes mandatory",
+            "The President may assent or withhold assent; reconsideration does not bind the President absolutely"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The President summons and prorogues Parliament under provisions including:",
+          "options": [
+            "Article 85",
+            "Article 30",
+            "Article 39",
+            "Article 324"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The President dissolves which House of Parliament?",
+          "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Both Houses simultaneously by a single automatic order",
+            "The Speaker’s Chamber"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who acts as President if both the President and Vice-President are unavailable?",
+          "options": [
+            "The Senior-most Governor",
+            "The Lok Sabha Speaker",
+            "The Chief Justice of India under Article 65 arrangements",
+            "The Union Home Secretary"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The President has the constitutional authority to proclaim Financial Emergency under:",
+          "options": [
+            "Article 352",
+            "Article 356",
+            "Article 365",
+            "Article 360"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A Money Bill is formally certified by:",
+          "options": [
+            "The Speaker of the Lok Sabha",
+            "The Chairperson of the Rajya Sabha",
+            "The President",
+            "The Comptroller and Auditor General"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Money Bill may be introduced only in:",
+          "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Either House",
+            "A joint committee of both Houses"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How is a joint sitting of Parliament summoned for an unresolved Bill?",
+          "options": [
+            "By the Speaker automatically",
+            "By the Vice-President alone",
+            "By the President",
+            "By the Attorney General"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Rajya Sabha is a permanent House because:",
+          "options": [
+            "All members serve lifetime terms",
+            "It is constituted only after dissolution",
+            "It has no elected members",
+            "It is not dissolved and one-third of its members retire every two years"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Fundamental Rights",
+      "questions": [
+        {
+          "q": "How many days does the Rajya Sabha have to return a Money Bill?",
+          "options": [
+            "14 days",
+            "30 days",
+            "60 days",
+            "90 days"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who presides over a joint sitting of Parliament?",
+          "options": [
+            "The President",
+            "The Speaker of the Lok Sabha",
+            "The Prime Minister",
+            "The Chief Justice of India"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The maximum strength of Lok Sabha is fixed by law at roughly:",
+          "options": [
+            "400 members",
+            "600 members",
+            "550 members",
+            "750 members"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which House elects its own Deputy Speaker in practice?",
+          "options": [
+            "Rajya Sabha",
+            "Both Houses appoint the Deputy Speaker personally by the President",
+            "Neither House has a Deputy Speaker",
+            "Lok Sabha"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which parliamentary committee is chaired by the Speaker of Lok Sabha?",
+          "options": [
+            "Business Advisory Committee",
+            "Public Accounts Committee chaired by President",
+            "Committee on Ethics of Rajya Sabha",
+            "All department committees automatically"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is a session of Parliament normally followed by a recess called?",
+          "options": [
+            "Dissolution only",
+            "Prorogation",
+            "Adjournment sine die only",
+            "Motion of thanks"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An adjournment motion in Lok Sabha requires agreement of a specified number of members and raises:",
+          "options": [
+            "A Constitutional amendment proposal",
+            "A Presidential election campaign",
+            "A matter of urgent public importance",
+            "A State Governor’s removal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The casting vote of the Speaker is exercised:",
+          "options": [
+            "Whenever the Speaker wishes to support every bill",
+            "Only in committee stage",
+            "Only during Presidential elections",
+            "When votes are tied in the House"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question Hour in Parliament primarily enables:",
+          "options": [
+            "Members to seek information and hold Ministers accountable",
+            "Judges to question witnesses",
+            "State Assemblies to amend Bills",
+            "The President to appoint Governors"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A no-confidence motion can be moved only in:",
+          "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "State Legislative Council",
+            "National Development Council"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Leader of the Opposition status in Lok Sabha generally depends on statutory recognition and minimum party strength, commonly:",
+          "options": [
+            "Exactly 50 per cent of members",
+            "All members of State parties only",
+            "At least 10 per cent of the House",
+            "At least one member elected without contest"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Anti-Defection law is based on:",
+          "options": [
+            "First Schedule",
+            "Ninth Schedule",
+            "Eleventh Schedule",
+            "Tenth Schedule of the Constitution"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Directive Principles and Duties",
+      "questions": [
+        {
+          "q": "Which constitutional office is described as the guardian of the Lok Sabha schedule and proceedings in the House?",
+          "options": [
+            "Speaker",
+            "Vice-President",
+            "Attorney General",
+            "Comptroller and Auditor General"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A resolution for creating a Legislative Council in a State begins through:",
+          "options": [
+            "A direct Presidential ordinance only",
+            "A State Legislative Assembly resolution followed by Parliament legislation",
+            "A Supreme Court direction",
+            "The Governor’s unilateral proclamation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Rajya Sabha representation of States is allocated mainly according to:",
+          "options": [
+            "Geographical area alone",
+            "Number of district headquarters",
+            "Population, as adjusted in the constitutional scheme",
+            "Length of international border"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who is eligible to preside over a sitting of Rajya Sabha in the Chairperson’s absence under the constitutional arrangement?",
+          "options": [
+            "Leader of the Opposition as Vice-President",
+            "Prime Minister",
+            "Pro tem Speaker of Lok Sabha",
+            "Deputy Chairperson"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Fundamental Rights are mainly contained in:",
+          "options": [
+            "Part III of the Constitution",
+            "Part IV of the Constitution",
+            "Part IV-A",
+            "Part VI"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Fundamental Right was restored after the Forty-fourth Amendment removed it as a general right?",
+          "options": [
+            "Right to equality",
+            "Property is no longer a Fundamental Right under Article 19(1)(f) in its original form",
+            "Freedom of religion",
+            "Cultural and educational rights"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 21 protects:",
+          "options": [
+            "Only a person’s home ownership",
+            "Freedom to form armed groups",
+            "Life and personal liberty",
+            "The right to government employment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The writ of habeas corpus protects primarily against:",
+          "options": [
+            "Tax evasion",
+            "Election malpractice",
+            "Disobedience of State boundaries",
+            "Unlawful detention"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which writ is used by a superior court to direct a lower court or tribunal within jurisdiction to act or cease excess?",
+          "options": [
+            "Certiorari",
+            "Habeas corpus",
+            "Quo warranto",
+            "Mandamus"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The writ mandamus generally cannot be issued against:",
+          "options": [
+            "A public servant performing official duty",
+            "A purely private individual with no public duty",
+            "A statutory authority",
+            "An officer of Government"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Quo warranto questions:",
+          "options": [
+            "The constitutionality of an international treaty only",
+            "The legality of a private lease",
+            "The legality of a person holding a public office",
+            "The location of Parliament"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 32 is described as the:",
+          "options": [
+            "Right to free education",
+            "Right against exploitation",
+            "Freedom of trade between States",
+            "Right to constitutional remedies"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Emergency and Federalism",
+      "questions": [
+        {
+          "q": "Article 17 abolishes:",
+          "options": [
+            "Untouchability",
+            "Bonded labour alone",
+            "Capital punishment",
+            "Preventive detention"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 19(1)(a) guarantees:",
+          "options": [
+            "Right to property",
+            "Freedom of speech and expression",
+            "Right to education",
+            "Right to equal pay alone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 21A provides free and compulsory education to:",
+          "options": [
+            "All citizens above 18",
+            "All disabled adults",
+            "Children aged 6 to 14 years",
+            "Children aged 0 to 5 only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Right against exploitation includes prohibitions on:",
+          "options": [
+            "Peaceful strikes",
+            "Private voluntary contracts",
+            "Voluntary charitable work",
+            "Traffic in human beings and forced labour"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which amendment inserted Article 21A?",
+          "options": [
+            "86th Amendment",
+            "42nd Amendment",
+            "44th Amendment",
+            "61st Amendment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Directive Principles are found in:",
+          "options": [
+            "Part III",
+            "Part IV",
+            "Part VI",
+            "Part IXA"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Fundamental Duties were inserted by the:",
+          "options": [
+            "25th Constitutional Amendment",
+            "73rd Amendment",
+            "42nd Constitutional Amendment",
+            "91st Amendment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How many original Fundamental Duties were added by the 42nd Amendment?",
+          "options": [
+            "Five",
+            "Six",
+            "Twelve",
+            "Ten"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Article 51A duty concerns safeguarding public property and abating violence?",
+          "options": [
+            "Duty to safeguard public property and abjure violence",
+            "Duty to serve in armed forces",
+            "Duty to pay all taxes",
+            "Duty to vote in every election"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Directive Principles are principally:",
+          "options": [
+            "Enforceable rights enforceable as damages",
+            "Non-justiciable guidelines for governance",
+            "Criminal penalties",
+            "Judicial precedents binding only judges"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Constitution separates the State from religion through provisions on:",
+          "options": [
+            "A State-established religion",
+            "Exclusive public festivals",
+            "Secularism and freedom of religion",
+            "Religious censorship"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 15 prohibits discrimination by the State on grounds such as:",
+          "options": [
+            "Educational qualification alone",
+            "Previous employment alone",
+            "Height only",
+            "Religion, race, caste, sex, or place of birth"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Local Government and Schedules",
+      "questions": [
+        {
+          "q": "Reservations for socially and educationally backward classes in public employment are enabled by:",
+          "options": [
+            "Article 16(4)",
+            "Article 14",
+            "Article 19(1)(g)",
+            "Article 21A"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The President can impose emergency due to armed rebellion under:",
+          "options": [
+            "Article 360 only",
+            "Article 352",
+            "Article 335",
+            "Article 324"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Constitution originally described the emergency ground as internal disturbance; it was replaced by armed rebellion by:",
+          "options": [
+            "24th Amendment",
+            "52nd Amendment",
+            "44th Amendment",
+            "73rd Amendment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "National Emergency must be approved by both Houses within:",
+          "options": [
+            "Two weeks only",
+            "Three months only",
+            "No approval is required",
+            "One month under the Constitution’s emergency provisions"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which emergency suspends State executive and legislature subject to constitutional safeguards?",
+          "options": [
+            "President’s Rule under Article 356",
+            "Financial Emergency under Article 360",
+            "National Emergency under Article 352",
+            "Judicial emergency under Article 124"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 356 reports must be approved within:",
+          "options": [
+            "One month after dissolution",
+            "Two months from the proclamation",
+            "Six months automatically",
+            "Until the State budget is passed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "S. R. Bommai established that State governments cannot be dismissed without:",
+          "options": [
+            "Automatic Parliamentary suspension of every State assembly",
+            "Advice from the State Governor alone",
+            "Judicial review of the factual basis of the proclamation",
+            "Approval of the Election Commission"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Seventh Schedule divides legislative authority among:",
+          "options": [
+            "Fundamental Rights, Duties, and Directive Principles",
+            "Executive, Legislature, and Judiciary only",
+            "Central, Municipal, and Panchayat lists",
+            "Union, State, and Concurrent Lists"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A subject under the Concurrent List can be legislated by:",
+          "options": [
+            "Parliament and State legislatures, subject to repugnancy principles",
+            "Only Parliament in every case",
+            "Only State legislatures in every case",
+            "Local bodies alone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Residuary powers are primarily assigned to:",
+          "options": [
+            "The States exclusively",
+            "The Union under Article 248",
+            "District councils",
+            "Parliamentary committees"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which authority decides ordinary inter-State disputes over water or boundaries under many statutes?",
+          "options": [
+            "Panchayats by local ballot",
+            "The President’s Secretariat only",
+            "The Supreme Court when jurisdiction arises, sometimes with tribunals for rivers",
+            "The Rajya Sabha Chairperson"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cooperative federalism under the Constitution is commonly aided by institutions including:",
+          "options": [
+            "Election Commission and Comptroller only",
+            "Supreme Court and Attorney General alone",
+            "Only State Governors",
+            "Inter-State Council and GST Council"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Bodies",
+      "questions": [
+        {
+          "q": "Distribution of taxes and grants from the Union is recommended by:",
+          "options": [
+            "Finance Commission under Article 280",
+            "Planning Commission",
+            "Election Commission",
+            "National Human Rights Commission"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Inter-State Council is provided for under:",
+          "options": [
+            "Article 262",
+            "Article 263",
+            "Article 352",
+            "Article 370"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The GST Council is a constitutional institution established through the:",
+          "options": [
+            "73rd Amendment",
+            "74th Amendment",
+            "101st Amendment",
+            "86th Amendment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Governor’s assent can lead to a Bill being reserved for the President’s consideration if required by:",
+          "options": [
+            "The State Public Service Commission",
+            "The High Court’s calendar",
+            "A Panchayat resolution",
+            "The constitutional scheme governing the State Bill"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Supreme Court has original jurisdiction in disputes between:",
+          "options": [
+            "The Union and one or more States, under Article 131",
+            "A landlord and tenant only",
+            "All private companies only",
+            "Panchayats and municipalities exclusively"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "State executive authority is vested in constitutional theory in:",
+          "options": [
+            "The Chief Minister personally beyond all rules",
+            "The Governor, exercised under constitutional provisions and advice",
+            "The High Court Chief Justice",
+            "The State Advocate General"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 355 imposes on the Union a duty to protect States against:",
+          "options": [
+            "Only natural disasters",
+            "Only elections",
+            "External aggression and internal disturbance and ensure constitutional machinery",
+            "Only budget deficits"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The term Panchayati Raj was constitutionalized through:",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "101st Amendment",
+            "73rd Amendment"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Eleventh Schedule relates to:",
+          "options": [
+            "Panchayats",
+            "Municipalities",
+            "Union Territories",
+            "Tribunals"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The municipal constitutional framework was strengthened through the:",
+          "options": [
+            "72nd Amendment",
+            "74th Amendment",
+            "78th Amendment",
+            "81st Amendment"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 243D reserves seats for Scheduled Castes and Scheduled Tribes in Panchayats in proportion to:",
+          "options": [
+            "Their income alone",
+            "Their distance from district headquarters",
+            "Their population in the Panchayat area, as Constitutionally provided, with women reservations too",
+            "Their employment in government service"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The State Finance Commission is provided for under Articles relating to:",
+          "options": [
+            "280 only",
+            "324 and 326",
+            "352 and 360",
+            "243Y/243ZD and the local self-government framework"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Elections and Governance",
+      "questions": [
+        {
+          "q": "The Sixth Schedule mainly concerns self-governance arrangements in selected tribal areas of:",
+          "options": [
+            "Assam, Meghalaya, Tripura, and Mizoram",
+            "Kerala and Tamil Nadu",
+            "Rajasthan and Gujarat",
+            "Punjab and Haryana"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Schedules Fifth and Sixth deal respectively with administration in:",
+          "options": [
+            "Municipal elections and Panchayat lists",
+            "Scheduled Areas/Tribes and autonomous district arrangements in northeastern States",
+            "Presidential and Parliamentary procedures",
+            "Banking and finance only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The National Commission for Scheduled Castes is established under:",
+          "options": [
+            "Article 340",
+            "Article 324",
+            "Article 338",
+            "Article 280"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The National Commission for Scheduled Tribes is established under:",
+          "options": [
+            "Article 338",
+            "Article 342A",
+            "Article 335",
+            "Article 338A"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 340 concerns investigation and recommendations for:",
+          "options": [
+            "Socially and educationally backward classes",
+            "Scheduled Castes only",
+            "Foreign diplomatic missions",
+            "Military recruitment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Official Languages of the Union are governed in the Constitution and complemented by:",
+          "options": [
+            "Representation of the People Act only",
+            "Official Languages Act, 1963",
+            "Right to Information Act, 2005",
+            "Panchayat Act, 1994"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 343 establishes Hindi in Devanagari script as:",
+          "options": [
+            "The sole language of all State courts",
+            "The language of every private company",
+            "The official language of the Union, while English continues in the prescribed transitional arrangement",
+            "The language replacing all regional scripts"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Union Public Service Commission is established by:",
+          "options": [
+            "Article 280",
+            "Article 300A",
+            "Article 324",
+            "Article 315"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The UPSC Chairman and members hold office by constitutional tenure safeguards and may be removed for misbehaviour by the:",
+          "options": [
+            "President after Supreme Court inquiry in constitutional cases",
+            "Prime Minister by letter alone",
+            "Lok Sabha Speaker by resolution",
+            "Cabinet Secretary by executive order"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Comptroller and Auditor General is appointed by:",
+          "options": [
+            "The Prime Minister",
+            "The President",
+            "The Finance Minister alone",
+            "The Governor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Comptroller and Auditor General audits the accounts of:",
+          "options": [
+            "Only private corporations",
+            "Only political parties",
+            "The Union and States",
+            "Only municipal bodies"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Attorney General of India is appointed by:",
+          "options": [
+            "The Chief Justice",
+            "The Prime Minister alone",
+            "The Election Commission",
+            "The President"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Advocate General for a State is appointed by:",
+          "options": [
+            "The Governor",
+            "The Chief Minister personally without advice",
+            "The High Court Chief Justice",
+            "The President directly"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Election Commission is established under:",
+          "options": [
+            "Article 315",
+            "Article 324",
+            "Article 280",
+            "Article 352"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Chief Election Commissioner is appointed by:",
+          "options": [
+            "The Prime Minister alone",
+            "The Supreme Court Chief Justice",
+            "The President",
+            "The Speaker"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Election Commission conducts elections to:",
+          "options": [
+            "Only Panchayats and municipalities",
+            "Only Presidential elections",
+            "Only State Legislative Assemblies",
+            "Parliament, State Legislatures, President and Vice-President"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

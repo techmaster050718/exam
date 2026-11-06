@@ -34,5 +34,23 @@
     "title": "English Language",
     "description": "IBPS and CDS oriented English grammar, vocabulary and comprehension",
     "icon": "📚"
+  },
+  {
+    "id": "general-science",
+    "title": "General Science",
+    "description": "Physics, Chemistry and Biology for competitive examinations",
+    "icon": "🔬"
+  },
+  {
+    "id": "geography",
+    "title": "Geography",
+    "description": "Physical, Indian and World Geography",
+    "icon": "🌍"
+  },
+  {
+    "id": "indian-polity",
+    "title": "Indian Polity",
+    "description": "Constitution, governance, Parliament, judiciary and constitutional bodies",
+    "icon": "⚖️"
   }
 ]

@@ -1,0 +1,1025 @@
+{
+  "id": "geography-001",
+  "sections": [
+    {
+      "name": "Physical Geography",
+      "questions": [
+        {
+          "q": "Which imaginary line divides Earth into Northern and Southern Hemispheres?",
+          "options": [
+            "Equator",
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Arctic Circle"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The angular distance of a place north or south of the Equator is its:",
+          "options": [
+            "Longitude",
+            "Latitude",
+            "Altitude",
+            "Declination"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Longitude values range from 0° to:",
+          "options": [
+            "90° north or south",
+            "360° east or west",
+            "180° east or west",
+            "45° east or west"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Prime Meridian passes through Greenwich near:",
+          "options": [
+            "Paris",
+            "Berlin",
+            "Rome",
+            "London"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Tropic of Cancer lies approximately at:",
+          "options": [
+            "23.5° N",
+            "23.5° S",
+            "66.5° N",
+            "66.5° S"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Arctic Circle is located approximately at:",
+          "options": [
+            "66.5° S",
+            "66.5° N",
+            "23.5° N",
+            "23.5° S"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A map showing contour lines primarily represents:",
+          "options": [
+            "Population",
+            "Rainfall",
+            "Surface relief",
+            "Languages"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Lines joining places of equal atmospheric pressure are called:",
+          "options": [
+            "Isotherms",
+            "Isohyets",
+            "Contours",
+            "Isobars"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A large-scale map depicts:",
+          "options": [
+            "A small area in greater detail",
+            "A large area with little detail",
+            "Only oceans",
+            "Only political boundaries"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The International Date Line broadly follows:",
+          "options": [
+            "0° longitude",
+            "180° longitude",
+            "90° longitude",
+            "23.5° latitude"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which rock type forms from cooling and solidification of magma or lava?",
+          "options": [
+            "Sedimentary",
+            "Metamorphic",
+            "Igneous",
+            "Organic"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Basalt is typically:",
+          "options": [
+            "A sedimentary rock",
+            "A metamorphic rock",
+            "A fossil fuel",
+            "An extrusive igneous rock"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Marble is formed chiefly by metamorphism of:",
+          "options": [
+            "Limestone",
+            "Granite",
+            "Shale",
+            "Sandstone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A fold mountain is commonly formed by:",
+          "options": [
+            "Volcanic eruption only",
+            "Compression of crustal rocks",
+            "Wind deposition",
+            "Marine erosion"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The point directly above an earthquake focus on Earth’s surface is the:",
+          "options": [
+            "Seismic zone",
+            "Focus",
+            "Epicenter",
+            "Fault plane"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The instrument used to record earthquake waves is a:",
+          "options": [
+            "Barometer",
+            "Anemometer",
+            "Hygrometer",
+            "Seismograph"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A river valley with a characteristic V shape is mainly formed by:",
+          "options": [
+            "Vertical erosion",
+            "Deposition",
+            "Glacial abrasion",
+            "Wind deflation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A meander is a feature commonly found in a river’s:",
+          "options": [
+            "Upper course glacier",
+            "Middle or lower course",
+            "River source spring",
+            "Ocean trench"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which process transports rock fragments by a river?",
+          "options": [
+            "Photosynthesis",
+            "Condensation",
+            "Traction, saltation, suspension and solution",
+            "Sublimation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Ox-bow lakes commonly form from abandoned:",
+          "options": [
+            "Glacial cirques",
+            "Desert dunes",
+            "Coastal lagoons",
+            "River meanders"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A sand dune migrating across a desert is primarily shaped by:",
+          "options": [
+            "Wind",
+            "Glacial ice",
+            "Tides",
+            "Earthquakes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The grinding action of rock fragments in a glacier is called:",
+          "options": [
+            "Carbonation",
+            "Abrasion",
+            "Oxidation",
+            "Hydration"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A U-shaped valley is characteristically produced by:",
+          "options": [
+            "River deposition",
+            "Wind erosion",
+            "Glacial erosion",
+            "Tidal deposition"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A stack is a coastal erosional feature isolated from the:",
+          "options": [
+            "River mouth by deposition",
+            "Glacier by moraine",
+            "Dune by wind",
+            "Cliff by wave action"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A delta generally develops where a river enters:",
+          "options": [
+            "A standing body of water",
+            "A steep mountain ridge",
+            "An active glacier",
+            "A desert basin with no outlet"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "World Geography & Maps",
+      "questions": [
+        {
+          "q": "The largest continent by area is:",
+          "options": [
+            "Africa",
+            "Asia",
+            "North America",
+            "Europe"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which is the largest ocean?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which continent has the Antarctic Circle passing through it?",
+          "options": [
+            "Australia",
+            "South America",
+            "Africa",
+            "Antarctica"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Strait of Gibraltar connects the Atlantic Ocean with the:",
+          "options": [
+            "Mediterranean Sea",
+            "Black Sea",
+            "Red Sea",
+            "Baltic Sea"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Suez Canal connects the Mediterranean Sea with the:",
+          "options": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Panama Canal connects the Pacific Ocean with the:",
+          "options": [
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Atlantic Ocean",
+            "Southern Ocean"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Andes mountains extend along the western margin of:",
+          "options": [
+            "North America",
+            "Africa",
+            "Europe",
+            "South America"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The highest peak in Africa is:",
+          "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Mount Elbrus",
+            "Mount Everest"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Great Rift Valley is most prominently associated with:",
+          "options": [
+            "Western Europe",
+            "East Africa",
+            "Central Asia",
+            "Southern Australia"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Sahara Desert is mainly located in:",
+          "options": [
+            "Southern Africa",
+            "Central Asia",
+            "North Africa",
+            "Western Europe"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Amazon Basin is situated mainly in:",
+          "options": [
+            "Africa",
+            "Southeast Asia",
+            "North America",
+            "South America"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Congo Basin rainforest is centered in:",
+          "options": [
+            "Africa",
+            "South America",
+            "Europe",
+            "Australia"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Great Barrier Reef lies off the coast of:",
+          "options": [
+            "India",
+            "Australia",
+            "Japan",
+            "South Africa"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Lake Victoria is in the drainage basin of the:",
+          "options": [
+            "Amazon",
+            "Congo",
+            "Nile",
+            "Niger"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Danube River flows predominantly through:",
+          "options": [
+            "Africa",
+            "South America",
+            "Australia",
+            "Europe"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Rhine River empties into the:",
+          "options": [
+            "North Sea",
+            "Mediterranean Sea",
+            "Black Sea",
+            "Baltic Sea"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Volga River flows into the:",
+          "options": [
+            "Black Sea",
+            "Caspian Sea",
+            "Baltic Sea",
+            "Aral Sea"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Yangtze is the longest river in:",
+          "options": [
+            "Africa",
+            "Europe",
+            "Asia",
+            "South America"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Caspian Sea is best classified geographically as:",
+          "options": [
+            "An arm of the Atlantic",
+            "A freshwater river estuary",
+            "An oceanic trench",
+            "A landlocked saltwater lake"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Dead Sea is located between Israel and:",
+          "options": [
+            "Jordan",
+            "Egypt",
+            "Lebanon",
+            "Syria"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Mount Everest is part of the:",
+          "options": [
+            "Andes",
+            "Himalayas",
+            "Alps",
+            "Rockies"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Alps are chiefly in:",
+          "options": [
+            "South America",
+            "Africa",
+            "Europe",
+            "North America"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which map projection preserves local angles and shapes but distorts area?",
+          "options": [
+            "Equal-area projection only",
+            "Orthographic globe view only",
+            "Cartogram",
+            "Mercator projection"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A thematic map showing country population is most likely a:",
+          "options": [
+            "Choropleth or proportional-symbol map",
+            "Topographic map only",
+            "Navigation chart only",
+            "Weather satellite image"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A map scale of 1:250,000 indicates that 1 cm represents:",
+          "options": [
+            "250 m on the ground",
+            "2.5 km on the ground",
+            "25 km on the ground",
+            "250 km on the ground"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Climate & Monsoon",
+      "questions": [
+        {
+          "q": "The most abundant permanent gas in Earth’s dry atmosphere is:",
+          "options": [
+            "Oxygen",
+            "Argon",
+            "Nitrogen",
+            "Carbon dioxide"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Most weather phenomena occur in the:",
+          "options": [
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere",
+            "Troposphere"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The ozone layer is concentrated mainly in the:",
+          "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Mesosphere",
+            "Exosphere"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Temperature generally decreases with height through the:",
+          "options": [
+            "Stratosphere",
+            "Troposphere",
+            "Thermosphere",
+            "Exosphere"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Solar radiation received at the top of the atmosphere is termed:",
+          "options": [
+            "Albedo",
+            "Advection",
+            "Insolation",
+            "Latent heat"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The fraction of incoming solar radiation reflected by a surface is its:",
+          "options": [
+            "Humidity",
+            "Lapse rate",
+            "Pressure gradient",
+            "Albedo"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A belt of low pressure near the Equator is the:",
+          "options": [
+            "Intertropical Convergence Zone",
+            "Polar high-pressure belt",
+            "Horse latitudes",
+            "Ferrel convergence"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Trade winds in the Northern Hemisphere blow generally from the:",
+          "options": [
+            "Northwest",
+            "Northeast",
+            "Southeast",
+            "Southwest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The westerlies are prevailing winds between roughly:",
+          "options": [
+            "0° and 10° latitudes",
+            "60° and 90° latitudes only",
+            "30° and 60° latitudes",
+            "The Equator and poles uniformly"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cyclonic winds in the Northern Hemisphere circulate:",
+          "options": [
+            "Clockwise toward a high-pressure center",
+            "Outward from a low",
+            "Parallel only to latitude",
+            "Counterclockwise toward a low-pressure center"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A cold front forms when colder air displaces warmer air along the surface and typically brings:",
+          "options": [
+            "Steep uplift and showery precipitation",
+            "Permanent calm weather",
+            "A permanent rise in pressure only",
+            "Desertification"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The instrument used to measure atmospheric pressure is a:",
+          "options": [
+            "Hygrometer",
+            "Barometer",
+            "Pyranometer",
+            "Psychrometer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Relative humidity expresses the water-vapor content as a percentage of:",
+          "options": [
+            "The total dry-air mass",
+            "Sea-surface salinity",
+            "The amount possible at that temperature",
+            "Cloud-base pressure"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The normal lapse rate is the average decrease of temperature with:",
+          "options": [
+            "Latitude toward the Equator",
+            "Longitude eastward",
+            "Pressure below sea level",
+            "Altitude in the troposphere"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Rain shadow deserts commonly occur on the:",
+          "options": [
+            "Leeward side of mountains",
+            "Windward coast",
+            "Equator",
+            "Ice-covered summit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Convectional rainfall is especially characteristic of warm, humid areas because air is heated:",
+          "options": [
+            "Only at night by mountains",
+            "At the surface and rises",
+            "By ocean currents without uplift",
+            "Along cold fronts exclusively"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Orographic rainfall occurs when moist air is forced to rise over:",
+          "options": [
+            "Plains",
+            "Ocean ridges only",
+            "Mountains",
+            "Valleys below sea level"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Indian summer monsoon generally withdraws first from:",
+          "options": [
+            "Kerala coast",
+            "Northeast India",
+            "Lakshadweep",
+            "Northwestern India"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The southwest monsoon usually reaches Kerala around:",
+          "options": [
+            "1 June",
+            "1 January",
+            "1 September",
+            "15 December"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A monsoon is primarily driven by seasonal reversal of:",
+          "options": [
+            "Earth’s rotation alone",
+            "Wind and pressure systems",
+            "Tidal currents",
+            "Ocean salinity"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "El Niño refers to anomalous warming of the:",
+          "options": [
+            "North Atlantic gyre",
+            "Southern Indian Ocean coast",
+            "Central and eastern tropical Pacific Ocean",
+            "Arctic Ocean only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "La Niña is associated with:",
+          "options": [
+            "Warmer Mediterranean waters only",
+            "Permanent monsoon reversal in India",
+            "Melting of Antarctic ice exclusively",
+            "Cooler-than-normal central and eastern tropical Pacific waters"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Köppen climate type “Af” denotes:",
+          "options": [
+            "Tropical rainforest climate",
+            "Hot desert climate",
+            "Mediterranean climate",
+            "Polar tundra climate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Mediterranean climates typically have:",
+          "options": [
+            "Wet summers and dry winters",
+            "Dry summers and wet winters",
+            "Rainfall only in spring",
+            "No seasonal rainfall contrast"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Tropical cyclones derive their energy principally from:",
+          "options": [
+            "Glacial meltwater",
+            "Desert dust storms",
+            "Latent heat released by condensation over warm oceans",
+            "Tidal friction alone"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Oceanography & Resources",
+      "questions": [
+        {
+          "q": "The continental shelf is the gently sloping submerged extension of a:",
+          "options": [
+            "Oceanic trench",
+            "Mid-ocean ridge",
+            "Volcanic island arc",
+            "Continent"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Deep, narrow depressions on the ocean floor are called:",
+          "options": [
+            "Ocean trenches",
+            "Guyots",
+            "Seamounts",
+            "Continental shelves"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Mid-Atlantic Ridge is an example of a:",
+          "options": [
+            "Convergent trench",
+            "Divergent plate boundary and mid-ocean ridge",
+            "Transform fault only",
+            "Continental fold belt"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A flat-topped underwater volcanic mountain is called a:",
+          "options": [
+            "Atoll",
+            "Estuary",
+            "Guyot",
+            "Lagoon"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An atoll is characteristically a ring-shaped:",
+          "options": [
+            "Sandbar across a river mouth",
+            "Delta in an estuary",
+            "Iceberg in polar seas",
+            "Coral reef around a lagoon"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Average ocean water salinity is about:",
+          "options": [
+            "35 parts per thousand",
+            "35 percent",
+            "35 grams per liter exactly everywhere",
+            "350 parts per million"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The primary factor that generally increases seawater density is:",
+          "options": [
+            "Higher temperature and lower salinity",
+            "Lower temperature and higher salinity",
+            "Less pressure and less salinity",
+            "More sunlight and oxygen"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Ocean currents are deflected by Earth’s rotation due to the:",
+          "options": [
+            "Greenhouse effect",
+            "Doppler effect",
+            "Coriolis effect",
+            "Photoelectric effect"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Warm ocean currents generally move from:",
+          "options": [
+            "High latitudes toward the Equator only",
+            "Poles to poles on one path",
+            "Rivers into desert lakes",
+            "Low latitudes toward higher latitudes"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Upwelling brings nutrient-rich deep water to the surface and often supports:",
+          "options": [
+            "Rich fisheries",
+            "Desert dunes",
+            "Glacier growth",
+            "Coal formation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Gulf Stream is a warm current in the:",
+          "options": [
+            "South Atlantic Ocean",
+            "North Atlantic Ocean",
+            "North Pacific Ocean",
+            "Indian Ocean"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Humboldt Current is a cold current along the coast of:",
+          "options": [
+            "India and Pakistan",
+            "Australia and Indonesia",
+            "Peru and Chile",
+            "Norway and Sweden"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Tides are produced principally by the gravitational pull of the:",
+          "options": [
+            "Earth’s core",
+            "Ocean floor",
+            "Atmospheric pressure alone",
+            "Moon and Sun"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The highest tidal range typically occurs during:",
+          "options": [
+            "Spring tides at new or full moon",
+            "Neap tides at quarter moon",
+            "Equinoxes only",
+            "Solar eclipses only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Renewable resources are resources that can:",
+          "options": [
+            "Never be used",
+            "Be replenished on a human or natural time scale",
+            "Be created only by mining",
+            "Always remain unlimited without management"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Coal, petroleum and natural gas are classified as:",
+          "options": [
+            "Mineral fertilizers",
+            "Renewable energy sources",
+            "Fossil fuels",
+            "Atmospheric resources"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Solar photovoltaic cells convert sunlight directly into:",
+          "options": [
+            "Coal",
+            "Natural gas",
+            "Hydrogen by combustion",
+            "Electricity"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Geothermal energy is derived from heat stored in:",
+          "options": [
+            "Earth’s interior",
+            "Forest biomass only",
+            "Ocean tides alone",
+            "Wind friction"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A resource’s economic value depends on demand, technology and:",
+          "options": [
+            "Map color",
+            "Availability and accessibility",
+            "Population density only",
+            "Ocean depth alone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Bauxite is the principal ore of:",
+          "options": [
+            "Iron",
+            "Copper",
+            "Aluminium",
+            "Lead"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Haematite is an important ore of:",
+          "options": [
+            "Tin",
+            "Gold",
+            "Zinc",
+            "Iron"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Manganese deposits are especially important for manufacturing:",
+          "options": [
+            "Steel alloys",
+            "Petroleum",
+            "Fertilizer only",
+            "Glass wool"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A watershed is an area that:",
+          "options": [
+            "Separates atmospheric layers",
+            "Drains into a common river system",
+            "Contains only groundwater",
+            "Has no drainage outlet"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Contour farming helps reduce soil erosion chiefly by:",
+          "options": [
+            "Removing all vegetation",
+            "Ploughing straight downhill",
+            "Ploughing along slope contours",
+            "Burning crop residues"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Terracing is most useful for farming on:",
+          "options": [
+            "Flat ocean floors",
+            "Ice shelves",
+            "Sand dunes without moisture",
+            "Steep slopes"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

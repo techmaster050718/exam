@@ -1,0 +1,1055 @@
+{
+  "id": "polity-002",
+  "sections": [
+    {
+      "name": "Judiciary",
+      "questions": [
+        {
+          "q": "The Supreme Court Judges are appointed by:",
+          "options": [
+            "The President",
+            "The Prime Minister",
+            "The Speaker",
+            "The Governor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Supreme Court judge vacates office at the age of:",
+          "options": [
+            "62 years",
+            "65 years",
+            "60 years",
+            "70 years"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A High Court judge normally retires at:",
+          "options": [
+            "65 years",
+            "60 years",
+            "62 years",
+            "67 years"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Judge of the Supreme Court can be removed by Parliament under:",
+          "options": [
+            "Article 356",
+            "Article 352",
+            "Article 360",
+            "Article 124 read with the Judges Inquiry process"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Constitutional ground for removal of a judge is:",
+          "options": [
+            "Proved misbehaviour or incapacity",
+            "Policy disagreement with government",
+            "Any adverse press report",
+            "Loss of a case"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Supreme Court has advisory jurisdiction under:",
+          "options": [
+            "Article 131",
+            "Article 143",
+            "Article 32",
+            "Article 136"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Supreme Court can issue writs under:",
+          "options": [
+            "Article 226",
+            "Article 300A",
+            "Article 32",
+            "Article 324"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "High Courts may issue writs under:",
+          "options": [
+            "Article 32 only",
+            "Article 123",
+            "Article 280",
+            "Article 226"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 136 provides the Supreme Court with:",
+          "options": [
+            "Special leave to appeal in matters of discretion and constitutional importance",
+            "Mandatory original jurisdiction over every civil suit",
+            "Power to appoint municipal councillors",
+            "Control over State legislation lists"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 137 allows review by the Supreme Court of its:",
+          "options": [
+            "Presidential proclamations exclusively",
+            "Judgments and orders, subject to rules",
+            "Lok Sabha elections only",
+            "Tax laws passed outside India"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Supreme Court Jurisdiction",
+      "questions": [
+        {
+          "q": "Public Interest Litigation enables courts to entertain:",
+          "options": [
+            "A private commercial appeal without jurisdiction",
+            "Secret government communications only",
+            "A public grievance brought before them by an affected or credible party",
+            "A candidate’s campaign promise"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Judicial review in India principally examines:",
+          "options": [
+            "Whether every policy is economically efficient",
+            "Whether court judgments match public opinion",
+            "Whether Ministers have majority support",
+            "Whether laws and executive acts conform to the Constitution"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Basic Structure doctrine limits Parliament’s power concerning:",
+          "options": [
+            "The Constitution’s essential features during amendment",
+            "Only ordinary State legislation",
+            "Only the Directive Principles",
+            "Only judicial salaries"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Kesavananda Bharati is associated with:",
+          "options": [
+            "The Mandal Commission",
+            "The basic structure doctrine",
+            "State reorganization",
+            "Abolition of untouchability"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Golak Nath is known for the proposition, later qualified by constitutional amendment doctrine, that Parliament:",
+          "options": [
+            "Could never amend ordinary laws",
+            "Could dissolve High Courts without limits",
+            "Could not amend Fundamental Rights under the reasoning before the Twenty-fourth Amendment",
+            "Could abolish adult suffrage"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Twenty-fourth Amendment expressly reasserted Parliament’s:",
+          "options": [
+            "Power to appoint Chief Ministers",
+            "Power to create States by ordinance",
+            "Power to declare war alone",
+            "Power to amend the Constitution, while restoring Presidential assent consequences"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Forty-second Amendment added the words “socialist”, “secular”, and “integrity” to:",
+          "options": [
+            "The Preamble",
+            "The Ninth Schedule",
+            "The State List",
+            "Article 356 only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Forty-second Amendment is associated with extensive changes including:",
+          "options": [
+            "Reduction of voting age",
+            "Fundamental Duties and administrative/federal provisions",
+            "Creation of GST Council",
+            "Reservation of seats for women in Parliament"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Amendment lowered the voting age from 21 to 18?",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "61st Amendment",
+            "52nd Amendment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Forty-fourth Amendment principally:",
+          "options": [
+            "Created the Election Commission",
+            "Established Panchayati Raj",
+            "Nationalized banks",
+            "Restored safeguards and changed emergency/property provisions"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Basic Structure and Amendments",
+      "questions": [
+        {
+          "q": "The Forty-fourth Amendment replaced the internal emergency ground and added safeguards for which rights?",
+          "options": [
+            "Articles 20 and 21 protection during an emergency",
+            "All property rights automatically",
+            "The Speaker’s removal power",
+            "Governor appointments only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Fifty-second Amendment concerns:",
+          "options": [
+            "GST cooperation",
+            "Anti-defection provisions in the Tenth Schedule",
+            "Local government reservations",
+            "Voting age reduction"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Twenty-fifth Amendment dealt substantially with restrictions connected to:",
+          "options": [
+            "Election Commission appointments",
+            "Judicial salaries",
+            "Property rights and Article 31C",
+            "Official languages"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Forty-seventh Amendment added laws relating to land reforms and redistribution to:",
+          "options": [
+            "The Seventh Schedule",
+            "The Eighth Schedule",
+            "The Eleventh Schedule",
+            "The Ninth Schedule"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Ninth Schedule protects specified laws from challenge on the ground of inconsistency with:",
+          "options": [
+            "Fundamental Rights, subject to basic structure doctrine and judicial limits",
+            "All laws passed by States",
+            "Parliamentary privilege only",
+            "International treaties"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "National Emergency under Article 352 can be proclaimed owing to:",
+          "options": [
+            "A State budget delay alone",
+            "War, external aggression, or armed rebellion",
+            "A Supreme Court vacancy",
+            "A Governor’s resignation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Before a National Emergency under Article 352 is proclaimed, the Union Cabinet communicates in writing:",
+          "options": [
+            "A state-by-state election calendar",
+            "A Supreme Court judgment",
+            "Its recommendation to the President",
+            "The Finance Commission report"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A proclamation of National Emergency normally requires approval by:",
+          "options": [
+            "Lok Sabha alone",
+            "The Supreme Court alone",
+            "Every State Assembly",
+            "Both Houses of Parliament"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "National Emergency approval must be within one month but its continuing operation is approved every:",
+          "options": [
+            "Six months",
+            "One month",
+            "One year",
+            "Two years"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Financial Emergency under Article 360 permits directions concerning financial prudence such as:",
+          "options": [
+            "Automatic dissolution of Parliament",
+            "Pay and allowance measures for officials, including judges",
+            "A state of martial law",
+            "Suspension of elections"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Major Amendments",
+      "questions": [
+        {
+          "q": "President’s Rule under Article 356 can be proclaimed when:",
+          "options": [
+            "A State crosses revenue targets",
+            "A Governor completes tenure",
+            "Government of a State cannot be carried on in accordance with the Constitution",
+            "A local election is postponed"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The State Legislative Assembly may be dissolved under President’s Rule, subject to later constitutional review and:",
+          "options": [
+            "Permanent dissolution by the Governor alone",
+            "Approval only by the State High Court",
+            "Automatic restoration after one month",
+            "Parliamentary approval of the proclamation and subsequent validity provisions"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 365 allows the Union to treat failure to comply with directions as:",
+          "options": [
+            "A situation where Article 356 may be invoked",
+            "An automatic emergency under Article 360",
+            "A repeal of State boundaries",
+            "A constitutional amendment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 355 requires the Union to protect States against:",
+          "options": [
+            "Budget deficits only",
+            "External aggression and internal disturbance and ensure constitutional governance",
+            "Natural monsoon variability",
+            "Private land disputes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 365 and Article 356 are not treated by courts as:",
+          "options": [
+            "Independent of evidence",
+            "Tools of State legislature dissolution",
+            "Automatic consequences irrespective of facts and compliance",
+            "Subjects of judicial review"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Citizenship is governed primarily by:",
+          "options": [
+            "Part IV and the Panchayat Act",
+            "The Tenth Schedule only",
+            "Article 324 exclusively",
+            "Part II and the Citizenship Act, 1955"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 5–11 of the Constitution deal in general with:",
+          "options": [
+            "Citizenship at commencement and related constitutional provisions",
+            "Freedom of religion",
+            "Local government",
+            "Judicial appointments"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Acquisition or termination of Indian citizenship after commencement is principally determined by:",
+          "options": [
+            "Governor residence certificates",
+            "The Citizenship Act, 1955 and later amendments",
+            "Panchayat resolutions",
+            "Supreme Court writ petitions alone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Constitution does not recognize dual citizenship in the normal Indian scheme; a person instead may hold:",
+          "options": [
+            "A dual Indian–foreign constitutional citizenship",
+            "A State-only citizenship",
+            "Overseas Citizenship of India status or foreign citizenship where eligible, but OCI is not full citizenship",
+            "Two Indian voter identities"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The single citizenship in India means:",
+          "options": [
+            "Each State issues a separate passport",
+            "Citizens must live in their birth State",
+            "Only Union citizens can vote nationally",
+            "Citizens owe allegiance to India rather than distinct State citizenships"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Emergency Provisions",
+      "questions": [
+        {
+          "q": "Article 300A protects citizens and non-citizens alike against:",
+          "options": [
+            "Deprivation of property except by authority of law",
+            "Preventive detention only",
+            "Religious discrimination only",
+            "Taxation by local bodies"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 20 provides protection against:",
+          "options": [
+            "All civil suits",
+            "Ex-post-facto criminal laws, double jeopardy, and self-incrimination",
+            "All property acquisition",
+            "All taxation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 23 prohibits:",
+          "options": [
+            "All voluntary employment contracts",
+            "Military recruitment",
+            "Traffic in human beings and forced labour",
+            "Religious processions"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 24 prohibits employment of children below 14 in:",
+          "options": [
+            "All schools only",
+            "Any voluntary sports activity",
+            "Government administrative offices exclusively",
+            "Hazardous employment as defined by law"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The right to freedom of religion appears in:",
+          "options": [
+            "Articles 25 to 28",
+            "Articles 14 to 18",
+            "Articles 31 to 35",
+            "Articles 300A to 300C"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 25 protects freedom of conscience and free profession, practice, and propagation of religion subject to:",
+          "options": [
+            "No restrictions whatsoever",
+            "Public order, morality, health, and other constitutional provisions",
+            "Presidential personal consent",
+            "Approval from every State legislature"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Central Vigilance Commission was created in statutory terms under the:",
+          "options": [
+            "Protection of Human Rights Act, 1993",
+            "Lokpal Act, 2013",
+            "Central Vigilance Commission Act, 2003",
+            "Comptroller Act, 1950"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Lokpal and Lokayuktas Act, 2013 establishes an anti-corruption ombudsman at:",
+          "options": [
+            "Every Panchayat only",
+            "The Supreme Court Registry",
+            "The Election Commission Secretariat",
+            "The Union level for Lokpal and State level for Lokayuktas under State law"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 311 protects certain civil servants against:",
+          "options": [
+            "Removal and dismissal without statutory and constitutional safeguards",
+            "Transfer between departments in all circumstances",
+            "Salary reduction by legislation",
+            "Taking an oath of office"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Central Bureau of Investigation derives investigative authority from:",
+          "options": [
+            "The Constitution’s Article 356",
+            "Government statutory and executive arrangements, notably the Delhi Special Police Establishment Act, 1946",
+            "The Seventh Schedule alone",
+            "The High Court contempt power alone"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Citizenship and Rights",
+      "questions": [
+        {
+          "q": "The Comptroller and Auditor General’s reports are examined by:",
+          "options": [
+            "Rajya Sabha only in private session",
+            "The Cabinet without Parliamentary scrutiny",
+            "Public Accounts Committee, including at Union level",
+            "The Election Commission"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 148 concerns:",
+          "options": [
+            "The Prime Minister’s office",
+            "The President’s electoral college",
+            "Right to information",
+            "The Comptroller and Auditor General of India"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The CAG may audit public and many Government-aided bodies under powers granted by:",
+          "options": [
+            "The Constitution and the CAG (Duties, Powers and Conditions of Service) Act, 1971",
+            "Article 356 only",
+            "The Election Commission Act only",
+            "The Representation of the People Act"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Official Languages in the Eighth Schedule include:",
+          "options": [
+            "15 languages only",
+            "22 languages currently scheduled",
+            "One national language only",
+            "All languages spoken in India"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu and Urdu are among the languages of:",
+          "options": [
+            "The State List",
+            "The Concurrent List",
+            "The Eighth Schedule",
+            "The Fundamental Duties"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The five-year term of Lok Sabha is subject to premature dissolution and possible extension only:",
+          "options": [
+            "At the will of the Prime Minister alone",
+            "For each financial year",
+            "By State Governors",
+            "Under constitutional emergency provisions and applicable law"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A State Legislative Council must have not less than 40 and not more than one-third of the strength of the State Assembly, subject to:",
+          "options": [
+            "The Constitution’s minimum number provision of 40 and legislative enactment",
+            "A President fixed number of 100",
+            "No minimum or maximum",
+            "Only the State Governor’s list"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Legislative Council cannot originate or finally reject a Money Bill; it mainly exercises delay and recommendation under:",
+          "options": [
+            "Article 61",
+            "Article 198 and the State constitutional scheme",
+            "Article 280",
+            "Article 324"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Governor’s ordinance power for a State is found in:",
+          "options": [
+            "Article 123",
+            "Article 352",
+            "Article 213",
+            "Article 365"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Governor must ordinarily act on ministerial advice, with recognized exceptions and duties, because State executive authority is entrusted under:",
+          "options": [
+            "Article 1 only",
+            "Article 324 exclusively",
+            "Article 280 exclusively",
+            "The constitutional scheme of Articles 153–163"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Public Offices",
+      "questions": [
+        {
+          "q": "Article 163 establishes a Council of Ministers with the Chief Minister to aid and advise the:",
+          "options": [
+            "Governor, subject to discretion in express constitutional circumstances",
+            "President exclusively",
+            "High Court Chief Justice",
+            "Speaker of the Assembly"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Governor appoints the Chief Minister in the normal parliamentary convention after:",
+          "options": [
+            "Direct public referendum each month",
+            "Following post-election assessment of confidence and lawful majority support",
+            "A Supreme Court ballot",
+            "A fixed civil-service order"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Advocate General of a State holds office during the pleasure of the:",
+          "options": [
+            "Chief Minister",
+            "High Court Chief Justice",
+            "Governor",
+            "President"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The State High Court Chief Justice is appointed by the:",
+          "options": [
+            "Governor alone",
+            "Chief Minister alone",
+            "Election Commission",
+            "President"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which law court has jurisdiction over a State for ordinary civil and criminal matters below the Supreme Court?",
+          "options": [
+            "The High Court and subordinate courts",
+            "Only Parliament’s tribunal",
+            "Only panchayat courts",
+            "The President’s court"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A State High Court judge holds office until age:",
+          "options": [
+            "65",
+            "62",
+            "60",
+            "67"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 214 establishes:",
+          "options": [
+            "A Supreme Court for each district",
+            "A Governor for each State territory",
+            "A High Court for each State",
+            "A separate Election Commission for each State"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The High Court is empowered under Article 227 to exercise:",
+          "options": [
+            "Executive control over State budgets",
+            "Removal of State Ministers",
+            "Conduct of Parliamentary elections",
+            "Superintendence over subordinate courts, within constitutional limits"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 226 empowers a High Court to issue writs for enforcement of:",
+          "options": [
+            "Fundamental Rights and for any other purpose within jurisdiction",
+            "Only Directive Principles",
+            "Only election petitions with no exceptions",
+            "Only Presidential salaries"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Special Leave Petition under Article 136 is:",
+          "options": [
+            "A mandatory first appeal from every district court",
+            "Discretionary and not an ordinary appeal as of right",
+            "A petition for Presidential election recounts",
+            "A request to State assemblies"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "State and Courts",
+      "questions": [
+        {
+          "q": "Article 141 makes the law declared by the Supreme Court:",
+          "options": [
+            "Binding only on Supreme Court judges",
+            "Advisory to Parliament only",
+            "Binding on all courts within India",
+            "A State executive command"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 142 enables the Supreme Court to pass orders necessary for doing:",
+          "options": [
+            "Complete political policy independently of cases",
+            "Complete local boundary changes only",
+            "Complete government appointments without advice",
+            "Complete justice in any cause or matter before it"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 145 governs:",
+          "options": [
+            "Rules of procedure of the Supreme Court",
+            "Removal of Governors",
+            "Distribution of taxes",
+            "Official language teaching"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 146 concerns:",
+          "options": [
+            "Judicial review standards",
+            "Officers and servants and Supreme Court administrative expenditure arrangements",
+            "Rajya Sabha elections",
+            "State legislative councils"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Constitutional Amendment may be initiated only as a Bill introduced in:",
+          "options": [
+            "A State Assembly alone",
+            "The Supreme Court registry",
+            "Either House of Parliament, with prescribed majorities",
+            "A joint meeting of State Governors"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 368 provides the procedure for:",
+          "options": [
+            "Emergency proclamation",
+            "Inter-State trade control",
+            "Property acquisition",
+            "Constitutional amendment"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A Constitutional Amendment generally requires:",
+          "options": [
+            "A special majority in each House, with ratification by States in federal matters",
+            "Simple majority in Lok Sabha only",
+            "Approval by a State Governor only",
+            "Unanimous approval of every citizen"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Constitutional Amendment Bill cannot be introduced as a:",
+          "options": [
+            "Ordinary Bill in Lok Sabha",
+            "Money Bill",
+            "Bill in Rajya Sabha",
+            "Bill in either House"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "After 1967, State ratification has generally been required where amendments affect:",
+          "options": [
+            "Only the Preamble in every case",
+            "Only Parliamentary salaries",
+            "Federal representation, State executive, judicial, or Seventh Schedule provisions among Article 368 matters",
+            "Only election symbols"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Ninety-third Amendment enables reservations for educationally backward classes, including at private educational institutions under Article 15, while protecting certain institutions through later interpretive limits; its year is:",
+          "options": [
+            "2000",
+            "1992",
+            "2010",
+            "2005"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Procedure",
+      "questions": [
+        {
+          "q": "The Ninety-seventh Amendment promoted cooperatives and added constitutional provisions for their democratic operation in:",
+          "options": [
+            "2011",
+            "2002",
+            "2008",
+            "2014"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Ninth Schedule laws are now protected from Fundamental Rights challenge only when examined in light of the:",
+          "options": [
+            "Speaker’s ruling alone",
+            "Basic structure doctrine and applicable judicial precedents",
+            "Finance Commission report",
+            "State Governor approval"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 368 amendments affecting federal features have to be ratified by legislatures of:",
+          "options": [
+            "Every State Assembly unanimously",
+            "All Governors individually",
+            "Not less than half the States",
+            "Both Houses of a State council only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Basic Features doctrine was identified first in Kesavananda Bharati by:",
+          "options": [
+            "A five-judge Election Commission Bench",
+            "A Lok Sabha committee",
+            "A State constitutional assembly",
+            "A thirteen-judge Supreme Court Constitution Bench"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 129 declares the Supreme Court to be a court of record, granting authority over:",
+          "options": [
+            "Its own proceedings and contempt",
+            "Only Revenue matters",
+            "Political parties alone",
+            "Election candidacy certificates"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Article 215 gives each High Court the status and contempt powers of:",
+          "options": [
+            "A tribunal subordinate to the State Assembly",
+            "A court of record",
+            "An executive commission",
+            "A revenue board"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A contempt proceeding in court typically protects the administration of justice and judicial authority under:",
+          "options": [
+            "The Representation of the People Act, 1951",
+            "The Official Secrets Act alone",
+            "The Contempt of Courts Act, 1971 and constitutional power",
+            "The Cooperative Societies Act"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 32 petitions directly before the Supreme Court can seek remedies for violation of:",
+          "options": [
+            "Directive Principles only",
+            "Ordinary civil contracts only",
+            "State legislative privileges only",
+            "Fundamental Rights"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Article 131 excludes ordinary private disputes from original jurisdiction by limiting it to:",
+          "options": [
+            "Specified disputes between the Union and States or States with each other",
+            "Every contract dispute",
+            "Every criminal appeal",
+            "Family property matters"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Supreme Court can transfer cases between State High Courts under constitutional and statutory powers including:",
+          "options": [
+            "Article 356 alone",
+            "Article 139A and Code of Criminal Procedure provisions",
+            "Article 355 alone",
+            "Article 280 alone"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Special provisions",
+      "questions": [
+        {
+          "q": "Curative petitions allow final Supreme Court judgments to be reviewed in narrowly limited circumstances to prevent:",
+          "options": [
+            "Automatic promotion of any appeal",
+            "Renewal of elections",
+            "Gross miscarriage of justice or abuse of process",
+            "Replacement of High Court judges"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The doctrine of stare decisis makes Supreme Court decisions binding precedent for:",
+          "options": [
+            "All executive agencies but no courts",
+            "Neither Parliament nor courts",
+            "Only Lok Sabha debates",
+            "Lower courts, subject to overruling by a larger Bench"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Chief Justice of India is the first among equals and heads the Supreme Court, but judicial decisions are those of:",
+          "options": [
+            "The Court collectively as constituted in a Bench",
+            "The President personally",
+            "The Law Minister alone",
+            "A majority of State Governors"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Chief Justice of India is appointed by the President under consultation conventions associated with:",
+          "options": [
+            "Article 280 only",
+            "Article 124(2) and the collegium system",
+            "Article 324 alone",
+            "Article 352 alone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The National Judicial Appointments Commission attempted to replace the collegium through an amendment that was later:",
+          "options": [
+            "Ratified unanimously in 1992",
+            "Implemented throughout subordinate courts",
+            "Declared unconstitutional by the Supreme Court",
+            "Confirmed for High Courts only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 323B permits establishment of administrative tribunals by Parliament and legislatures for specified matters, while tribunals must remain subject to:",
+          "options": [
+            "No review after establishment",
+            "Only executive cabinet approval",
+            "State Governor vetoes",
+            "Constitutional judicial review by superior courts"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Central Administrative Tribunal was established under Article 323A to hear service disputes of:",
+          "options": [
+            "Central Government employees and certain other categories",
+            "All private-sector employees",
+            "All State Assembly speakers",
+            "All Supreme Court judges"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The President can appoint ad hoc judges to the Supreme Court only under:",
+          "options": [
+            "Article 124A",
+            "Article 127",
+            "Article 143",
+            "Article 145"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Acting Chief Justice arrangements for a High Court are made by the:",
+          "options": [
+            "Prime Minister",
+            "Governor alone",
+            "President",
+            "Law Minister alone"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Salaries and allowances of Supreme Court judges are charged on the:",
+          "options": [
+            "Contingency Fund of every State",
+            "Prime Minister’s personal budget",
+            "Election Commission fund",
+            "Consolidated Fund of India, subject to Parliament’s law on judicial pensions"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

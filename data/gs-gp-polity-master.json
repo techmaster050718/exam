@@ -1,0 +1,1020 @@
+{
+  "id": "gs-gp-polity-master",
+  "sections": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "q": "Which organelle converts most usable energy from glucose through aerobic respiration?",
+          "options": [
+            "Mitochondrion",
+            "Nucleus",
+            "Golgi apparatus",
+            "Lysosome"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In an electric motor, the primary energy conversion is from:",
+          "options": [
+            "Mechanical energy to chemical energy",
+            "Light energy to nuclear energy",
+            "Sound energy to thermal energy",
+            "Electrical energy to mechanical energy"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which blood component carries oxygen most directly?",
+          "options": [
+            "Platelets",
+            "White blood cells",
+            "Red blood cells containing haemoglobin",
+            "Blood plasma proteins alone"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A convex lens used as a magnifying glass forms the kind of image viewed by the eye when the object is inside its focal length:",
+          "options": [
+            "Real, inverted, and diminished",
+            "Virtual, erect, and magnified",
+            "Virtual, inverted, and diminished",
+            "Real, erect, and same-sized"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which part of a seed supplies the embryo with stored nourishment in many dicotyledonous seeds?",
+          "options": [
+            "The cotyledons",
+            "The stigma",
+            "The style",
+            "The pollen tube"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the SI unit of electric charge?",
+          "options": [
+            "Ampere",
+            "Volt",
+            "Ohm",
+            "Coulomb"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which gas is evolved when zinc reacts with dilute hydrochloric acid?",
+          "options": [
+            "Carbon dioxide",
+            "Chlorine",
+            "Hydrogen",
+            "Oxygen"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A covalent bond is formed when atoms:",
+          "options": [
+            "Transfer protons",
+            "Share one or more electron pairs",
+            "Lose neutrons",
+            "Share nuclei"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which vitamin is synthesized by human skin under ultraviolet light?",
+          "options": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin B12",
+            "Vitamin K"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which endocrine gland secretes insulin?",
+          "options": [
+            "The thyroid",
+            "The adrenal medulla",
+            "The pituitary",
+            "The pancreas"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which process transports water upward through xylem in tall plants?",
+          "options": [
+            "Digestion in the phloem",
+            "Active transport by chloroplasts",
+            "Transpiration pull driven by evaporation and cohesion",
+            "Osmosis in pollen grains"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "When a DNA molecule replicates, each daughter molecule contains:",
+          "options": [
+            "Two entirely old strands",
+            "One old strand and one newly synthesized strand",
+            "Two entirely new strands",
+            "No complementary base pairing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which electromagnetic waves are used most commonly in optical-fibre communication?",
+          "options": [
+            "Visible and infrared light",
+            "Gamma rays",
+            "Microwaves from radar only",
+            "Radio waves below 30 Hz"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A substance with pH 2 is best described as:",
+          "options": [
+            "Neutral",
+            "Mildly alkaline",
+            "A saturated salt",
+            "Strongly acidic"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which gas turns lime water milky?",
+          "options": [
+            "Hydrogen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Helium"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The testis is associated primarily with the hormone:",
+          "options": [
+            "Adrenaline",
+            "Testosterone",
+            "Thyroxine",
+            "Insulin"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which lens is commonly used to correct myopia?",
+          "options": [
+            "A concave lens",
+            "A convex lens",
+            "A cylindrical prism only",
+            "A plane mirror"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The functional unit of the kidney is the:",
+          "options": [
+            "Neuron",
+            "Alveolus",
+            "Neutrophil",
+            "Nephron"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which phenomenon explains the bending of light at a boundary between air and glass?",
+          "options": [
+            "Reflection due to surface color",
+            "Diffraction from a perfect mirror",
+            "Refraction due to change in speed",
+            "Dispersion without speed change"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An object moving at constant velocity has:",
+          "options": [
+            "Increasing acceleration",
+            "Zero resultant force",
+            "Zero mass",
+            "Unlimited kinetic energy"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The main structural carbohydrate in plant cell walls is:",
+          "options": [
+            "Cellulose",
+            "Keratin",
+            "Chitin",
+            "Glycogen"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which technique separates pigments according to differential migration on a stationary phase?",
+          "options": [
+            "Filtration",
+            "Distillation by boiling point only",
+            "Titration",
+            "Chromatography"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which unit measures frequency?",
+          "options": [
+            "Joule",
+            "Pascal",
+            "Hertz",
+            "Tesla"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A catalyst works by:",
+          "options": [
+            "Increasing the equilibrium constant forever",
+            "Providing an alternative pathway with lower activation energy",
+            "Being consumed stoichiometrically",
+            "Changing reactants into different elements"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which planet has the shortest orbital period around the Sun?",
+          "options": [
+            "Mercury",
+            "Earth",
+            "Mars",
+            "Neptune"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Photosynthesis mainly occurs in cells containing:",
+          "options": [
+            "Mitochondria only",
+            "Ribosomes only",
+            "Cell walls alone",
+            "Chloroplasts"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which acid is found in gastric juice?",
+          "options": [
+            "Sulphuric acid",
+            "Citric acid",
+            "Hydrochloric acid",
+            "Nitric acid"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The hereditary material in most organisms is:",
+          "options": [
+            "Cellulose",
+            "DNA",
+            "ATP",
+            "Haemoglobin"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The SI unit of power is:",
+          "options": [
+            "Watt",
+            "Newton",
+            "Pascal",
+            "Volt"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "During inhalation in humans, the diaphragm mainly:",
+          "options": [
+            "Relaxes and moves upward",
+            "Remains perfectly rigid",
+            "Moves through the rib cage",
+            "Contracts and moves downward"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A balanced chemical equation must conserve:",
+          "options": [
+            "The volume of each gas",
+            "The color of reactants",
+            "The number of atoms of each element",
+            "The number of molecules exactly"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which type of mirror always produces a virtual, erect, diminished image of a real object?",
+          "options": [
+            "Concave mirror with object between focus and mirror",
+            "Convex mirror",
+            "Plane mirror",
+            "Cylindrical converging mirror"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The primary role of red blood cells is transport of:",
+          "options": [
+            "Oxygen and some carbon dioxide",
+            "Digestive enzymes",
+            "Hormones only",
+            "Antigens exclusively"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which product is formed at the cathode during electrolysis of molten sodium chloride?",
+          "options": [
+            "Chlorine",
+            "Hydrogen",
+            "Oxygen",
+            "Sodium"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "q": "The Westerlies blow predominantly from west to east in which broad latitude belts?",
+          "options": [
+            "Equatorial doldrum belt",
+            "Middle latitudes",
+            "Polar high-pressure belt only",
+            "Monsoon trough only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river is known as the lifeline of the Egyptian desert plain?",
+          "options": [
+            "The Nile",
+            "The Amazon",
+            "The Danube",
+            "The Indus"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Lines joining places of equal atmospheric pressure on a weather map are:",
+          "options": [
+            "Isohyets",
+            "Isotherms",
+            "Contours",
+            "Isobars"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Coriolis effect is caused primarily by:",
+          "options": [
+            "Earth’s distance from the Moon",
+            "The ozone layer",
+            "Earth’s rotation",
+            "Ocean salinity"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which Indian mountain range separates the northern plains from the Deccan Plateau?",
+          "options": [
+            "Aravalli Range",
+            "Vindhya Range",
+            "Sivalik Range",
+            "Eastern Ghats"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The fertile Indo-Gangetic plain owes much of its alluvium to rivers draining from:",
+          "options": [
+            "The Himalaya and associated ranges",
+            "The Deccan volcanic plateau alone",
+            "Arabian deserts alone",
+            "The Western Ghats alone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which current moderates western Europe’s climate despite its high latitude?",
+          "options": [
+            "Canary Current",
+            "Benguela Current",
+            "Oyashio Current",
+            "North Atlantic Drift"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Tropic of Cancer passes through which Indian oceanic island group?",
+          "options": [
+            "Andaman and Nicobar Islands",
+            "Lakshadweep",
+            "No Indian island group; it passes through the mainland and Gujarat section",
+            "Sundarbans delta islands"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the capital of Nagaland?",
+          "options": [
+            "Shillong",
+            "Kohima",
+            "Aizawl",
+            "Imphal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which soil is generally associated with cotton cultivation in the Deccan Trap region?",
+          "options": [
+            "Black soil",
+            "Podzol",
+            "Laterite soil of temperate hills",
+            "Peaty soil only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Laterite soils are commonly formed in:",
+          "options": [
+            "Cold desert basins",
+            "Polar tundra only",
+            "River flood plains only",
+            "Regions of high temperature and heavy rainfall with intense leaching"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Sundarbans delta is formed chiefly by which river system?",
+          "options": [
+            "Narmada–Tapti",
+            "Mahanadi–Godavari",
+            "Ganga–Brahmaputra",
+            "Indus–Satluj"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which planet is known as the Red Planet?",
+          "options": [
+            "Venus",
+            "Mars",
+            "Mercury",
+            "Jupiter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The International Date Line largely follows which meridian?",
+          "options": [
+            "180° longitude",
+            "0° longitude",
+            "90° east longitude",
+            "23.5° north latitude"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A tropical cyclone in the Indian Ocean north of the equator generally rotates:",
+          "options": [
+            "Clockwise",
+            "Neither direction in every hemisphere",
+            "From pole to pole vertically only",
+            "Counterclockwise"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Indian State has the longest coastline on the mainland?",
+          "options": [
+            "Tamil Nadu",
+            "Andhra Pradesh",
+            "Gujarat",
+            "Kerala"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Kosi River is often called the “sorrow of Bihar” mainly because of:",
+          "options": [
+            "Extreme drought every year",
+            "Frequent channel shifting and flooding",
+            "A complete lack of discharge",
+            "Its underground course"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which lake lies at the highest elevation among well-known Himalayan lakes?",
+          "options": [
+            "Tso Moriri",
+            "Dal Lake",
+            "Nainital Lake",
+            "Chilika Lagoon"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which wind system reverses seasonally and strongly affects South Asia?",
+          "options": [
+            "The trade winds only above Antarctica",
+            "The polar vortex always",
+            "The permanent katabatic winds of the Sahara",
+            "The monsoon circulation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Thar Desert lies mainly in:",
+          "options": [
+            "Central Brazil",
+            "Southern Africa",
+            "Northwestern India and adjacent Pakistan",
+            "Eastern Australia"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which physiographic division contains the Konkan and Malabar coasts?",
+          "options": [
+            "Himalayan mountain system",
+            "Western coastal plains",
+            "Central highlands",
+            "Northeast mountain group"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The northernmost point of mainland India is in which union territory?",
+          "options": [
+            "Ladakh",
+            "Jammu and Kashmir for the former State only",
+            "Himachal Pradesh",
+            "Sikkim"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which factor best explains why Mumbai is a major natural harbour?",
+          "options": [
+            "Its location on the Bay of Bengal",
+            "A landlocked salt lake",
+            "Its position within the Ganga delta",
+            "Its sheltered west-coast harbour location and trade access"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The standard meridian used by India is approximately:",
+          "options": [
+            "75° west",
+            "90° east",
+            "82°30′ east",
+            "0° longitude"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which biosphere reserve includes the deltaic Sundarbans?",
+          "options": [
+            "Nanda Devi only",
+            "Sundarbans Biosphere Reserve",
+            "Manas only",
+            "Pachmarhi only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Great Barrier Reef is located off the coast of:",
+          "options": [
+            "Australia",
+            "India",
+            "South Africa",
+            "Chile"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which ocean is bounded by Asia, Africa, Australia, and Antarctica?",
+          "options": [
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean",
+            "Indian Ocean"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A rain-shadow desert commonly forms:",
+          "options": [
+            "At the foot of the windward slope always",
+            "At every coastline",
+            "On the leeward side of a mountain range",
+            "Only over an ocean trench"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Bhabar belt lies:",
+          "options": [
+            "Along India’s southernmost coast",
+            "Below Himalayan foothills where streams disappear into coarse deposits",
+            "In the western desert sands",
+            "Above the treeline in the Andes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which State has the Bhakra Nangal dam as a major multipurpose project?",
+          "options": [
+            "Punjab, with the river project linked with neighbouring States and UTs",
+            "Karnataka only",
+            "West Bengal only",
+            "Assam only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The largest mangrove ecosystem on Earth is associated with:",
+          "options": [
+            "Amazon headwaters only",
+            "Nile estuary",
+            "Great Lakes shore",
+            "Sundarbans and adjacent delta regions"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which geographical feature is a tectonic plate boundary?",
+          "options": [
+            "Ganga floodplain",
+            "Thar desert",
+            "Mid-Atlantic Ridge",
+            "Western Ghats scarp only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Population density measures:",
+          "options": [
+            "Population growth over one decade only",
+            "Population per unit area",
+            "Number of births per thousand only",
+            "Area per person only"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Polity",
+      "questions": [
+        {
+          "q": "Which Article provides equality before the law and equal protection of the laws?",
+          "options": [
+            "Article 19",
+            "Article 21A",
+            "Article 14",
+            "Article 324"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who appoints the Chief Election Commissioner of India?",
+          "options": [
+            "The Prime Minister by written order alone",
+            "The President",
+            "The Chief Justice",
+            "The Lok Sabha Speaker"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Amendment added Fundamental Duties to the Constitution?",
+          "options": [
+            "42nd Amendment",
+            "24th Amendment",
+            "52nd Amendment",
+            "73rd Amendment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Schedule contains provisions for anti-defection?",
+          "options": [
+            "Ninth Schedule",
+            "Eleventh Schedule",
+            "Twelfth Schedule",
+            "Tenth Schedule"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Rajya Sabha has the same constitutional role as Lok Sabha in approving:",
+          "options": [
+            "A Money Bill certified by the Speaker",
+            "A Lok Sabha confidence vote alone",
+            "A constitutional amendment passed by Parliament",
+            "A dissolution proclamation alone"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 21A was inserted by which amendment?",
+          "options": [
+            "44th Amendment",
+            "86th Amendment",
+            "61st Amendment",
+            "91st Amendment"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Comptroller and Auditor General is appointed for tenure under which constitutional Article’s framework?",
+          "options": [
+            "Article 148",
+            "Article 124",
+            "Article 280",
+            "Article 352"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Constitutional body was established under Article 324 to conduct elections?",
+          "options": [
+            "Finance Commission",
+            "Union Public Service Commission",
+            "National Commission for Women",
+            "Election Commission of India"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The GST Council is constituted through the constitutional amendment that is usually numbered:",
+          "options": [
+            "73rd",
+            "74th",
+            "101st",
+            "91st"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Residuary legislative powers in India are assigned principally to:",
+          "options": [
+            "Each State legislature independently",
+            "The Union Parliament",
+            "Municipal councils",
+            "The Finance Commission"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Article 356 concerns failure of constitutional machinery in a:",
+          "options": [
+            "State",
+            "Union Territory district",
+            "Lok Sabha constituency",
+            "Panchayat year"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A National Emergency is proclaimed under:",
+          "options": [
+            "Article 356",
+            "Article 360",
+            "Article 365",
+            "Article 352"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The basic structure doctrine was articulated in:",
+          "options": [
+            "Golaknath v. State of Punjab",
+            "Menaka Gandhi v. Union of India",
+            "Kesavananda Bharati v. State of Kerala",
+            "SR Bommai v. Union of India only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 32 is described as the constitutional remedy for enforcement of:",
+          "options": [
+            "Directive Principles only",
+            "Fundamental Rights",
+            "Fundamental Duties only",
+            "Official Languages"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which writ is used to require a public authority to perform a public legal duty?",
+          "options": [
+            "Mandamus",
+            "Habeas corpus",
+            "Quo warranto",
+            "Certiorari"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Speaker of Lok Sabha resigns by writing addressed to:",
+          "options": [
+            "The President",
+            "The Prime Minister",
+            "The Chief Justice",
+            "The Deputy Speaker"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Vice-President is elected by members of:",
+          "options": [
+            "State Assemblies only",
+            "Lok Sabha alone",
+            "An electoral college of both Houses of Parliament",
+            "All State Governors"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Attorney General of India is an officer appointed by:",
+          "options": [
+            "The Supreme Court",
+            "The President",
+            "The Election Commission",
+            "The Comptroller and Auditor General"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Under which constitutional provision is the National Commission for Scheduled Castes constituted?",
+          "options": [
+            "Article 338",
+            "Article 338A",
+            "Article 340",
+            "Article 343"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The State Legislative Council may be created through:",
+          "options": [
+            "A Governor-only ordinance",
+            "A Supreme Court ruling only",
+            "A municipal council resolution",
+            "A State Assembly resolution and Parliament legislation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A joint sitting to resolve a deadlock over an ordinary Bill is presided over by:",
+          "options": [
+            "The President",
+            "The Vice-President",
+            "The Speaker of Lok Sabha",
+            "The Attorney General"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which list is allocated residuary powers to the Union in the Constitution?",
+          "options": [
+            "The State List",
+            "The Union List alone does not contain residuary powers; Article 248 assigns residuary powers to Parliament",
+            "The Concurrent List",
+            "The Municipal List"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How are Directive Principles of State Policy best classified constitutionally?",
+          "options": [
+            "Non-justiciable constitutional policy guidance",
+            "Enforceable as individual damages under Article 32",
+            "Part of the Tenth Schedule",
+            "Rules governing party defections"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The official head of the State executive is normally:",
+          "options": [
+            "The Chief Secretary",
+            "The State Advocate General",
+            "The High Court Chief Justice",
+            "The Governor"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Article empowers a State High Court to issue writs?",
+          "options": [
+            "Article 32",
+            "Article 142",
+            "Article 226",
+            "Article 368"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Finance Commission is constituted under:",
+          "options": [
+            "Article 263",
+            "Article 280",
+            "Article 324",
+            "Article 352"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Sixth Schedule provides autonomy arrangements mainly for tribal areas in:",
+          "options": [
+            "Assam, Meghalaya, Tripura and Mizoram",
+            "Kerala and Karnataka",
+            "Bihar and Jharkhand",
+            "Punjab and Haryana"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Panchayati Raj framework was constitutionalized by:",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "101st Amendment",
+            "73rd Amendment"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Municipal constitutional framework was strengthened by:",
+          "options": [
+            "72nd Amendment",
+            "52nd Amendment",
+            "74th Amendment",
+            "61st Amendment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Article 243D deals with reservation of seats in local governance for women and other groups in:",
+          "options": [
+            "Rajya Sabha",
+            "Panchayats",
+            "Lok Sabha only",
+            "National tribunals"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Citizenship Act after commencement provides statutory rules on acquisition and termination of:",
+          "options": [
+            "Indian citizenship",
+            "Panchayat membership only",
+            "Judicial office only",
+            "Presidential privilege"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Fundamental Rights are primarily found in:",
+          "options": [
+            "Part IV of the Constitution",
+            "Part IX of the Constitution alone",
+            "The Eighth Schedule",
+            "Part III of the Constitution"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Article 51A duty asks citizens to value and preserve India’s composite culture?",
+          "options": [
+            "The right to equality",
+            "The right to property",
+            "The Fundamental Duty on composite culture under the citizens’ duties",
+            "The freedom of profession"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

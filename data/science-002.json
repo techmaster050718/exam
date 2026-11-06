@@ -1,0 +1,1075 @@
+{
+  "id": "science-002",
+  "sections": [
+    {
+      "name": "Cell",
+      "questions": [
+        {
+          "q": "Which organelle is the main site of aerobic ATP production in eukaryotes?",
+          "options": [
+            "Golgi apparatus",
+            "Mitochondrion",
+            "Nucleolus",
+            "Ribosome"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The cell membrane is described by the fluid-mosaic model as:",
+          "options": [
+            "A cellulose shell",
+            "A rigid protein crystal",
+            "A lipid bilayer with mobile proteins",
+            "A DNA-protein lattice"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Ribosomes are primarily responsible for:",
+          "options": [
+            "DNA replication only",
+            "ATP production only",
+            "Intracellular digestion",
+            "Protein synthesis"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Lysosomes contain enzymes that:",
+          "options": [
+            "Digest cellular wastes and foreign material",
+            "Store starch",
+            "Synthesize messenger RNA",
+            "Contract muscle fibres"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A large central vacuole is especially prominent in:",
+          "options": [
+            "Mature red blood cells",
+            "Mature plant cells",
+            "Most mature animal neurons",
+            "Bacterial flagella"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Chromatin condenses into chromosomes chiefly during:",
+          "options": [
+            "Protein translation",
+            "Passive diffusion",
+            "Cell division",
+            "Respiration"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Modern cell theory states that:",
+          "options": [
+            "Cells arise only from inorganic matter",
+            "Only animals contain nuclei",
+            "DNA leaves cells during division",
+            "All cells arise from pre-existing cells"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A prokaryotic cell differs from a eukaryotic cell in lacking:",
+          "options": [
+            "A membrane-bound nucleus",
+            "DNA",
+            "Ribosomes",
+            "A plasma membrane"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Tissues",
+      "questions": [
+        {
+          "q": "Meristematic plant tissue is characterized by:",
+          "options": [
+            "Storage of fat",
+            "Active cell division",
+            "Loss of cytoplasm",
+            "Transport only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Xylem mainly transports:",
+          "options": [
+            "Prepared food to roots only",
+            "Air into stomata",
+            "Water and minerals upward",
+            "Hormones from seeds only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Phloem mainly transports:",
+          "options": [
+            "Water upward only",
+            "Minerals into roots only",
+            "Carbon dioxide to roots",
+            "Prepared food from leaves"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Simple squamous epithelium is suited to:",
+          "options": [
+            "Diffusion across thin surfaces",
+            "Voluntary contraction",
+            "Electrical insulation",
+            "Mineral storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A tendon connects:",
+          "options": [
+            "Bone to bone",
+            "Muscle to bone",
+            "Muscle to skin",
+            "Nerve to muscle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A ligament primarily connects:",
+          "options": [
+            "Bone to muscle",
+            "Muscle to skin",
+            "Bone to bone",
+            "Nerve to muscle"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Skeletal muscle is generally under:",
+          "options": [
+            "Complete involuntary control only",
+            "No nervous control",
+            "Only hormonal control",
+            "Voluntary control"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A chemical signal crosses a neuronal synapse via:",
+          "options": [
+            "Neurotransmitter molecules",
+            "Myelin only",
+            "Blood platelets",
+            "Meristem cells"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Reproduction",
+      "questions": [
+        {
+          "q": "Binary fission in Amoeba produces:",
+          "options": [
+            "Two seeds",
+            "Two daughter cells",
+            "A spore capsule",
+            "Two permanent buds"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Hydra commonly reproduces asexually by:",
+          "options": [
+            "Seed formation",
+            "Cross-pollination",
+            "Budding",
+            "Conjugation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A stem cutting that develops roots exemplifies:",
+          "options": [
+            "Sexual fertilization",
+            "Binary fusion",
+            "Seed dispersal",
+            "Vegetative propagation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Human sperm are produced in the:",
+          "options": [
+            "Testes",
+            "Ovaries",
+            "Uterus",
+            "Fallopian tubes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Human fertilization normally occurs in the:",
+          "options": [
+            "Vagina",
+            "Fallopian tube",
+            "Cervix",
+            "Urinary bladder"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The menstrual cycle is regulated chiefly by:",
+          "options": [
+            "Digestive enzymes",
+            "Platelet count",
+            "Ovarian and pituitary hormones",
+            "Bone marrow alone"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Combined oral contraceptive pills mainly prevent pregnancy by suppressing:",
+          "options": [
+            "Kidney filtration",
+            "Heart contraction",
+            "Sperm production in men",
+            "Ovulation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Puberty is initiated by endocrine changes involving increased:",
+          "options": [
+            "Sex hormones",
+            "Digestive hormones only",
+            "Renin only",
+            "Adrenaline only"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Diseases",
+      "questions": [
+        {
+          "q": "Tuberculosis is caused predominantly by:",
+          "options": [
+            "Vibrio cholerae",
+            "Mycobacterium tuberculosis",
+            "Plasmodium vivax",
+            "HIV"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Malaria is transmitted by an infected female:",
+          "options": [
+            "Aedes mosquito",
+            "Culex mosquito",
+            "Anopheles mosquito",
+            "Housefly"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Dengue fever is transmitted mainly by:",
+          "options": [
+            "Anopheles mosquito",
+            "Sandfly",
+            "Rat flea",
+            "Aedes mosquito"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Cholera is caused by:",
+          "options": [
+            "Vibrio cholerae",
+            "Mycobacterium tuberculosis",
+            "Plasmodium falciparum",
+            "HIV"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Typhoid fever is caused by:",
+          "options": [
+            "Plasmodium vivax",
+            "Salmonella typhi",
+            "Rabies virus",
+            "Vibrio cholerae"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Hepatitis refers principally to inflammation of the:",
+          "options": [
+            "Kidney",
+            "Pancreas",
+            "Liver",
+            "Heart"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Vitamin C deficiency causes:",
+          "options": [
+            "Rickets",
+            "Beriberi",
+            "Pellagra",
+            "Scurvy"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "AIDS is caused by:",
+          "options": [
+            "HIV",
+            "Influenza virus",
+            "Polio virus",
+            "Hepatitis A virus"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Vitamin D deficiency in growing children commonly causes:",
+          "options": [
+            "Scurvy",
+            "Rickets",
+            "Beriberi",
+            "Night blindness"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Life Processes",
+      "questions": [
+        {
+          "q": "Photosynthesis stores light energy principally in:",
+          "options": [
+            "Xylem fibres",
+            "DNA alone",
+            "Carbohydrates",
+            "Blood proteins"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Oxygen released during oxygenic photosynthesis comes mainly from:",
+          "options": [
+            "Carbon dioxide",
+            "Atmospheric nitrogen",
+            "Chlorophyll breakdown",
+            "Water"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Pepsin begins protein digestion in the:",
+          "options": [
+            "Stomach",
+            "Mouth only",
+            "Large intestine",
+            "Liver"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Bile salts assist digestion chiefly by:",
+          "options": [
+            "Digesting cellulose",
+            "Emulsifying fats",
+            "Breaking peptide bonds",
+            "Neutralizing acid to pH 14"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The functional unit of a kidney is the:",
+          "options": [
+            "Alveolus",
+            "Neuron",
+            "Nephron",
+            "Sarcomere"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which vessel carries oxygenated blood from the lungs to the left atrium?",
+          "options": [
+            "Pulmonary artery",
+            "Superior vena cava",
+            "Inferior vena cava",
+            "Pulmonary vein"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Red blood cells are specialized primarily for:",
+          "options": [
+            "Transporting oxygen and some carbon dioxide",
+            "Producing digestive enzymes",
+            "Transmitting nerve impulses",
+            "Filtering urea"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Plant transpiration occurs mainly through:",
+          "options": [
+            "Root tips only",
+            "Leaf stomata",
+            "Xylem vessels alone",
+            "Root nodules"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Food normally enters the human digestive tract through the:",
+          "options": [
+            "Stomach",
+            "Small intestine",
+            "Mouth",
+            "Large intestine"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Control & Coordination",
+      "questions": [
+        {
+          "q": "A reflex action is transmitted through a neural pathway called the:",
+          "options": [
+            "Hormonal loop",
+            "Nephron",
+            "Coronary circuit",
+            "Reflex arc"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The cerebrum is primarily associated with:",
+          "options": [
+            "Voluntary control and higher mental functions",
+            "Heartbeat alone",
+            "Blood filtration",
+            "Balance only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Insulin is secreted by beta cells in the:",
+          "options": [
+            "Adrenal medulla",
+            "Pancreas",
+            "Thyroid gland",
+            "Parathyroid glands"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Adrenaline helps prepare for acute stress mainly by:",
+          "options": [
+            "Always lowering blood pressure",
+            "Stopping breathing",
+            "Increasing heart rate and energy availability",
+            "Blocking glucose release"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Thyroxine deficiency in childhood can contribute to:",
+          "options": [
+            "Vitamin C deficiency only",
+            "Excess insulin secretion only",
+            "High cortisol only",
+            "Impaired growth and hypothyroidism"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Auxin concentration differences commonly cause a shoot to bend toward light through:",
+          "options": [
+            "Differential growth",
+            "Cell death",
+            "Osmotic rupture",
+            "Rapid fruit ripening"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Plant growth directed toward gravity is called:",
+          "options": [
+            "Phototropism",
+            "Geotropism",
+            "Thigmotropism",
+            "Hydrotropism"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The pituitary gland is often called the:",
+          "options": [
+            "Master digestive gland",
+            "Master lymphatic organ",
+            "Master endocrine gland",
+            "Master excretory organ"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Light",
+      "questions": [
+        {
+          "q": "A convex lens of focal length 20 cm has power:",
+          "options": [
+            "−5 dioptres",
+            "+0.2 dioptre",
+            "−0.2 dioptre",
+            "+5 dioptres"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A concave mirror forms a real image when reflected rays:",
+          "options": [
+            "Converge at the image point",
+            "Always diverge",
+            "Remain parallel at every object position",
+            "Never meet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The mirror formula is:",
+          "options": [
+            "f=u+v",
+            "1/f = 1/v + 1/u",
+            "1/f=u−v",
+            "f=uv"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "For normal incidence from air into glass, light speed and wavelength:",
+          "options": [
+            "Both remain invariant",
+            "Become infinite",
+            "Both change while direction does not bend",
+            "Both become zero"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Myopia is corrected using a:",
+          "options": [
+            "Convex lens",
+            "Plain prism only",
+            "Cylindrical lens in every case",
+            "Concave lens"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Separation of white light by wavelength-dependent refraction is called:",
+          "options": [
+            "Dispersion",
+            "Polarization only",
+            "Diffraction only",
+            "Reflection only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A real image formed by a convex lens is normally:",
+          "options": [
+            "Always upright",
+            "Inverted",
+            "Always virtual",
+            "Unrelated to ray geometry"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Magnetism",
+      "questions": [
+        {
+          "q": "Outside a bar magnet, magnetic field lines conventionally run:",
+          "options": [
+            "From south pole to north pole",
+            "Only parallel to the magnet",
+            "From north pole to south pole",
+            "Only along the axis outside the room"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A current-carrying straight wire produces field lines shaped as:",
+          "options": [
+            "Radial straight lines",
+            "Rectangular loops only",
+            "Random triangular paths",
+            "Concentric circles"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Fleming’s left-hand rule is used in an:",
+          "options": [
+            "Electric motor",
+            "AC generator EMF only",
+            "Battery electrolyte",
+            "Fuse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Electromagnetic induction occurs when a circuit experiences:",
+          "options": [
+            "A constant field and no motion",
+            "A changing magnetic flux",
+            "Only heat",
+            "No conducting loop"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An electric motor converts:",
+          "options": [
+            "Mechanical into electrical energy",
+            "Heat directly into nuclear energy",
+            "Electrical energy into mechanical energy",
+            "Sound into light"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An AC generator converts:",
+          "options": [
+            "Electrical into mechanical energy",
+            "Sound into chemical energy",
+            "Light into heat only",
+            "Mechanical energy into alternating electrical energy"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Motion",
+      "questions": [
+        {
+          "q": "A body changes velocity from 10 m/s to 30 m/s uniformly in 5 s. Acceleration is:",
+          "options": [
+            "4 m/s²",
+            "20 m/s²",
+            "10 m/s²",
+            "2 m/s²"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The area under a velocity-time graph gives:",
+          "options": [
+            "Acceleration",
+            "Displacement",
+            "Force",
+            "Instantaneous speed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Starting from rest with constant acceleration 2 m/s² for 8 s, distance is:",
+          "options": [
+            "16 m",
+            "32 m",
+            "64 m",
+            "128 m"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Displacement is a quantity with:",
+          "options": [
+            "Magnitude only without direction",
+            "No unit",
+            "No initial position dependence",
+            "Magnitude and direction"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "At average speed 20 m/s for 150 s, distance is:",
+          "options": [
+            "3000 m",
+            "750 m",
+            "170 m",
+            "15 m"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "For constant acceleration, the correct relation is:",
+          "options": [
+            "v=u+a/t",
+            "v=u+at",
+            "v²=u+2as",
+            "s=ut+at³"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Units & Dimensions",
+      "questions": [
+        {
+          "q": "The SI unit of force is the:",
+          "options": [
+            "joule",
+            "pascal",
+            "newton",
+            "watt"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Momentum has dimensions:",
+          "options": [
+            "[M L² T−2]",
+            "[M L−1 T−2]",
+            "[M L T−2]",
+            "[M L T−1]"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Pressure has dimensions:",
+          "options": [
+            "[M L−1 T−2]",
+            "[M L T−2]",
+            "[M L² T−2]",
+            "[M L² T−3]"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "One megawatt equals:",
+          "options": [
+            "10^3 W",
+            "10^6 W",
+            "10^9 W",
+            "10^12 W"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which plane angle unit is dimensionless?",
+          "options": [
+            "Newton",
+            "Pascal",
+            "Radian",
+            "Volt"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The SI unit of electric charge is the:",
+          "options": [
+            "ampere",
+            "volt",
+            "ohm",
+            "coulomb"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The dimensional formula of work is:",
+          "options": [
+            "[M L² T−2]",
+            "[M L T−2]",
+            "[M L² T−3]",
+            "[M L−1 T−2]"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Electricity",
+      "questions": [
+        {
+          "q": "A 12 V source drives 3 A through a resistor. Resistance is:",
+          "options": [
+            "36 Ω",
+            "4 Ω",
+            "0.25 Ω",
+            "15 Ω"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Identical resistors in parallel have total resistance:",
+          "options": [
+            "Larger than one resistor",
+            "Always equal to their sum",
+            "Smaller than one resistor",
+            "Infinite"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A 2 kW heater used for 3 h consumes:",
+          "options": [
+            "0.6 kWh",
+            "60 kWh",
+            "2.3 kWh",
+            "6 kWh"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "At constant temperature Ohm’s law is:",
+          "options": [
+            "V=IR",
+            "V=I/R",
+            "I=VR",
+            "R=VI"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A fuse is placed in series so it can:",
+          "options": [
+            "Store charge",
+            "Melt and interrupt excessive current",
+            "Convert AC to DC",
+            "Raise voltage"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An MCB is designed to:",
+          "options": [
+            "Store energy",
+            "Convert AC to DC",
+            "Interrupt excessive current automatically",
+            "Raise supply voltage"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Gravitation",
+      "questions": [
+        {
+          "q": "Newton’s gravitational force varies with separation r as:",
+          "options": [
+            "Directly with r",
+            "Inverse cube of r",
+            "Independent of r",
+            "Inverse square of r"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Weight on Moon is about one-sixth Earth weight mainly because:",
+          "options": [
+            "The Moon’s surface gravity is weaker",
+            "The Moon has no inertia",
+            "The Moon is more massive than Earth",
+            "The Moon has no gravity"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A satellite in circular orbit accelerates because:",
+          "options": [
+            "Its speed continuously increases",
+            "Its velocity direction continuously changes",
+            "No force acts on it",
+            "It is at rest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Free-fall acceleration near Earth is approximately:",
+          "options": [
+            "9.8 m/s² upward",
+            "0 m/s²",
+            "9.8 m/s² downward",
+            "980 m/s² horizontal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Earth escape speed is approximately:",
+          "options": [
+            "3 km/s",
+            "1 km/s",
+            "20 km/s exactly",
+            "11.2 km/s"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Weight differs from mass because weight is:",
+          "options": [
+            "The gravitational force on an object",
+            "The amount of matter only",
+            "A dimensionless count",
+            "The object’s volume"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Sound",
+      "questions": [
+        {
+          "q": "The distance between consecutive compressions is a sound wave’s:",
+          "options": [
+            "Amplitude",
+            "Wavelength",
+            "Frequency",
+            "Phase angle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A higher-frequency sound is perceived as:",
+          "options": [
+            "Greater loudness",
+            "Lower speed automatically",
+            "Higher pitch",
+            "Greater amplitude automatically"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Loudness depends principally on a sound wave’s:",
+          "options": [
+            "Frequency only",
+            "Chemical composition",
+            "Wavelength in vacuum",
+            "Amplitude"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "SONAR determines underwater distance by measuring reflection delay of:",
+          "options": [
+            "Ultrasound pulses",
+            "Visible light only",
+            "Radio waves in vacuum",
+            "Infrared from the ship"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An echo is distinct when the reflecting surface is sufficiently far away so that sound:",
+          "options": [
+            "Arrives before the direct sound",
+            "Arrives after a detectable delay",
+            "Carries no energy",
+            "Travels in vacuum"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Ultrasound frequencies are:",
+          "options": [
+            "Below 20 Hz",
+            "Exactly 20 Hz",
+            "Above the normal human hearing range",
+            "Within visible light"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Work, Power & Energy",
+      "questions": [
+        {
+          "q": "A constant 10 N force moves an object 5 m in its direction. Work is:",
+          "options": [
+            "2 J",
+            "15 J",
+            "100 J",
+            "50 J"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A 4 kg object moving at 3 m/s has kinetic energy:",
+          "options": [
+            "18 J",
+            "12 J",
+            "36 J",
+            "6 J"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A 5 kg object raised 2 m gains gravitational potential energy approximately:",
+          "options": [
+            "10 J",
+            "98 J",
+            "50 J",
+            "20 J"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Power is the:",
+          "options": [
+            "Total work without time",
+            "Force divided by distance",
+            "Rate of work or energy transfer",
+            "Energy divided by force only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A 60 W device operating for 10 s transfers:",
+          "options": [
+            "6 J",
+            "600 W",
+            "60 W",
+            "600 J"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A machine with 100 J input and 75 J useful output has efficiency:",
+          "options": [
+            "75%",
+            "25%",
+            "100%",
+            "175%"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

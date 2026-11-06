@@ -148,5 +148,75 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "science-001",
+    "subject": "general-science",
+    "title": "General Science — Set 1",
+    "subtitle": "Foundations in chemistry, biology and physics",
+    "file": "data/science-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "science-002",
+    "subject": "general-science",
+    "title": "Advanced General Science — Set 2",
+    "subtitle": "Concepts, calculations and applications",
+    "file": "data/science-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "geography-001",
+    "subject": "geography",
+    "title": "Indian Geography — Set 1",
+    "subtitle": "Physical, Indian and regional geography foundations",
+    "file": "data/geography-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "geography-002",
+    "subject": "geography",
+    "title": "Advanced Geography — Set 2",
+    "subtitle": "Physical geography, climate and Indian application",
+    "file": "data/geography-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "polity-001",
+    "subject": "indian-polity",
+    "title": "Indian Polity — Set 1",
+    "subtitle": "Constitutional institutions and core concepts",
+    "file": "data/polity-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "polity-002",
+    "subject": "indian-polity",
+    "title": "Advanced Indian Polity — Set 2",
+    "subtitle": "Governance, judiciary, emergencies and amendments",
+    "file": "data/polity-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "gs-gp-polity-master",
+    "subject": "indian-polity",
+    "title": "GS + Geography + Polity Master Test",
+    "subtitle": "Mixed full-length general studies simulation",
+    "file": "data/gs-gp-polity-master.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]

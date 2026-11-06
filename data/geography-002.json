@@ -1,0 +1,1030 @@
+{
+  "id": "geography-002",
+  "sections": [
+    {
+      "name": "Indian Physical Geography",
+      "questions": [
+        {
+          "q": "Which mountain range forms the northern boundary of the Indian subcontinent and lies largely along India’s northern border?",
+          "options": [
+            "Himalayas",
+            "Aravalli",
+            "Vindhya",
+            "Eastern Ghats"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Indo-Gangetic Plain is predominantly formed by deposits from rivers originating in the Himalayas and the:",
+          "options": [
+            "Western Ghats only",
+            "Peninsular uplands",
+            "Deccan lava flows only",
+            "Coastal islands"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Peninsular Plateau of India is generally composed of:",
+          "options": [
+            "Only unconsolidated coastal sand",
+            "Recent Himalayan sediments",
+            "Old crystalline and metamorphic rocks",
+            "Ocean-floor basalt"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Aravalli Range is geologically among the:",
+          "options": [
+            "Newest volcanic chains in India",
+            "Coastal delta formations",
+            "Glacial moraines",
+            "Oldest fold mountain systems in India"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which range separates the Malwa Plateau from the Bundelkhand upland?",
+          "options": [
+            "Vindhya Range",
+            "Satpura Range",
+            "Aravalli Range",
+            "Kaimur Range"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Satpura Range lies between the Narmada Valley and the:",
+          "options": [
+            "Indus Valley",
+            "Tapti Valley",
+            "Ganga Valley",
+            "Kosi Valley"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Western Ghats form a highland boundary along India’s:",
+          "options": [
+            "Eastern coastal plain",
+            "Northern Himalayan border",
+            "Western Peninsular coast",
+            "Andaman trench"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Eastern Ghats are:",
+          "options": [
+            "A continuous unbroken wall",
+            "Volcanic islands only",
+            "Younger than the Himalayas throughout",
+            "Discontinuous and heavily eroded by rivers"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Nilgiri Hills form a junction among the Western Ghats and:",
+          "options": [
+            "Eastern Ghats and other Peninsular ranges",
+            "Himalayan foothills",
+            "Vindhya Range",
+            "Aravalli Range"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Mount K2, the second-highest mountain in the world, is situated in the:",
+          "options": [
+            "Aravalli Range",
+            "Karakoram Range",
+            "Satpura Range",
+            "Western Ghats"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The highest peak in South India is generally identified as:",
+          "options": [
+            "Doddabetta",
+            "Mahendragiri",
+            "Anamudi",
+            "Kalsubai"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Brahmaputra enters India through Arunachal Pradesh after flowing through:",
+          "options": [
+            "Nepal and Bhutan",
+            "Afghanistan and Pakistan",
+            "Bangladesh only",
+            "Tibet and China"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Thar Desert is located mainly in:",
+          "options": [
+            "Rajasthan",
+            "Punjab plain of India",
+            "Bihar plains",
+            "Tamil Nadu coast"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Rann of Kutch is noted for its:",
+          "options": [
+            "Dense evergreen forest",
+            "Salt marsh and seasonal inundation",
+            "Perennial alpine lake",
+            "Active volcanic crater"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Lakshadweep Islands are chiefly:",
+          "options": [
+            "Volcanic islands",
+            "Folded mountain islands",
+            "Coral islands",
+            "Glacial islands"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Andaman and Nicobar Islands lie in the:",
+          "options": [
+            "Arabian Sea",
+            "Persian Gulf",
+            "Red Sea",
+            "Bay of Bengal"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Malabar Coast lies along:",
+          "options": [
+            "Southwestern India",
+            "Northeastern India",
+            "Northern Gujarat",
+            "Eastern Odisha"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Coromandel Coast lies mainly along:",
+          "options": [
+            "Southwestern India",
+            "Southeastern India",
+            "Western Rajasthan",
+            "Himalayan foothills"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The largest lagoon on India’s east coast is:",
+          "options": [
+            "Dal Lake",
+            "Wular Lake",
+            "Chilika Lake",
+            "Loktak Lake"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which lake is famous for floating islands and is in Manipur?",
+          "options": [
+            "Sambhar Lake",
+            "Pulicat Lake",
+            "Pangong Lake",
+            "Loktak Lake"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Rivers & Water",
+      "questions": [
+        {
+          "q": "Which Himalayan river is known as the Tsangpo in Tibet?",
+          "options": [
+            "Brahmaputra",
+            "Ganga",
+            "Indus",
+            "Beas"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Ganga’s major Himalayan tributary that joins at Prayagraj is the:",
+          "options": [
+            "Kosi",
+            "Yamuna",
+            "Son",
+            "Damodar"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The river Son joins which major Indian river system?",
+          "options": [
+            "Godavari",
+            "Krishna",
+            "Ganga",
+            "Cauvery"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which river forms the famous Dhuandhar Falls near Jabalpur?",
+          "options": [
+            "Tapti",
+            "Betwa",
+            "Mahanadi",
+            "Narmada"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Tapti rises in the:",
+          "options": [
+            "Satpura region of Madhya Pradesh",
+            "Himalayas",
+            "Western Ghats in Kerala",
+            "Aravalli Range in Rajasthan"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Mahanadi forms a large delta in:",
+          "options": [
+            "Gujarat",
+            "Odisha",
+            "Andhra Pradesh",
+            "West Bengal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Godavari is commonly known as the Dakshina Ganga because it is the largest river in peninsular India’s:",
+          "options": [
+            "West-draining river systems",
+            "Desert drainage",
+            "East-draining river systems",
+            "Interior Himalayan drainage"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which river is often called the Dakshin Ganga?",
+          "options": [
+            "Narmada",
+            "Tungabhadra",
+            "Periyar",
+            "Godavari"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Krishna River empties into the:",
+          "options": [
+            "Bay of Bengal",
+            "Arabian Sea",
+            "Andaman Sea",
+            "Indian Ocean near Gujarat directly"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Cauvery River has its source near:",
+          "options": [
+            "Amarkantak Plateau",
+            "Talakaveri in the Western Ghats",
+            "Mount Abu",
+            "Mahabaleshwar Plateau"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river forms part of the border between India and Pakistan in its early course?",
+          "options": [
+            "Ganga",
+            "Brahmaputra",
+            "Indus and some tributary reaches",
+            "Narmada"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Bhakra Nangal Project is built on the:",
+          "options": [
+            "Ganga River",
+            "Godavari River",
+            "Cauvery River",
+            "Sutlej River"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Tehri Dam is constructed on the:",
+          "options": [
+            "Bhagirathi River",
+            "Sutlej River",
+            "Narmada River",
+            "Mahanadi River"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Hirakud Dam is across the:",
+          "options": [
+            "Narmada",
+            "Mahanadi",
+            "Tapti",
+            "Ganga"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Sardar Sarovar Dam is across the:",
+          "options": [
+            "Godavari",
+            "Krishna",
+            "Narmada",
+            "Cauvery"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "India’s largest inland saltwater lake is:",
+          "options": [
+            "Dal Lake",
+            "Wular Lake",
+            "Chilika Lake",
+            "Sambhar Lake"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Wular Lake, an important natural freshwater lake, is located in:",
+          "options": [
+            "Jammu and Kashmir",
+            "Manipur",
+            "Odisha",
+            "Rajasthan"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Krishna Raja Sagara reservoir is built across the:",
+          "options": [
+            "Godavari",
+            "Cauvery",
+            "Periyar",
+            "Narmada"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A west-flowing river of the Western Ghats in Kerala is the:",
+          "options": [
+            "Godavari",
+            "Mahanadi",
+            "Periyar",
+            "Subarnarekha"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The river Luni terminates in or drains toward the:",
+          "options": [
+            "Bay of Bengal",
+            "Arabian Sea near Mumbai",
+            "Sundarbans",
+            "Rann of Kutch"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Climate & Soils",
+      "questions": [
+        {
+          "q": "The southwest monsoon first reaches which Indian state or coastal region around June?",
+          "options": [
+            "Kerala coast",
+            "Rajasthan desert",
+            "Bihar plains",
+            "Assam hills last only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The retreating southwest monsoon brings substantial post-monsoon rainfall to:",
+          "options": [
+            "Rajasthan desert",
+            "Tamil Nadu coast",
+            "Gujarat coast",
+            "Haryana plains"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Nor’westers called Kalbaisakhi affect mainly:",
+          "options": [
+            "Rajasthan and Gujarat",
+            "Kerala and Karnataka",
+            "West Bengal and adjoining eastern India",
+            "Punjab and Kashmir only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Mango showers are pre-monsoon rains associated especially with:",
+          "options": [
+            "Himalayan Kashmir",
+            "Western Rajasthan",
+            "Rann of Kutch",
+            "South Indian states such as Kerala and Karnataka"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Western disturbances chiefly affect which season in northwestern India?",
+          "options": [
+            "Winter",
+            "Southwest monsoon",
+            "Hot season only",
+            "Post-monsoon only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The highest rainfall region in India is associated with:",
+          "options": [
+            "Thar Desert",
+            "Mawsynram area in Meghalaya",
+            "Leh plateau",
+            "Rajasthan plains"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Black soil in the Deccan is also known by its moisture-retaining clay content as:",
+          "options": [
+            "Alluvial soil",
+            "Laterite soil",
+            "Regur soil",
+            "Peaty soil"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Black soils are particularly suitable for:",
+          "options": [
+            "Tea on poor drainage",
+            "Pineapple on desert sand",
+            "Lichen farming",
+            "Cotton"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Laterite soils are common in areas with intense leaching, especially in high rainfall areas, and are well suited in many parts of India for:",
+          "options": [
+            "Cashew and plantation crops after management",
+            "Wheat without irrigation in deserts",
+            "Cotton on glacial till",
+            "Rice in pure sand only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Alluvial soils are most extensive in the:",
+          "options": [
+            "Aravalli core",
+            "Indus-Ganga-Brahmaputra plains",
+            "Thar Desert dunes",
+            "Western coastal cliffs only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Red soils derive much of their color from:",
+          "options": [
+            "Excess sodium chloride",
+            "Volcanic glass only",
+            "Iron compounds",
+            "Organic peat"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Desert soils in Rajasthan are generally:",
+          "options": [
+            "Heavy black clay",
+            "Lateritic and deep red",
+            "Alluvial peaty soil",
+            "Sandy and low in organic matter"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Forest soils in the Himalayan region vary strongly with altitude and are often affected by:",
+          "options": [
+            "Slope erosion and parent rock differences",
+            "Uniform year-round submergence",
+            "Complete absence of organic matter",
+            "Ocean salinity"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Soil conservation in windy arid areas commonly uses shelter belts because they:",
+          "options": [
+            "Increase evaporation only",
+            "Reduce wind speed and erosion",
+            "Remove topsoil",
+            "Prevent crop growth"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Contour bunding is designed chiefly to:",
+          "options": [
+            "Increase desert salinity",
+            "Clear forests",
+            "Control runoff and soil erosion on slopes",
+            "Straighten rivers"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Köppen climate type for most tropical wet areas is identified by warm temperatures and:",
+          "options": [
+            "Permanent winter snow in E climates",
+            "Dry summers in Mediterranean C climates",
+            "No rain in BWh climates",
+            "Heavy year-round rainfall in Af climates"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A hot desert climate in Köppen classification is generally:",
+          "options": [
+            "BWh",
+            "Af",
+            "Cfa",
+            "ET"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An active southwest monsoon is marked by moisture-laden winds from the:",
+          "options": [
+            "Siberian plateau in July",
+            "Arabian Sea and Bay of Bengal branches",
+            "Mediterranean Sea in July only",
+            "Pacific Ocean through Kashmir"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Rainfall in India is measured with a:",
+          "options": [
+            "Barometer",
+            "Anemometer",
+            "Rain gauge",
+            "Seismograph"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Indian Meteorological Department is the agency responsible for weather forecasting in:",
+          "options": [
+            "Nepal only",
+            "Bangladesh only",
+            "All SAARC countries as one department",
+            "India"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Agriculture & Crops",
+      "questions": [
+        {
+          "q": "Rice is predominantly a crop of warm, humid conditions and is commonly grown in India using:",
+          "options": [
+            "Transplanting and standing-water management",
+            "Dry desert dunes only",
+            "High-altitude glaciers only",
+            "Pure saline flats without drainage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Wheat in India is chiefly a:",
+          "options": [
+            "Kharif crop",
+            "Rabi crop",
+            "Zaid plantation crop only",
+            "Aquatic crop"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Kharif crops are generally sown with the onset of the:",
+          "options": [
+            "Winter snowfall",
+            "Post-monsoon retreat",
+            "Southwest monsoon",
+            "Dry summer heat only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The main Rabi season crops are usually harvested in:",
+          "options": [
+            "Early monsoon",
+            "Late monsoon",
+            "Early winter only",
+            "Spring"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Sugarcane is a tropical and subtropical crop needing a long growing season with:",
+          "options": [
+            "Warm temperatures and adequate water",
+            "Permanent frost",
+            "Tidal flooding",
+            "Arctic daylight only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tea cultivation thrives especially on well-drained slopes in humid climates such as those found in:",
+          "options": [
+            "Thar Desert",
+            "Assam and Darjeeling",
+            "Rann of Kutch",
+            "Western Rajasthan plains"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Coffee cultivation in India is strongly associated with the southern hills, especially parts of:",
+          "options": [
+            "Punjab, Haryana and Rajasthan",
+            "Bihar, Odisha and Jharkhand",
+            "Karnataka, Kerala and Tamil Nadu",
+            "Gujarat, Goa and Delhi"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Golden Revolution in India is associated especially with:",
+          "options": [
+            "Nuclear energy",
+            "Oilseeds alone",
+            "Textile exports only",
+            "Horticulture and allied sectors"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Green Revolution led to major gains in food grain production through high-yielding varieties, irrigation, fertilizers and:",
+          "options": [
+            "Improved management practices",
+            "Complete mechanization of all farms",
+            "Elimination of soil testing",
+            "Replacement of all crops by rice"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Pulses are important sources of dietary protein and also improve soil fertility through:",
+          "options": [
+            "Salt accumulation",
+            "Nitrogen fixation by associated bacteria",
+            "Carbon dioxide absorption only at night",
+            "Permanent waterlogging"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "India is the leading producer of which beverage crop in many global comparisons?",
+          "options": [
+            "Olive oil",
+            "Maple syrup",
+            "Tea is one of the major producers",
+            "Cocoa globally in all classifications"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The major jute-growing region in India is concentrated in the fertile deltaic plains of:",
+          "options": [
+            "Rajasthan",
+            "Maharashtra",
+            "Kerala",
+            "West Bengal"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Cotton is usually harvested from the boll after the plant produces fiber on the:",
+          "options": [
+            "Seeds",
+            "Roots",
+            "Leaves",
+            "Bark"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Groundnut is an oilseed crop whose seed develops in the soil because of:",
+          "options": [
+            "Aerial roots in water",
+            "Peanut peg growth below the ground",
+            "Wind pollination underground",
+            "Tuber formation of stems"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The dryland farming technique of mulching helps conserve:",
+          "options": [
+            "Ocean salinity",
+            "Atmospheric oxygen",
+            "Soil moisture",
+            "River discharge"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Mixed cropping means growing more than one crop:",
+          "options": [
+            "Only after crop failure",
+            "In separate countries",
+            "In successive years without rotation",
+            "Together in a single field during a season"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Crop rotation helps reduce pest buildup and maintain fertility because different crops have:",
+          "options": [
+            "Different nutrient demands and root effects",
+            "Identical rooting depth always",
+            "No effect on soil",
+            "The same pest cycle always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The minimum support price system in India aims to provide farmers a government-backed price floor for selected:",
+          "options": [
+            "Industrial patents",
+            "Agricultural commodities",
+            "Imported cars",
+            "Financial bonds only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The term food security includes availability, access, utilization and:",
+          "options": [
+            "Maximum export only",
+            "Complete crop monoculture",
+            "Stability over time",
+            "Urban population alone"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Precision farming uses satellite or sensor data to manage inputs according to:",
+          "options": [
+            "National rainfall averages only",
+            "Political boundaries",
+            "Ocean tides",
+            "Within-field variation"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Resources, Transport & World Geography",
+      "questions": [
+        {
+          "q": "India is rich in reserves of iron ore, with major deposits found notably in Odisha, Jharkhand and:",
+          "options": [
+            "Chhattisgarh and Karnataka",
+            "Kerala coast alone",
+            "Delhi region",
+            "Lakshadweep"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Bauxite is a primary raw material for producing:",
+          "options": [
+            "Steel from iron ore only",
+            "Aluminium",
+            "Copper wire exclusively",
+            "Coal gas"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Mica has major industrial uses because of its:",
+          "options": [
+            "High sugar content",
+            "Magnetic separation from water",
+            "Electrical insulation and heat resistance",
+            "Ability to dissolve in acid only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Neyveli lignite deposits are located in:",
+          "options": [
+            "Assam",
+            "Rajasthan",
+            "Kerala",
+            "Tamil Nadu"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The largest coalfield belt in eastern India is associated especially with:",
+          "options": [
+            "Jharkhand and West Bengal regions",
+            "Rajasthan desert",
+            "Gujarat coast",
+            "Kerala backwaters"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "India has major offshore oil and gas production associated with the Mumbai High region in the:",
+          "options": [
+            "Bay of Bengal off Chennai only",
+            "Arabian Sea",
+            "Andaman trench",
+            "Gulf of Mannar only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Konkan Railway connects the west coast through rugged terrain mainly in:",
+          "options": [
+            "Punjab and Haryana",
+            "Assam and Arunachal Pradesh",
+            "Western Maharashtra and neighboring states",
+            "Odisha and Chhattisgarh only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Golden Quadrilateral is a major highway network linking Delhi, Mumbai, Chennai and:",
+          "options": [
+            "Hyderabad",
+            "Bengaluru only",
+            "Chandigarh only",
+            "Kolkata"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Jawaharlal Nehru Port is a major container port located near:",
+          "options": [
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Kochi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Kandla Port is on India’s:",
+          "options": [
+            "Tamil Nadu coast",
+            "Gujarat coast",
+            "West Bengal coast",
+            "Odisha coast"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "India’s longest national highway corridor is often marketed as NH 44, running broadly from Kashmir to:",
+          "options": [
+            "Mumbai",
+            "Kolkata",
+            "Kanyakumari",
+            "Dibrugarh"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which city is the headquarters of South Western Railway zone?",
+          "options": [
+            "Chennai",
+            "Mumbai",
+            "Delhi",
+            "Hubballi"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Panama Canal links the Atlantic Ocean with the:",
+          "options": [
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Southern Ocean"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Strait of Malacca separates:",
+          "options": [
+            "Africa and Madagascar",
+            "Malaysia/Sumatra and provides a major route into Southeast Asia",
+            "India and Sri Lanka only",
+            "Japan and Korea"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Suez Canal is located in:",
+          "options": [
+            "Saudi Arabia",
+            "South Africa",
+            "Egypt",
+            "Iran"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Amazon River is primarily located in:",
+          "options": [
+            "Africa",
+            "Europe",
+            "South Asia",
+            "South America"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The Nile River empties into the:",
+          "options": [
+            "Mediterranean Sea",
+            "Red Sea",
+            "Indian Ocean",
+            "Atlantic Ocean near Gibraltar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Great Lakes are shared mainly by the United States and:",
+          "options": [
+            "Mexico",
+            "Canada",
+            "Brazil",
+            "Cuba"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "On a topographic map, contour spacing that is close together indicates:",
+          "options": [
+            "A flat plain",
+            "Deep ocean water only",
+            "A steep slope",
+            "Uniform vegetation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A scale bar on a map allows the reader to measure:",
+          "options": [
+            "Elevation of clouds only",
+            "Time zones",
+            "Population density directly",
+            "Ground distance represented by the map"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
