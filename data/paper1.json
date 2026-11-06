@@ -1,0 +1,635 @@
+{
+  "id": "paper1",
+  "sections": [
+    {
+      "name": "DBMS & SQL",
+      "questions": [
+        {
+          "q": "A relation is in 1NF when:",
+          "options": [
+            "It has no foreign key",
+            "All attributes contain atomic values",
+            "It has no transitive dependency",
+            "Every determinant is a candidate key"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Consider R(A,B,C) with functional dependencies A -> B and B -> C. Which dependency is implied by transitivity?",
+          "options": [
+            "C -> A",
+            "A -> C",
+            "B -> A",
+            "C -> B"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which SQL operation is primarily used to combine rows from two or more tables based on a related column?",
+          "options": [
+            "UNION",
+            "JOIN",
+            "GROUP",
+            "MERGE"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which JOIN returns every record from table A and matching records from table B?",
+          "options": [
+            "RIGHT JOIN",
+            "INNER JOIN",
+            "LEFT OUTER JOIN",
+            "CROSS JOIN"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which SQL clause filters groups after aggregation?",
+          "options": [
+            "WHERE",
+            "HAVING",
+            "ORDER BY",
+            "DISTINCT"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which property ensures that a transaction is treated as an indivisible unit?",
+          "options": [
+            "Consistency",
+            "Isolation",
+            "Atomicity",
+            "Durability"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Two transactions reading the same data simultaneously without proper isolation can produce:",
+          "options": [
+            "Syntax error",
+            "Concurrency anomaly",
+            "Compilation error",
+            "Dead code"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which command changes the definition of an existing table?",
+          "options": [
+            "UPDATE",
+            "ALTER",
+            "MODIFY ROW",
+            "CHANGE"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which index structure is commonly used for efficient range queries in relational databases?",
+          "options": [
+            "B-tree/B+ tree",
+            "Stack",
+            "Queue",
+            "Linked list"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In SQL, COUNT(column_name) generally does NOT count:",
+          "options": [
+            "Duplicate values",
+            "Zero",
+            "NULL values",
+            "Positive values"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A candidate key that is not selected as the primary key is called:",
+          "options": [
+            "Foreign key",
+            "Alternate key",
+            "Partial key",
+            "Secondary relation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which normal form specifically deals with multivalued dependencies?",
+          "options": [
+            "2NF",
+            "3NF",
+            "BCNF",
+            "4NF"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "questions": [
+        {
+          "q": "Which OSI layer is responsible for logical addressing?",
+          "options": [
+            "Data Link",
+            "Network",
+            "Transport",
+            "Session"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "TCP provides:",
+          "options": [
+            "Unreliable datagram delivery",
+            "Connection-oriented reliable delivery",
+            "Broadcast-only communication",
+            "Physical addressing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol is responsible for resolving a domain name into an IP address?",
+          "options": [
+            "ARP",
+            "DNS",
+            "DHCP",
+            "ICMP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol is primarily used by ping?",
+          "options": [
+            "TCP",
+            "UDP",
+            "ICMP",
+            "ARP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The subnet mask 255.255.255.0 corresponds to:",
+          "options": [
+            "/8",
+            "/16",
+            "/24",
+            "/32"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How many usable host addresses are available in a /26 IPv4 subnet?",
+          "options": [
+            "62",
+            "64",
+            "126",
+            "30"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which protocol automatically provides network configuration such as IP address and gateway?",
+          "options": [
+            "DHCP",
+            "DNS",
+            "FTP",
+            "SNMP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A switch primarily operates at:",
+          "options": [
+            "Physical Layer",
+            "Data Link Layer",
+            "Network Layer",
+            "Transport Layer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol is connectionless and commonly used for low-overhead communication?",
+          "options": [
+            "TCP",
+            "UDP",
+            "FTP",
+            "SSH"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the default port of HTTPS?",
+          "options": [
+            "21",
+            "25",
+            "80",
+            "443"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which mechanism translates private IP addresses into public IP addresses?",
+          "options": [
+            "NAT",
+            "DNS",
+            "ARP",
+            "ICMP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "IPv6 addresses are:",
+          "options": [
+            "32-bit",
+            "64-bit",
+            "96-bit",
+            "128-bit"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Operating System",
+      "questions": [
+        {
+          "q": "Which scheduling algorithm uses a fixed time quantum?",
+          "options": [
+            "FCFS",
+            "SJF",
+            "Round Robin",
+            "Priority"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which condition is necessary for deadlock?",
+          "options": [
+            "Mutual exclusion",
+            "Compilation",
+            "Paging",
+            "Context switching"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Excessive paging activity is called:",
+          "options": [
+            "Swapping",
+            "Thrashing",
+            "Fragmentation",
+            "Starvation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A page fault occurs when:",
+          "options": [
+            "CPU overheats",
+            "Requested page is not currently in physical memory",
+            "Process terminates",
+            "Disk becomes full"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which page replacement algorithm replaces the page that has not been used for the longest time?",
+          "options": [
+            "FIFO",
+            "LRU",
+            "FCFS",
+            "Round Robin"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A process is in the ready state when it:",
+          "options": [
+            "Is waiting for I/O",
+            "Is waiting for CPU allocation",
+            "Has terminated",
+            "Is executing an interrupt handler"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A context switch involves:",
+          "options": [
+            "Changing database schema",
+            "Saving/restoring process state",
+            "Changing IP address",
+            "Formatting memory"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which synchronization primitive is commonly used to control access to a critical section?",
+          "options": [
+            "Semaphore",
+            "Compiler",
+            "Loader",
+            "Linker"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which memory-management technique divides logical memory into fixed-size pages?",
+          "options": [
+            "Segmentation",
+            "Paging",
+            "Spooling",
+            "Buffering"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Starvation means:",
+          "options": [
+            "A process waits indefinitely for resources",
+            "CPU permanently stops",
+            "Memory is erased",
+            "A process completes early"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "questions": [
+        {
+          "q": "Which data structure is used by BFS?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Heap",
+            "Hash table"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which data structure is naturally associated with DFS?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Circular buffer",
+            "Priority queue"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Average-case complexity of searching in a well-designed hash table is:",
+          "options": [
+            "O(n^2)",
+            "O(log n)",
+            "O(1)",
+            "O(n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which traversal gives sorted values for a Binary Search Tree?",
+          "options": [
+            "Preorder",
+            "Postorder",
+            "Inorder",
+            "Level order"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Worst-case complexity of Quick Sort is:",
+          "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n log n)",
+            "O(n^2)"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which algorithm is based on divide and conquer?",
+          "options": [
+            "Merge Sort",
+            "BFS",
+            "Linear Search",
+            "Hashing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data structure is best suited for implementing a priority queue?",
+          "options": [
+            "Heap",
+            "Stack",
+            "Linked list only",
+            "Graph"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Binary search requires the data to be:",
+          "options": [
+            "Hashed",
+            "Sorted",
+            "Randomized",
+            "Encrypted"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which operation in a stack removes the top element?",
+          "options": [
+            "Push",
+            "Pop",
+            "Peek",
+            "Insert"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Information Security",
+      "questions": [
+        {
+          "q": "A fraudulent email designed to steal credentials is an example of:",
+          "options": [
+            "Phishing",
+            "Hashing",
+            "Spoof routing",
+            "Fragmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which algorithm is symmetric encryption?",
+          "options": [
+            "RSA",
+            "AES",
+            "ECC",
+            "Diffie-Hellman"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "RSA is based on:",
+          "options": [
+            "Symmetric cryptography",
+            "Asymmetric cryptography",
+            "Hashing only",
+            "Compression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A digital signature primarily provides:",
+          "options": [
+            "Confidentiality only",
+            "Authentication and integrity/non-repudiation properties",
+            "Compression",
+            "Faster routing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A DDoS attack primarily targets:",
+          "options": [
+            "Availability",
+            "Integrity",
+            "Authentication",
+            "Compilation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Malware that encrypts files and demands payment is:",
+          "options": [
+            "Spyware",
+            "Ransomware",
+            "Adware",
+            "Rootkit"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "SQL injection targets:",
+          "options": [
+            "Database queries",
+            "CPU cache",
+            "Network cables",
+            "BIOS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which security principle means users should receive only the permissions they need?",
+          "options": [
+            "Least privilege",
+            "Open access",
+            "Full trust",
+            "Maximum privilege"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Software Engineering & Architecture",
+      "questions": [
+        {
+          "q": "Which SDLC model explicitly emphasizes risk analysis?",
+          "options": [
+            "Waterfall",
+            "Spiral",
+            "V-Model",
+            "Big Bang"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Testing individual modules is called:",
+          "options": [
+            "System testing",
+            "Unit testing",
+            "Acceptance testing",
+            "Regression testing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Testing without examining internal source code is:",
+          "options": [
+            "White-box testing",
+            "Black-box testing",
+            "Mutation testing",
+            "Static analysis"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which software quality attribute measures ease of modification?",
+          "options": [
+            "Maintainability",
+            "Availability",
+            "Portability",
+            "Usability"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cohesion should generally be:",
+          "options": [
+            "Low",
+            "High",
+            "Zero",
+            "Random"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Coupling between software modules should generally be:",
+          "options": [
+            "High",
+            "Low",
+            "Maximum",
+            "Undefined"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which UML diagram primarily represents interactions between objects over time?",
+          "options": [
+            "Class diagram",
+            "Sequence diagram",
+            "Deployment diagram",
+            "Component diagram"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "ISO/IEC 12207 is associated with:",
+          "options": [
+            "Software lifecycle processes",
+            "Database encryption",
+            "Network routing",
+            "CPU architecture"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Agile development emphasizes:",
+          "options": [
+            "One-time delivery",
+            "Iterative development and feedback",
+            "No customer involvement",
+            "No testing"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

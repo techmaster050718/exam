@@ -1,0 +1,445 @@
+{
+  "id": "bonus",
+  "sections": [
+    {
+      "name": "Compiler Design",
+      "questions": [
+        {
+          "q": "The phase of a compiler that converts the source program into a stream of tokens is:",
+          "options": [
+            "Lexical analysis",
+            "Syntax analysis",
+            "Code generation",
+            "Optimization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The component that checks whether a token stream follows the grammar of the language is the:",
+          "options": [
+            "Lexer",
+            "Parser",
+            "Loader",
+            "Linker"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is an intermediate code representation?",
+          "options": [
+            "Machine code",
+            "Assembly only",
+            "Three-address code",
+            "Source code"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An LL(1) parser is a:",
+          "options": [
+            "Bottom-up parser",
+            "Top-down parser",
+            "Lexical analyzer",
+            "Code optimizer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The symbol table in a compiler stores:",
+          "options": [
+            "Information about identifiers such as name, type and scope",
+            "Only machine code",
+            "Network addresses",
+            "User passwords"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A grammar is ambiguous if:",
+          "options": [
+            "It has no start symbol",
+            "It has no terminals",
+            "Some string has more than one parse tree",
+            "It has only one production"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Theory of Computation",
+      "questions": [
+        {
+          "q": "A DFA has:",
+          "options": [
+            "Multiple transitions per symbol from a state",
+            "Exactly one transition per symbol from each state",
+            "No final state",
+            "Epsilon transitions only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The regular expression (a|b)* generates:",
+          "options": [
+            "All strings over {a, b}, including the empty string",
+            "Only strings ending in a",
+            "Only the empty string",
+            "Only strings of length 2"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The language { a^n b^n : n >= 1 } is:",
+          "options": [
+            "Regular",
+            "Not context-free",
+            "Context-free but not regular",
+            "Finite"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which machine uses a stack as its memory?",
+          "options": [
+            "Finite automaton",
+            "Mealy machine",
+            "Turing machine tape only",
+            "Pushdown automaton"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The halting problem is:",
+          "options": [
+            "Decidable",
+            "Undecidable",
+            "Solvable in polynomial time",
+            "Regular"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Discrete Mathematics",
+      "questions": [
+        {
+          "q": "The number of edges in a complete graph K(n) is:",
+          "options": [
+            "n(n-1)/2",
+            "n^2",
+            "n - 1",
+            "2n"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "NOT(P AND Q) is logically equivalent to:",
+          "options": [
+            "NOT P AND NOT Q",
+            "P OR Q",
+            "(NOT P) OR (NOT Q)",
+            "P AND Q"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In how many ways can 4 distinct objects be arranged in a row?",
+          "options": [
+            "12",
+            "24",
+            "16",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The binary representation of decimal 10 is:",
+          "options": [
+            "1001",
+            "1100",
+            "0110",
+            "1010"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A relation that is reflexive, symmetric and transitive is called:",
+          "options": [
+            "Equivalence relation",
+            "Partial order",
+            "Function",
+            "Total order"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "questions": [
+        {
+          "q": "In Python, what is the output of print(2 ** 3)?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "5"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In Python, what is the output of print(10 // 3)?",
+          "options": [
+            "3",
+            "3.33",
+            "4",
+            "1"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In C, which operator returns the remainder of integer division?",
+          "options": [
+            "/",
+            "*",
+            "%",
+            "&"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In Java, which keyword prevents a class from being inherited?",
+          "options": [
+            "static",
+            "abstract",
+            "super",
+            "final"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In C, array indexing starts at:",
+          "options": [
+            "0",
+            "1",
+            "-1",
+            "Depends on the compiler"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In Python, what is the output of print(\"ab\" * 2)?",
+          "options": [
+            "ab2",
+            "abab",
+            "aabb",
+            "Error"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud, Linux & DevOps",
+      "questions": [
+        {
+          "q": "Which AWS service is primarily used for object storage?",
+          "options": [
+            "EC2",
+            "RDS",
+            "S3",
+            "Lambda"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which Linux command lists the files in a directory?",
+          "options": [
+            "ls",
+            "cd",
+            "mv",
+            "rm"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Linux command changes file permissions?",
+          "options": [
+            "chown",
+            "chmod",
+            "chgrp",
+            "ps"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which statement about Docker is correct?",
+          "options": [
+            "An image is a running process",
+            "A container is a static file",
+            "Containers need their own full OS kernel",
+            "A container is a running instance of an image"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Continuous Integration (CI) refers to:",
+          "options": [
+            "Frequently merging code changes with automated build and tests",
+            "Deploying only once a year",
+            "Manual testing only",
+            "Writing documentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Git command creates a local copy of a remote repository?",
+          "options": [
+            "git commit",
+            "git push",
+            "git clone",
+            "git merge"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Artificial Intelligence & Machine Learning",
+      "questions": [
+        {
+          "q": "Which of the following is an unsupervised learning algorithm?",
+          "options": [
+            "Logistic regression",
+            "K-means clustering",
+            "Decision tree (classification)",
+            "Linear regression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which activation function is most commonly used in hidden layers of modern neural networks?",
+          "options": [
+            "ReLU",
+            "Step only",
+            "Identity only",
+            "Modulus"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A confusion matrix is used to evaluate:",
+          "options": [
+            "Sorting algorithms",
+            "Compilers",
+            "Network routers",
+            "Classification models"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In NLP, tokenization refers to:",
+          "options": [
+            "Encrypting text",
+            "Compressing text",
+            "Splitting text into smaller units such as words or sub-words",
+            "Translating text"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Networks & Operating Systems (Misc.)",
+      "questions": [
+        {
+          "q": "The default port number of SSH is:",
+          "options": [
+            "21",
+            "22",
+            "23",
+            "25"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "HTTP operates at which layer of the OSI model?",
+          "options": [
+            "Application",
+            "Transport",
+            "Network",
+            "Data Link"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In priority scheduling, starvation of low-priority processes is commonly prevented by:",
+          "options": [
+            "Thrashing",
+            "Paging",
+            "Aging",
+            "Spooling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which network topology connects all devices to a central hub or switch?",
+          "options": [
+            "Bus",
+            "Ring",
+            "Mesh",
+            "Star"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Data Structures (Extra)",
+      "questions": [
+        {
+          "q": "Evaluation of a postfix expression is done using a:",
+          "options": [
+            "Stack",
+            "Queue",
+            "Heap",
+            "Graph"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Time complexity of inserting a node at the head of a singly linked list is:",
+          "options": [
+            "O(n)",
+            "O(1)",
+            "O(log n)",
+            "O(n^2)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Maximum number of nodes at level L of a binary tree (root at level 0) is:",
+          "options": [
+            "L",
+            "2L",
+            "2^L",
+            "L^2"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An AVL tree is a:",
+          "options": [
+            "Self-balancing binary search tree",
+            "Min heap",
+            "Graph",
+            "Hash table"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

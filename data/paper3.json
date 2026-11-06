@@ -1,0 +1,640 @@
+{
+  "id": "paper3",
+  "sections": [
+    {
+      "name": "Computer Architecture",
+      "questions": [
+        {
+          "q": "Which CPU component performs arithmetic and logical operations?",
+          "options": [
+            "CU",
+            "ALU",
+            "Cache",
+            "Register file only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The fastest storage location accessible to the CPU is generally:",
+          "options": [
+            "HDD",
+            "RAM",
+            "Registers",
+            "SSD"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cache memory is primarily used to:",
+          "options": [
+            "Increase storage capacity",
+            "Reduce average memory access time",
+            "Replace CPU",
+            "Store permanent backups"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cache mapping technique allows a memory block to be placed in any cache line?",
+          "options": [
+            "Direct mapping",
+            "Fully associative mapping",
+            "Fixed mapping",
+            "Sequential mapping"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "RISC architectures generally emphasize:",
+          "options": [
+            "Large number of complex instructions",
+            "Simple instructions and efficient execution",
+            "No registers",
+            "Only interpreted execution"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which register usually contains the address of the next instruction?",
+          "options": [
+            "IR",
+            "PC",
+            "MAR",
+            "MDR"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which register holds the instruction currently being executed/decoded?",
+          "options": [
+            "IR",
+            "PC",
+            "SP",
+            "MAR"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The purpose of pipelining is primarily to:",
+          "options": [
+            "Increase instruction throughput",
+            "Reduce RAM capacity",
+            "Encrypt instructions",
+            "Eliminate registers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A control hazard in pipelining is commonly caused by:",
+          "options": [
+            "Branch instructions",
+            "Addition",
+            "Memory size",
+            "Register width only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which logic gate produces 1 only when its inputs are different?",
+          "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "NAND"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which gate is universal?",
+          "options": [
+            "XOR only",
+            "NAND",
+            "XNOR only",
+            "Buffer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The hexadecimal representation of decimal 15 is:",
+          "options": [
+            "A",
+            "E",
+            "F",
+            "10"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Advanced DBMS & Data Warehousing",
+      "questions": [
+        {
+          "q": "In a transaction schedule, a conflict occurs when two operations:",
+          "options": [
+            "Belong to different transactions and access the same data item with at least one write",
+            "Are both SELECT operations",
+            "Access different databases",
+            "Occur at different times"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Two-phase locking consists of:",
+          "options": [
+            "Read and write phases",
+            "Growing and shrinking phases",
+            "Commit and rollback phases",
+            "Lock and unlock only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "During the growing phase of 2PL, a transaction:",
+          "options": [
+            "Acquires locks but does not release them",
+            "Releases locks only",
+            "Commits immediately",
+            "Deletes locks"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which anomaly is prevented by appropriate locking?",
+          "options": [
+            "Lost update",
+            "Compilation error",
+            "Syntax error",
+            "Buffer overflow"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ETL stands for:",
+          "options": [
+            "Extract, Transform, Load",
+            "Execute, Transfer, Link",
+            "Extract, Test, Launch",
+            "Encode, Transform, Login"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In ETL, data cleansing and conversion primarily occur during:",
+          "options": [
+            "Extract",
+            "Transform",
+            "Load",
+            "Backup"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following best describes a data warehouse?",
+          "options": [
+            "Volatile, transaction-oriented store for daily operations",
+            "Subject-oriented, integrated, time-variant, non-volatile collection of data",
+            "A store of only real-time sensor streams",
+            "A cache for web pages"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "OLAP stands for:",
+          "options": [
+            "Offline Application Programming",
+            "Online Logical Access Protocol",
+            "Online Analytical Processing",
+            "Operational Link Analysis Process"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A star schema consists of:",
+          "options": [
+            "Only dimension tables",
+            "A single flat file",
+            "Multiple fact tables with no dimensions",
+            "A central fact table surrounded by dimension tables"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which OLAP operation moves from detailed data to summarized data along a concept hierarchy?",
+          "options": [
+            "Drill-down",
+            "Roll-up",
+            "Slice",
+            "Dice"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Finding items that are frequently bought together is an example of:",
+          "options": [
+            "Clustering",
+            "Regression",
+            "Association rule mining",
+            "Normalization"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A data mart is:",
+          "options": [
+            "A network device",
+            "A subset of a data warehouse focused on a specific business area",
+            "A type of CPU cache",
+            "A backup tape"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Algorithms & Complexity",
+      "questions": [
+        {
+          "q": "The recurrence T(n) = 2T(n/2) + n solves to:",
+          "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The recurrence T(n) = T(n-1) + 1 with T(1) = 1 solves to:",
+          "options": [
+            "O(log n)",
+            "O(n^2)",
+            "O(n)",
+            "O(1)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The time complexity of the naive recursive Fibonacci algorithm is:",
+          "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "Exponential, O(2^n)"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Worst-case time complexity of binary search is:",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Auxiliary space complexity of array-based Merge Sort is:",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n^2)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which technique stores the results of overlapping subproblems to avoid recomputation?",
+          "options": [
+            "Greedy method",
+            "Backtracking",
+            "Brute force",
+            "Dynamic programming"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which of the following is a greedy algorithm?",
+          "options": [
+            "Prim's algorithm",
+            "Floyd-Warshall",
+            "Bellman-Ford",
+            "Matrix chain multiplication"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A spanning tree of a connected graph with V vertices has how many edges?",
+          "options": [
+            "V",
+            "V - 1",
+            "V + 1",
+            "2V"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Internet of Things (IoT)",
+      "questions": [
+        {
+          "q": "Which lightweight publish-subscribe protocol is widely used in IoT?",
+          "options": [
+            "SMTP",
+            "POP3",
+            "MQTT",
+            "Telnet"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The main role of a sensor in an IoT system is to:",
+          "options": [
+            "Route packets between networks",
+            "Convert physical phenomena into electrical signals",
+            "Store relational databases",
+            "Compile source code"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a low-power, short-range wireless technology used in IoT?",
+          "options": [
+            "Zigbee",
+            "Fibre optic backbone",
+            "X.25",
+            "Leased line"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "CoAP is designed mainly for:",
+          "options": [
+            "Email delivery",
+            "High-end servers only",
+            "Constrained devices and networks",
+            "Disk access"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Processing data close to where it is generated, instead of in a distant cloud, is called:",
+          "options": [
+            "Grid computing",
+            "Batch processing",
+            "Mainframe computing",
+            "Edge computing"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which of the following is commonly used for IoT prototyping?",
+          "options": [
+            "Arduino",
+            "Abacus",
+            "Plotter",
+            "Scanner"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Software Engineering (Advanced)",
+      "questions": [
+        {
+          "q": "Which SDLC model suits projects where requirements are well understood and unlikely to change?",
+          "options": [
+            "Spiral",
+            "Prototype",
+            "Waterfall",
+            "Big Bang"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cyclomatic complexity measures:",
+          "options": [
+            "Lines of code",
+            "The number of linearly independent paths in a program",
+            "Memory used",
+            "Network speed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "For a control flow graph with 10 edges and 8 nodes (one connected component), cyclomatic complexity V(G) = E - N + 2 equals:",
+          "options": [
+            "2",
+            "6",
+            "4",
+            "8"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "COCOMO is a model used for:",
+          "options": [
+            "Encryption",
+            "Software cost and effort estimation",
+            "Routing",
+            "Data compression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which testing is done after code changes to ensure existing functionality still works?",
+          "options": [
+            "Unit testing",
+            "Regression testing",
+            "Acceptance testing",
+            "Alpha testing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is NOT an Agile methodology?",
+          "options": [
+            "Scrum",
+            "Extreme Programming",
+            "Kanban",
+            "Waterfall"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cryptography & Network Security",
+      "questions": [
+        {
+          "q": "Which of the following is a cryptographic hash function?",
+          "options": [
+            "AES",
+            "RSA",
+            "SHA-256",
+            "DES"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The effective key size of DES is:",
+          "options": [
+            "32 bits",
+            "56 bits",
+            "128 bits",
+            "256 bits"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a man-in-the-middle attack, the attacker:",
+          "options": [
+            "Floods the server with traffic",
+            "Secretly intercepts and relays communication between two parties",
+            "Encrypts the victim's disk",
+            "Guesses passwords offline only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A firewall primarily:",
+          "options": [
+            "Filters network traffic based on security rules",
+            "Compiles source code",
+            "Schedules processes",
+            "Stores encryption keys"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "To send a confidential message to Bob using public-key cryptography, Alice encrypts it with:",
+          "options": [
+            "Alice's private key",
+            "Bob's private key",
+            "Bob's public key",
+            "Alice's public key"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Diffie-Hellman algorithm is used for:",
+          "options": [
+            "File compression",
+            "Key exchange",
+            "Packet routing",
+            "Disk scheduling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol suite secures communication at the network (IP) layer?",
+          "options": [
+            "HTTP",
+            "FTP",
+            "SNMP",
+            "IPSec"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Adding a random salt before hashing passwords mainly helps defend against:",
+          "options": [
+            "Rainbow table attacks",
+            "DDoS attacks",
+            "Deadlock",
+            "Paging"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Cloud, AI & Modern Technologies",
+      "questions": [
+        {
+          "q": "The cloud service model that provides virtualized computing infrastructure is:",
+          "options": [
+            "SaaS",
+            "IaaS",
+            "DaaS",
+            "BPO"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a supervised learning algorithm?",
+          "options": [
+            "K-means",
+            "Apriori",
+            "Linear regression",
+            "DBSCAN"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Overfitting means a model:",
+          "options": [
+            "Performs well on training data but poorly on unseen data",
+            "Performs poorly on training data",
+            "Has too few parameters",
+            "Cannot be trained"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data format is most commonly used by REST APIs?",
+          "options": [
+            "JSON",
+            "BMP",
+            "MP3",
+            "ELF"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Method overriding is an example of:",
+          "options": [
+            "Compile-time polymorphism",
+            "Runtime polymorphism",
+            "Encapsulation",
+            "Data hiding"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following Python data types is immutable?",
+          "options": [
+            "list",
+            "dict",
+            "tuple",
+            "set"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which tool is widely used for container orchestration?",
+          "options": [
+            "Kubernetes",
+            "Wireshark",
+            "Photoshop",
+            "Nmap"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The distributed file system used by Hadoop is:",
+          "options": [
+            "NTFS",
+            "ext4",
+            "FAT32",
+            "HDFS"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

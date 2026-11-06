@@ -1,0 +1,635 @@
+{
+  "id": "paper2",
+  "sections": [
+    {
+      "name": "Networking",
+      "questions": [
+        {
+          "q": "A /27 IPv4 subnet provides how many usable host addresses?",
+          "options": [
+            "14",
+            "30",
+            "32",
+            "62"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol resolves an IPv4 address to a MAC address?",
+          "options": [
+            "RARP",
+            "ARP",
+            "DNS",
+            "DHCP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which routing protocol is a link-state protocol?",
+          "options": [
+            "RIP",
+            "OSPF",
+            "HTTP",
+            "ARP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "RIP primarily uses which metric?",
+          "options": [
+            "Bandwidth",
+            "Hop count",
+            "Delay only",
+            "CPU utilization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which TCP mechanism controls the rate at which data is transmitted based on network congestion?",
+          "options": [
+            "Congestion control",
+            "DNS resolution",
+            "Address translation",
+            "Fragmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "TCP connection establishment normally uses:",
+          "options": [
+            "Two-way handshake",
+            "Three-way handshake",
+            "Four-way handshake",
+            "One-way handshake"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which TCP flag is commonly used to initiate a connection?",
+          "options": [
+            "FIN",
+            "SYN",
+            "ACK",
+            "RST"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol provides secure remote login?",
+          "options": [
+            "Telnet",
+            "SSH",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "VLANs primarily allow:",
+          "options": [
+            "Logical segmentation of a LAN",
+            "CPU scheduling",
+            "Database normalization",
+            "File compression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which device separates broadcast domains?",
+          "options": [
+            "Hub",
+            "Router",
+            "Repeater",
+            "Basic Layer-1 repeater"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the purpose of a default gateway?",
+          "options": [
+            "Resolve domain names",
+            "Forward traffic to other networks",
+            "Assign MAC addresses",
+            "Encrypt packets"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which IPv4 range is private?",
+          "options": [
+            "8.8.8.0/24",
+            "172.16.0.0/12",
+            "1.1.1.0/24",
+            "100.100.100.0/24"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "DBMS",
+      "questions": [
+        {
+          "q": "Which isolation level prevents dirty reads?",
+          "options": [
+            "Read Uncommitted",
+            "Read Committed",
+            "No Isolation",
+            "None"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A dirty read occurs when a transaction reads:",
+          "options": [
+            "Committed data only",
+            "Uncommitted data from another transaction",
+            "Deleted schema",
+            "Duplicate primary keys"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which operation makes a transaction's changes permanent?",
+          "options": [
+            "ROLLBACK",
+            "COMMIT",
+            "SAVEPOINT",
+            "ABORT"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which operation undoes uncommitted changes?",
+          "options": [
+            "COMMIT",
+            "ROLLBACK",
+            "GRANT",
+            "CHECKPOINT"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which join produces the Cartesian product?",
+          "options": [
+            "INNER JOIN",
+            "CROSS JOIN",
+            "LEFT JOIN",
+            "NATURAL JOIN"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the main purpose of normalization?",
+          "options": [
+            "Increase redundancy",
+            "Reduce redundancy and anomalies",
+            "Encrypt tables",
+            "Increase file size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "BCNF requires every determinant to be:",
+          "options": [
+            "Foreign key",
+            "Candidate key",
+            "Composite key",
+            "NULL"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which anomaly occurs when inserting a record requires unrelated information?",
+          "options": [
+            "Update anomaly",
+            "Insertion anomaly",
+            "Deletion anomaly",
+            "Join anomaly"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A transaction schedule is serializable if:",
+          "options": [
+            "It has no transactions",
+            "Its effect is equivalent to some serial execution",
+            "It contains only SELECT queries",
+            "It has no locks"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which SQL operator checks whether a value exists in a set returned by a subquery?",
+          "options": [
+            "EXISTS",
+            "BETWEEN",
+            "LIKE",
+            "AS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which SQL keyword eliminates duplicate rows from a result?",
+          "options": [
+            "UNIQUE",
+            "DISTINCT",
+            "REMOVE",
+            "SINGLE"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A B+ tree is particularly useful for:",
+          "options": [
+            "CPU scheduling",
+            "Database indexing",
+            "Encryption",
+            "Process synchronization"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Operating System",
+      "questions": [
+        {
+          "q": "Which algorithm can suffer from Belady's anomaly?",
+          "options": [
+            "FIFO page replacement",
+            "LRU",
+            "Optimal",
+            "MRU always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which page replacement algorithm theoretically gives the minimum number of page faults?",
+          "options": [
+            "FIFO",
+            "LRU",
+            "Optimal",
+            "Round Robin"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A semaphore initialized to 1 is commonly used as:",
+          "options": [
+            "Mutex-like synchronization mechanism",
+            "Page table",
+            "CPU register",
+            "File descriptor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which scheduling algorithm minimizes average waiting time under ideal assumptions when burst times are known?",
+          "options": [
+            "SJF",
+            "FCFS",
+            "Round Robin",
+            "FIFO"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is NOT a process state?",
+          "options": [
+            "Ready",
+            "Running",
+            "Waiting",
+            "Compiled"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Virtual memory allows:",
+          "options": [
+            "Programs larger than physical RAM to execute using secondary storage",
+            "CPU to run without registers",
+            "Disk to become CPU cache",
+            "Removal of all page faults"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A race condition occurs when:",
+          "options": [
+            "Output depends on timing/order of concurrent execution",
+            "CPU runs too slowly",
+            "Disk is fragmented",
+            "A process is terminated"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which mechanism can prevent simultaneous access to a critical section?",
+          "options": [
+            "Mutual exclusion",
+            "Fragmentation",
+            "Paging",
+            "Spooling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which memory-management method allows variable-sized logical divisions?",
+          "options": [
+            "Paging",
+            "Segmentation",
+            "Fixed partitioning",
+            "Cache mapping"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which scheduling approach is preemptive by design?",
+          "options": [
+            "FCFS",
+            "Round Robin",
+            "Non-preemptive SJF",
+            "Non-preemptive Priority"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "questions": [
+        {
+          "q": "What is the worst-case search complexity of an unbalanced BST?",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which sorting algorithm is stable by standard implementation?",
+          "options": [
+            "Merge Sort",
+            "Heap Sort",
+            "Quick Sort always",
+            "Selection Sort always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which structure is best for implementing function-call management?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Heap",
+            "Graph"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a max heap:",
+          "options": [
+            "Minimum element is always at root",
+            "Maximum element is at root",
+            "Elements are fully sorted",
+            "Leaves are always smallest in order"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which algorithm finds shortest paths from a source when edge weights are non-negative?",
+          "options": [
+            "Dijkstra",
+            "DFS",
+            "Kruskal",
+            "Binary Search"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which algorithm is used to construct a minimum spanning tree?",
+          "options": [
+            "Kruskal",
+            "Binary Search",
+            "BFS only",
+            "KMP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which algorithm can detect negative-weight shortest paths using repeated relaxation?",
+          "options": [
+            "Bellman-Ford",
+            "Dijkstra",
+            "Prim only",
+            "DFS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Collision resolution in hashing can use:",
+          "options": [
+            "Chaining",
+            "Paging",
+            "Segmentation",
+            "Spooling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which traversal visits root before its subtrees?",
+          "options": [
+            "Inorder",
+            "Postorder",
+            "Preorder",
+            "Reverse order"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which complexity represents constant time?",
+          "options": [
+            "O(log n)",
+            "O(1)",
+            "O(n)",
+            "O(n^2)"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Programming / OOP",
+      "questions": [
+        {
+          "q": "Binding a method call to its implementation at runtime is:",
+          "options": [
+            "Static binding",
+            "Dynamic binding",
+            "Compilation",
+            "Parsing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which OOP principle hides internal implementation details?",
+          "options": [
+            "Abstraction",
+            "Inheritance",
+            "Overloading",
+            "Compilation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which C++ feature allows operator behavior to be customized for user-defined types?",
+          "options": [
+            "Operator overloading",
+            "Constructor hiding",
+            "Pointer casting",
+            "Namespace inheritance"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A constructor is primarily used to:",
+          "options": [
+            "Destroy an object",
+            "Initialize an object",
+            "Compile a class",
+            "Create a database"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In Java, garbage collection primarily manages:",
+          "options": [
+            "CPU scheduling",
+            "Memory occupied by unreachable objects",
+            "Network packets",
+            "Database transactions"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Java keyword refers to the current object?",
+          "options": [
+            "super",
+            "this",
+            "current",
+            "self"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Java keyword refers to the immediate parent class/object context?",
+          "options": [
+            "parent",
+            "base",
+            "super",
+            "this"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Security / Web",
+      "questions": [
+        {
+          "q": "Cross-Site Scripting primarily injects malicious:",
+          "options": [
+            "SQL into database",
+            "Script into web pages",
+            "Packets into routers",
+            "Files into BIOS"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "CSRF attacks primarily trick a user's browser into:",
+          "options": [
+            "Executing unauthorized requests",
+            "Encrypting the CPU",
+            "Formatting disk",
+            "Changing MAC address"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which security mechanism adds a second authentication factor?",
+          "options": [
+            "MFA",
+            "NAT",
+            "DNS",
+            "CDN"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which HTTP method is generally intended to retrieve a resource?",
+          "options": [
+            "POST",
+            "GET",
+            "DELETE",
+            "PATCH"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which HTTP status code means \"Not Found\"?",
+          "options": [
+            "200",
+            "301",
+            "404",
+            "500"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "HTTP 500 generally indicates:",
+          "options": [
+            "Client-side redirection",
+            "Server-side internal error",
+            "Successful request",
+            "Unauthorized client only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "JWT is commonly used for:",
+          "options": [
+            "Authentication/authorization information exchange",
+            "Disk partitioning",
+            "CPU scheduling",
+            "Image compression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A zero-day vulnerability is:",
+          "options": [
+            "A vulnerability unknown/unpatched when exploited or disclosed",
+            "A patched vulnerability",
+            "A password policy",
+            "A backup system"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which attack attempts many passwords against an account automatically?",
+          "options": [
+            "Brute-force attack",
+            "SQL normalization",
+            "Packet switching",
+            "Defragmentation"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

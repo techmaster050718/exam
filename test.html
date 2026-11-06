@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="IBPS SO IT Officer – Exam screen">
+  <title>Exam – IBPS SO IT Officer Practice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Top bar: title + timer + counters + theme -->
+  <header class="test-topbar" role="banner">
+    <span class="test-title" id="test-title">Loading…</span>
+
+    <div class="live-counters" id="live-counters" aria-label="Question status counters">
+      <span class="counter-chip counter-answered"   id="counter-answered"   aria-live="polite">✓ 0</span>
+      <span class="counter-chip counter-unanswered" id="counter-unanswered" aria-live="polite">✗ 0</span>
+      <span class="counter-chip counter-marked"     id="counter-marked"     aria-live="polite">◉ 0</span>
+    </div>
+
+    <div id="timer" class="timer-display" role="timer" aria-live="off" aria-label="Time remaining">⏱ --:--</div>
+
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
+  </header>
+
+  <!-- Section tabs -->
+  <nav class="section-tabs" id="section-tabs" role="tablist" aria-label="Exam sections">
+    <!-- Tabs rendered by test.js -->
+  </nav>
+
+  <!-- Two-column layout -->
+  <div class="test-layout">
+
+    <!-- Main question area -->
+    <main id="test-main" role="main">
+      <!-- Loading / question rendered by test.js -->
+
+      <div id="question-area" class="question-area" aria-live="polite">
+
+        <article class="question-wrapper glass" aria-labelledby="q-num">
+          <span class="question-number" id="q-num"></span>
+          <span style="font-size:var(--text-xs);color:var(--text-muted);display:block;margin-bottom:var(--space-sm)" id="q-section"></span>
+          <div class="question-text" id="q-text"></div>
+          <ul class="options-list" id="options-list" role="radiogroup" aria-label="Answer options">
+            <!-- Options rendered by test.js -->
+          </ul>
+        </article>
+
+        <!-- Desktop nav buttons -->
+        <div class="question-nav" role="group" aria-label="Question navigation">
+          <button class="btn btn-secondary" id="btn-prev" aria-label="Previous question">← Prev</button>
+          <button class="btn btn-secondary" id="btn-next" aria-label="Next question">Next →</button>
+          <button class="btn btn-ghost btn-sm" id="btn-clear" aria-label="Clear selection">✕ Clear</button>
+          <button class="btn btn-mark btn-sm" id="btn-mark" aria-label="Mark for review">🔵 Mark</button>
+          <button class="btn btn-primary" id="btn-submit" style="margin-left:auto" aria-label="Submit paper">Submit Paper</button>
+        </div>
+
+      </div><!-- /question-area -->
+    </main>
+
+    <!-- Palette sidebar -->
+    <aside class="palette-sidebar" id="palette-sidebar" role="complementary" aria-label="Question palette">
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div class="palette-title">Question Palette</div>
+        <button class="palette-close-btn" id="palette-close-btn" aria-label="Close palette">✕</button>
+      </div>
+
+      <!-- Legend -->
+      <div class="palette-legend" aria-label="Palette colour legend">
+        <div class="legend-item"><div class="legend-dot dot-not-visited"></div>  Not Visited</div>
+        <div class="legend-item"><div class="legend-dot dot-not-answered"></div> Not Answered</div>
+        <div class="legend-item"><div class="legend-dot dot-answered"></div>     Answered</div>
+        <div class="legend-item"><div class="legend-dot dot-marked"></div>       Marked</div>
+        <div class="legend-item"><div class="legend-dot dot-marked-answered"></div> Marked+Ans</div>
+      </div>
+
+      <!-- Grid -->
+      <div class="palette-grid" id="palette-grid" role="list" aria-label="Jump to question">
+        <!-- Buttons rendered by test.js -->
+      </div>
+
+      <!-- Submit in sidebar -->
+      <div class="palette-submit-area">
+        <button class="btn btn-primary btn-full" id="btn-submit-sidebar" aria-label="Submit paper">
+          ✅ Submit Paper
+        </button>
+      </div>
+    </aside>
+
+  </div><!-- /test-layout -->
+
+  <!-- Mobile palette overlay -->
+  <div id="palette-overlay" class="palette-overlay" role="presentation" aria-hidden="true"></div>
+
+  <!-- Mobile palette toggle -->
+  <button class="palette-toggle-btn" id="palette-toggle-btn" aria-label="Open question palette" aria-expanded="false">
+    ⊞
+  </button>
+
+  <!-- Mobile sticky bottom nav -->
+  <nav class="sticky-nav-bottom" role="navigation" aria-label="Mobile question navigation">
+    <button class="btn btn-secondary" id="btn-prev-sticky" aria-label="Previous question" style="flex:1">← Prev</button>
+    <button class="btn btn-mark btn-sm" id="btn-mark-sticky" aria-label="Mark for review">◉</button>
+    <button class="btn btn-primary" id="btn-submit-sticky" aria-label="Submit paper">Submit</button>
+    <button class="btn btn-ghost" id="btn-palette-open" aria-label="Open palette">⊞ Palette</button>
+    <button class="btn btn-secondary" id="btn-next-sticky" aria-label="Next question" style="flex:1">Next →</button>
+  </nav>
+
+  <!-- Submit Confirmation Modal -->
+  <div class="modal-backdrop" id="submit-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-box">
+      <h2 class="modal-title" id="modal-title">Submit Paper?</h2>
+      <div class="modal-body">
+        <p style="margin-bottom:var(--space-md);color:var(--text-secondary)">
+          Once submitted, you cannot change your answers. Review your status below:
+        </p>
+        <div class="modal-stats">
+          <div class="modal-stat">
+            <div class="modal-stat-val text-success" id="modal-stat-answered">0</div>
+            <div class="modal-stat-lbl">Answered</div>
+          </div>
+          <div class="modal-stat">
+            <div class="modal-stat-val text-danger" id="modal-stat-unanswered">0</div>
+            <div class="modal-stat-lbl">Unanswered</div>
+          </div>
+          <div class="modal-stat">
+            <div class="modal-stat-val" style="color:var(--info)" id="modal-stat-marked">0</div>
+            <div class="modal-stat-lbl">Marked</div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-secondary" id="modal-cancel">← Continue Test</button>
+        <button class="btn btn-primary"   id="modal-confirm">✅ Yes, Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Keyboard shortcut hint (desktop only) -->
+  <div style="position:fixed;bottom:var(--space-md);left:var(--space-md);z-index:50;font-size:11px;color:var(--text-muted);opacity:0.7;pointer-events:none" aria-hidden="true">
+    1–4 / A–D: select · ← →: navigate · M: mark · X: clear
+  </div>
+
+  <script src="js/app.js"></script>
+  <script src="js/test.js"></script>
+</body>
+</html>

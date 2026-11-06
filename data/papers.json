@@ -1,0 +1,38 @@
+[
+  {
+    "id": "paper1",
+    "title": "Practice Paper 1",
+    "subtitle": "Core Syllabus",
+    "file": "data/paper1.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "paper2",
+    "title": "Practice Paper 2",
+    "subtitle": "Harder / Application-Based",
+    "file": "data/paper2.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "paper3",
+    "title": "Practice Paper 3",
+    "subtitle": "High Difficulty / Predicted 2027 Style",
+    "file": "data/paper3.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "bonus",
+    "title": "Bonus Paper",
+    "subtitle": "Extended Syllabus Practice (40 Questions)",
+    "file": "data/bonus.json",
+    "durationMin": 30,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  }
+]
