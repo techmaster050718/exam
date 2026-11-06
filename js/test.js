@@ -30,7 +30,9 @@
     if (!paperId) { window.location.href = 'index.html'; return; }
 
     const mainEl = App.qs('#test-main');
-    App.showLoading(mainEl, 'Loading exam…');
+    // Keep the pre-rendered exam controls in the DOM; replacing this container
+    // with a loading screen would remove every element buildUI needs to wire up.
+    App.qs('#q-text').textContent = 'Loading exam…';
 
     try {
       const papers = await App.loadPapersList();
