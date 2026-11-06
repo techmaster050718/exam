@@ -108,5 +108,45 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "english-ibps-cds-001",
+    "subject": "english-language",
+    "title": "English Fundamentals — IBPS + CDS",
+    "subtitle": "Grammar, vocabulary, comprehension and competitive English",
+    "file": "data/english-ibps-cds-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "english-ibps-cds-002",
+    "subject": "english-language",
+    "title": "IBPS + CDS English Practice",
+    "subtitle": "Reading comprehension, cloze tests, grammar and vocabulary",
+    "file": "data/english-ibps-cds-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "english-ibps-cds-003",
+    "subject": "english-language",
+    "title": "Advanced English — IBPS + CDS",
+    "subtitle": "Inference, difficult grammar, arrangement and advanced vocabulary",
+    "file": "data/english-ibps-cds-003.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "english-ibps-cds-004",
+    "subject": "english-language",
+    "title": "English Master Test — IBPS + CDS",
+    "subtitle": "Mixed full-length test combining all major English question types",
+    "file": "data/english-ibps-cds-004.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]

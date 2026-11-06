@@ -28,5 +28,11 @@
     "title": "Fundamentals CSE",
     "description": "Core computer science, programming, IT, AI and ML fundamentals",
     "icon": "💻"
+  },
+  {
+    "id": "english-language",
+    "title": "English Language",
+    "description": "IBPS and CDS oriented English grammar, vocabulary and comprehension",
+    "icon": "📚"
   }
 ]

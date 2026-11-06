@@ -1,0 +1,1055 @@
+{
+  "id": "english-ibps-cds-001",
+  "sections": [
+    {
+      "name": "Grammar Fundamentals",
+      "questions": [
+        {
+          "q": "Question 1: Choose the correct completion: Each of the students ___ submitted the form.",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "submit"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 2: Choose the correct completion: Neither the manager nor the workers ___ available.",
+          "options": [
+            "is",
+            "are",
+            "was",
+            "be"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 3: Choose the correct completion: She is taller than ___ player in the team.",
+          "options": [
+            "the most",
+            "any",
+            "any other",
+            "all"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 4: Choose the correct completion: The train ___ before we reached the platform.",
+          "options": [
+            "has left",
+            "leaves",
+            "is left",
+            "had left"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 5: Choose the correct completion: The report is consistent ___ the evidence.",
+          "options": [
+            "with",
+            "to",
+            "for",
+            "of"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 6: Choose the correct completion: I prefer reading ___ watching television.",
+          "options": [
+            "than",
+            "to",
+            "over",
+            "from"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 7: Choose the correct completion: The committee approved ___ proposal.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "this proposal a"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 8: Choose the correct completion: The policy aims ___ reduce waste.",
+          "options": [
+            "for",
+            "at",
+            "into",
+            "to"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 9: Choose the correct completion: The officer said that he ___ unavailable.",
+          "options": [
+            "was",
+            "is",
+            "will",
+            "be"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 10: Choose the correct completion: No sooner did the alarm sound ___ evacuation began.",
+          "options": [
+            "then",
+            "than",
+            "when",
+            "as"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 11: Choose the correct completion: Hardly had the meeting begun ___ lights went out. [001-1-11]",
+          "options": [
+            "then",
+            "than",
+            "when",
+            "while"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 12: Choose the correct completion: Every employee should submit ___ report. [001-1-12]",
+          "options": [
+            "his",
+            "their employees",
+            "they",
+            "his or her"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 13: Choose the correct completion: The team ___ preparing for the final match. [001-1-13]",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 14: Choose the correct completion: If it rains tomorrow, the match ___ postponed. [001-1-14]",
+          "options": [
+            "would be",
+            "will be",
+            "is being",
+            "was"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 15: Choose the correct completion: She asked me ___ I had finished the work. [001-1-15]",
+          "options": [
+            "that",
+            "what if",
+            "whether",
+            "to"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Error Spotting",
+      "questions": [
+        {
+          "q": "Error spotting 16: Choose the correct completion: The proposal has ___ approved by committee.",
+          "options": [
+            "be",
+            "being",
+            "become",
+            "been"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 17: Choose the correct completion: Five kilometres ___ a reasonable walking distance.",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 18: Choose the correct completion: The jury ___ reached a unanimous decision.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Error spotting 19: Choose the correct completion: The student who missed briefing ___ later.",
+          "options": [
+            "submit",
+            "submits",
+            "submitted",
+            "is submit"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Error spotting 20: Choose the correct completion: He should have ___ the team earlier.",
+          "options": [
+            "informing",
+            "inform",
+            "informs",
+            "informed"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 21: Choose the correct completion: Despite being tired, he ___ the review. [001-2-6]",
+          "options": [
+            "completed",
+            "completing",
+            "complete",
+            "completes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 22: Choose the correct completion: Walking briskly, the student ___ the library. [001-2-7]",
+          "options": [
+            "was reached",
+            "reached",
+            "reaches",
+            "reach"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Error spotting 23: Choose the correct completion: Both the principal and teachers ___ the proposal. [001-2-8]",
+          "options": [
+            "supporting",
+            "support",
+            "supported",
+            "supports"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Error spotting 24: Choose the correct completion: The data ___ that the scheme is effective. [001-2-9]",
+          "options": [
+            "indicates",
+            "is indicating",
+            "has indicated",
+            "indicate"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 25: Choose the correct completion: I would rather discuss the proposal ___ delay it. [001-2-10]",
+          "options": [
+            "than",
+            "over",
+            "from",
+            "then"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 26: Choose the correct completion: One of the books in the collection ___ missing. [001-2-11]",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "be"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Error spotting 27: Choose the correct completion: The minister is responsible ___ public safety. [001-2-12]",
+          "options": [
+            "to",
+            "of",
+            "for",
+            "with"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Error spotting 28: Choose the correct completion: She said that she ___ available that evening. [001-2-13]",
+          "options": [
+            "is",
+            "will be",
+            "has",
+            "was"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 29: Choose the correct completion: This method is as efficient ___ the previous one. [001-2-14]",
+          "options": [
+            "as",
+            "than",
+            "like",
+            "so"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 30: Choose the correct completion: The candidate is capable ___ handling the crisis. [001-2-15]",
+          "options": [
+            "for",
+            "of",
+            "about",
+            "to"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Sentence Improvement",
+      "questions": [
+        {
+          "q": "Sentence improvement 1: Choose the best form of “Despite of the delay, the project continued.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Despite the delay",
+            "Remove the grammatical subject"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Sentence improvement 2: Choose the best form of “One of the boxes have fallen.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject",
+            "One of the boxes has fallen"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Sentence improvement 3: Choose the best form of “She insisted on that he attend.”",
+          "options": [
+            "She insisted that he attend",
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Sentence improvement 4: Choose the best form of “The report is being submit tomorrow.”",
+          "options": [
+            "The original form is best",
+            "The report will be submitted tomorrow",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Sentence improvement 5: Choose the best form of “He asked me that where I lived.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "He asked me where I lived",
+            "Remove the grammatical subject"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Sentence improvement 6: Choose the best form of “The minister spoke about regarding the scheme.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject",
+            "The minister spoke about the scheme"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Sentence improvement 7: Choose the best form of “The policy is applicable to all citizens.”",
+          "options": [
+            "No improvement required",
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Sentence improvement 8: Choose the best form of “The rivals competed each other for the title.”",
+          "options": [
+            "The original form is best",
+            "The rivals competed against each other",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Sentence improvement 9: Choose the best form of “The result was contrary than expectations.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "The result was contrary to expectations",
+            "Remove the grammatical subject"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Sentence improvement 10: Choose the best form of “There is no comparison between the two systems.”",
+          "options": [
+            "The original form is best",
+            "Improve by adding redundant words",
+            "Remove the grammatical subject",
+            "No improvement required"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Synonyms",
+      "questions": [
+        {
+          "q": "Synonym 1: Choose the synonym of “abundant”.",
+          "options": [
+            "plentiful",
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Synonym 2: Choose the synonym of “ardent”.",
+          "options": [
+            "limited in meaning",
+            "passionate",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Synonym 3: Choose the synonym of “benevolent”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "kind-hearted",
+            "opposite in meaning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Synonym 4: Choose the synonym of “candid”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning",
+            "frank"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Synonym 5: Choose the synonym of “concede”.",
+          "options": [
+            "admit",
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Synonym 6: Choose the synonym of “diligent”.",
+          "options": [
+            "limited in meaning",
+            "hard-working",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Synonym 7: Choose the synonym of “eloquent”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "expressive",
+            "opposite in meaning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Synonym 8: Choose the synonym of “frugal”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning",
+            "economical"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Synonym 9: Choose the synonym of “hamper”.",
+          "options": [
+            "obstruct",
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Synonym 10: Choose the synonym of “intransigent”.",
+          "options": [
+            "limited in meaning",
+            "unyielding",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Antonyms",
+      "questions": [
+        {
+          "q": "Antonym 1: Choose the antonym of “augment”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "reduce",
+            "moderate"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Antonym 2: Choose the antonym of “brevity”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "moderate",
+            "lengthiness"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Antonym 3: Choose the antonym of “chaotic”.",
+          "options": [
+            "orderly",
+            "similar",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Antonym 4: Choose the antonym of “credible”.",
+          "options": [
+            "similar",
+            "dubious",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Antonym 5: Choose the antonym of “dearth”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "abundance",
+            "moderate"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Antonym 6: Choose the antonym of “elusive”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "moderate",
+            "easy to find"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Antonym 7: Choose the antonym of “genuine”.",
+          "options": [
+            "spurious",
+            "similar",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Antonym 8: Choose the antonym of “hostile”.",
+          "options": [
+            "similar",
+            "friendly",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Antonym 9: Choose the antonym of “impede”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "facilitate",
+            "moderate"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Antonym 10: Choose the antonym of “lament”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "moderate",
+            "celebrate"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Idioms & Phrases",
+      "questions": [
+        {
+          "q": "Idiom 1: What does “at the eleventh hour” mean?",
+          "options": [
+            "at the very last moment",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Idiom 2: What does “beat around the bush” mean?",
+          "options": [
+            "physical action only",
+            "avoid the main issue",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Idiom 3: What does “once in a blue moon” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "very rarely",
+            "the opposite expression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Idiom 4: What does “burn the midnight oil” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "work late into the night"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Idiom 5: What does “bite the bullet” mean?",
+          "options": [
+            "endure a difficult situation",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Idiom 6: What does “get the ball rolling” mean?",
+          "options": [
+            "physical action only",
+            "start an activity",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Idiom 7: What does “a blessing in disguise” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "hidden benefit inside an apparent problem",
+            "the opposite expression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Idiom 8: What does “call it a day” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "stop work for now"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Idiom 9: What does “cross that bridge when we come to it” mean?",
+          "options": [
+            "deal with a problem when it arises",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Idiom 10: What does “hit the nail on the head” mean?",
+          "options": [
+            "physical action only",
+            "identify the exact point",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "One Word Substitution",
+      "questions": [
+        {
+          "q": "One-word substitution 1: A speaks many languages is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "polyglot",
+            "formal visitor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "One-word substitution 2: A eats no animal flesh is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "formal visitor",
+            "vegetarian"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "One-word substitution 3: A studies stars and planets is called a/an ___.",
+          "options": [
+            "astronomer",
+            "specialist in finance",
+            "person seeking publicity",
+            "formal visitor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "One-word substitution 4: A fears open spaces is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "agoraphobic person",
+            "person seeking publicity",
+            "formal visitor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "One-word substitution 5: A cannot read or write is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "illiterate person",
+            "formal visitor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "One-word substitution 6: A leaves one country to settle elsewhere is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "formal visitor",
+            "emigrant"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "One-word substitution 7: A has lost both parents is called a/an ___.",
+          "options": [
+            "orphan",
+            "specialist in finance",
+            "person seeking publicity",
+            "formal visitor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "One-word substitution 8: A is ruled by a few powerful people is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "oligarchy",
+            "person seeking publicity",
+            "formal visitor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "One-word substitution 9: A speaks without preparation is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "extempore speaker",
+            "formal visitor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "One-word substitution 10: A is a remedy for all diseases is called a/an ___.",
+          "options": [
+            "specialist in finance",
+            "person seeking publicity",
+            "formal visitor",
+            "panacea"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Spelling & Paired Words",
+      "questions": [
+        {
+          "q": "Variant 1: Choose the correctly spelled word for the item represented by “entrepreneur”.",
+          "options": [
+            "entrepreneur",
+            "Enterpreneur",
+            "Entreprenur",
+            "Enterprenuer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Variant 2: Choose the correctly spelled word for the item represented by “accommodation”.",
+          "options": [
+            "Accomodation",
+            "accommodation",
+            "Acommodation",
+            "Accommodaton"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Variant 3: Choose the correctly spelled word for the item represented by “necessary”.",
+          "options": [
+            "Neccessary",
+            "Necesary",
+            "necessary",
+            "Necesaryy"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Variant 4: Choose the correctly spelled word for the item represented by “conscience”.",
+          "options": [
+            "Consciense",
+            "Consience",
+            "Concience",
+            "conscience"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Variant 5: Choose the correctly spelled word for the item represented by “privilege”.",
+          "options": [
+            "privilege",
+            "Privalage",
+            "Priviledge",
+            "Privlege"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Variant 6: Choose the correctly spelled word for the item represented by “maintenance”.",
+          "options": [
+            "Maintainance",
+            "maintenance",
+            "Maintenence",
+            "Maintainence"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Variant 7: Choose the correctly spelled word for the item represented by “questionnaire”.",
+          "options": [
+            "Questionaire",
+            "Questionnare",
+            "questionnaire",
+            "Quetionnaire"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Variant 8: Choose the correctly spelled word for the item represented by “occurrence”.",
+          "options": [
+            "Occurance",
+            "Occurrance",
+            "Ocurence",
+            "occurrence"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Variant 9: Choose the correctly spelled word for the item represented by “separate”.",
+          "options": [
+            "separate",
+            "Seperate",
+            "Seperrate",
+            "Separate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Variant 10: Choose the correctly spelled word for the item represented by “environment”.",
+          "options": [
+            "Enviroment",
+            "environment",
+            "Environmant",
+            "Envirenment"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Parts of Speech & Word Usage",
+      "questions": [
+        {
+          "q": "Question 31: Choose the correct completion: There ___ no evidence to support the allegation. [001-9-1]",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "be"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 32: Choose the correct completion: You have completed the assessment, ___ you. [001-9-2]",
+          "options": [
+            "have",
+            "did",
+            "do",
+            "haven’t"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 33: Choose the correct completion: The candidates selected by the panel ___ notified today. [001-9-3]",
+          "options": [
+            "will be",
+            "are been",
+            "were be",
+            "will being"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 34: Choose the correct completion: The alternatives secured first and second places, ___. [001-9-4]",
+          "options": [
+            "respectful",
+            "respectively",
+            "respective",
+            "respectivelyly"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 35: Choose the correct completion: The committee decided ___ postpone the discussion. [001-9-5]",
+          "options": [
+            "for",
+            "at",
+            "to",
+            "about"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Fillers & Ordering",
+      "questions": [
+        {
+          "q": "PQRS 1: Arrange the sentences: P: A digital library project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PQRS 2: Arrange the sentences: P: A new school schedule project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "PQRS 3: Arrange the sentences: P: A bank verification project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "PQRS 4: Arrange the sentences: P: A urban traffic project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "PQRS 5: Arrange the sentences: P: A project delay project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

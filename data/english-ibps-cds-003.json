@@ -1,0 +1,1055 @@
+{
+  "id": "english-ibps-cds-003",
+  "sections": [
+    {
+      "name": "Difficult Reading Comprehension",
+      "questions": [
+        {
+          "q": "Passage: Digital Transformation creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Benefits should be evaluated through evidence and implementation",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Passage: Cybersecurity creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Passage: Climate Change creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Use multiple indicators and review outcomes",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Passage: History creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Benefits should be evaluated through evidence and implementation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Passage: Governance creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Passage: Entrepreneurship creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Use multiple indicators and review outcomes",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Passage: Urban Planning creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Benefits should be evaluated through evidence and implementation",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Passage: Rural Development creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Policy must balance opportunities, risks, and public legitimacy"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Passage: Innovation creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Use multiple indicators and review outcomes",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Passage: Public Administration creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Benefits should be evaluated through evidence and implementation",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Passage: Research Integrity creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Passage: Media Literacy creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Use multiple indicators and review outcomes"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Passage: Energy Transition creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Benefits should be evaluated through evidence and implementation",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Passage: Disaster Management creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Passage: Demographic Change creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Use multiple indicators and review outcomes",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Advanced Error Spotting",
+      "questions": [
+        {
+          "q": "Error spotting 21: Choose the correct completion: Despite being tired, he ___ the review. [003-2-1]",
+          "options": [
+            "completing",
+            "complete",
+            "completes",
+            "completed"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 22: Choose the correct completion: Walking briskly, the student ___ the library. [003-2-2]",
+          "options": [
+            "reached",
+            "was reached",
+            "reaches",
+            "reach"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 23: Choose the correct completion: Both the principal and teachers ___ the proposal. [003-2-3]",
+          "options": [
+            "supporting",
+            "supported",
+            "support",
+            "supports"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Error spotting 24: Choose the correct completion: The data ___ that the scheme is effective. [003-2-4]",
+          "options": [
+            "indicates",
+            "is indicating",
+            "indicate",
+            "has indicated"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Error spotting 25: Choose the correct completion: I would rather discuss the proposal ___ delay it. [003-2-5]",
+          "options": [
+            "over",
+            "from",
+            "then",
+            "than"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 26: Choose the correct completion: One of the books in the collection ___ missing. [003-2-6]",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error spotting 27: Choose the correct completion: The minister is responsible ___ public safety. [003-2-7]",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "with"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Error spotting 28: Choose the correct completion: She said that she ___ available that evening. [003-2-8]",
+          "options": [
+            "is",
+            "will be",
+            "was",
+            "has"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Error spotting 29: Choose the correct completion: This method is as efficient ___ the previous one. [003-2-9]",
+          "options": [
+            "than",
+            "like",
+            "so",
+            "as"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Error spotting 30: Choose the correct completion: The candidate is capable ___ handling the crisis. [003-2-10]",
+          "options": [
+            "of",
+            "for",
+            "about",
+            "to"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Advanced Cloze & Context",
+      "questions": [
+        {
+          "q": "Cloze test 21: Complete the context: “The report must provide ___.”",
+          "options": [
+            "impossible",
+            "capacity",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cloze test 22: Complete the context: “The institution should remain ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "legitimate",
+            "irrelevant"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cloze test 23: Complete the context: “Teams need ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "accessible"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Cloze test 24: Complete the context: “The decision should be ___.”",
+          "options": [
+            "consistent",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloze test 25: Complete the context: “The plan must ___.”",
+          "options": [
+            "impossible",
+            "timely",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cloze test 26: Complete the context: “The result appears ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "diverse",
+            "irrelevant"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cloze test 27: Complete the context: “A system can ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "robust"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Cloze test 28: Complete the context: “Leadership requires ___.”",
+          "options": [
+            "reasonable",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloze test 29: Complete the context: “Research needs ___.”",
+          "options": [
+            "impossible",
+            "essential",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cloze test 30: Complete the context: “Policy should be ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "optional",
+            "irrelevant"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "S1-S6 & Paragraph Ordering",
+      "questions": [
+        {
+          "q": "PQRS 16: Arrange the sentences: P: A clinic monitoring project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PQRS 17: Arrange the sentences: P: A software interface project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "PQRS 18: Arrange the sentences: P: A solar village project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "PQRS 19: Arrange the sentences: P: A subsidy review project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "PQRS 20: Arrange the sentences: P: A research method project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PQRS 21: Arrange the sentences: P: A digital library project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "PQRS 22: Arrange the sentences: P: A new school schedule project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "PQRS 23: Arrange the sentences: P: A bank verification project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "PQRS 24: Arrange the sentences: P: A urban traffic project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PQRS 25: Arrange the sentences: P: A project delay project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Advanced Synonyms & Antonyms",
+      "questions": [
+        {
+          "q": "Synonym 16: Choose the synonym of “sporadic”.",
+          "options": [
+            "limited in meaning",
+            "occasional",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Synonym 17: Choose the synonym of “tenacious”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "persistent",
+            "opposite in meaning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Synonym 18: Choose the synonym of “ubiquitous”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning",
+            "present everywhere"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Synonym 19: Choose the synonym of “venerate”.",
+          "options": [
+            "revere",
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Synonym 20: Choose the synonym of “zealous”.",
+          "options": [
+            "limited in meaning",
+            "fervent",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Antonym 16: Choose the antonym of “quiescent”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "active",
+            "moderate"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Antonym 17: Choose the antonym of “scarce”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "moderate",
+            "plentiful"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Antonym 18: Choose the antonym of “transient”.",
+          "options": [
+            "permanent",
+            "similar",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Antonym 19: Choose the antonym of “volatile”.",
+          "options": [
+            "similar",
+            "stable",
+            "uncertain",
+            "moderate"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Antonym 20: Choose the antonym of “wary”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "trusting",
+            "moderate"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Difficult Idioms",
+      "questions": [
+        {
+          "q": "Idiom 21: What does “a fish out of water” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "uncomfortable in an unfamiliar setting"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Idiom 22: What does “add fuel to the fire” mean?",
+          "options": [
+            "make an argument worse",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Idiom 23: What does “break the ice” mean?",
+          "options": [
+            "physical action only",
+            "ease social tension",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Idiom 24: What does “cut corners” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "do work less thoroughly to save effort",
+            "the opposite expression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Idiom 25: What does “go the extra mile” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "make an exceptional effort"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Idiom 26: What does “lose ground” mean?",
+          "options": [
+            "lose an advantage",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Idiom 27: What does “move the goalposts” mean?",
+          "options": [
+            "physical action only",
+            "change the rules unfairly",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Idiom 28: What does “nip in the bud” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "stop a problem early",
+            "the opposite expression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Idiom 29: What does “on the spur of the moment” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "suddenly without planning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Idiom 30: What does “the tip of the iceberg” mean?",
+          "options": [
+            "a small visible part of a larger problem",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Foreign Words & Phrases",
+      "questions": [
+        {
+          "q": "Foreign expression 6: What does “ad hoc” mean?",
+          "options": [
+            "a written punishment",
+            "created for a particular purpose",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Foreign expression 7: What does “alma mater” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a school or university attended by a person",
+            "a medical procedure"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Foreign expression 8: What does “carte blanche” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure",
+            "complete freedom to act"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Foreign expression 9: What does “faux pas” mean?",
+          "options": [
+            "a social mistake",
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Foreign expression 10: What does “genre” mean?",
+          "options": [
+            "a written punishment",
+            "a category of artistic work",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Foreign expression 11: What does “rendezvous” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a prearranged meeting",
+            "a medical procedure"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Foreign expression 12: What does “cul-de-sac” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure",
+            "a road closed at one end"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Foreign expression 13: What does “en route” mean?",
+          "options": [
+            "on the way",
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Foreign expression 14: What does “pro bono” mean?",
+          "options": [
+            "a written punishment",
+            "professional work without fee for public good",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Foreign expression 15: What does “modus operandi” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a particular method of operation",
+            "a medical procedure"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Paired Words",
+      "questions": [
+        {
+          "q": "Paired words 1: Which pair is used correctly in a sentence? Correct pairing for this item: adopt and adapt.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns",
+            "adopt and adapt"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Paired words 2: Which pair is used correctly in a sentence? Correct pairing for this item: accept and except.",
+          "options": [
+            "accept and except",
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Paired words 3: Which pair is used correctly in a sentence? Correct pairing for this item: affect and effect.",
+          "options": [
+            "mistaking one for the other",
+            "affect and effect",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Paired words 4: Which pair is used correctly in a sentence? Correct pairing for this item: principal and principle.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "principal and principle",
+            "using both as nouns"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Paired words 5: Which pair is used correctly in a sentence? Correct pairing for this item: stationary and stationery.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns",
+            "stationary and stationery"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Paired words 6: Which pair is used correctly in a sentence?",
+          "options": [
+            "complementary and complimentary",
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Paired words 7: Which pair is used correctly in a sentence?",
+          "options": [
+            "mistaking one for the other",
+            "continuous and continual",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Paired words 8: Which pair is used correctly in a sentence?",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "lose and loose",
+            "using both as nouns"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Paired words 9: Which pair is used correctly in a sentence?",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns",
+            "emigrate and immigrate"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Paired words 10: Which pair is used correctly in a sentence?",
+          "options": [
+            "historic and historical",
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Advanced Grammar Traps",
+      "questions": [
+        {
+          "q": "Question 11: Choose the correct completion: Hardly had the meeting begun ___ lights went out. [003-9-1]",
+          "options": [
+            "then",
+            "when",
+            "than",
+            "while"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 12: Choose the correct completion: Every employee should submit ___ report. [003-9-2]",
+          "options": [
+            "his",
+            "their employees",
+            "his or her",
+            "they"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 13: Choose the correct completion: The team ___ preparing for the final match. [003-9-3]",
+          "options": [
+            "are",
+            "were",
+            "be",
+            "is"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 14: Choose the correct completion: If it rains tomorrow, the match ___ postponed. [003-9-4]",
+          "options": [
+            "will be",
+            "would be",
+            "is being",
+            "was"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 15: Choose the correct completion: She asked me ___ I had finished the work. [003-9-5]",
+          "options": [
+            "that",
+            "whether",
+            "what if",
+            "to"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 16: Choose the correct completion: The proposal has ___ approved by committee.",
+          "options": [
+            "be",
+            "being",
+            "been",
+            "become"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Question 17: Choose the correct completion: Five kilometres ___ a reasonable walking distance.",
+          "options": [
+            "are",
+            "were",
+            "be",
+            "is"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Question 18: Choose the correct completion: The jury ___ reached a unanimous decision.",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "were"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Question 19: Choose the correct completion: The student who missed briefing ___ later.",
+          "options": [
+            "submit",
+            "submitted",
+            "submits",
+            "is submit"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Question 20: Choose the correct completion: He should have ___ the team earlier.",
+          "options": [
+            "informing",
+            "inform",
+            "informed",
+            "informs"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Sentence Connectors",
+      "questions": [
+        {
+          "q": "Connector 1: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "unless",
+            "however"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Connector 2: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "therefore",
+            "because",
+            "although",
+            "unless"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Connector 3: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "nevertheless",
+            "although",
+            "unless"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Connector 4: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "accordingly",
+            "unless"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Connector 5: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "unless",
+            "however"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
