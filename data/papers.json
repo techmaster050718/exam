@@ -6,7 +6,8 @@
     "file": "data/paper1.json",
     "durationMin": 45,
     "correctMark": 1,
-    "negativeMark": 0.25
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
   },
   {
     "id": "paper2",
@@ -15,7 +16,8 @@
     "file": "data/paper2.json",
     "durationMin": 45,
     "correctMark": 1,
-    "negativeMark": 0.25
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
   },
   {
     "id": "paper3",
@@ -24,7 +26,8 @@
     "file": "data/paper3.json",
     "durationMin": 45,
     "correctMark": 1,
-    "negativeMark": 0.25
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
   },
   {
     "id": "bonus",
@@ -33,6 +36,47 @@
     "file": "data/bonus.json",
     "durationMin": 30,
     "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
+  },
+  {
+    "id": "oir-ssb-1",
+    "subject": "ssb-oir",
+    "title": "SSB OIR Reasoning - Set 1",
+    "subtitle": "Verbal reasoning - OIR style",
+    "file": "data/oir-ssb-1.json",
+    "durationMin": 30,
+    "correctMark": 1,
+    "negativeMark": 0
+  },
+  {
+    "id": "ibps-reasoning-1",
+    "subject": "ibps-aptitude",
+    "title": "IBPS Reasoning Ability - Set 1",
+    "subtitle": "Reasoning Ability - 50 questions",
+    "file": "data/ibps-reasoning-1.json",
+    "durationMin": 40,
+    "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "ibps-quant-1",
+    "subject": "ibps-aptitude",
+    "title": "IBPS Quantitative Aptitude - Set 1",
+    "subtitle": "Quantitative Aptitude - 50 questions",
+    "file": "data/ibps-quant-1.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "psychology-1",
+    "subject": "psychology",
+    "title": "Psychology Self-Assessment - Set 1",
+    "subtitle": "Self-awareness, learning, relationships, and future goals",
+    "file": "data/psychology-1.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0
   }
 ]

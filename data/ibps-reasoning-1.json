@@ -1,0 +1,550 @@
+{
+  "id": "ibps-reasoning-1",
+  "sections": [
+    {
+      "name": "Syllogism",
+      "questions": [
+        {
+          "q": "Statements: All keys are locks. Some locks are doors. Conclusions: I. Some keys are doors. II. Some doors are locks.",
+          "options": [
+            "Only II follows",
+            "Only I follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Statements: Some apples are fruits. All fruits are sweet. Conclusions: I. Some apples are sweet. II. All sweet things are fruits.",
+          "options": [
+            "Both follow",
+            "Neither follows",
+            "Only II follows",
+            "Only I follows"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Statements: All roses are flowers. No flower is a stone. Conclusions: I. No rose is a stone. II. Some stones are roses.",
+          "options": [
+            "Both follow",
+            "Only I follows",
+            "Neither follows",
+            "Only II follows"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Statements: Some pens are pencils. Some pencils are erasers. Conclusions: I. Some pens are erasers. II. Some erasers are pencils.",
+          "options": [
+            "Neither follows",
+            "Only I follows",
+            "Only II follows",
+            "Both follow"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Statements: All dogs are cats. Some cats are rats. Conclusions: I. Some dogs are rats. II. Some rats are cats.",
+          "options": [
+            "Neither follows",
+            "Both follow",
+            "Only I follows",
+            "Only II follows"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Statements: All mobiles are phones. All phones are devices. Some devices are gadgets. Conclusions: I. All mobiles are devices. II. Some gadgets are phones.",
+          "options": [
+            "Neither follows",
+            "Only I follows",
+            "Only II follows",
+            "Both follow"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Inequality",
+      "questions": [
+        {
+          "q": "Statements: P > Q >= R = S, T <= S. Conclusions: I. P > T  II. Q >= T",
+          "options": [
+            "Only I follows",
+            "Neither follows",
+            "Both follow",
+            "Only II follows"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Statements: A > B >= C = D >= E. Conclusions: I. A > E  II. B > E",
+          "options": [
+            "Only I follows",
+            "Only II follows",
+            "Neither follows",
+            "Both follow"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Statements: M < N <= O, P >= O, Q > P. Conclusions: I. M < Q  II. N < P",
+          "options": [
+            "Neither follows",
+            "Both follow",
+            "Only I follows",
+            "Only II follows"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Statements: X > Y, Y >= Z, Z = W. Conclusions: I. X > W  II. Y > W",
+          "options": [
+            "Neither follows",
+            "Only I follows",
+            "Both follow",
+            "Only II follows"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Statements: R >= S, S > T. Conclusions: I. R > T  II. R = T",
+          "options": [
+            "Only I follows",
+            "Either I or II follows",
+            "Both follow",
+            "Only II follows"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Statements: K <= L < M, N > M. Conclusions: I. K < N  II. L <= N",
+          "options": [
+            "Only II follows",
+            "Neither follows",
+            "Only I follows",
+            "Both follow"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding",
+      "questions": [
+        {
+          "q": "In a certain code, POWER is written as QPXFS. How is LIGHT written in that code?",
+          "options": [
+            "MIHJU",
+            "MJIHU",
+            "MJHIU",
+            "KHFGS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In a certain code, CLOUD is written as EMQVF. How is BRAIN written in that code?",
+          "options": [
+            "DSCJP",
+            "DSCIP",
+            "CSDJP",
+            "DRCJP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a certain code, 'sun is hot' is written as 'ka ma ta' and 'hot tea is' is written as 'ta ra ma'. What is the code for 'sun'?",
+          "options": [
+            "ta",
+            "ma",
+            "ra",
+            "ka"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "If A = 1, B = 2, C = 3 and so on, what is the sum of the letter values of the word BANK?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If A is coded as Z, B as Y, C as X and so on, how is CAT coded?",
+          "options": [
+            "YZG",
+            "XZH",
+            "XZG",
+            "XAG"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In a certain code, ORANGE is written as PQBMHD. How is PLANET written in that code?",
+          "options": [
+            "OKBMFS",
+            "QKBNFS",
+            "QMBKFS",
+            "QKBMFS"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Blood Relations",
+      "questions": [
+        {
+          "q": "Pointing to a photograph, Anil says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Anil?",
+          "options": [
+            "Cousin",
+            "Brother",
+            "Nephew",
+            "Uncle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A is the mother of B. B is the sister of C. D is the father of C. How is A related to D?",
+          "options": [
+            "Wife",
+            "Daughter",
+            "Sister",
+            "Mother"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "P is the brother of Q. Q is the sister of R. R is the father of S. How is P related to S?",
+          "options": [
+            "Cousin",
+            "Father",
+            "Uncle",
+            "Grandfather"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A's mother is B's sister. How is B related to A?",
+          "options": [
+            "Maternal aunt",
+            "Mother",
+            "Cousin",
+            "Grandmother"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Pointing to a lady, a man says, \"The son of her only brother is the brother of my wife.\" How is the lady related to the man?",
+          "options": [
+            "Mother's sister",
+            "Sister of father-in-law",
+            "Mother-in-law",
+            "Wife's sister"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Direction Sense",
+      "questions": [
+        {
+          "q": "A person walks 6 km north and then 8 km east. How far is he from the starting point?",
+          "options": [
+            "14 km",
+            "8 km",
+            "12 km",
+            "10 km"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Raj walks 10 m west, turns left and walks 10 m, then turns left again and walks 10 m. Where is he now with respect to the starting point?",
+          "options": [
+            "20 m South",
+            "10 m East",
+            "10 m North",
+            "10 m South"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Facing North, a person turns right, then left, then left again. Which direction is he facing now?",
+          "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A man facing South turns 135° anticlockwise and then 45° clockwise. Which direction is he facing now?",
+          "options": [
+            "East",
+            "South-East",
+            "North-East",
+            "West"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In the evening, Mohan's shadow falls on his right side. Which direction is Mohan facing?",
+          "options": [
+            "East",
+            "North",
+            "South",
+            "West"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Seating Arrangement & Puzzles",
+      "questions": [
+        {
+          "q": "Six friends A, B, C, D, E and F sit in a row facing North. A sits at the left end and E at the right end. C sits immediately to the right of A, B immediately to the right of C, and D immediately to the right of B. Who sits second from the right end?",
+          "options": [
+            "F",
+            "B",
+            "D",
+            "E"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Six friends A, B, C, D, E and F sit in a row facing North. A sits at the left end and E at the right end. C sits immediately to the right of A, B immediately to the right of C, and D immediately to the right of B. How many persons sit between B and E?",
+          "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Six friends A, B, C, D, E and F sit in a row facing North. A sits at the left end and E at the right end. C sits immediately to the right of A, B immediately to the right of C, and D immediately to the right of B. Who sits immediately to the left of F?",
+          "options": [
+            "E",
+            "D",
+            "C",
+            "B"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Six friends A, B, C, D, E and F sit in a row facing North. A sits at the left end and E at the right end. C sits immediately to the right of A, B immediately to the right of C, and D immediately to the right of B. Who sits between C and D?",
+          "options": [
+            "F",
+            "E",
+            "B",
+            "A"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Five colleagues P, Q, R, S and T take leave on different days from Monday to Friday, one person per day. R takes leave on Wednesday, Q on the day after R, T on the day before R, and S on Friday. Who takes leave on Monday?",
+          "options": [
+            "T",
+            "S",
+            "Q",
+            "P"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Five colleagues P, Q, R, S and T take leave on different days from Monday to Friday, one person per day. R takes leave on Wednesday, Q on the day after R, T on the day before R, and S on Friday. On which day does Q take leave?",
+          "options": [
+            "Friday",
+            "Thursday",
+            "Wednesday",
+            "Tuesday"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Five colleagues P, Q, R, S and T take leave on different days from Monday to Friday, one person per day. R takes leave on Wednesday, Q on the day after R, T on the day before R, and S on Friday. How many persons take leave between T and S?",
+          "options": [
+            "1",
+            "0",
+            "3",
+            "2"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Five colleagues P, Q, R, S and T take leave on different days from Monday to Friday, one person per day. R takes leave on Wednesday, Q on the day after R, T on the day before R, and S on Friday. Who takes leave immediately after T?",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Order & Ranking",
+      "questions": [
+        {
+          "q": "In a queue, Ravi is 12th from the front and 15th from the back. How many people are in the queue?",
+          "options": [
+            "25",
+            "26",
+            "27",
+            "28"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "P is heavier than Q but lighter than R. S is lighter than Q. T is heavier than R. Who is the heaviest?",
+          "options": [
+            "T",
+            "S",
+            "R",
+            "P"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Arrange in a meaningful order: 1. Seed 2. Plant 3. Flower 4. Fruit 5. Germination",
+          "options": [
+            "1, 5, 2, 3, 4",
+            "1, 2, 5, 3, 4",
+            "1, 5, 3, 2, 4",
+            "5, 1, 2, 3, 4"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which word comes third when arranged in dictionary order? Bat, Bag, Ball, Bad",
+          "options": [
+            "Bad",
+            "Bag",
+            "Bat",
+            "Ball"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Data Sufficiency",
+      "questions": [
+        {
+          "q": "What is Ravi's age? I. Ravi is 5 years older than Amit. II. Amit is 20 years old.",
+          "options": [
+            "I alone is sufficient",
+            "II alone is sufficient",
+            "Both I and II together are sufficient",
+            "Neither I nor II is sufficient"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Is the number x even? I. x is divisible by 4. II. x is a prime number.",
+          "options": [
+            "I alone is sufficient",
+            "II alone is sufficient",
+            "Both I and II together are sufficient",
+            "Neither I nor II is sufficient"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the value of y? I. y is a positive integer. II. y is less than 10.",
+          "options": [
+            "I alone is sufficient",
+            "II alone is sufficient",
+            "Both I and II together are sufficient",
+            "Neither I nor II is sufficient"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the speed of a car? I. The car covers some distance. II. The car covers 120 km in 2 hours.",
+          "options": [
+            "I alone is sufficient",
+            "II alone is sufficient",
+            "Both I and II together are sufficient",
+            "Neither I nor II is sufficient"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Alphanumeric Series",
+      "questions": [
+        {
+          "q": "Find the next letter: A, C, F, J, O, ?",
+          "options": [
+            "W",
+            "V",
+            "U",
+            "T"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the next number: 3, 5, 9, 17, 33, ?",
+          "options": [
+            "67",
+            "65",
+            "63",
+            "61"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the next letter: Z, X, U, Q, ?",
+          "options": [
+            "K",
+            "L",
+            "M",
+            "N"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the next number: 7, 10, 16, 28, 52, ?",
+          "options": [
+            "96",
+            "98",
+            "100",
+            "104"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the next number: 1, 2, 6, 24, 120, ?",
+          "options": [
+            "600",
+            "720",
+            "840",
+            "1000"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the next term: AB, DE, GH, JK, ?",
+          "options": [
+            "MN",
+            "MO",
+            "NO",
+            "LM"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

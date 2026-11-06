@@ -1,0 +1,535 @@
+{
+  "id": "oir-ssb-1",
+  "sections": [
+    {
+      "name": "Series & Analogy",
+      "questions": [
+        {
+          "q": "Find the next number: 2, 6, 12, 20, 30, ?",
+          "options": [
+            "46",
+            "44",
+            "42",
+            "40"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the next number: 3, 6, 11, 18, 27, ?",
+          "options": [
+            "40",
+            "36",
+            "42",
+            "38"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the next number: 1, 4, 9, 16, 25, ?",
+          "options": [
+            "36",
+            "49",
+            "30",
+            "32"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Find the next number: 2, 3, 5, 7, 11, 13, ?",
+          "options": [
+            "15",
+            "17",
+            "19",
+            "21"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the next term: AZ, BY, CX, DW, ?",
+          "options": [
+            "EV",
+            "FV",
+            "EU",
+            "FW"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Find the next letter: B, D, G, K, ?",
+          "options": [
+            "O",
+            "P",
+            "Q",
+            "R"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pen : Write :: Knife : ?",
+          "options": [
+            "Steel",
+            "Sharp",
+            "Kitchen",
+            "Cut"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Doctor : Hospital :: Teacher : ?",
+          "options": [
+            "Chalk",
+            "Student",
+            "School",
+            "Book"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "7 : 49 :: 12 : ?",
+          "options": [
+            "124",
+            "132",
+            "144",
+            "156"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Moon : Satellite :: Earth : ?",
+          "options": [
+            "Galaxy",
+            "Planet",
+            "Sun",
+            "Star"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the next number: 5, 10, 20, 40, 80, ?",
+          "options": [
+            "160",
+            "120",
+            "180",
+            "100"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Find the next number: 100, 95, 85, 70, 50, ?",
+          "options": [
+            "30",
+            "35",
+            "20",
+            "25"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding & Odd One Out",
+      "questions": [
+        {
+          "q": "If CAT is coded as DBU, then DOG is coded as:",
+          "options": [
+            "EPH",
+            "DPH",
+            "EPG",
+            "FPI"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If MANGO is coded as NBOHP, how is APPLE coded?",
+          "options": [
+            "BPPMF",
+            "BQQLF",
+            "CQQMF",
+            "BQQMF"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In a code language, ROSE = 6821, CHAIR = 73456 and PREACH = 961473. What is the code for SEARCH?",
+          "options": [
+            "214763",
+            "214673",
+            "241673",
+            "214637"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If A = 1, B = 2, C = 3 and so on, what is the value of the word DOG?",
+          "options": [
+            "30",
+            "28",
+            "26",
+            "24"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the odd one out: Mango, Apple, Potato, Banana",
+          "options": [
+            "Apple",
+            "Mango",
+            "Banana",
+            "Potato"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the odd one out: 8, 27, 64, 100",
+          "options": [
+            "100",
+            "64",
+            "27",
+            "8"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Find the odd one out: Lion, Tiger, Leopard, Cow",
+          "options": [
+            "Leopard",
+            "Lion",
+            "Cow",
+            "Tiger"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the odd one out: 3, 5, 9, 11",
+          "options": [
+            "11",
+            "9",
+            "5",
+            "3"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Direction Sense & Blood Relations",
+      "questions": [
+        {
+          "q": "A man walks 5 km north, turns right and walks 3 km, then turns right again and walks 5 km. How far and in which direction is he from his starting point?",
+          "options": [
+            "3 km West",
+            "3 km East",
+            "5 km East",
+            "8 km East"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Rahul faces North. He turns 90° clockwise and then 180° anticlockwise. Which direction is he facing now?",
+          "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Ankit walks 4 km east and then 3 km north. What is his shortest distance from the starting point?",
+          "options": [
+            "3 km",
+            "4 km",
+            "5 km",
+            "7 km"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In the morning, Sita stands facing the Sun. Her shadow falls:",
+          "options": [
+            "Behind her",
+            "In front of her",
+            "On her left",
+            "On her right"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Pointing to a girl, Ravi says, \"She is the daughter of my father's only son.\" How is the girl related to Ravi?",
+          "options": [
+            "Cousin",
+            "Niece",
+            "Sister",
+            "Daughter"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+          "options": [
+            "Daughter",
+            "Granddaughter",
+            "Niece",
+            "Sister"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pointing to a man, a woman says, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+          "options": [
+            "Sister",
+            "Grandmother",
+            "Aunt",
+            "Mother"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A is the brother of B. B is the sister of C. C is the father of D. How is D related to A?",
+          "options": [
+            "Nephew or niece",
+            "Uncle",
+            "Son",
+            "Cousin"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Ranking, Arrangement & Logic",
+      "questions": [
+        {
+          "q": "In a row of 40 students, Ravi is 12th from the left. What is his position from the right?",
+          "options": [
+            "30",
+            "28",
+            "29",
+            "27"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Amit is 7th from the top and 28th from the bottom in a class. How many students are in the class?",
+          "options": [
+            "34",
+            "35",
+            "36",
+            "33"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A is taller than B but shorter than C. D is taller than C. E is shorter than B. Who is the tallest?",
+          "options": [
+            "A",
+            "D",
+            "E",
+            "C"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Rita ranks 10th from the top. Sunil is 5 ranks below Rita. What is Sunil's rank from the top?",
+          "options": [
+            "14",
+            "16",
+            "13",
+            "15"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Statements: All cats are dogs. All dogs are birds. Conclusions: I. All cats are birds. II. Some birds are cats.",
+          "options": [
+            "Both I and II follow",
+            "Neither follows",
+            "Only II follows",
+            "Only I follows"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Statements: Some pens are books. All books are tables. Conclusions: I. Some pens are tables. II. All tables are books.",
+          "options": [
+            "Only II follows",
+            "Neither follows",
+            "Only I follows",
+            "Both follow"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Statements: No flower is a tree. All trees are plants. Conclusions: I. No flower is a plant. II. Some plants are not flowers.",
+          "options": [
+            "Both follow",
+            "Only I follows",
+            "Neither follows",
+            "Only II follows"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Five friends A, B, C, D, E sit in a row. A sits to the left of B but to the right of C. D sits to the right of B. E sits to the left of C. Who sits in the middle?",
+          "options": [
+            "B",
+            "A",
+            "D",
+            "C"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Number & Arithmetical Reasoning",
+      "questions": [
+        {
+          "q": "Find the missing number: (3, 9, 27), (2, 4, 8), (4, ?, 64)",
+          "options": [
+            "8",
+            "12",
+            "16",
+            "20"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "If + means -, - means *, * means / and / means +, then the value of 12 * 4 + 6 - 2 / 3 is:",
+          "options": [
+            "12",
+            "0",
+            "6",
+            "-6"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The average of 5 numbers is 20. If one number is removed, the average of the remaining numbers becomes 18. What is the number removed?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A number is doubled and then increased by 10. The result is 50. What is the number?",
+          "options": [
+            "20",
+            "30",
+            "15",
+            "25"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The sum of two numbers is 25 and their difference is 5. What is the larger number?",
+          "options": [
+            "15",
+            "20",
+            "5",
+            "10"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following fractions is the greatest? 3/4, 5/8, 7/10, 4/5",
+          "options": [
+            "7/10",
+            "4/5",
+            "5/8",
+            "3/4"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How many 5s are immediately followed by 6 in this sequence? 5 6 3 5 6 7 5 8 5 6 9",
+          "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How many letters are there in the English alphabet between the 5th letter from the left and the 5th letter from the right?",
+          "options": [
+            "15",
+            "17",
+            "14",
+            "16"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Clock, Calendar & Word Problems",
+      "questions": [
+        {
+          "q": "What is the angle between the hour and minute hands of a clock at 3:00?",
+          "options": [
+            "60°",
+            "75°",
+            "90°",
+            "120°"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the angle between the hands of a clock at 2:30?",
+          "options": [
+            "95°",
+            "105°",
+            "115°",
+            "120°"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If 1 January 2023 was a Sunday, what day was 1 January 2024?",
+          "options": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Saturday"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If today is Monday, what day will it be after 100 days?",
+          "options": [
+            "Tuesday",
+            "Thursday",
+            "Wednesday",
+            "Friday"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "How many times do the hands of a clock coincide in 12 hours?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "22"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A father is 4 times as old as his son. After 5 years he will be 3 times as old as his son. What is the son's present age?",
+          "options": [
+            "10",
+            "15",
+            "12",
+            "8"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "id": "ibps-quant-1",
+  "sections": [
+    {
+      "name": "Simplification & Number System",
+      "questions": [
+        {
+          "q": "Find the value of 25 × 12 + 150 ÷ 5.",
+          "options": [
+            "340",
+            "330",
+            "320",
+            "350"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the value of (15^2 - 10^2) ÷ 5.",
+          "options": [
+            "25",
+            "30",
+            "35",
+            "20"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Find the value of 0.5 × 0.4 × 10.",
+          "options": [
+            "20",
+            "0.2",
+            "2",
+            "0.02"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The square root of 1764 is:",
+          "options": [
+            "36",
+            "44",
+            "38",
+            "42"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the value of 3/4 of 160 + 1/5 of 100.",
+          "options": [
+            "130",
+            "160",
+            "150",
+            "140"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The HCF of 36 and 48 is:",
+          "options": [
+            "6",
+            "8",
+            "12",
+            "16"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The LCM of 12 and 18 is:",
+          "options": [
+            "36",
+            "48",
+            "72",
+            "24"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the remainder when 2^10 is divided by 7?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Percentage, Profit & Loss",
+      "questions": [
+        {
+          "q": "What is 20% of 450?",
+          "options": [
+            "100",
+            "90",
+            "80",
+            "110"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A number increased by 20% becomes 144. What is the number?",
+          "options": [
+            "110",
+            "130",
+            "120",
+            "124"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The price of an item is increased by 25% and then decreased by 20%. What is the net change?",
+          "options": [
+            "No change",
+            "5% decrease",
+            "10% increase",
+            "5% increase"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An article bought for Rs 500 is sold for Rs 575. What is the profit percentage?",
+          "options": [
+            "20%",
+            "12%",
+            "18%",
+            "15%"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An article is sold at a 20% loss for Rs 640. What was its cost price?",
+          "options": [
+            "Rs 850",
+            "Rs 700",
+            "Rs 800",
+            "Rs 750"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A shopkeeper marks an item at Rs 1000 and gives successive discounts of 10% and 5%. What is the selling price?",
+          "options": [
+            "Rs 850",
+            "Rs 855",
+            "Rs 860",
+            "Rs 865"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In an election between two candidates, the winner gets 60% of the votes and wins by 2000 votes. How many votes were cast in total?",
+          "options": [
+            "15000",
+            "12000",
+            "8000",
+            "10000"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Ratio, Average & Mixture",
+      "questions": [
+        {
+          "q": "Rs 450 is divided among A, B and C in the ratio 2 : 3 : 4. What is C's share?",
+          "options": [
+            "Rs 200",
+            "Rs 180",
+            "Rs 220",
+            "Rs 150"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C is:",
+          "options": [
+            "6 : 12 : 15",
+            "8 : 10 : 15",
+            "2 : 3 : 5",
+            "8 : 12 : 15"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the average of the first 20 natural numbers?",
+          "options": [
+            "11.5",
+            "10",
+            "10.5",
+            "11"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The average of 4 numbers is 25. A fifth number, 50, is added. What is the new average?",
+          "options": [
+            "35",
+            "30",
+            "32",
+            "28"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A mixture of 20 litres has milk and water in the ratio 3 : 1. How much water must be added to make the ratio 1 : 1?",
+          "options": [
+            "10 litres",
+            "15 litres",
+            "20 litres",
+            "5 litres"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The average age of three persons is 24 years. If two of them are 20 and 25 years old, what is the age of the third?",
+          "options": [
+            "25",
+            "28",
+            "27",
+            "26"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Time & Work",
+      "questions": [
+        {
+          "q": "A can do a piece of work in 10 days and B in 15 days. How many days will they take working together?",
+          "options": [
+            "6",
+            "5",
+            "8",
+            "7"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A can do a job in 12 days. After working for 4 days, what fraction of the job is left?",
+          "options": [
+            "1/3",
+            "3/4",
+            "1/2",
+            "2/3"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "12 men can complete a work in 10 days. How many days will 8 men take?",
+          "options": [
+            "12",
+            "15",
+            "18",
+            "20"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pipe A fills a tank in 20 minutes and pipe B empties it in 30 minutes. If both are opened together, how long will the empty tank take to fill?",
+          "options": [
+            "40 minutes",
+            "60 minutes",
+            "80 minutes",
+            "50 minutes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A and B together can do a work in 8 days. A alone can do it in 12 days. How many days will B alone take?",
+          "options": [
+            "18 days",
+            "16 days",
+            "20 days",
+            "24 days"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A is twice as efficient as B. Together they finish a work in 12 days. How many days will A alone take?",
+          "options": [
+            "36 days",
+            "24 days",
+            "18 days",
+            "20 days"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Time, Speed & Distance",
+      "questions": [
+        {
+          "q": "A car travels at 60 km/h for 2.5 hours. How far does it go?",
+          "options": [
+            "150 km",
+            "160 km",
+            "120 km",
+            "140 km"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Convert 72 km/h into m/s.",
+          "options": [
+            "15 m/s",
+            "25 m/s",
+            "18 m/s",
+            "20 m/s"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A 150 m long train crosses a pole in 10 seconds. What is its speed in km/h?",
+          "options": [
+            "60",
+            "54",
+            "72",
+            "45"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A 200 m long train crosses a 300 m long platform in 25 seconds. What is its speed in m/s?",
+          "options": [
+            "24",
+            "18",
+            "20",
+            "15"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A boat's speed in still water is 12 km/h and the stream flows at 3 km/h. How long will it take to go 45 km downstream?",
+          "options": [
+            "3 hours",
+            "2 hours",
+            "4 hours",
+            "5 hours"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Two cars start from the same point in opposite directions at 40 km/h and 60 km/h. How far apart are they after 3 hours?",
+          "options": [
+            "250 km",
+            "300 km",
+            "350 km",
+            "200 km"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Simple & Compound Interest",
+      "questions": [
+        {
+          "q": "What is the simple interest on Rs 5000 at 8% per annum for 3 years?",
+          "options": [
+            "Rs 1200",
+            "Rs 1250",
+            "Rs 1000",
+            "Rs 1500"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the compound interest on Rs 1000 at 10% per annum for 2 years?",
+          "options": [
+            "Rs 240",
+            "Rs 220",
+            "Rs 200",
+            "Rs 210"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A sum doubles in 5 years at simple interest. What is the rate of interest per annum?",
+          "options": [
+            "10%",
+            "25%",
+            "20%",
+            "15%"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the difference between compound and simple interest on Rs 2000 at 5% per annum for 2 years?",
+          "options": [
+            "Rs 10",
+            "Rs 6",
+            "Rs 5",
+            "Rs 4"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "At what rate of compound interest per annum will Rs 4000 amount to Rs 4840 in 2 years?",
+          "options": [
+            "10%",
+            "12%",
+            "8%",
+            "5%"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Mensuration & Geometry",
+      "questions": [
+        {
+          "q": "What is the area of a circle of radius 7 cm? (use pi = 22/7)",
+          "options": [
+            "144 cm^2",
+            "154 cm^2",
+            "164 cm^2",
+            "176 cm^2"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The perimeter of a square is 48 cm. What is its area?",
+          "options": [
+            "169 cm^2",
+            "121 cm^2",
+            "196 cm^2",
+            "144 cm^2"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the sum of the interior angles of a hexagon?",
+          "options": [
+            "620°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The two perpendicular sides of a right-angled triangle are 6 cm and 8 cm. What is the length of its hypotenuse?",
+          "options": [
+            "10 cm",
+            "14 cm",
+            "9 cm",
+            "12 cm"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Probability & Permutation",
+      "questions": [
+        {
+          "q": "Two fair dice are thrown. What is the probability that the sum is 7?",
+          "options": [
+            "1/9",
+            "1/12",
+            "5/36",
+            "1/6"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A bag has 3 red and 5 blue balls. What is the probability of drawing a red ball?",
+          "options": [
+            "1/3",
+            "3/8",
+            "5/8",
+            "3/5"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In how many ways can the letters of the word LEAD be arranged?",
+          "options": [
+            "12",
+            "24",
+            "48",
+            "36"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In how many ways can a committee of 2 be chosen from 5 people?",
+          "options": [
+            "15",
+            "5",
+            "20",
+            "10"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Data Interpretation",
+      "questions": [
+        {
+          "q": "Monthly sales (Rs lakh): Jan 20, Feb 25, Mar 30, Apr 35, May 40. What is the total sales for the five months?",
+          "options": [
+            "170",
+            "160",
+            "150",
+            "140"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Monthly sales (Rs lakh): Jan 20, Feb 25, Mar 30, Apr 35, May 40. What is the average monthly sales?",
+          "options": [
+            "30",
+            "25",
+            "28",
+            "32"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Monthly sales (Rs lakh): Jan 20, Feb 25, Mar 30, Apr 35, May 40. What is the percentage increase in sales from January to May?",
+          "options": [
+            "100%",
+            "50%",
+            "120%",
+            "80%"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Monthly sales (Rs lakh): Jan 20, Feb 25, Mar 30, Apr 35, May 40. What is the ratio of February sales to May sales?",
+          "options": [
+            "3 : 5",
+            "5 : 8",
+            "2 : 3",
+            "1 : 2"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

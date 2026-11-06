@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ibps-so-it",
+    "title": "IBPS SO - IT Officer",
+    "description": "Professional Knowledge mock papers: DBMS, Networks, OS, DSA, Security and more",
+    "icon": "💻"
+  },
+  {
+    "id": "ibps-aptitude",
+    "title": "IBPS - Aptitude & Reasoning",
+    "description": "Quantitative Aptitude and Reasoning Ability practice sets",
+    "icon": "🧮"
+  },
+  {
+    "id": "ssb-oir",
+    "title": "SSB / CDS - OIR Reasoning",
+    "description": "Officer Intelligence Rating style verbal reasoning",
+    "icon": "🎖️"
+  },
+  {
+    "id": "psychology",
+    "title": "Psychology",
+    "description": "Self-awareness, study habits, resilience, and personal growth practice",
+    "icon": "🧠"
+  }
+]
