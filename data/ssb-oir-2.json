@@ -1,0 +1,1050 @@
+{
+  "id": "ssb-oir-2",
+  "sections": [
+    {
+      "name": "Analogy & Classification",
+      "questions": [
+        {
+          "q": "7 : 350 :: 9 : ?",
+          "options": [
+            "648",
+            "720",
+            "810",
+            "729"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "11 : 132 :: 15 : ?",
+          "options": [
+            "210",
+            "225",
+            "240",
+            "255"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "16 : 20 :: 25 : ?",
+          "options": [
+            "28",
+            "29",
+            "30",
+            "32"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Thermometer : Temperature :: Barometer : ?",
+          "options": [
+            "Humidity",
+            "Pressure",
+            "Wind",
+            "Rainfall"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Parliament : Law :: Court : ?",
+          "options": [
+            "Police",
+            "Justice",
+            "Election",
+            "Constitution"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Find the odd one out.",
+          "options": [
+            "121",
+            "169",
+            "225",
+            "289"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Find the odd one out.",
+          "options": [
+            "31",
+            "43",
+            "53",
+            "63"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the odd one out.",
+          "options": [
+            "Copper",
+            "Iron",
+            "Aluminium",
+            "Brass"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the odd one out.",
+          "options": [
+            "8",
+            "27",
+            "64",
+            "100"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Find the odd one out.",
+          "options": [
+            "14",
+            "21",
+            "35",
+            "44"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Oxygen : Respiration :: Food : ?",
+          "options": [
+            "Digestion",
+            "Circulation",
+            "Excretion",
+            "Absorption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Seed : Plant :: Egg : ?",
+          "options": [
+            "Nest",
+            "Bird",
+            "Feather",
+            "Shell"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Constitution : Country :: Rulebook : ?",
+          "options": [
+            "Game",
+            "Player",
+            "Stadium",
+            "Team"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "4 : 20 :: 7 : ?",
+          "options": [
+            "49",
+            "56",
+            "63",
+            "70"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "13 : 182 :: 17 : ?",
+          "options": [
+            "272",
+            "289",
+            "306",
+            "323"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Number Series",
+      "questions": [
+        {
+          "q": "4, 9, 19, 39, 79, ?",
+          "options": [
+            "157",
+            "158",
+            "159",
+            "160"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "3, 8, 18, 38, 78, ?",
+          "options": [
+            "156",
+            "157",
+            "158",
+            "159"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "2, 5, 11, 23, 47, ?",
+          "options": [
+            "94",
+            "95",
+            "96",
+            "97"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "6, 13, 27, 55, 111, ?",
+          "options": [
+            "221",
+            "222",
+            "223",
+            "224"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "1, 3, 7, 15, 31, ?",
+          "options": [
+            "61",
+            "62",
+            "63",
+            "64"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "2, 6, 12, 20, 30, 42, ?",
+          "options": [
+            "54",
+            "56",
+            "58",
+            "60"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "5, 11, 23, 47, 95, ?",
+          "options": [
+            "189",
+            "190",
+            "191",
+            "192"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "3, 7, 15, 31, 63, ?",
+          "options": [
+            "125",
+            "126",
+            "127",
+            "128"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "10, 12, 17, 27, 44, ?",
+          "options": [
+            "68",
+            "69",
+            "70",
+            "71"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "1, 2, 6, 24, 120, ?",
+          "options": [
+            "360",
+            "600",
+            "720",
+            "840"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "100, 97, 91, 82, 70, ?",
+          "options": [
+            "55",
+            "56",
+            "57",
+            "58"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "2, 9, 28, 65, 126, ?",
+          "options": [
+            "215",
+            "216",
+            "217",
+            "218"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "4, 10, 22, 46, 94, ?",
+          "options": [
+            "186",
+            "187",
+            "188",
+            "189"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "7, 12, 22, 42, 82, ?",
+          "options": [
+            "162",
+            "164",
+            "166",
+            "168"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "144, 72, 36, 18, 9, ?",
+          "options": [
+            "3",
+            "4",
+            "4.5",
+            "5"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Alphabet & Alphanumeric Series",
+      "questions": [
+        {
+          "q": "B, E, J, Q, Z, ?",
+          "options": [
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "C, G, L, R, Y, ?",
+          "options": [
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AZ, CX, FU, JQ, ?",
+          "options": [
+            "OL",
+            "OM",
+            "PL",
+            "PM"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "AB, DEF, HIJK, LMNOP, ?",
+          "options": [
+            "QRSTU",
+            "QRSTUV",
+            "PQRSTU",
+            "RSTUVW"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A2, C4, F8, J16, O32, ?",
+          "options": [
+            "U64",
+            "T64",
+            "V64",
+            "U32"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Z1, X3, U6, Q10, L15, ?",
+          "options": [
+            "F20",
+            "G21",
+            "F21",
+            "E21"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "If A=1, B=2 … Z=26, what is the value of ARMY?",
+          "options": [
+            "57",
+            "58",
+            "59",
+            "60"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "If A=26, B=25, C=24 … Z=1, what is the value of DOG?",
+          "options": [
+            "53",
+            "54",
+            "55",
+            "56"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which letter is 7th to the right of the 12th letter from the left?",
+          "options": [
+            "R",
+            "S",
+            "T",
+            "U"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which letter is exactly midway between H and T?",
+          "options": [
+            "M",
+            "N",
+            "O",
+            "P"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding",
+      "questions": [
+        {
+          "q": "If COMMAND is coded as DPNNBOE, then OFFICER is coded as:",
+          "options": [
+            "PGGJDFS",
+            "PGGJDSF",
+            "PGHJDDS",
+            "OGGJDFS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If BRAVE = 21345 and BRAIN = 21367, what is the code for RAIN?",
+          "options": [
+            "1367",
+            "3167",
+            "1365",
+            "1267"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If DELTA is written as FCKVC, then BRAVO is written as:",
+          "options": [
+            "DTCTX",
+            "DTAVQ",
+            "DSCTX",
+            "CTBWQ"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If each letter is replaced by the letter 2 positions after it, what is the code for INDIA?",
+          "options": [
+            "KPFKC",
+            "KPFLC",
+            "KPFKC",
+            "JOEJB"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a code language, MANGO = 57631 and GO = 31. What is MAN?",
+          "options": [
+            "576",
+            "573",
+            "567",
+            "531"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If PAPER → QBQFS, then PENCIL → ?",
+          "options": [
+            "QFODJM",
+            "QFODIL",
+            "QFODKM",
+            "PFODJM"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If SOLDIER is written as REIDLOS, the coding method is:",
+          "options": [
+            "Reverse the word",
+            "Reverse every pair",
+            "Alternate letters",
+            "Shift letters"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If TRAIN = 20-18-1-9-14, what is ARMY?",
+          "options": [
+            "1-18-13-25",
+            "1-17-13-24",
+            "2-18-13-25",
+            "1-18-12-25"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a code, BAT = 23, DOG = 26. The code represents:",
+          "options": [
+            "Product of letter values",
+            "Sum of letter values",
+            "Difference of first and last letters",
+            "Number of letters"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If NATION becomes NOITAN, how will OFFICER be written?",
+          "options": [
+            "RECIFFO",
+            "REICFFO",
+            "REFFIC O",
+            "OFFRECI"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If every consonant is replaced by the next consonant and every vowel by the next vowel, then BAT becomes:",
+          "options": [
+            "CEV",
+            "COT",
+            "CEU",
+            "DBU"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "If TIGER = 52 and LION = 50, using alphabetical values, which is the code for BEAR?",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "32"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Blood Relations",
+      "questions": [
+        {
+          "q": "Pointing to a photograph, Raj says: “He is the son of the only daughter of my grandfather.” The person is Raj’s:",
+          "options": [
+            "Brother",
+            "Cousin",
+            "Uncle",
+            "Nephew"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A is the mother of B. C is the father of A. D is the brother of B. How is C related to D?",
+          "options": [
+            "Father",
+            "Grandfather",
+            "Uncle",
+            "Brother"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "P is the daughter of Q. R is the son of P. S is the father of Q. How is S related to R?",
+          "options": [
+            "Father",
+            "Grandfather",
+            "Great-grandfather",
+            "Uncle"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A’s brother B is married to C. D is C’s brother. How is D related to A?",
+          "options": [
+            "Brother",
+            "Brother-in-law",
+            "Cousin",
+            "Uncle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A woman says, “His mother is the only daughter of my mother.” The man is her:",
+          "options": [
+            "Brother",
+            "Son",
+            "Father",
+            "Nephew"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "X is the maternal uncle of Y. Z is the daughter of X. How is Z related to Y?",
+          "options": [
+            "Sister",
+            "Cousin",
+            "Aunt",
+            "Niece"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "P’s father is Q’s son. R is Q’s daughter. How is R related to P?",
+          "options": [
+            "Mother",
+            "Aunt",
+            "Sister",
+            "Grandmother"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A is B’s sister. C is A’s mother. D is C’s father. E is D’s wife. How is E related to B?",
+          "options": [
+            "Mother",
+            "Grandmother",
+            "Aunt",
+            "Sister"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A man says, “The woman is the wife of the only son of my father’s father.” The woman is his:",
+          "options": [
+            "Mother",
+            "Aunt",
+            "Sister",
+            "Cousin"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "P is Q’s brother. R is P’s mother. S is R’s father. T is S’s wife. How is T related to Q?",
+          "options": [
+            "Mother",
+            "Grandmother",
+            "Aunt",
+            "Sister"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If A is the father of B, B is the sister of C, and C is the father of D, then A is D’s:",
+          "options": [
+            "Father",
+            "Uncle",
+            "Grandfather",
+            "Brother"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "M is N’s daughter. N is O’s son. O is P’s wife. How is P related to M?",
+          "options": [
+            "Father",
+            "Grandfather",
+            "Grandmother",
+            "Uncle"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A’s maternal grandfather has exactly two children: A’s mother and A’s maternal uncle. The uncle’s daughter is A’s:",
+          "options": [
+            "Sister",
+            "Cousin",
+            "Niece",
+            "Aunt"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Direction & Distance",
+      "questions": [
+        {
+          "q": "A person walks 8 km north, turns right and walks 6 km, then turns right and walks 8 km. How far is he from the starting point?",
+          "options": [
+            "4 km",
+            "6 km",
+            "8 km",
+            "14 km"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A walks 12 km east, 5 km north, 12 km west and 9 km south. Position from start?",
+          "options": [
+            "4 km North",
+            "4 km South",
+            "5 km North",
+            "9 km South"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A person faces north. He turns 135° clockwise. Which direction does he face?",
+          "options": [
+            "NE",
+            "SE",
+            "NW",
+            "SW"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A person faces west and turns 225° clockwise. He now faces:",
+          "options": [
+            "North-East",
+            "South-East",
+            "North-West",
+            "South-West"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Ravi walks 10 m north, 10 m east, 20 m south, then 10 m west. He is:",
+          "options": [
+            "10 m North",
+            "10 m South",
+            "20 m South",
+            "At starting point"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A is 5 km east of B. C is 7 km north of A. D is 5 km west of C. D is in which direction from B?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "P is 4 km south of Q. R is 4 km east of P. S is 4 km north of R. S is in which direction from Q?",
+          "options": [
+            "East",
+            "West",
+            "North-East",
+            "South-East"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A travels 15 km south, then 8 km east. Shortest distance from starting point:",
+          "options": [
+            "16 km",
+            "17 km",
+            "18 km",
+            "23 km"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A person facing south turns 90° anticlockwise, then 180° clockwise. Final direction?",
+          "options": [
+            "East",
+            "West",
+            "North",
+            "South"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "X is 10 m north of Y. Z is 10 m east of X. W is 10 m south of Z. W is:",
+          "options": [
+            "North of Y",
+            "South of Y",
+            "East of Y",
+            "West of Y"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A starts facing east. He turns 90° left, then 135° right, then 180° left. Final direction?",
+          "options": [
+            "North-East",
+            "South-East",
+            "North-West",
+            "South-West"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Ranking & Arrangement",
+      "questions": [
+        {
+          "q": "In a class, Rohan is 18th from the top and 27th from the bottom. Total students?",
+          "options": [
+            "44",
+            "45",
+            "46",
+            "47"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a row of 40 people, A is 13th from left and B is 16th from right. How many people are between A and B?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Five people P, Q, R, S and T sit in a row. P is immediately left of Q. R is immediately right of S. T is at the extreme left. If S is third from left, who is at the extreme right?",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "T"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Six people A, B, C, D, E and F stand in a row. A is before B but after C. D is after B. E is before C. F is after D. Who is third?",
+          "options": [
+            "C",
+            "A",
+            "B",
+            "E"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a race, P finishes before Q but after R. S finishes after Q but before T. Who finishes third?",
+          "options": [
+            "R",
+            "P",
+            "Q",
+            "S"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Seven students A–G have different heights. A is taller than B but shorter than C. D is shorter than B. E is taller than C. F is shorter than D. G is taller than E. Who is shortest?",
+          "options": [
+            "D",
+            "F",
+            "B",
+            "A"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A is 7 ranks ahead of B. If B is 19th from top, A’s rank is:",
+          "options": [
+            "11th",
+            "12th",
+            "13th",
+            "26th"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In a row, P is 8th from left. Q is 5 places to the right of P. R is exactly midway between P and Q. R’s position is:",
+          "options": [
+            "9th",
+            "10th",
+            "11th",
+            "12th"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "12 people stand in a line. A is 4th from left. B is 3 places right of A. C is 2 places left of B. What is C’s position?",
+          "options": [
+            "4th",
+            "5th",
+            "6th",
+            "7th"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If A ranks higher than B, C ranks lower than D, B ranks higher than D, which must be true?",
+          "options": [
+            "A > B > D > C",
+            "A > B > C > D",
+            "C > D > B > A",
+            "D > C > B > A"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Clock & Calendar",
+      "questions": [
+        {
+          "q": "At 4:20, the angle between the hour and minute hands is:",
+          "options": [
+            "5°",
+            "10°",
+            "15°",
+            "20°"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "At 7:30, the smaller angle between the hands is:",
+          "options": [
+            "30°",
+            "35°",
+            "45°",
+            "50°"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "At what time between 5 and 6 o’clock will the hands coincide?",
+          "options": [
+            "5:25 5/11",
+            "5:27 3/11",
+            "5:30",
+            "5:32 5/11"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If today is Friday, what day will it be after 45 days?",
+          "options": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If 1 January is Monday, what day is 1 February in a non-leap year?",
+          "options": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "If 15 August is Tuesday, what day is 15 September in the same year?",
+          "options": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How many odd days are there in 100 years, assuming 24 leap years?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A clock gains 5 minutes every hour. If it is set correctly at 8 AM, what will it show at 8 PM?",
+          "options": [
+            "8:45 PM",
+            "8:50 PM",
+            "9:00 PM",
+            "9:05 PM"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Logical Reasoning",
+      "questions": [
+        {
+          "q": "All officers are disciplined. Some disciplined people are athletes. Which conclusion definitely follows?",
+          "options": [
+            "Some officers are athletes",
+            "All athletes are officers",
+            "All officers are disciplined",
+            "No athlete is an officer"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Some soldiers are engineers. All engineers are graduates. Which conclusion follows?",
+          "options": [
+            "All soldiers are graduates",
+            "Some soldiers are graduates",
+            "No soldier is a graduate",
+            "All graduates are soldiers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "All A are B. No B is C. Therefore:",
+          "options": [
+            "Some A are C",
+            "No A is C",
+            "All C are A",
+            "Some C are B"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Five boxes A, B, C, D and E are arranged from left to right. A is not at either end. B is immediately to the right of D. C is to the left of A. E is at the extreme right. Which arrangement is possible?",
+          "options": [
+            "C-A-D-B-E",
+            "D-B-C-A-E",
+            "C-D-B-A-E",
+            "A-C-D-B-E"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Four persons P, Q, R and S have different ages. P is older than Q. R is younger than S but older than P. Who is definitely the oldest?",
+          "options": [
+            "P",
+            "Q",
+            "R",
+            "S"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A man has ₹100. He spends half of it, then spends half of the remaining amount, and finally spends ₹10. How much remains?",
+          "options": [
+            "₹10",
+            "₹15",
+            "₹20",
+            "₹25"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

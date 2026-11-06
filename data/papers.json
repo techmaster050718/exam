@@ -78,5 +78,35 @@
     "durationMin": 120,
     "correctMark": 1,
     "negativeMark": 0
+  },
+  {
+    "id": "ssb-oir-1",
+    "subject": "ssb-oir",
+    "title": "SSB OIR Hard Practice Set 1",
+    "subtitle": "100 mixed verbal reasoning questions for SSB OIR preparation",
+    "file": "data/ssb-oir-1.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "ssb-oir-2",
+    "subject": "ssb-oir",
+    "title": "SSB OIR Hard Practice Set 2",
+    "subtitle": "100 advanced mixed verbal reasoning questions for SSB OIR preparation",
+    "file": "data/ssb-oir-2.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "cse-fundamentals-100",
+    "subject": "fundamentals-cse",
+    "title": "CSE Fundamentals — 100 Questions",
+    "subtitle": "Computer science, programming, networking, databases, cloud, AI and ML fundamentals",
+    "file": "data/cse-fundamentals-100.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]

@@ -22,5 +22,11 @@
     "title": "Psychology",
     "description": "Self-awareness, study habits, resilience, and personal growth practice",
     "icon": "🧠"
+  },
+  {
+    "id": "fundamentals-cse",
+    "title": "Fundamentals CSE",
+    "description": "Core computer science, programming, IT, AI and ML fundamentals",
+    "icon": "💻"
   }
 ]

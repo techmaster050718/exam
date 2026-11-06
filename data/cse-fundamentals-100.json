@@ -1,0 +1,1055 @@
+{
+  "id": "cse-fundamentals-100",
+  "sections": [
+    {
+      "name": "Computer Fundamentals",
+      "questions": [
+        {
+          "q": "Which component performs arithmetic and logical operations in a CPU?",
+          "options": [
+            "Arithmetic Logic Unit",
+            "Control unit",
+            "Register file",
+            "Cache controller"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which memory is volatile?",
+          "options": [
+            "ROM",
+            "RAM",
+            "SSD",
+            "BIOS flash"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the main purpose of cache memory?",
+          "options": [
+            "Provide long-term storage",
+            "Increase display resolution",
+            "Reduce CPU access time",
+            "Control network traffic"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which firmware interface initializes hardware during boot and provides runtime services to the operating system?",
+          "options": [
+            "Compiler",
+            "Device driver",
+            "Hypervisor",
+            "BIOS/UEFI"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which storage device has no moving mechanical parts?",
+          "options": [
+            "SSD",
+            "HDD",
+            "Magnetic tape",
+            "Floppy disk"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which port is primarily designed to carry both high-definition video and audio?",
+          "options": [
+            "USB-A",
+            "HDMI",
+            "PCIe",
+            "Ethernet"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A 64-bit processor generally has which advantage over a 32-bit processor?",
+          "options": [
+            "It cannot run 32-bit programs",
+            "It always performs every operation twice",
+            "It can address a much larger virtual address space",
+            "It has no need for RAM"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which component manages instruction interpretation and directs other CPU components?",
+          "options": [
+            "ALU",
+            "GPU shader core",
+            "Power supply unit",
+            "Control unit"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which motherboard interface commonly connects a modern discrete GPU?",
+          "options": [
+            "PCIe",
+            "SATA",
+            "HDMI",
+            "USB 2.0"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A CPU needs to repeatedly access the same data. Which memory hierarchy choice avoids the main memory bottleneck most effectively?",
+          "options": [
+            "Moving data to an HDD",
+            "Storing it in the largest cache level",
+            "Using swap space",
+            "Storing it in BIOS ROM"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Full Forms & Terminology",
+      "questions": [
+        {
+          "q": "What does CPU stand for?",
+          "options": [
+            "Computer Peripheral Unit",
+            "Core Program Utility",
+            "Central Processing Unit",
+            "Central Power Unit"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does ROM stand for?",
+          "options": [
+            "Random Output Memory",
+            "Rapid Online Memory",
+            "Reduced Operating Module",
+            "Read Only Memory"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the full form of API?",
+          "options": [
+            "Application Programming Interface",
+            "Automated Program Instruction",
+            "Advanced Processor Interface",
+            "Application Process Integration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does URL identify?",
+          "options": [
+            "A network cable type",
+            "The location of a resource on the web",
+            "A database column",
+            "A processor instruction"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which expansion is correct for HTTPS?",
+          "options": [
+            "High Transfer Text Protocol System",
+            "Hyperlink Transfer Packet Service",
+            "HyperText Transfer Protocol Secure",
+            "Home Text Transport Protocol Secure"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does DNS primarily do?",
+          "options": [
+            "Encrypt files at rest",
+            "Allocate CPU time",
+            "Route packets inside a switch",
+            "Translate domain names into network addresses"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What does IDE provide to developers?",
+          "options": [
+            "A graphical development environment with editor and tools",
+            "A database server only",
+            "A network routing protocol",
+            "A graphics rendering hardware"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does NPU stand for?",
+          "options": [
+            "Network Processing Unit",
+            "Neural Processing Unit",
+            "Numerical Peripheral Unit",
+            "Native Program Utility"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which statement correctly expands ACID?",
+          "options": [
+            "Availability, Concurrency, Integrity, Data",
+            "Access, Control, Identity, Distribution",
+            "Atomicity, Consistency, Isolation, Durability",
+            "Authorization, Cache, Index, Data"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which pair correctly matches service with its expansion?",
+          "options": [
+            "SDK — System Data Kernel; CLI — Cloud Link Interface",
+            "SDK — Secure Data Key; CLI — Computer Logic Input",
+            "SDK — System Design Kit; CLI — Central Logic Interface",
+            "SDK — Software Development Kit; CLI — Command Line Interface"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Programming & Software",
+      "questions": [
+        {
+          "q": "Which construct is best suited for repeated execution when the iteration count is known?",
+          "options": [
+            "A loop",
+            "Variable declaration",
+            "A linker command",
+            "A type conversion"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the return type of a C function that performs work but returns no value?",
+          "options": [
+            "int",
+            "void",
+            "null",
+            "char*"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which concept allows different classes to provide their own implementation of a shared method interface?",
+          "options": [
+            "Encapsulation",
+            "Compilation",
+            "Polymorphism",
+            "Aliasing"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does a compiler primarily produce from source code?",
+          "options": [
+            "Only documentation",
+            "A runtime database",
+            "Network packets",
+            "Machine-specific or intermediate code"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In Java, which keyword creates a subclass of an existing class?",
+          "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "instanceof"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What does recursion require to terminate correctly?",
+          "options": [
+            "A global variable",
+            "At least one base case",
+            "A linked list",
+            "An infinite loop"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which feature hides internal state and exposes operations through a defined interface?",
+          "options": [
+            "Overloading",
+            "Preprocessing",
+            "Encapsulation",
+            "Static linking"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is Python bytecode?",
+          "options": [
+            "Source text stored on disk",
+            "A database query language",
+            "A compiled native executable always",
+            "Low-level instructions executed by the Python virtual machine"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "For a function that calls itself with decreasing n and terminates at n == 0, what is the output of fact(4) if fact(n) returns n * fact(n - 1)?",
+          "options": [
+            "24",
+            "16",
+            "12",
+            "0"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which exception-handling action permits cleanup before control leaves a try block?",
+          "options": [
+            "break statement",
+            "finally/finally block",
+            "continue statement",
+            "function declaration"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "questions": [
+        {
+          "q": "Which data structure follows Last-In, First-Out behavior?",
+          "options": [
+            "Queue",
+            "Heap only",
+            "Stack",
+            "Binary tree"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which traversal visits a binary tree level by level?",
+          "options": [
+            "Depth-First Search",
+            "Preorder only",
+            "Inorder only",
+            "Breadth-First Search"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the average-case search complexity of a well-designed hash table?",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which traversal of a Binary Search Tree visits keys in sorted order?",
+          "options": [
+            "Preorder",
+            "Inorder",
+            "Postorder",
+            "Level order"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the time complexity of binary search on a sorted array?",
+          "options": [
+            "O(1)",
+            "O(n)",
+            "O(log n)",
+            "O(n²)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which sorting algorithm typically uses divide-and-conquer with O(n log n) average complexity?",
+          "options": [
+            "Bubble sort",
+            "Selection sort",
+            "Linear sort",
+            "Merge sort"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A singly linked list of n nodes has a head pointer. What is the worst-case cost to find an element with a given value?",
+          "options": [
+            "O(n)",
+            "O(1)",
+            "O(log n)",
+            "O(n log n)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data structure is the best fit for implementing a printer job queue?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Max-heap only",
+            "Set"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a max-heap of n elements, which operation can insert a new element and restore the heap property in O(log n)?",
+          "options": [
+            "Linear scan",
+            "Array reversal",
+            "Heap insertion",
+            "Inorder traversal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which recurrence describes merge sort’s typical time complexity?",
+          "options": [
+            "T(n) = T(n-1) + O(1)",
+            "T(n) = 2T(n) + O(n)",
+            "T(n) = T(n-1) + O(n)",
+            "T(n) = T(n/2) + O(n)"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "q": "What is the smallest independently scheduled unit within a process?",
+          "options": [
+            "Thread",
+            "File descriptor",
+            "Page",
+            "System call"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which OS mechanism switches the CPU from one process to another?",
+          "options": [
+            "Compilation",
+            "Context switch",
+            "Normalization",
+            "Fragmentation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which condition is not one of the four classic deadlock conditions?",
+          "options": [
+            "Mutual exclusion",
+            "Hold and wait",
+            "Preemption of all resources always possible",
+            "Circular wait"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Virtual memory mainly allows programs to use an address space larger than what?",
+          "options": [
+            "Available disk capacity",
+            "CPU register size only",
+            "The page table size",
+            "Available physical RAM"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which memory-management unit divides virtual memory into fixed-size pages and physical memory into equal-size frames?",
+          "options": [
+            "Paging",
+            "Segmentation",
+            "Swapping only",
+            "Fragmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is a system call?",
+          "options": [
+            "A direct hardware interrupt from RAM",
+            "A request from user space for an OS service",
+            "A function-call in a compiler",
+            "A database transaction"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which scheduler responsibility selects which ready process receives the CPU next?",
+          "options": [
+            "Disk formatting",
+            "Page replacement only",
+            "CPU scheduling",
+            "File indexing"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Why are threads created for the same process cheaper to manage than separate processes?",
+          "options": [
+            "They require no scheduling",
+            "They execute only kernel code",
+            "They cannot share data",
+            "They share an address space and many resources"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Two threads must increment a shared integer. Which synchronization primitive can protect the critical section?",
+          "options": [
+            "Mutex",
+            "DNS cache",
+            "Swap file",
+            "Page table"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system has three processes, and four instances of a resource. Deadlock avoidance requires knowledge of what?",
+          "options": [
+            "Only current disk free space",
+            "Each process’s future maximum resource needs",
+            "The network bandwidth",
+            "The compiler optimization level"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "questions": [
+        {
+          "q": "Which OSI layer is responsible for logical IP addressing and routing?",
+          "options": [
+            "Data Link layer",
+            "Transport layer",
+            "Network layer",
+            "Application layer"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which protocol provides reliable, ordered, connection-oriented delivery?",
+          "options": [
+            "UDP",
+            "IP",
+            "ARP",
+            "TCP"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which device forwards frames within a local Ethernet network using MAC addresses?",
+          "options": [
+            "Switch",
+            "Router",
+            "Firewall",
+            "Modem"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which protocol resolves a domain name to an IP address?",
+          "options": [
+            "DHCP",
+            "DNS",
+            "SMTP",
+            "SNMP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol automatically assigns an IP address and other network configuration to a host?",
+          "options": [
+            "DNS",
+            "FTP",
+            "DHCP",
+            "SSH"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which port is commonly used by HTTPS?",
+          "options": [
+            "21",
+            "22",
+            "80",
+            "443"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What distinguishes IPv6 from IPv4 primarily?",
+          "options": [
+            "A 128-bit address versus 32-bit address",
+            "Only local-network addresses",
+            "No packet headers",
+            "No routing support"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the difference between bandwidth and latency?",
+          "options": [
+            "Bandwidth is delay; latency is capacity",
+            "Bandwidth is capacity; latency is delay",
+            "Both measure error rate",
+            "Bandwidth is physical distance only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A packet must traverse multiple networks. Which device selects the best next hop based on IP routing tables?",
+          "options": [
+            "Repeater",
+            "Unmanaged hub",
+            "Router",
+            "Proxy firewall only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A host on 192.168.1.0/24 needs to communicate with another host on 192.168.2.0/24. What is required?",
+          "options": [
+            "A direct Ethernet cable only",
+            "Changing both MAC addresses",
+            "A DHCP renewal on the switch",
+            "A routing path through a gateway/router"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "DBMS & SQL",
+      "questions": [
+        {
+          "q": "Which SQL clause filters grouped rows?",
+          "options": [
+            "HAVING",
+            "WHERE",
+            "ORDER BY",
+            "GROUP BY"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which key uniquely identifies each row in a table?",
+          "options": [
+            "Foreign key",
+            "Primary key",
+            "Check constraint",
+            "Index key"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which SQL command removes all rows from a table but can preserve its structure?",
+          "options": [
+            "DELETE without WHERE",
+            "DROP TABLE",
+            "TRUNCATE TABLE",
+            "INSERT"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What does normalization primarily reduce?",
+          "options": [
+            "SQL keyword count",
+            "Database server RAM",
+            "The number of queries",
+            "Unwanted data redundancy and update anomalies"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which property means a transaction is treated as all-or-nothing?",
+          "options": [
+            "Atomicity",
+            "Consistency",
+            "Isolation",
+            "Durability"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A foreign key in Orders references Customers.CustomerID. Which value is normally allowed if Customers.CustomerID is the parent key?",
+          "options": [
+            "Any numeric value regardless of parent",
+            "Only an existing parent key value or NULL if permitted",
+            "A duplicate customer name only",
+            "Only NULL"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Given SELECT department, COUNT(*) FROM Employees GROUP BY department HAVING COUNT(*) > 10;, which departments are returned?",
+          "options": [
+            "All departments sorted alphabetically",
+            "Only the largest employee row",
+            "Departments with more than 10 employees",
+            "Employees with no department"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is a composite key?",
+          "options": [
+            "An index stored on disk",
+            "A query joining two tables",
+            "A key that is always NULL",
+            "A key formed from multiple columns"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which JOIN returns all matching rows and unmatched rows from the left table?",
+          "options": [
+            "LEFT JOIN",
+            "INNER JOIN",
+            "CROSS JOIN only",
+            "NATURAL JOIN only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A table has columns StudentID, CourseID, and Grade. StudentID and CourseID together uniquely identify a row. What is their relationship?",
+          "options": [
+            "They are both foreign keys to different tables only",
+            "They form a composite primary key",
+            "They are stored procedures",
+            "They are candidate columns but cannot form a key"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "questions": [
+        {
+          "q": "Which process verifies a user’s claimed identity?",
+          "options": [
+            "Authorization",
+            "Encryption",
+            "Authentication",
+            "Compression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which control determines what an authenticated user is allowed to do?",
+          "options": [
+            "Hashing",
+            "Tokenization",
+            "Phishing",
+            "Authorization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the main purpose of hashing a password before storage?",
+          "options": [
+            "Create a one-way verification value that is not the password",
+            "Compress the password for network transfer",
+            "Encrypt passwords with reversible keys",
+            "Prevent users from setting passwords"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which attack repeatedly tries many passwords or tokens?",
+          "options": [
+            "SQL injection",
+            "Brute-force attack",
+            "Phishing",
+            "DDoS"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which security protocol primarily protects data exchanged over HTTPS?",
+          "options": [
+            "SMTP",
+            "FTP",
+            "TLS",
+            "DHCP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A malicious script executes in another user's browser context. What web vulnerability is this?",
+          "options": [
+            "SQL injection only",
+            "DNS spoofing only",
+            "Buffer overread",
+            "Cross-Site Scripting"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which malware is designed to demand payment while blocking access to data or systems?",
+          "options": [
+            "Ransomware",
+            "Firewall",
+            "Patch",
+            "VPN"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which defense is most directly suited to filtering network traffic by rules at a boundary?",
+          "options": [
+            "Password manager",
+            "Firewall",
+            "Compiler",
+            "File indexer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Why should a digital signature verify both origin and integrity?",
+          "options": [
+            "It encrypts every message with AES only",
+            "It stores passwords in plaintext",
+            "It uses asymmetric cryptography to bind signed content to the signer",
+            "It guarantees availability"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An API accepts an untrusted user value and inserts it into SQL text without parameterization. Which fix is required?",
+          "options": [
+            "Disable HTTPS",
+            "Add more firewall ports",
+            "Hash the SQL string",
+            "Use parameterized queries and validate input"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "questions": [
+        {
+          "q": "In cloud computing, what does IaaS provide to customers?",
+          "options": [
+            "Virtualized infrastructure such as compute and storage",
+            "Only an email application",
+            "Source code for the provider's platform",
+            "A physical office network"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which service model lets developers deploy applications without managing servers or runtime infrastructure?",
+          "options": [
+            "IaaS",
+            "PaaS",
+            "On-premises infrastructure",
+            "A physical LAN"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cloud characteristic lets resources scale automatically with demand?",
+          "options": [
+            "Latency",
+            "Normalization",
+            "Elasticity",
+            "Fragmentation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is a container primarily used for?",
+          "options": [
+            "Replacing all network routers",
+            "Storing relational rows only",
+            "Encrypting DNS records",
+            "Packaging an application with its dependencies and runtime isolation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which technology orchestrates containers across clusters of machines?",
+          "options": [
+            "Kubernetes",
+            "Docker Hub only",
+            "A CDN",
+            "A virtual LAN"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is serverless computing?",
+          "options": [
+            "Computing with no network",
+            "Cloud execution model where infrastructure is managed automatically by the provider",
+            "Running applications only on a developer laptop",
+            "A bare-metal database"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which storage is best suited to large unstructured objects such as images and backups?",
+          "options": [
+            "CPU registers",
+            "A heap",
+            "Object storage",
+            "A page table"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A CDN improves user latency mainly by doing what?",
+          "options": [
+            "Increasing every database row size",
+            "Running SQL queries on clients",
+            "Replacing HTTPS with plaintext",
+            "Caching content at geographically distributed edge locations"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which availability design keeps a service operating after a single-zone failure by placing replicas in separate zones?",
+          "options": [
+            "Multi-zone deployment with redundancy",
+            "Single-host deployment",
+            "Manual monthly backups only",
+            "A larger subnet mask"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cloud application deploys stateless containers behind a load balancer. Which scaling approach is the least fragile?",
+          "options": [
+            "Increasing every server to maximum CPU forever",
+            "Horizontal scaling by adding container replicas",
+            "Storing user sessions only in local container memory",
+            "Restarting the entire cluster for every request"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "questions": [
+        {
+          "q": "Which learning approach trains a model using labeled input-output pairs?",
+          "options": [
+            "Unsupervised learning",
+            "Reinforcement learning",
+            "Supervised learning",
+            "Prompt injection"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which task predicts a continuous numerical value?",
+          "options": [
+            "Classification",
+            "Clustering",
+            "Tokenization",
+            "Regression"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is clustering used for?",
+          "options": [
+            "Grouping similar data points without predefined labels",
+            "Predicting a fixed label for every row",
+            "Executing SQL joins",
+            "Compressing source code"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In ML, what is a feature?",
+          "options": [
+            "A model's final label only",
+            "An input variable used to predict an output",
+            "A GPU cooling device",
+            "A database table constraint"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does overfitting mean?",
+          "options": [
+            "The model is faster than the test runner",
+            "The model has too few parameters",
+            "The model learns training patterns too specifically and generalizes poorly",
+            "The training data is encrypted"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which network architecture is especially suitable for grid-like image data?",
+          "options": [
+            "RNN",
+            "SQL engine",
+            "Load balancer",
+            "CNN"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is an embedding?",
+          "options": [
+            "A learned vector representation of text or another entity",
+            "A compiled executable",
+            "A firewall rule",
+            "A database transaction ID"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A language model confidently states an unsupported fact. What is this called?",
+          "options": [
+            "Gradient descent",
+            "Hallucination",
+            "Tokenization",
+            "Normalization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does RAG add to a language-model application?",
+          "options": [
+            "Replacement of the model's weights during inference",
+            "A rule preventing all prompts",
+            "Retrieval of relevant external context before generation",
+            "A new supervised dataset automatically"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A model has low training error but high validation error and changing training subsets makes it unstable. Which diagnosis is most appropriate?",
+          "options": [
+            "High bias with underfitting",
+            "Low learning capacity on training data",
+            "A DNS configuration problem",
+            "High variance with overfitting"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
