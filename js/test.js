@@ -20,11 +20,14 @@
   /* ── Boot ───────────────────────────────────────────────── */
   document.addEventListener('DOMContentLoaded', async () => {
     App.initTheme();
-    App.qs('#theme-toggle').addEventListener('click', () => {
+    App.applyBranding().catch(() => {});
+    bindClick('#theme-toggle', () => {
       const t = App.toggleTheme();
-      App.qs('#theme-toggle').textContent = t === 'dark' ? '☀️' : '🌙';
+      const themeToggle = App.qs('#theme-toggle');
+      if (themeToggle) themeToggle.textContent = t === 'dark' ? '☀️' : '🌙';
     });
-    App.qs('#theme-toggle').textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
+    const themeToggle = App.qs('#theme-toggle');
+    if (themeToggle) themeToggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
 
     const paperId = App.getParam('paper');
     if (!paperId) { window.location.href = 'index.html'; return; }
@@ -101,6 +104,15 @@
   });
 
   /* ── UI Builder ─────────────────────────────────────────── */
+  function bindClick(selector, handler) {
+    const element = App.qs(selector);
+    if (!element) {
+      console.warn(`test.js: missing UI element ${selector}`);
+      return;
+    }
+    element.addEventListener('click', handler);
+  }
+
   function buildUI() {
     // Set title
     App.qs('#test-title').textContent = paperMeta.title;
@@ -115,34 +127,38 @@
     });
 
     // Palette toggle (mobile)
-    App.qs('#palette-toggle-btn').addEventListener('click', openPalette);
-    App.qs('#palette-overlay').addEventListener('click', closePalette);
-    const closeBtn = App.qs('#palette-close-btn');
-    if (closeBtn) closeBtn.addEventListener('click', closePalette);
+    bindClick('#palette-toggle-btn', openPalette);
+    bindClick('#palette-overlay', closePalette);
+    bindClick('#palette-close-btn', closePalette);
 
-    // Prev / Next / Clear / Mark buttons  (desktop)
-    App.qs('#btn-prev').addEventListener('click', () => navigate(-1));
-    App.qs('#btn-next').addEventListener('click', () => navigate(1));
-    App.qs('#btn-clear').addEventListener('click', clearSelection);
-    App.qs('#btn-mark').addEventListener('click', toggleMark);
+    // Prev / Next / Clear / Mark buttons (desktop)
+    bindClick('#btn-prev', () => navigate(-1));
+    bindClick('#btn-next', () => navigate(1));
+    bindClick('#btn-clear', clearSelection);
+    bindClick('#btn-mark', toggleMark);
 
     // Sticky bottom nav (mobile)
-    App.qs('#btn-prev-sticky').addEventListener('click', () => navigate(-1));
-    App.qs('#btn-next-sticky').addEventListener('click', () => navigate(1));
-    App.qs('#btn-mark-sticky').addEventListener('click', toggleMark);
-    App.qs('#btn-palette-open').addEventListener('click', openPalette);
+    bindClick('#btn-prev-sticky', () => navigate(-1));
+    bindClick('#btn-next-sticky', () => navigate(1));
+    bindClick('#btn-mark-sticky', toggleMark);
+    bindClick('#btn-palette-open', openPalette);
 
     // Submit buttons
-    App.qs('#btn-submit').addEventListener('click', openSubmitModal);
-    App.qs('#btn-submit-sticky').addEventListener('click', openSubmitModal);
-    App.qs('#btn-submit-sidebar').addEventListener('click', openSubmitModal);
-    App.qs('#modal-cancel').addEventListener('click', closeSubmitModal);
-    App.qs('#modal-confirm').addEventListener('click', confirmSubmit);
+    bindClick('#btn-submit', openSubmitModal);
+    bindClick('#btn-submit-sticky', openSubmitModal);
+    bindClick('#btn-submit-sidebar', openSubmitModal);
+    bindClick('#modal-cancel', closeSubmitModal);
+    bindClick('#modal-confirm', confirmSubmit);
 
     // Click backdrop to close modal
-    App.qs('#submit-modal').addEventListener('click', (e) => {
-      if (e.target === App.qs('#submit-modal')) closeSubmitModal();
-    });
+    const submitModal = App.qs('#submit-modal');
+    if (submitModal) {
+      submitModal.addEventListener('click', (e) => {
+        if (e.target === submitModal) closeSubmitModal();
+      });
+    } else {
+      console.warn('test.js: missing UI element #submit-modal');
+    }
   }
 
   /* ── Timer ──────────────────────────────────────────────── */
@@ -198,6 +214,15 @@
 
     // Question text (safe render)
     App.qs('#q-text').innerHTML = App.renderText(q.q);
+    const questionImage = App.qs('#q-image');
+    if (q.img) {
+      questionImage.src = q.img;
+      questionImage.alt = q.imgAlt || `Illustration for question ${idx + 1}`;
+      questionImage.hidden = false;
+    } else {
+      questionImage.hidden = true;
+      questionImage.removeAttribute('src');
+    }
 
     // Options
     const optList = App.qs('#options-list');
@@ -221,6 +246,10 @@
       );
       // Safe set text
       li.querySelector('.option-text').innerHTML = App.renderText(optText);
+      if (Array.isArray(q.optionImgs) && q.optionImgs[oi]) {
+        const image = App.el('img', { className: 'option-image', src: q.optionImgs[oi], alt: `Option ${keys[oi]}` });
+        li.querySelector('.option-text').appendChild(image);
+      }
 
       li.addEventListener('click', () => selectOption(oi));
       li.addEventListener('keydown', (e) => {

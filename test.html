@@ -3,14 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="description" content="IBPS SO IT Officer – Exam screen">
-  <title>Exam – IBPS SO IT Officer Practice</title>
+  <meta name="description" content="Exam screen">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <title>Exam</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<body data-page-title="Exam">
 
   <!-- Top bar: title + timer + counters + theme -->
   <header class="test-topbar" role="banner">
@@ -45,6 +46,7 @@
           <span class="question-number" id="q-num"></span>
           <span style="font-size:var(--text-xs);color:var(--text-muted);display:block;margin-bottom:var(--space-sm)" id="q-section"></span>
           <div class="question-text" id="q-text"></div>
+          <img class="question-image" id="q-image" alt="Question illustration" hidden>
           <ul class="options-list" id="options-list" role="radiogroup" aria-label="Answer options">
             <!-- Options rendered by test.js -->
           </ul>
@@ -110,6 +112,8 @@
     <button class="btn btn-secondary" id="btn-next-sticky" aria-label="Next question" style="flex:1">Next →</button>
   </nav>
 
+  <footer class="test-footer" data-site-footer>Loading…</footer>
+
   <!-- Submit Confirmation Modal -->
   <div class="modal-backdrop" id="submit-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
     <div class="modal-box">
@@ -146,6 +150,6 @@
   </div>
 
   <script src="js/app.js"></script>
-  <script src="js/test.js?v=d8bc17e"></script>
+  <script src="js/test.js?v=20261106-1"></script>
 </body>
 </html>

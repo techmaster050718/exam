@@ -45,23 +45,40 @@
     saveStore(store);
   }
 
-  function exportStore() {
-    return JSON.stringify(loadStore(), null, 2);
-  }
-
-  function importStore(jsonString) {
-    const data = JSON.parse(jsonString);
-    if (typeof data !== 'object' || data === null) throw new Error('Invalid data');
-    saveStore(data);
-  }
-
   function resetAll() {
     localStorage.removeItem(STORAGE_KEY);
+    localStorage.removeItem(THEME_KEY);
   }
 
   /* ── Paper Loader ───────────────────────────────────────── */
   async function loadPapersList() {
     return await fetchJSON('data/papers.json');
+  }
+
+  async function loadSubjects() { return await fetchJSON('data/subjects.json'); }
+  async function loadSite() { return await fetchJSON('data/site.json'); }
+
+  async function applyBranding() {
+    const site = await loadSite();
+    document.querySelectorAll('[data-site-name]').forEach((el) => { el.textContent = site.name; });
+    document.querySelectorAll('[data-site-tagline]').forEach((el) => { el.textContent = site.tagline; });
+    document.querySelectorAll('[data-site-footer]').forEach((el) => { el.textContent = site.footer; });
+    const prefix = document.body.dataset.pageTitle;
+    document.title = prefix ? `${prefix} – ${site.name}` : site.name;
+    return site;
+  }
+
+  function normaliseSubjects(subjects, papers) {
+    const listed = Array.isArray(subjects) ? subjects : [];
+    const ids = new Set(listed.map((s) => s.id));
+    if (papers.some((p) => !p.subject || !ids.has(p.subject))) {
+      listed.push({ id: 'general', title: 'General', description: 'General practice papers', icon: '📚' });
+    }
+    return listed;
+  }
+
+  function subjectIdFor(paper, subjects) {
+    return paper.subject && subjects.some((s) => s.id === paper.subject) ? paper.subject : 'general';
   }
 
   async function loadPaper(filePath) {
@@ -343,9 +360,9 @@
   window.App = {
     // Storage
     loadStore, saveStore, getPaperState, savePaperState, clearPaperState,
-    exportStore, importStore, resetAll,
+    resetAll,
     // Data
-    loadPapersList, loadPaper, flattenQuestions,
+    loadPapersList, loadPaper, loadSubjects, loadSite, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions,
     // Scoring
     computeScore, computeSectionStats,
     // Time
