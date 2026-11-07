@@ -228,5 +228,115 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "cloud-computing-001",
+    "subject": "cloud-computing",
+    "title": "Cloud Computing Fundamentals — 100 Questions",
+    "subtitle": "Cloud concepts, service models, deployment and virtualization",
+    "file": "data/cloud-computing-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "cloud-computing-002",
+    "subject": "cloud-computing",
+    "title": "Cloud Architecture & Virtualization — 100 Questions",
+    "subtitle": "Containers, Kubernetes, networking, storage and architecture",
+    "file": "data/cloud-computing-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "cloud-computing-003",
+    "subject": "cloud-computing",
+    "title": "AWS, Azure & Cloud Services — 100 Questions",
+    "subtitle": "AWS, Azure, databases, serverless, monitoring and multi-cloud choices",
+    "file": "data/cloud-computing-003.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "cloud-computing-004",
+    "subject": "cloud-computing",
+    "title": "Cloud Security, DevOps & Advanced Cloud — 100 Questions",
+    "subtitle": "IAM, disaster recovery, scaling, observability, IaC and cost optimization",
+    "file": "data/cloud-computing-004.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "cloud-computing-005",
+    "subject": "cloud-computing",
+    "title": "Cloud Master Test — 100 Questions",
+    "subtitle": "Architecture decisions, distributed systems, troubleshooting and trade-offs",
+    "file": "data/cloud-computing-005.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "ai-001",
+    "subject": "ai-ml-bigdata",
+    "title": "AI Fundamentals — 100 Questions",
+    "subtitle": "AI concepts, agents, search, knowledge representation and responsible AI",
+    "file": "data/ai-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "ml-001",
+    "subject": "ai-ml-bigdata",
+    "title": "Machine Learning — 100 Questions",
+    "subtitle": "Supervised, unsupervised, ensemble and model evaluation methods",
+    "file": "data/ml-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "deep-learning-genai-001",
+    "subject": "ai-ml-bigdata",
+    "title": "Deep Learning & Neural Networks — 100 Questions",
+    "subtitle": "Optimization, CNNs, RNNs, transformers and advanced neural architectures",
+    "file": "data/deep-learning-genai-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "bigdata-hadoop-001",
+    "subject": "ai-ml-bigdata",
+    "title": "Generative AI & LLMs — 100 Questions",
+    "subtitle": "Transformers, prompting, RAG, fine-tuning, evaluation and responsible deployment",
+    "file": "data/bigdata-hadoop-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "spark-dataengineering-001",
+    "subject": "ai-ml-bigdata",
+    "title": "Big Data + Hadoop — 100 Questions",
+    "subtitle": "Big data concepts, distributed storage, MapReduce, Hadoop and data engineering",
+    "file": "data/spark-dataengineering-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "ai-ml-bigdata-master-001",
+    "subject": "ai-ml-bigdata",
+    "title": "Apache Spark + Big Data Analytics — 100 Questions",
+    "subtitle": "Spark, streaming, Kafka, lakehouse, analytics and distributed troubleshooting",
+    "file": "data/ai-ml-bigdata-master-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]

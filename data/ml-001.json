@@ -1,0 +1,1055 @@
+{
+  "id": "ml-001",
+  "sections": [
+    {
+      "name": "ML Fundamentals & Data",
+      "questions": [
+        {
+          "q": "Supervised learning primarily uses:",
+          "options": [
+            "Input-output labeled training pairs",
+            "Only unlabeled rows",
+            "Only reinforcement rewards",
+            "Only clustering metrics"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Unsupervised learning mainly discovers:",
+          "options": [
+            "Labels from humans only",
+            "Patterns without output labels",
+            "Rewards from actions",
+            "A fixed decision tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Reinforcement learning learns actions through:",
+          "options": [
+            "Only labeled rows",
+            "Only data centroids",
+            "Rewards and penalties",
+            "Only bagging"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Regression predicts a:",
+          "options": [
+            "Discrete class label",
+            "Cluster ID only",
+            "Word token ID only",
+            "Continuous numeric target"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Classification predicts a:",
+          "options": [
+            "Discrete class label",
+            "Continuous value only",
+            "Latent count always",
+            "Distance matrix only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A feature is a:",
+          "options": [
+            "An output label always",
+            "Measured input variable used for prediction",
+            "A train-test split",
+            "A loss function"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A label is the:",
+          "options": [
+            "Input pixel only",
+            "Hyperparameter",
+            "Target value the model learns to predict",
+            "Sampling seed"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A training set is used to:",
+          "options": [
+            "Calculate only production latency",
+            "Store deployment credentials",
+            "Create a final answer label",
+            "Fit model parameters"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A validation set is used to:",
+          "options": [
+            "Tune hyperparameters and select models",
+            "Train final production parameters only",
+            "Replace test data",
+            "Increase data size permanently"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A test set should be used for:",
+          "options": [
+            "Repeated hyperparameter selection",
+            "Final unbiased model performance estimation",
+            "Data cleaning only",
+            "Feature engineering only"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Linear Models & Optimization",
+      "questions": [
+        {
+          "q": "Linear regression fits a model that is linear in:",
+          "options": [
+            "Every nonlinear input always",
+            "Only categorical labels",
+            "Its parameters",
+            "A neural layer only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Logistic regression predicts:",
+          "options": [
+            "A continuous time-series point only",
+            "A cluster hierarchy",
+            "A token sequence length",
+            "A probability for a class or event"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A loss function measures:",
+          "options": [
+            "Difference between predictions and desired targets",
+            "CPU clock speed",
+            "Row count only",
+            "Memory size only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Mean squared error is commonly used for:",
+          "options": [
+            "Binary cross-entropy only",
+            "Regression",
+            "Association rules",
+            "Clustering purity"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cross-entropy is commonly used for:",
+          "options": [
+            "Continuous variable scaling",
+            "Database indexing",
+            "Probabilistic classification",
+            "Data partitioning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Gradient descent updates parameters in the direction of:",
+          "options": [
+            "Positive loss gradient",
+            "Largest random value",
+            "Largest label",
+            "Negative loss gradient"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A learning rate that is too high may cause:",
+          "options": [
+            "Divergence or unstable training",
+            "Guaranteed convergence",
+            "No data movement",
+            "Perfect generalization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "L1 regularization tends to produce:",
+          "options": [
+            "Only dense parameters",
+            "Sparse parameter values",
+            "No bias term always",
+            "Only increased variance"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "L2 regularization primarily penalizes:",
+          "options": [
+            "Missing labels only",
+            "Class counts only",
+            "Large squared parameter magnitudes",
+            "Training time only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Feature scaling is especially important for algorithms based on:",
+          "options": [
+            "Only hash sorting",
+            "Only SQL joins",
+            "Only file compression",
+            "Distances or gradient magnitudes"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Trees & Ensembles",
+      "questions": [
+        {
+          "q": "A decision tree splits data to reduce:",
+          "options": [
+            "Impurity or prediction error",
+            "Only model size",
+            "Only label count",
+            "Only storage latency"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Random forest improves stability by combining:",
+          "options": [
+            "One deep tree only",
+            "Many trees trained with randomized sampling and features",
+            "A single linear hyperplane",
+            "K-means only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Boosting trains weak learners:",
+          "options": [
+            "Independently only",
+            "Without labels",
+            "Sequentially to correct previous errors",
+            "Only by clustering"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Gradient boosting minimizes a differentiable loss using:",
+          "options": [
+            "Only random splits",
+            "Only sample deletion",
+            "Only PCA",
+            "Successive residual corrections"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which ensemble reduces variance primarily through averaging?",
+          "options": [
+            "Bagging",
+            "Boosting only",
+            "Pruning only",
+            "Feature construction only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "XGBoost is associated with optimized implementation of:",
+          "options": [
+            "K-means",
+            "Gradient boosted decision trees",
+            "DBSCAN",
+            "Naive Bayes only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Random forest feature randomness helps reduce:",
+          "options": [
+            "Model accuracy always",
+            "Data dimensionality automatically",
+            "Correlation among individual trees",
+            "Prediction latency"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A decision tree that grows very deep may:",
+          "options": [
+            "Always generalize better",
+            "Have lower variance only",
+            "Remove all bias",
+            "Overfit training data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Early stopping in boosting prevents:",
+          "options": [
+            "Overfitting after validation performance degrades",
+            "All training updates",
+            "Feature extraction",
+            "Model serialization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A stronger tree ensemble may require careful tuning of learning rate and:",
+          "options": [
+            "Printer settings",
+            "Number and depth of trees",
+            "Database locks",
+            "DNS TTL"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Unsupervised & Dimensionality Reduction",
+      "questions": [
+        {
+          "q": "K-means assigns points based on:",
+          "options": [
+            "Decision tree impurity",
+            "Class posterior only",
+            "Distance to cluster centroids",
+            "PageRank"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The silhouette score evaluates:",
+          "options": [
+            "Classification accuracy only",
+            "Text perplexity",
+            "Regression MSE",
+            "Cluster cohesion and separation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "DBSCAN groups points based on:",
+          "options": [
+            "Density and neighborhood connectivity",
+            "Centroid distance only",
+            "Decision thresholds",
+            "Gradient steps"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Agglomerative clustering starts by:",
+          "options": [
+            "Splitting a root cluster only",
+            "Merging individual clusters or observations",
+            "Training labels",
+            "Sampling reinforcement rewards"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Hierarchical clustering output is commonly shown as a:",
+          "options": [
+            "ROC curve only",
+            "Confusion matrix only",
+            "Dendrogram",
+            "Calibration plot"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Principal component analysis reduces dimensions by finding directions of:",
+          "options": [
+            "Minimum output labels",
+            "Highest class count",
+            "Longest query time",
+            "Maximum variance"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PCA components are generally:",
+          "options": [
+            "Orthogonal linear combinations of features",
+            "Independent random labels",
+            "Decision rules",
+            "Text tokens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "t-SNE is mainly used for:",
+          "options": [
+            "Online serving recommendations",
+            "Visualization of high-dimensional data",
+            "Exact PCA reconstruction",
+            "Training loss calculation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Association rule support measures:",
+          "options": [
+            "Classification precision",
+            "Cluster radius",
+            "Frequency of an itemset in transactions",
+            "Tree depth"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An anomaly detection model identifies observations that are:",
+          "options": [
+            "Always incorrect labels",
+            "Always frequent",
+            "Always continuous",
+            "Unusual relative to normal patterns"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Evaluation Metrics",
+      "questions": [
+        {
+          "q": "Accuracy is appropriate when classes are:",
+          "options": [
+            "Balanced and errors are comparably important",
+            "Highly imbalanced and false negatives critical",
+            "Unlabeled",
+            "Continuous only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Precision is:",
+          "options": [
+            "True positives divided by actual positives",
+            "True positives divided by predicted positives",
+            "True negatives divided by all negatives",
+            "False positives divided by false negatives"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Recall is:",
+          "options": [
+            "True positives divided by predicted positives",
+            "Accuracy plus specificity",
+            "True positives divided by actual positives",
+            "Only F1 squared"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "F1 score balances:",
+          "options": [
+            "Training loss and learning rate",
+            "Bias and variance only",
+            "Sensitivity and specificity",
+            "Precision and recall"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The ROC AUC evaluates performance across:",
+          "options": [
+            "Classification thresholds",
+            "Only one threshold",
+            "Only regression error",
+            "Only clustering distance"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "For continuous prediction, MAE is:",
+          "options": [
+            "Mean squared error only",
+            "Mean absolute error",
+            "Log-likelihood",
+            "Adjusted R-squared only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "RMSE is sensitive to:",
+          "options": [
+            "Only zero errors",
+            "Only class labels",
+            "Large prediction errors because errors are squared",
+            "Only missing values"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A confusion matrix reports counts for:",
+          "options": [
+            "Cluster centroids only",
+            "Training rows only",
+            "Loss gradients only",
+            "TP, FP, TN, and FN"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A specificity score measures:",
+          "options": [
+            "Correctly identified negatives among actual negatives",
+            "Precision of positives",
+            "Recall of positives",
+            "MAE"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A PR curve is often preferred over ROC when:",
+          "options": [
+            "Classes are perfectly balanced",
+            "Positive class is rare and false positives matter",
+            "Data is continuous only",
+            "Labels are unavailable"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Validation & Leakage",
+      "questions": [
+        {
+          "q": "Cross-validation estimates generalization by:",
+          "options": [
+            "Testing once on training data",
+            "Using all labels twice",
+            "Repeating training and validation over folds",
+            "Removing the test set"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Stratified cross-validation preserves:",
+          "options": [
+            "Feature names only",
+            "GPU memory usage",
+            "Random cluster IDs",
+            "Class proportions in folds"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Data leakage occurs when:",
+          "options": [
+            "Test information influences training or preprocessing",
+            "Training and validation use the same random seed",
+            "Features are scaled",
+            "A model is serialized"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A train-test split should prevent:",
+          "options": [
+            "Feature normalization",
+            "Future or target-derived data reaching training",
+            "Hyperparameter names",
+            "Model logging"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Group cross-validation is needed when samples are:",
+          "options": [
+            "Completely independent",
+            "Only one class",
+            "Repeated observations grouped by a user or patient",
+            "Unrelated text only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Time-series validation should respect:",
+          "options": [
+            "Random shuffling only",
+            "Same-day future labels",
+            "Cluster membership",
+            "Chronological order and avoid future leakage"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Nested cross-validation separates:",
+          "options": [
+            "Hyperparameter selection from final performance estimation",
+            "Training from feature names",
+            "Clustering from PCA",
+            "SQL queries from indexes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A baseline model is useful for:",
+          "options": [
+            "Replacing all validation",
+            "Comparing whether a complex model adds value",
+            "Hiding data leakage",
+            "Increasing variance"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An imbalanced dataset may need:",
+          "options": [
+            "Only added duplicate negatives",
+            "Removing recall entirely",
+            "Resampling, class weights, or threshold tuning",
+            "Deleting minority samples"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The right validation metric should reflect:",
+          "options": [
+            "Only training speed",
+            "Only model parameters",
+            "Only storage size",
+            "Business cost and intended decision outcome"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Bias, Variance & Regularization",
+      "questions": [
+        {
+          "q": "Overfitting occurs when a model fits noise and performs poorly on:",
+          "options": [
+            "Unseen data",
+            "Its training objective by definition",
+            "CPU memory",
+            "Only test labels"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Underfitting occurs when a model is too simple to capture:",
+          "options": [
+            "Noise in training data",
+            "The underlying pattern",
+            "Feature names",
+            "Test randomness"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Bias describes error caused by overly strong assumptions; variance describes:",
+          "options": [
+            "Mean test label only",
+            "Feature count always",
+            "Sensitivity to training sample changes",
+            "Regularization strength only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Dropout in neural networks reduces:",
+          "options": [
+            "All gradient computation",
+            "Output dimensions always",
+            "Input features",
+            "Co-adaptation of neurons"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Early stopping monitors validation loss to stop when:",
+          "options": [
+            "Generalization begins to deteriorate",
+            "Training loss becomes zero",
+            "Batch size changes",
+            "The label count changes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Regularization reduces overfitting by:",
+          "options": [
+            "Increasing variance only",
+            "Constraining model complexity or parameters",
+            "Duplicating training rows",
+            "Removing validation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pruning reduces a decision tree by removing:",
+          "options": [
+            "Input labels",
+            "Random forest sampling",
+            "Branches with weak generalization benefit",
+            "Feature scaling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Learning curves compare performance across:",
+          "options": [
+            "Only one sample",
+            "Only test labels",
+            "Only hardware names",
+            "Training set sizes or epochs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Data augmentation increases training diversity by:",
+          "options": [
+            "Creating plausible transformed examples",
+            "Deleting random labels",
+            "Duplicating exact rows only",
+            "Removing validation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Transfer learning uses knowledge from a source task to improve a:",
+          "options": [
+            "Completely unrelated random task only",
+            "Related target task",
+            "Static SQL view",
+            "DNS cache"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Feature Engineering",
+      "questions": [
+        {
+          "q": "One-hot encoding represents categories as:",
+          "options": [
+            "Ordinal numeric values only",
+            "Continuous target values",
+            "Binary indicator columns",
+            "Cluster centers"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Ordinal encoding is suitable for categories with:",
+          "options": [
+            "No order only",
+            "Random labels only",
+            "Continuous targets only",
+            "A meaningful order"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Standardization transforms features to:",
+          "options": [
+            "Zero mean and unit variance",
+            "Values between 0 and 1 only",
+            "Binary flags only",
+            "Text embeddings only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Min-max scaling maps values into:",
+          "options": [
+            "A normal distribution only",
+            "A specified minimum and maximum range",
+            "Integer token IDs",
+            "A hash bucket"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A pipeline should place scaling after splitting so the scaler is fit only on:",
+          "options": [
+            "Entire dataset including test",
+            "Output labels only",
+            "Training data",
+            "Future production data"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Target leakage occurs when a feature reveals:",
+          "options": [
+            "Only the input column",
+            "Only a historical average",
+            "Only a balanced class",
+            "Information unavailable or derived after prediction time"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Feature selection removes inputs to reduce:",
+          "options": [
+            "Noise, dimensionality, and redundancy",
+            "All output labels",
+            "Validation splits",
+            "Model serialization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Imputation replaces missing values with:",
+          "options": [
+            "Always zero without evaluation",
+            "A learned or selected placeholder value",
+            "Only deleted labels",
+            "Only random targets"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Text bag-of-words ignores token sequence but represents:",
+          "options": [
+            "Word order",
+            "Part-of-speech trees",
+            "Token counts or frequencies",
+            "Semantic embeddings only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "TF-IDF weights terms by:",
+          "options": [
+            "Only document count",
+            "Only corpus length",
+            "Only character ASCII",
+            "Frequency in a document relative to rarity across documents"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Algorithms & Recommenders",
+      "questions": [
+        {
+          "q": "Naive Bayes applies Bayes theorem with a feature independence:",
+          "options": [
+            "Assumption",
+            "Guarantee",
+            "Deletion rule",
+            "Correlation requirement"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "k-nearest neighbors predicts based on:",
+          "options": [
+            "A learned linear hyperplane",
+            "Distance-weighted neighboring training examples",
+            "A cluster centroid always",
+            "A bagged tree only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Support vector machines seek a boundary maximizing:",
+          "options": [
+            "Total feature count",
+            "Training depth",
+            "Margin between classes",
+            "Number of neighbors"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Kernel methods allow nonlinear boundaries by mapping data to:",
+          "options": [
+            "Lower-resolution images only",
+            "Lowered class labels only",
+            "SQL indexes",
+            "Higher-dimensional feature spaces"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "K-means is sensitive to initialization and:",
+          "options": [
+            "Number of clusters and outliers",
+            "Learning-rate momentum only",
+            "Class labels",
+            "Attention heads"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A recommender uses collaborative filtering based on:",
+          "options": [
+            "Only text parsing",
+            "Patterns across users and items",
+            "Only random search",
+            "Only document frequency"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Association rule confidence measures:",
+          "options": [
+            "Absolute item frequency",
+            "Cluster separation",
+            "Conditional probability of consequent given antecedent",
+            "Tree depth"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Semi-supervised learning uses a mix of:",
+          "options": [
+            "Only labels",
+            "Only rewards",
+            "Only cluster IDs",
+            "Labeled and unlabeled data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Online learning updates a model:",
+          "options": [
+            "Continuously as new data arrives",
+            "Only once ever",
+            "Without data",
+            "Only after batch deletion"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Multi-task learning trains related tasks with:",
+          "options": [
+            "Independent models with no sharing",
+            "Shared representations and task-specific outputs",
+            "Only unlabeled data",
+            "Only reinforcement rewards"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "ML Troubleshooting Scenarios",
+      "questions": [
+        {
+          "q": "A model has 98% training accuracy and 70% test accuracy. The likely issue is:",
+          "options": [
+            "Underfitting",
+            "Perfect calibration",
+            "Overfitting and inadequate generalization",
+            "Data imbalance only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A rare disease classifier has high accuracy but misses most positive cases. Prefer optimizing:",
+          "options": [
+            "Accuracy alone",
+            "RMSE",
+            "Silhouette score",
+            "Recall and F1 or PR AUC"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The dataset has duplicate rows across train and test splits. This causes:",
+          "options": [
+            "Data leakage and optimistic performance",
+            "Guaranteed fairness",
+            "More uncertainty",
+            "Better calibration only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A hospital model predicts from a patient ID. This likely introduces:",
+          "options": [
+            "Useful generalization",
+            "Data leakage or hidden target correlation",
+            "Privacy improvement",
+            "Better causal inference"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A city temperature model is trained and tested randomly across chronological years. Use:",
+          "options": [
+            "Random stratified validation",
+            "Same-day future records",
+            "Time-based validation",
+            "Group shuffle by temperature"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Images from one hospital dominate training. The model may fail at another hospital due to:",
+          "options": [
+            "Perfect balance",
+            "Entropy reduction",
+            "Feature normalization",
+            "Domain or distribution shift"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Customers in one group are measured repeatedly. Validation should be by:",
+          "options": [
+            "Customer group or GroupKFold",
+            "Random row split only",
+            "Stratified split ignoring groups",
+            "Class shuffle only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A linear model underfits complex nonlinear relationships. Consider:",
+          "options": [
+            "More missing values",
+            "Transformations, ensembles, or nonlinear models",
+            "Removing validation",
+            "Higher bias regularization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A random forest overfits with many branches. Improve by:",
+          "options": [
+            "Increasing duplicates",
+            "Removing validation",
+            "Limiting depth, pruning, minimum leaf size, or more data",
+            "Deleting all features"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A model needs both interpretability and nonlinear performance. Use:",
+          "options": [
+            "Only an undocumented black box",
+            "Only raw pixels",
+            "Only random scores",
+            "Interpretable features, calibrated models, or post-hoc explanations"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

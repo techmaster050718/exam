@@ -1,0 +1,1055 @@
+{
+  "id": "cloud-computing-002",
+  "sections": [
+    {
+      "name": "Cloud Networking",
+      "questions": [
+        {
+          "q": "Which device connects separate IP networks and forwards packets by destination address?",
+          "options": [
+            "Router",
+            "Repeater",
+            "Hub",
+            "Switch-only bridge"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud construct defines private IP ranges for resources?",
+          "options": [
+            "Object bucket",
+            "Virtual network",
+            "Container image",
+            "DNS zone"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A subnet partitions a virtual network into:",
+          "options": [
+            "Different billing accounts",
+            "Separate container images",
+            "Smaller address ranges",
+            "Physical disks"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which address is visible only within a private network?",
+          "options": [
+            "Public IP",
+            "Global anycast address",
+            "MAC address",
+            "Private IP"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which component translates private addresses for outbound internet access?",
+          "options": [
+            "NAT gateway",
+            "Load balancer",
+            "DNS resolver",
+            "VPN concentrator"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which network technology creates a secure encrypted tunnel over the internet?",
+          "options": [
+            "CDN",
+            "VPN",
+            "WAF",
+            "SNAT only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A dedicated private connection from a site to a cloud provider is called:",
+          "options": [
+            "Internet gateway",
+            "Reverse proxy",
+            "Direct cloud interconnect",
+            "NAT pool"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Security groups are evaluated primarily by:",
+          "options": [
+            "Application source code",
+            "Database indexes",
+            "Image signatures",
+            "Traffic rules"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Network ACLs commonly operate at which level?",
+          "options": [
+            "Subnet",
+            "Container image",
+            "Database row",
+            "Billing account"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which protocol resolves domain names to IP addresses?",
+          "options": [
+            "DHCP",
+            "DNS",
+            "SNMP",
+            "FTP"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Storage",
+      "questions": [
+        {
+          "q": "Which storage class is designed for objects such as images, logs, and backups?",
+          "options": [
+            "Block storage",
+            "L1 cache",
+            "Object storage",
+            "In-memory register file"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which storage provides a filesystem mount for compute instances?",
+          "options": [
+            "Object storage alone",
+            "DNS cache",
+            "Message queue",
+            "File storage"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which storage attaches a raw disk block device to a VM?",
+          "options": [
+            "Block storage",
+            "Object storage",
+            "Relational database",
+            "CDN cache"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which characteristic distinguishes object storage?",
+          "options": [
+            "Fixed CPU registers",
+            "Unique key, metadata, and object data",
+            "POSIX directory locking by default",
+            "Virtual processor state"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which object storage feature prevents accidental overwriting for a retention period?",
+          "options": [
+            "DNS TTL",
+            "Hyperthreading",
+            "Object lock or immutability",
+            "Load shedding"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which storage strategy reduces risk of ransomware by isolating backups?",
+          "options": [
+            "A single local copy",
+            "An unprotected public bucket",
+            "Hot cache only",
+            "Offline or immutable backups"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which storage option is suitable for shared Linux and Windows file access?",
+          "options": [
+            "Managed file share",
+            "Ephemeral CPU cache",
+            "Object key archive only",
+            "Database page buffer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A rapidly changing database is best stored on:",
+          "options": [
+            "Archive object tier",
+            "Block storage or a managed database volume",
+            "Cold tape only",
+            "A public CDN cache"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A tier of storage with slower retrieval and lower cost suits:",
+          "options": [
+            "Active database transactions",
+            "CPU registers",
+            "Long-term archive",
+            "DNS packets"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Snapshots of block volumes primarily provide:",
+          "options": [
+            "DNS load balancing",
+            "Serverless runtimes",
+            "Secret rotation",
+            "Point-in-time disk recovery"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cloud Databases",
+      "questions": [
+        {
+          "q": "Which database type stores structured tables and enforces schemas?",
+          "options": [
+            "Relational database",
+            "Object cache",
+            "Graph log",
+            "Message broker"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which database is optimized for nodes and relationships?",
+          "options": [
+            "Columnar object store",
+            "Graph database",
+            "DNS database",
+            "Block cache"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which database is best suited for flexible JSON documents?",
+          "options": [
+            "Flat BIOS database",
+            "Packet table",
+            "Document database",
+            "CPU register"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which database provides in-memory key-value low-latency access?",
+          "options": [
+            "Data warehouse archive",
+            "File server",
+            "Hypervisor log",
+            "Redis-compatible cache"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which database feature automatically creates copies for resilience?",
+          "options": [
+            "Managed replication",
+            "Manual source formatting",
+            "DNS caching",
+            "Image deduplication"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which strategy improves read-heavy relational workloads?",
+          "options": [
+            "Removing primary keys",
+            "Read replicas",
+            "Random writes",
+            "Larger SQL strings"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Sharding distributes data by a key but increases:",
+          "options": [
+            "DNS TTL",
+            "CPU cache size",
+            "Cross-shard query complexity",
+            "Public accessibility"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An analytical workload over large historical data is best served by:",
+          "options": [
+            "OLTP transaction database",
+            "DNS registry",
+            "Password vault",
+            "Data warehouse"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which consistency guarantee returns the latest acknowledged write after a failure-free read?",
+          "options": [
+            "Strong consistency",
+            "Eventual consistency only",
+            "No consistency",
+            "Best-effort ordering only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which database feature manages backups, patching, and failover?",
+          "options": [
+            "A bare VM",
+            "Managed database service",
+            "A local text file",
+            "A static HTML server"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Serverless Computing",
+      "questions": [
+        {
+          "q": "Which serverless compute model executes functions on events?",
+          "options": [
+            "IaaS",
+            "PaaS only",
+            "FaaS",
+            "Bare-metal hosting"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which serverless platform automatically scales based on invocations?",
+          "options": [
+            "Static DNS",
+            "Fixed VM cluster",
+            "File cache",
+            "Managed FaaS"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The delay for first invocation after idle time is called:",
+          "options": [
+            "Cold start",
+            "Cache hit",
+            "Hot standby",
+            "Migration window"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which pattern reduces cold-start impact for latency-sensitive APIs?",
+          "options": [
+            "Using no runtime",
+            "Provisioned concurrency or warming strategy",
+            "Removing logs",
+            "Increasing DNS TTL"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which event source commonly triggers serverless image processing?",
+          "options": [
+            "BIOS update",
+            "CPU overheating",
+            "Object upload event",
+            "Packet loss"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which pricing metric is typical for serverless functions?",
+          "options": [
+            "Rack rental",
+            "Domain registration only",
+            "Database schema size only",
+            "Execution duration and invocation count"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Where should database connection credentials be stored for a function?",
+          "options": [
+            "A managed secrets service",
+            "Hard-coded source code",
+            "A public environment variable",
+            "A client-side script"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which architecture is appropriate for short, independent event handlers?",
+          "options": [
+            "A single desktop process",
+            "Serverless functions",
+            "One permanent VM",
+            "A dedicated mainframe terminal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Serverless functions should be designed to be:",
+          "options": [
+            "Dependent on local disk state",
+            "Tied to one host",
+            "Stateless and short-lived",
+            "Permanent session servers"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A function writes an upload record and another function processes it through a queue. This is:",
+          "options": [
+            "Synchronous mainframe batch",
+            "Direct memory sharing",
+            "DNS delegation",
+            "Event-driven asynchronous processing"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Microservices",
+      "questions": [
+        {
+          "q": "Microservices improve independent deployment but increase:",
+          "options": [
+            "Operational and network complexity",
+            "Hardware availability",
+            "Compiled binary size only",
+            "DNS security only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which API style commonly exposes resource operations over HTTP?",
+          "options": [
+            "BIOS",
+            "REST",
+            "RAID",
+            "TCP checksum"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol uses binary messages and HTTP/2 for efficient service calls?",
+          "options": [
+            "SMTP",
+            "FTP",
+            "gRPC",
+            "ARP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which pattern gives every service an independent data store?",
+          "options": [
+            "Shared monolithic database",
+            "Global cache lock",
+            "Single transaction log only",
+            "Database per service"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A Saga coordinates a long business transaction through:",
+          "options": [
+            "Compensating distributed actions",
+            "One physical lock",
+            "A local nested loop",
+            "A DNS redirect"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An API gateway commonly handles:",
+          "options": [
+            "Only disk formatting",
+            "Routing, authentication, throttling, and aggregation",
+            "Only CPU scheduling",
+            "Only database backups"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which pattern avoids hard dependency on a specific service network location?",
+          "options": [
+            "Hard-coded IP addresses",
+            "Static routing tables only",
+            "Service discovery",
+            "Shared credentials"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Circuit breakers protect callers when downstream services:",
+          "options": [
+            "Scale automatically",
+            "Use TLS",
+            "Serve cached content",
+            "Fail repeatedly or become slow"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Versioned APIs help maintain:",
+          "options": [
+            "Backward compatibility",
+            "Unlimited secret access",
+            "Stronger passwords only",
+            "Faster disks only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A deployment using separate services owned by separate teams is described as:",
+          "options": [
+            "Monolithic kernel",
+            "Distributed microservices",
+            "Static website",
+            "Single desktop app"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "questions": [
+        {
+          "q": "Which Kubernetes object defines the desired state for Pods?",
+          "options": [
+            "Service",
+            "Secret",
+            "Deployment",
+            "Namespace"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which object provides stable network access to Pods?",
+          "options": [
+            "Deployment",
+            "ConfigMap",
+            "PersistentVolume",
+            "Service"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "What is the smallest deployable unit in Kubernetes?",
+          "options": [
+            "Pod",
+            "Node",
+            "Cluster",
+            "Container registry"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which resource supplies non-secret configuration data to Pods?",
+          "options": [
+            "Secret manager only",
+            "ConfigMap",
+            "PersistentVolumeClaim",
+            "Ingress"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which object controls external HTTP routing?",
+          "options": [
+            "DaemonSet",
+            "Endpoint",
+            "Ingress",
+            "Namespace"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which Kubernetes component schedules Pods onto nodes?",
+          "options": [
+            "Kubelet only",
+            "API server only",
+            "Container runtime only",
+            "Scheduler"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which component runs containers and reports status on each node?",
+          "options": [
+            "Kubelet",
+            "Scheduler",
+            "Ingress controller",
+            "Cloud controller"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which scaling object adjusts Pod count from metrics or demand?",
+          "options": [
+            "PersistentVolume",
+            "Horizontal Pod Autoscaler",
+            "Job",
+            "Namespace"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What happens when a Deployment Pod fails in a desired replica set?",
+          "options": [
+            "The cluster deletes the Deployment",
+            "The node is reformatted",
+            "The controller replaces it",
+            "Ingress rewrites DNS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which object is appropriate for a one-time batch task?",
+          "options": [
+            "Deployment",
+            "Service",
+            "Ingress",
+            "Job"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Load Balancing & Traffic Management",
+      "questions": [
+        {
+          "q": "Which load balancing layer routes HTTP paths and hostnames?",
+          "options": [
+            "Layer 7",
+            "Layer 1",
+            "Physical switch only",
+            "Block storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which load balancing method distributes requests across healthy servers?",
+          "options": [
+            "DNS cache deletion",
+            "Round robin or least connections",
+            "Packet fragmentation",
+            "Secret rotation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which health check behavior prevents routing to an unhealthy instance?",
+          "options": [
+            "Keep routing retries forever",
+            "Increase timeout only",
+            "Remove the instance from the target pool",
+            "Disable TLS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which traffic policy sends progressively more traffic to a new version?",
+          "options": [
+            "Blue-green deletion",
+            "Batch purge",
+            "Cold standby",
+            "Canary deployment"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A blue-green deployment maintains two environments to enable:",
+          "options": [
+            "Fast rollback",
+            "Longer DNS propagation",
+            "Data sharding",
+            "Manual patching"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Sticky sessions tie a user to one instance and often reduce:",
+          "options": [
+            "Network routing",
+            "Application scalability",
+            "TLS encryption",
+            "Authentication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Global load balancing can route users based on:",
+          "options": [
+            "CPU register size",
+            "Database row ID",
+            "Geography and health",
+            "Browser wallpaper"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which feature terminates TLS before forwarding application traffic?",
+          "options": [
+            "DNS caching",
+            "Packet fragmentation",
+            "Secret replication",
+            "TLS termination at load balancer"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which routing policy is useful when one region is unavailable?",
+          "options": [
+            "Failover routing",
+            "Random file deletion",
+            "Round-robin DNS only",
+            "Static IP pinning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What should an application expose for automated health checks?",
+          "options": [
+            "An admin password",
+            "A health endpoint",
+            "A database dump",
+            "A public encryption key"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "CDN",
+      "questions": [
+        {
+          "q": "What is a Content Delivery Network primarily designed to do?",
+          "options": [
+            "Compile application source",
+            "Encrypt databases automatically",
+            "Serve content from locations near users",
+            "Schedule batch jobs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which content benefits most from CDN caching?",
+          "options": [
+            "Frequent personalized database writes",
+            "Root credentials",
+            "Private encryption keys",
+            "Static images and downloadable assets"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which CDN setting controls how long content remains cached?",
+          "options": [
+            "TTL",
+            "RPO",
+            "MTU",
+            "IAM role"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which action is needed after replacing a cached version prematurely?",
+          "options": [
+            "Increase CPU size",
+            "Invalidate the cache or use a new versioned URL",
+            "Restart DNS globally",
+            "Delete the database"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which routing method typically sends users to the nearest CDN point of presence?",
+          "options": [
+            "Broadcast routing",
+            "ARP flooding",
+            "Anycast or geographic routing",
+            "Static default route"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which CDN security feature can block malicious web traffic?",
+          "options": [
+            "Database sharding",
+            "Hypervisor migration",
+            "Object snapshots",
+            "WAF integration"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A CDN origin is the location where:",
+          "options": [
+            "The source content is stored",
+            "DNS is purchased",
+            "Users enter passwords",
+            "Containers are compiled"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cache behavior avoids stale private information?",
+          "options": [
+            "Cache every API response",
+            "Do not cache authenticated responses unless explicitly safe",
+            "Set TTL to zero for all public images",
+            "Use one global cookie"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A versioned asset URL such as app.abc123.js improves:",
+          "options": [
+            "Database normalization",
+            "DNS encryption",
+            "Cache invalidation and rollback safety",
+            "CPU virtualization"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which CDN use reduces load on the origin server?",
+          "options": [
+            "Routing every request to origin",
+            "Disabling compression",
+            "Removing HTTP headers",
+            "Caching repeated requests at edge locations"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Edge Computing",
+      "questions": [
+        {
+          "q": "Which workload benefits from processing near devices to reduce latency?",
+          "options": [
+            "Real-time IoT analytics",
+            "Monthly payroll archive",
+            "Desktop software licensing",
+            "Static DNS registration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Edge computing primarily moves computation closer to:",
+          "options": [
+            "Only the central database",
+            "Data sources and users",
+            "Only a billing center",
+            "Only the origin hypervisor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which limitation is common in edge locations?",
+          "options": [
+            "Unlimited bandwidth always",
+            "No physical security needs",
+            "Limited compute and intermittent connectivity",
+            "Always-on global storage"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An edge device should continue limited operation during network loss. This requires:",
+          "options": [
+            "Only cloud-only sessions",
+            "Synchronous API calls only",
+            "No persistent storage",
+            "Local buffering and offline logic"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which service distributes configuration and code to edge devices?",
+          "options": [
+            "Edge orchestration or device management",
+            "A desktop firewall only",
+            "A relational index",
+            "A DNS cache record"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data strategy can reduce bandwidth from many sensors?",
+          "options": [
+            "Send every raw packet to the cloud",
+            "Aggregate or filter data locally",
+            "Store all data on users' phones",
+            "Disable timestamps"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Latency-sensitive video processing near a user may use:",
+          "options": [
+            "Central archival storage only",
+            "Tape backup",
+            "Edge compute",
+            "Cold standby"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which risk is increased when thousands of independent edge devices are deployed?",
+          "options": [
+            "Guaranteed uniform latency",
+            "Automatic strong encryption",
+            "Centralized CPU only",
+            "Fleet patching and physical security management"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A CDN is a specialized form of:",
+          "options": [
+            "Edge delivery infrastructure",
+            "Database sharding",
+            "Container scheduling",
+            "Virtual machine licensing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which architecture sends only aggregated telemetry to the cloud?",
+          "options": [
+            "Raw data streaming only",
+            "Edge preprocessing with cloud analytics",
+            "No cloud communication",
+            "Client-only local charts"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Protocols & APIs",
+      "questions": [
+        {
+          "q": "Which protocol secures HTTP traffic between client and server?",
+          "options": [
+            "FTP",
+            "Telnet",
+            "TLS/HTTPS",
+            "ARP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which API style uses resource-oriented URLs and standard HTTP methods?",
+          "options": [
+            "UDP broadcast",
+            "SQL join",
+            "Cron",
+            "REST"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which protocol provides lightweight publish-subscribe messaging at the edge?",
+          "options": [
+            "MQTT",
+            "HTTP file upload",
+            "SMTP only",
+            "NTP only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which HTTP method is normally used to create a resource?",
+          "options": [
+            "GET",
+            "POST",
+            "HEAD",
+            "OPTIONS only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which HTTP status indicates successful resource creation?",
+          "options": [
+            "404 Not Found",
+            "500 Internal Server Error",
+            "201 Created",
+            "301 only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which status indicates that authentication credentials are missing or invalid?",
+          "options": [
+            "202 Accepted",
+            "204 No Content",
+            "429 Too Many Requests",
+            "401 Unauthorized"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "API throttling is primarily used to:",
+          "options": [
+            "Protect services from excessive demand",
+            "Increase DNS TTL",
+            "Encrypt all payloads",
+            "Shard passwords"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which mechanism prevents duplicate processing when a request is retried?",
+          "options": [
+            "Longer timeout",
+            "Idempotency key",
+            "Larger payload",
+            "Random sleep"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which API format is commonly used for asynchronous event payloads and service contracts?",
+          "options": [
+            "BIOS binary only",
+            "CPU register dump",
+            "JSON or other structured formats",
+            "DNS zone file only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A versioned public API should use compatibility changes and:",
+          "options": [
+            "Breaking client builds without notice",
+            "Hidden endpoints only",
+            "Unlimited credentials",
+            "Deprecation policies"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

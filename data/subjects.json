@@ -58,5 +58,17 @@
     "title": "General & Defence Awareness",
     "description": "Current affairs, geography, defence, Indian epics and cloud computing",
     "icon": "🎯"
+  },
+  {
+    "id": "cloud-computing",
+    "title": "Cloud Computing",
+    "description": "Cloud architecture, virtualization, AWS, Azure, security, DevOps and distributed systems",
+    "icon": "☁️"
+  },
+  {
+    "id": "ai-ml-bigdata",
+    "title": "AI, ML & Big Data",
+    "description": "Artificial intelligence, machine learning, deep learning, generative AI and big data technologies",
+    "icon": "🤖"
   }
 ]

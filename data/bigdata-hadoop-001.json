@@ -1,0 +1,1055 @@
+{
+  "id": "bigdata-hadoop-001",
+  "sections": [
+    {
+      "name": "LLM Foundations",
+      "questions": [
+        {
+          "q": "An LLM predicts the next token from:",
+          "options": [
+            "Context encoded by a neural network",
+            "A deterministic database only",
+            "A random hash",
+            "A fixed template always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tokenization converts text into:",
+          "options": [
+            "Only character hashes",
+            "Model-readable token units",
+            "Database rows",
+            "Audio frames"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The context window is the maximum amount of:",
+          "options": [
+            "CPU cache only",
+            "Training labels only",
+            "Input text or tokens a model can process together",
+            "Model parameters"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A positional embedding helps a transformer identify:",
+          "options": [
+            "Secret keys",
+            "Database indexes",
+            "GPU vendor",
+            "Token order"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Decoder-only LLMs generate by:",
+          "options": [
+            "Autoregressive sampling of next tokens",
+            "Backward sorting of labels",
+            "SQL joins",
+            "Image pooling only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Perplexity measures how well a language model predicts:",
+          "options": [
+            "Image class accuracy",
+            "Token sequences",
+            "Cluster purity",
+            "Database latency"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pretraining typically teaches broad language patterns using:",
+          "options": [
+            "Only labeled intent rows",
+            "Only one test prompt",
+            "Large unlabeled text corpora",
+            "Only reinforcement rewards"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Instruction tuning trains a model to follow:",
+          "options": [
+            "Only token frequency",
+            "Only database schemas",
+            "Only class labels",
+            "User instructions and desired response formats"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "RLHF uses human preference feedback to:",
+          "options": [
+            "Align model outputs with desirable behavior",
+            "Encrypt parameters",
+            "Reduce context length only",
+            "Remove safety filters"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A model's hallucination is confident output that is:",
+          "options": [
+            "Always longer than 100 words",
+            "Unsupported or factually incorrect",
+            "Always creative",
+            "Always probabilistic"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Prompting & In-Context Learning",
+      "questions": [
+        {
+          "q": "A system prompt defines:",
+          "options": [
+            "Only output vocabulary size",
+            "Only GPU memory",
+            "Global behavior and instruction constraints",
+            "Only training labels"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A user prompt supplies:",
+          "options": [
+            "Permanent model weights",
+            "Only system policy",
+            "Only model logs",
+            "The task or question for that interaction"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Few-shot prompting includes examples to demonstrate:",
+          "options": [
+            "The desired input-output pattern",
+            "Only model architecture",
+            "Only random seeds",
+            "Only test labels"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Zero-shot prompting asks a model to perform a task with:",
+          "options": [
+            "No instruction text",
+            "No task examples in the prompt",
+            "No context window",
+            "No tokenization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Chain-of-thought prompting asks for reasoning, which should be handled carefully when:",
+          "options": [
+            "Every response needs code",
+            "No model memory exists",
+            "Sensitive high-impact decisions require hidden or summarized reasoning",
+            "Only short classification is used"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Prompt injection is an attempt to:",
+          "options": [
+            "Improve cache hit rate",
+            "Optimize SQL joins",
+            "Reduce temperature",
+            "Override instructions through untrusted text"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A prompt template reduces variability by:",
+          "options": [
+            "Using structured placeholders and instructions",
+            "Deleting user input",
+            "Using random word order",
+            "Removing validation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Prompt grounding supplies:",
+          "options": [
+            "Only model size",
+            "Relevant source material or retrieved facts",
+            "Only temperature",
+            "Only output length"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A constrained output schema requires the model to:",
+          "options": [
+            "Only natural prose",
+            "Only random tokens",
+            "Return machine-readable fields such as JSON",
+            "Only images"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Prompt regression testing evaluates changes across:",
+          "options": [
+            "Only one example",
+            "Only production credentials",
+            "Only cloud cost",
+            "A fixed set of representative prompts and expected behaviors"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "questions": [
+        {
+          "q": "RAG combines language generation with:",
+          "options": [
+            "External information retrieval",
+            "Only model memorization",
+            "Only random context",
+            "Only image conversion"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A document ingested by RAG is normally split into:",
+          "options": [
+            "One unlabeled cluster",
+            "Chunks for indexing",
+            "One token only",
+            "One binary password"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A vector index stores:",
+          "options": [
+            "Only source passwords",
+            "Only model weights",
+            "Dense embeddings for similarity search",
+            "Only class labels"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A relevant chunk is selected using:",
+          "options": [
+            "Random document deletion",
+            "Token repetition only",
+            "Only page number",
+            "Semantic or hybrid retrieval"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Hybrid retrieval commonly combines:",
+          "options": [
+            "Keyword and semantic search",
+            "Only embeddings or only keywords",
+            "Only SQL sorting",
+            "Only image resizing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Retrieval reranking improves results by:",
+          "options": [
+            "Deleting the query",
+            "Using a stronger relevance model on candidate chunks",
+            "Increasing chunk size only",
+            "Removing context"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A citation should point to:",
+          "options": [
+            "Any page in the corpus",
+            "Only the model name",
+            "A source supporting each generated claim",
+            "Only a random URL"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A stale knowledge index must be:",
+          "options": [
+            "Used indefinitely",
+            "Deleted without replacement",
+            "Hidden from users",
+            "Refreshed and invalidated through ingestion versioning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "RAG without access control may leak documents through:",
+          "options": [
+            "Retrieved context used in generated answers",
+            "Only tokenization",
+            "Only temperature",
+            "Only cache size"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A RAG evaluation should measure retrieval recall and:",
+          "options": [
+            "Only token count",
+            "Answer correctness, grounding, and citations",
+            "Only latency",
+            "Only chunk size"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Embeddings & Vector Search",
+      "questions": [
+        {
+          "q": "An embedding maps text or data into a:",
+          "options": [
+            "SQL transaction",
+            "Token probability only",
+            "Dense numerical vector",
+            "Image pixel mask"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cosine similarity compares the:",
+          "options": [
+            "Absolute token count",
+            "File size",
+            "Class count",
+            "Direction between two vectors"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Approximate nearest neighbor search trades exactness for:",
+          "options": [
+            "Speed and scalability",
+            "Guaranteed exact recalls",
+            "Only smaller dimension",
+            "Only fewer documents"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "HNSW is a common:",
+          "options": [
+            "Tokenization method",
+            "Graph-based approximate nearest-neighbor index",
+            "Loss function",
+            "Distributed file format"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A vector database stores vectors and supports:",
+          "options": [
+            "Only SQL schema locks",
+            "Only image pixels",
+            "Similarity search and metadata filtering",
+            "Only password hashes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Embedding dimension is the:",
+          "options": [
+            "Text character count",
+            "Token vocabulary only",
+            "Model temperature",
+            "Length of the dense vector representation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Metadata filtering should happen with query semantics to:",
+          "options": [
+            "Enforce tenant and document access boundaries",
+            "Improve only color depth",
+            "Remove embeddings",
+            "Increase temperature"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Different embedding models should not be mixed in one index without:",
+          "options": [
+            "A random ID",
+            "A shared compatibility or migration strategy",
+            "A lower learning rate",
+            "A higher batch size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Chunk overlap helps preserve:",
+          "options": [
+            "Database transactions",
+            "Model weights",
+            "Context across adjacent text segments",
+            "GPU temperature"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Semantic search can improve recall on synonyms, but lexical search may better match:",
+          "options": [
+            "Long abstract meanings only",
+            "Random vectors only",
+            "Only images",
+            "Exact identifiers, names, and rare tokens"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Fine-Tuning & Adaptation",
+      "questions": [
+        {
+          "q": "Full fine-tuning updates all:",
+          "options": [
+            "Model parameters",
+            "Prompt templates only",
+            "Retrieval indexes only",
+            "User passwords"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "LoRA adds trainable low-rank matrices to reduce:",
+          "options": [
+            "Vocabulary only",
+            "Trainable parameter cost and memory",
+            "Prompt length only",
+            "Output quality always"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Adapters insert trainable modules while leaving base weights:",
+          "options": [
+            "Completely deleted",
+            "Always random",
+            "Mostly frozen",
+            "Automatically public"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Instruction tuning improves:",
+          "options": [
+            "Only next-token probabilities",
+            "Only vector indexing",
+            "Only database joins",
+            "Following explicit commands and formats"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A domain dataset should be cleaned for privacy before:",
+          "options": [
+            "Training or fine-tuning",
+            "Only prompt display",
+            "Only embedding storage",
+            "Only model logging"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Catastrophic forgetting occurs when adaptation harms:",
+          "options": [
+            "Only a single test prompt",
+            "Previously learned capabilities",
+            "Only retrieval latency",
+            "Only disk capacity"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Parameter-efficient tuning can help with limited:",
+          "options": [
+            "Internet bandwidth only",
+            "Prompt injection only",
+            "GPU memory and compute",
+            "Token vocabulary"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Fine-tuning a base model is usually measured against a held-out set to detect:",
+          "options": [
+            "Only input speed",
+            "Only output length",
+            "Only model size",
+            "Overfit task-specific examples"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Model distillation transfers behavior from a large teacher to a:",
+          "options": [
+            "Smaller student model",
+            "Random database index",
+            "Vector tokenizer only",
+            "Hardware BIOS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "PEFT is useful because it avoids storing a separate full:",
+          "options": [
+            "Token vocabulary",
+            "Model copy for each adapted task",
+            "Prompt template",
+            "Database schema"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "GenAI Evaluation & Safety",
+      "questions": [
+        {
+          "q": "Model output quality should be evaluated with task-specific correctness and:",
+          "options": [
+            "Only parameter count",
+            "Only latency",
+            "Human and automated quality metrics",
+            "Only token price"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Faithfulness measures whether output is supported by:",
+          "options": [
+            "Only fluent prose",
+            "Only confidence",
+            "Only model size",
+            "Retrieved context or provided sources"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A content safety test should check disallowed content and:",
+          "options": [
+            "Policy-specific harmful transformations",
+            "Only response length",
+            "Only temperature",
+            "Only retrieval speed"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Red teaming intentionally probes a system for:",
+          "options": [
+            "Random syntax errors",
+            "Unsafe behavior and bypasses",
+            "Storage latency",
+            "Cache misses"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Bias evaluation compares outputs for:",
+          "options": [
+            "Only GPU vendors",
+            "Only prompt length",
+            "Protected or representative user groups",
+            "Only server count"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A jailbreak attempts to bypass:",
+          "options": [
+            "Vector indexing only",
+            "Database replication",
+            "Model quantization",
+            "Safety rules through deceptive instructions"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "PII leakage evaluation checks whether generated output reveals:",
+          "options": [
+            "Personal sensitive information",
+            "Only public metadata",
+            "Only stop words",
+            "Only response timing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Robustness testing varies prompts for spelling, language, and:",
+          "options": [
+            "Only file names",
+            "Adversarial intent",
+            "Only server ports",
+            "Only model color"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Confidence scores in generated text should be interpreted cautiously because models can be:",
+          "options": [
+            "Always mathematically exact",
+            "Guaranteed truthful",
+            "Calibrated poorly and hallucinate confidently",
+            "Guaranteed private"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An output safety classifier should be used with user context because:",
+          "options": [
+            "Every prompt is identical",
+            "Only tokens matter",
+            "No false positives exist",
+            "Policy decisions depend on intent and allowed use"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "LLM Serving & Production",
+      "questions": [
+        {
+          "q": "Quantization reduces model precision to:",
+          "options": [
+            "Lower memory and improve serving efficiency",
+            "Increase output context",
+            "Delete safety filters",
+            "Increase vocabulary only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "KV cache stores transformer key and value states to avoid:",
+          "options": [
+            "Embedding storage only",
+            "Repeated computation during autoregressive decoding",
+            "Database replication only",
+            "Input validation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Speculative decoding uses a smaller draft model to propose tokens verified by a:",
+          "options": [
+            "Vector database",
+            "Random cache",
+            "Target model",
+            "SQL parser"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Continuous batching combines requests arriving over time to improve:",
+          "options": [
+            "Output truthfulness",
+            "Token encryption",
+            "Database normalization",
+            "GPU utilization and throughput"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Prefill processes the input prompt, while decode generates:",
+          "options": [
+            "Output tokens one step at a time",
+            "Input embeddings only",
+            "Only database rows",
+            "Only safety labels"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "LLM serving must enforce timeouts and retries with:",
+          "options": [
+            "Unlimited CPU use",
+            "Token and request budgets",
+            "Public credentials",
+            "No rate limits"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A model endpoint should be versioned so clients can control:",
+          "options": [
+            "Only cache size",
+            "Only output font",
+            "Rollbacks and compatibility",
+            "Only model logo"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Streaming returns partial tokens and improves:",
+          "options": [
+            "Guaranteed factuality",
+            "Embedding dimensions",
+            "Database consistency",
+            "Perceived latency"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An inference gateway can centralize:",
+          "options": [
+            "Routing, quotas, policies, and observability",
+            "Only GPU manufacturing",
+            "Only user passwords",
+            "Only source code storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Serving cost can be reduced by caching repeated prompts or:",
+          "options": [
+            "Always using the largest model",
+            "Using smaller models for eligible tasks",
+            "Disabling all validation",
+            "Removing timeouts"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Tool Use & Agents",
+      "questions": [
+        {
+          "q": "Tool calling lets an LLM request structured operations outside its:",
+          "options": [
+            "Prompt template only",
+            "Vector database",
+            "Language model context",
+            "CPU cache"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A tool argument should be schema-validated before:",
+          "options": [
+            "Only embedding text",
+            "Only logging",
+            "Only sampling",
+            "Executing any external action"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A tool-using agent should require authorization for actions such as:",
+          "options": [
+            "Payment, deletion, or external communication",
+            "Only text generation",
+            "Only tokenization",
+            "Only retrieval"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Agent memory may store short-lived conversation state and:",
+          "options": [
+            "Permanent secrets in prompts",
+            "Longer-term retrieved facts or preferences",
+            "Only the latest token",
+            "Only system binaries"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "ReAct-style agents alternate reasoning with:",
+          "options": [
+            "Random SQL joins",
+            "Model quantization",
+            "Tool actions and observations",
+            "Token caching"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An autonomous loop needs iteration and cost limits to prevent:",
+          "options": [
+            "Useful tool use",
+            "Human review",
+            "Retrieval",
+            "Runaway actions and excessive spend"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Tool errors should be returned to the agent as:",
+          "options": [
+            "Structured observations for recovery",
+            "Untrusted executable code",
+            "Only HTTP 200 responses",
+            "Deleted logs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An agent should distinguish data from instructions because retrieved text can be:",
+          "options": [
+            "Always safe",
+            "Untrusted and contain prompt injection",
+            "Always formatted as JSON",
+            "Always verified"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Human approval is essential before irreversible actions such as:",
+          "options": [
+            "Token counting",
+            "Embedding generation",
+            "Financial transfer or production deletion",
+            "Cache lookup"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An agent execution should be reproducible through:",
+          "options": [
+            "Only model name",
+            "Only wall clock",
+            "Only random seed",
+            "Versioned tools, inputs, prompts, and audit logs"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "GenAI Troubleshooting",
+      "questions": [
+        {
+          "q": "RAG returns irrelevant chunks. Improve with:",
+          "options": [
+            "Chunking, hybrid retrieval, reranking, and metadata filters",
+            "Only a larger context window",
+            "Only higher temperature",
+            "Only longer prompts"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "RAG answers correctly but ignores retrieved policy text. Add:",
+          "options": [
+            "Higher randomness",
+            "Prompt priority, citation checks, and refusal logic",
+            "Less retrieval",
+            "More system secrets"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A vector search misses exact product IDs. Use:",
+          "options": [
+            "Only cosine similarity over chunks",
+            "Only random sampling",
+            "Hybrid lexical and semantic retrieval",
+            "Only longer embeddings"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An LLM endpoint is slow under concurrent load. Optimize with:",
+          "options": [
+            "Only lower output quality",
+            "Only public retries",
+            "Only context removal",
+            "Batching, KV cache tuning, and capacity sizing"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The response format breaks JSON parsers. Enforce:",
+          "options": [
+            "JSON schema output plus parsing validation and retries",
+            "More natural prose",
+            "Higher temperature",
+            "Longer generated text"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A customer asks for information after the knowledge cutoff. Ground it with:",
+          "options": [
+            "Model memory only",
+            "Current retrieval sources and cite dates",
+            "An invented source",
+            "A generic refusal only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An agent deletes the wrong record. Add:",
+          "options": [
+            "More loop iterations",
+            "Public tool access",
+            "Permission checks, confirmation, dry-run, and audit logs",
+            "Broad credentials"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A prompt injection is embedded in a retrieved document. Mitigate through:",
+          "options": [
+            "Treating retrieved content as system instructions",
+            "Only longer context",
+            "Higher temperature",
+            "Untrusted-content delimiters, privilege separation, and tool authorization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Fine-tuned performance improves but general capabilities drop. Use:",
+          "options": [
+            "Smaller adaptation, regularization, and mixed replay data",
+            "More epochs only",
+            "Full random overwriting",
+            "No validation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An LLM repeats unsupported facts. Add retrieval, citation verification, and:",
+          "options": [
+            "Higher confidence display",
+            "Uncertainty-based abstention",
+            "More repetition",
+            "Less testing"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Generative AI Architecture Scenarios",
+      "questions": [
+        {
+          "q": "An enterprise assistant must answer from private documents. Use:",
+          "options": [
+            "A public vector index",
+            "A fine-tuned public model only",
+            "Access-controlled ingestion and tenant-aware RAG",
+            "Anonymous retrieval"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A support bot needs factual answers at low cost. Use retrieval plus a small model when:",
+          "options": [
+            "All answers require heavy reasoning",
+            "No facts exist",
+            "The user asks code only",
+            "Retrieved context is sufficient for the task"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A creative writing app wants variety. Increase:",
+          "options": [
+            "Temperature or sampling diversity within safety limits",
+            "Model safety bypass",
+            "Database transaction count",
+            "Embedding dimension only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A legal assistant must cite every claim. Implement:",
+          "options": [
+            "Fluent text without sources",
+            "Source-aware generation and claim citation verification",
+            "Higher confidence labels only",
+            "Longer prompts only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A chatbot handles 10,000 concurrent users. Serve behind:",
+          "options": [
+            "One direct GPU process",
+            "One shared credential",
+            "A load-balanced inference gateway with queues and quotas",
+            "No timeouts"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A model processes user secrets. Production security should:",
+          "options": [
+            "Log every prompt in plaintext",
+            "Share model caches across tenants",
+            "Disable encryption",
+            "Minimize retention, isolate tenants, and mask logs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A new LLM version changes outputs. Deployment should use:",
+          "options": [
+            "Canary rollout and prompt/model regression tests",
+            "Immediate replacement everywhere",
+            "No versioning",
+            "Manual random comparison"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A RAG corpus has documents with conflicting dates. Retrieval should:",
+          "options": [
+            "Choose random chunks",
+            "Prefer verified authority and apply recency with provenance",
+            "Ignore dates",
+            "Merge all answers equally"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A multilingual assistant shows weaker results in minority languages. Improve with:",
+          "options": [
+            "Only English prompting",
+            "Only longer English context",
+            "Language-balanced data, locale testing, and appropriate embeddings",
+            "Only larger temperature"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An agent executes payments from model output. Require:",
+          "options": [
+            "Only a polite refusal prompt",
+            "Only model self-confidence",
+            "Only event logs after payment",
+            "Deterministic policy checks, approval, and amount limits"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

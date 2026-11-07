@@ -1,0 +1,1055 @@
+{
+  "id": "cloud-computing-001",
+  "sections": [
+    {
+      "name": "Cloud Fundamentals",
+      "questions": [
+        {
+          "q": "On-demand access to computing resources with a pay-per-use model is called what?",
+          "options": [
+            "Cloud computing",
+            "Grid scheduling",
+            "Mainframe batching",
+            "Desktop virtualization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud characteristic lets consumers provision resources without manual provider intervention?",
+          "options": [
+            "Metered storage",
+            "On-demand self-service",
+            "Vendor lock-in",
+            "Offline replication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A provider serves multiple tenants from shared pooled resources with logical isolation. This is called:",
+          "options": [
+            "Dedicated hosting",
+            "Edge caching",
+            "Resource pooling",
+            "Data sharding"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Rapidly adding capacity during peak traffic and reducing it afterward demonstrates:",
+          "options": [
+            "Latency",
+            "Fragmentation",
+            "Overfitting",
+            "Elasticity"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The ability of a system to continue operating after failures is called:",
+          "options": [
+            "Fault tolerance",
+            "Elasticity",
+            "Normalization",
+            "Virtualization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A company pays only for compute consumed and storage used. This pricing model is:",
+          "options": [
+            "Perpetual licensing",
+            "Pay-as-you-go",
+            "Hardware amortization",
+            "Manual procurement"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which term describes broad and independent access from different client platforms?",
+          "options": [
+            "Resource pool isolation",
+            "Data gravity",
+            "Broad network access",
+            "Cold start"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Keeping user usage visible to both provider and customer is the cloud characteristic of:",
+          "options": [
+            "Geographic dispersion",
+            "Hybrid orchestration",
+            "Immutable deployment",
+            "Measured service"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A workload must serve thousands of users by adding instances rather than replacing one server. This is:",
+          "options": [
+            "Horizontal scalability",
+            "Vertical repair",
+            "Database normalization",
+            "Network segmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A service available through Windows, macOS, and a mobile browser provides:",
+          "options": [
+            "Bare-metal access",
+            "Broad network access",
+            "Private peering",
+            "Static allocation"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Service Models",
+      "questions": [
+        {
+          "q": "In which service model does the customer manage more infrastructure components and the provider manage hardware and virtualization? IaaS is the answer when:",
+          "options": [
+            "SaaS",
+            "PaaS",
+            "IaaS",
+            "FaaS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In which service model does the customer manage more infrastructure components and the provider manage hardware and virtualization? PaaS is the answer when:",
+          "options": [
+            "SaaS",
+            "PaaS",
+            "FaaS",
+            "PaaS"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In which service model does the customer manage more infrastructure components and the provider manage hardware and virtualization? SaaS is the answer when:",
+          "options": [
+            "SaaS",
+            "SaaS",
+            "PaaS",
+            "FaaS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A developer wants to upload application code while the provider manages runtime, middleware, OS, and infrastructure. Which model fits best?",
+          "options": [
+            "IaaS",
+            "PaaS",
+            "SaaS",
+            "On-premises colocation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An organization uses CRM entirely through a web browser and relies on the vendor for updates. Which model is this?",
+          "options": [
+            "IaaS",
+            "PaaS",
+            "SaaS",
+            "DBaaS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A team needs explicit control of OS patches and installed software on hosted virtual machines. Which model fits?",
+          "options": [
+            "SaaS",
+            "PaaS",
+            "FaaS",
+            "IaaS"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which model runs an individual event handler only when an invocation occurs?",
+          "options": [
+            "FaaS",
+            "DBaaS",
+            "STaaS",
+            "IaaS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which managed database category delegates database installation and patching to the provider?",
+          "options": [
+            "SaaS",
+            "DBaaS",
+            "PaaS",
+            "CDN"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which model is best when the provider should manage storage infrastructure while customers manage data organization?",
+          "options": [
+            "IaaS",
+            "FaaS",
+            "STaaS",
+            "CaaS"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Deployment Models",
+      "questions": [
+        {
+          "q": "A bank keeps sensitive core systems in its own data center and bursts web traffic to a cloud. Which model is used?",
+          "options": [
+            "Public cloud only",
+            "Community cloud",
+            "Multi-tenant SaaS only",
+            "Hybrid cloud"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An infrastructure used exclusively by one organization is described as:",
+          "options": [
+            "Private cloud",
+            "Public cloud",
+            "Community cloud",
+            "Edge cloud"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Several independent ministries share standards but operate a sector-specific cloud. This is closest to:",
+          "options": [
+            "Public cloud",
+            "Community cloud",
+            "Private cloud",
+            "Personal cloud"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A company uses AWS for one workload and Azure for another to reduce dependence on a single vendor. This is:",
+          "options": [
+            "Hybrid cloud",
+            "Community cloud",
+            "Multi-cloud",
+            "Private cloud"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which deployment model offers the greatest elasticity and least hardware ownership?",
+          "options": [
+            "Private cloud",
+            "Traditional hosting",
+            "Community cloud",
+            "Public cloud"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which deployment model gives an organization the greatest infrastructure control?",
+          "options": [
+            "Private cloud",
+            "Public cloud",
+            "SaaS",
+            "Multi-cloud"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A regulated application requires dedicated capacity but occasionally uses public cloud for overflow. Which model is appropriate?",
+          "options": [
+            "Public cloud",
+            "Hybrid cloud",
+            "Community cloud",
+            "Single-tenant SaaS"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which model can make a coordinated security policy harder due to provider and tool differences?",
+          "options": [
+            "Private cloud",
+            "Single-provider public cloud",
+            "Multi-cloud",
+            "Community cloud"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A public research portal with global access and variable traffic should normally use:",
+          "options": [
+            "Dedicated private cloud",
+            "Community mainframe",
+            "Air-gapped server only",
+            "Public cloud"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A regional healthcare consortium with shared compliance requirements is best served by:",
+          "options": [
+            "Community cloud",
+            "Public cloud only",
+            "Personal SaaS",
+            "Private edge cache"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Virtualization",
+      "questions": [
+        {
+          "q": "Which component creates and manages virtual machines above physical hardware?",
+          "options": [
+            "Load balancer",
+            "Hypervisor",
+            "Object store",
+            "DNS resolver"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A hypervisor running directly on physical hardware is classified as:",
+          "options": [
+            "Type 2",
+            "Emulated",
+            "Type 1",
+            "Hosted container"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A hypervisor running as an application inside a host OS is classified as:",
+          "options": [
+            "Type 1",
+            "Bare-metal",
+            "KVM node",
+            "Type 2"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which benefit of virtualization allows one physical server to run isolated workloads?",
+          "options": [
+            "Consolidation",
+            "Serialization",
+            "Deduplication only",
+            "Replication only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which feature lets a running VM move to another physical host with minimal downtime?",
+          "options": [
+            "Snapshot encryption",
+            "Live migration",
+            "Thin provisioning",
+            "Hyperthreading"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which disk allocation strategy initially consumes only required blocks?",
+          "options": [
+            "Full mirroring",
+            "Raid striping",
+            "Thin provisioning",
+            "Overcommitment"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A snapshot captures VM state at a particular time but should not replace regular:",
+          "options": [
+            "Caching",
+            "DNS records",
+            "Patch baselines",
+            "Backups"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A VM has its own operating system; a container normally shares the host operating system:",
+          "options": [
+            "Kernel",
+            "Hypervisor firmware",
+            "CPU registers",
+            "BIOS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which technology pools CPU, memory, storage, and network resources into a virtual environment?",
+          "options": [
+            "Compaction",
+            "Virtualization",
+            "Defragmentation",
+            "Indexing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which risk increases if many VMs overcommit one host without resource limits?",
+          "options": [
+            "Automatic encryption",
+            "Guaranteed isolation",
+            "Contended performance",
+            "Reduced network latency"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Scalability & Elasticity",
+      "questions": [
+        {
+          "q": "A workload expected to receive 100 to 10,000 concurrent requests needs a design that:",
+          "options": [
+            "Uses fixed license counts",
+            "Disables load balancing",
+            "Stores all data locally",
+            "Scales automatically with demand"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Scaling by adding more instances is called:",
+          "options": [
+            "Horizontal scaling",
+            "Vertical scaling",
+            "Read compression",
+            "Monolithic scaling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Scaling by increasing CPU and RAM of one instance is called:",
+          "options": [
+            "Horizontal scaling",
+            "Vertical scaling",
+            "Sharding",
+            "Replication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A system doubles capacity without changing application architecture by upgrading a server. This is mainly:",
+          "options": [
+            "Auto scaling",
+            "Multi-region routing",
+            "Vertical scaling",
+            "Data sharding"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which metric is most useful for scaling a CPU-bound web tier?",
+          "options": [
+            "DNS TTL",
+            "Database row count only",
+            "Image colors",
+            "CPU utilization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Stateless application instances scale more easily because they do not require:",
+          "options": [
+            "Local session state",
+            "Network access",
+            "An operating system",
+            "A load balancer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A scale-out group should use a shared or external session store so users are not tied to one:",
+          "options": [
+            "Firewall",
+            "Instance",
+            "Availability zone",
+            "Container image"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which condition best benefits from a scale-out architecture?",
+          "options": [
+            "A single-threaded local calculation",
+            "A desktop-only batch",
+            "Independent stateless requests",
+            "One shared file lock"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A queue can absorb traffic spikes before workers process jobs, providing:",
+          "options": [
+            "Immediate consistency",
+            "Stronger encryption",
+            "Reduced DNS TTL",
+            "Loose coupling and buffering"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which design reduces resource waste during variable workloads?",
+          "options": [
+            "Auto scaling",
+            "Dedicated oversized server",
+            "Manual weekly resize",
+            "Single fixed cluster"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Availability & Reliability",
+      "questions": [
+        {
+          "q": "High availability primarily aims to minimize:",
+          "options": [
+            "Capital expenditure",
+            "Service downtime",
+            "Network addresses",
+            "Log volume"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A service runs across multiple Availability Zones but uses a single database region. The database is a potential:",
+          "options": [
+            "CDN origin",
+            "DNS cache",
+            "Single point of failure",
+            "Stateless tier"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which design reduces recovery time when one zone fails?",
+          "options": [
+            "Only one zone with snapshots",
+            "Manual cold start",
+            "A single NAT instance",
+            "Active-active across zones"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An RPO of 15 minutes permits data loss of at most approximately:",
+          "options": [
+            "15 minutes",
+            "15 hours",
+            "15 days",
+            "15 seconds only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "RTO measures the required time to:",
+          "options": [
+            "Replicate one database row",
+            "Restore service after disruption",
+            "Deploy a new DNS name",
+            "Rotate access keys"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A primary and standby database requires automatic promotion for:",
+          "options": [
+            "Load balancing",
+            "Content delivery",
+            "Failover",
+            "Secret rotation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Deploying an application in only one server rack violates strong:",
+          "options": [
+            "Data encryption",
+            "DNS resolution",
+            "Network compression",
+            "Fault isolation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A backup policy alone does not guarantee a low recovery time if restoration is never:",
+          "options": [
+            "Tested",
+            "Encrypted",
+            "Compressed",
+            "Versioned only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which architecture supports continuing service if one AZ becomes unavailable?",
+          "options": [
+            "Single-AZ deployment",
+            "Multi-AZ deployment",
+            "Single-host deployment",
+            "Client-side cache only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Availability is often expressed as a percentage such as:",
+          "options": [
+            "100 requests/sec",
+            "256-bit",
+            "99.99%",
+            "TCP port 443"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Disaster Recovery & Business Continuity",
+      "questions": [
+        {
+          "q": "Which strategy restores a data center only when a disaster occurs?",
+          "options": [
+            "Hot standby",
+            "Active-active",
+            "Multi-region cache",
+            "Cold standby"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which strategy keeps systems ready continuously for immediate failover?",
+          "options": [
+            "Hot standby",
+            "Pilot light",
+            "Backup tape only",
+            "Cold standby"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which DR model turns on only a minimal infrastructure core after a disaster?",
+          "options": [
+            "Active-active",
+            "Pilot light",
+            "Warm cache",
+            "Edge replication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A company copies critical snapshots to another region. This primarily improves:",
+          "options": [
+            "CPU throughput",
+            "DNS caching",
+            "Geographic resilience",
+            "Application syntax"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which test verifies that backup restoration actually works?",
+          "options": [
+            "Unit test",
+            "Syntax check",
+            "Load simulation only",
+            "DR drill"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Business continuity planning focuses on maintaining:",
+          "options": [
+            "Critical business operations",
+            "Only server configuration",
+            "Only source code",
+            "Only network diagrams"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A regional outage is best addressed by data and compute deployed in:",
+          "options": [
+            "One local rack",
+            "Multiple regions",
+            "One availability zone",
+            "One desktop"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which backup type generally needs the least storage by copying only changed blocks?",
+          "options": [
+            "Full backup only",
+            "Mirror image only",
+            "Incremental backup",
+            "Archive deletion"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which measure defines maximum acceptable disruption duration?",
+          "options": [
+            "RPO",
+            "MTTF",
+            "CPU quota",
+            "RTO"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which measure defines maximum acceptable data loss expressed as time?",
+          "options": [
+            "RPO",
+            "TTL",
+            "MTTR",
+            "SLA"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Cloud Architecture Principles",
+      "questions": [
+        {
+          "q": "Which tier should contain stateless business logic?",
+          "options": [
+            "Database-only tier",
+            "Application tier",
+            "DNS registrar",
+            "Backup vault"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which tier stores persistent transactional records?",
+          "options": [
+            "Presentation cache",
+            "Load balancer only",
+            "Data tier",
+            "Container runtime"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A web application separates browser rendering, application logic, and database. This is:",
+          "options": [
+            "Single file system",
+            "Peer-to-peer hashing",
+            "Monolithic BIOS",
+            "N-tier architecture"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which pattern sends tasks to a queue instead of blocking the caller?",
+          "options": [
+            "Asynchronous processing",
+            "Busy waiting",
+            "Synchronous polling only",
+            "Vertical migration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which pattern isolates failures between components?",
+          "options": [
+            "Broadcast",
+            "Bulkhead",
+            "Reflection",
+            "Normalization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A retry must avoid overloading a failed dependency. Adding randomized delay is called:",
+          "options": [
+            "Linear polling",
+            "Cache poisoning",
+            "Exponential backoff with jitter",
+            "Fail-open routing"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which design prevents a service failure from cascading through all request paths?",
+          "options": [
+            "Open relay",
+            "Shared secret",
+            "Wide-open security group",
+            "Circuit breaker"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A large request may be split into independently processed units. This is:",
+          "options": [
+            "Work partitioning",
+            "Hot migration",
+            "DNS prefetch",
+            "Tokenization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system should degrade nonessential recommendations while preserving checkout. This is:",
+          "options": [
+            "Fail-fast deletion",
+            "Graceful degradation",
+            "Vendor lock-in",
+            "Data overconsumption"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which principle reduces one componentâ€™s failure blast radius?",
+          "options": [
+            "Global mutable state",
+            "Shared disk locks",
+            "Loose coupling",
+            "Single database owner"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Containers",
+      "questions": [
+        {
+          "q": "Which Linux feature provides process isolation for containers?",
+          "options": [
+            "Hypervisors",
+            "Block aliases",
+            "DNS zones",
+            "Namespaces"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Linux feature limits container resource usage?",
+          "options": [
+            "Cgroups",
+            "Namespaces alone",
+            "BIOS",
+            "Virtual disks only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A container usually packages an application with:",
+          "options": [
+            "A complete guest OS by default",
+            "Its dependencies and runtime configuration",
+            "Only hardware firmware",
+            "A hypervisor kernel"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which file defines Docker-style image build steps?",
+          "options": [
+            "Terraform plan",
+            "CloudFormation template",
+            "Dockerfile",
+            "Kubernetes Ingress"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A running container instance is created from an:",
+          "options": [
+            "Subnet",
+            "Load balancer",
+            "Availability zone",
+            "Image"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which registry stores container images?",
+          "options": [
+            "Container registry",
+            "DNS registry",
+            "IAM directory",
+            "Artifact queue"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Why can containers start faster than traditional VMs?",
+          "options": [
+            "They use no filesystems",
+            "They share the host kernel and avoid guest OS boot",
+            "They require dedicated hardware",
+            "They cannot run processes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A container should be treated as which kind of deployment unit?",
+          "options": [
+            "A permanent database server",
+            "A physical appliance",
+            "Ephemeral and replaceable",
+            "A desktop profile"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which practice makes container images more reproducible?",
+          "options": [
+            "Using latest unpinned tags",
+            "Embedding local passwords",
+            "Running as root by default",
+            "Pinning dependency versions and using immutable tags"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which command area manages container lifecycle on a Docker host?",
+          "options": [
+            "Container runtime CLI or API",
+            "DNS registrar",
+            "Billing console",
+            "Hypervisor BIOS only"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Cloud Economics & Cost Basics",
+      "questions": [
+        {
+          "q": "Which cloud charging property allows shutting down idle development resources to reduce cost?",
+          "options": [
+            "Fixed hardware depreciation",
+            "Usage-based billing",
+            "Annual audit cost",
+            "Manual DNS cost"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A stable always-on workload with predictable usage may fit which purchase option?",
+          "options": [
+            "Spot instances only",
+            "On-demand only by default",
+            "Reserved or savings plan capacity",
+            "Ephemeral cache only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Fault-tolerant batch jobs may use spare capacity priced at a discount, known as:",
+          "options": [
+            "Reserved database",
+            "Dedicated host",
+            "Data-transfer gateway",
+            "Spot or preemptible capacity"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which practice prevents accidental oversized cloud deployments?",
+          "options": [
+            "Budgets and resource quotas",
+            "Unlimited default limits",
+            "Deleting all monitoring",
+            "Using shared credentials"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which service pattern can reduce idle compute cost for infrequent workloads?",
+          "options": [
+            "Always-on cluster",
+            "Serverless",
+            "Dedicated physical host",
+            "Unbounded cache"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Unnecessary public egress traffic is harmful mainly because it increases:",
+          "options": [
+            "CPU compatibility only",
+            "Container image size only",
+            "Network cost and possible exposure",
+            "DNS zone count only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which metric helps identify unused compute capacity?",
+          "options": [
+            "Page background color",
+            "DNS TTL alone",
+            "Department name",
+            "CPU and memory utilization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Stopping development environments outside business hours is an example of:",
+          "options": [
+            "Scheduling and rightsizing",
+            "Data sharding",
+            "Penetration testing",
+            "Load balancing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which resource often incurs continued cost even when idle?",
+          "options": [
+            "Closed source file",
+            "Provisioned database or storage capacity",
+            "DNS browser cache",
+            "Read-only client library"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A cost anomaly report should trigger investigation into:",
+          "options": [
+            "Only application syntax",
+            "Only password complexity",
+            "Unexpected spend changes and unused resources",
+            "Only image resolution"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which label helps identify the team accountable for a cloud resource cost?",
+          "options": [
+            "Page background color",
+            "DNS TTL",
+            "VM BIOS version",
+            "Cost allocation or owner tag"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "id": "deep-learning-genai-001",
+  "sections": [
+    {
+      "name": "Neural Network Fundamentals",
+      "questions": [
+        {
+          "q": "A neuron output is a weighted sum followed by:",
+          "options": [
+            "An activation function",
+            "A database join",
+            "A cache eviction",
+            "A DNS lookup"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The backpropagation algorithm computes:",
+          "options": [
+            "SQL query costs",
+            "Gradients using the chain rule",
+            "Cluster centroids",
+            "Document counts"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "ReLU returns:",
+          "options": [
+            "Only sigmoid probability",
+            "Only softmax output",
+            "max(0,x)",
+            "A random value"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Softmax converts logits into:",
+          "options": [
+            "Token IDs",
+            "Cluster coordinates",
+            "Squared distances",
+            "Normalized class probabilities"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The sigmoid activation maps a value into:",
+          "options": [
+            "A range between 0 and 1",
+            "Integer values only",
+            "A categorical label only",
+            "An orthogonal matrix"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An input tensor is:",
+          "options": [
+            "A database transaction only",
+            "A multi-dimensional numerical array",
+            "A text token alone",
+            "A network packet"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A fully connected layer connects:",
+          "options": [
+            "Only adjacent pixels by default",
+            "Only random features",
+            "Every neuron in one layer to every neuron in the next",
+            "Only output classes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Vanishing gradients occur when gradients become:",
+          "options": [
+            "Very large due to overflow",
+            "Exactly zero class labels",
+            "Infinite only by definition",
+            "Very small across many layers"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Exploding gradients may be controlled using:",
+          "options": [
+            "Gradient clipping",
+            "Removing all activations",
+            "Larger minibatches only",
+            "More labels only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Batch normalization normalizes activations to improve:",
+          "options": [
+            "Only model compression",
+            "Training stability and optimization",
+            "Only memory capacity",
+            "Only inference privacy"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Optimization & Training",
+      "questions": [
+        {
+          "q": "SGD updates parameters using gradients from:",
+          "options": [
+            "The entire test set",
+            "Only validation labels",
+            "A sample or minibatch",
+            "Only output dimensions"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Momentum uses accumulated past gradients to:",
+          "options": [
+            "Delete old parameters",
+            "Normalize labels",
+            "Remove activation functions",
+            "Reduce update oscillation and accelerate optimization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Adam combines adaptive learning rates with:",
+          "options": [
+            "First and second moment estimates",
+            "Only bagging",
+            "Only decision trees",
+            "Only dropout masks"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Learning-rate scheduling changes learning rate:",
+          "options": [
+            "Only after deployment",
+            "During training according to a schedule",
+            "Never intentionally",
+            "Based on cache size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A minibatch balances:",
+          "options": [
+            "Only image resolution",
+            "Only model license",
+            "Memory efficiency and gradient estimate quality",
+            "Only test label count"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cross-entropy loss is appropriate for:",
+          "options": [
+            "Image compression",
+            "PCA",
+            "K-means",
+            "Probabilistic multiclass classification"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Early stopping prevents overtraining by monitoring:",
+          "options": [
+            "Validation performance",
+            "Training GPU temperature only",
+            "Number of parameters only",
+            "Input token length"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Weight decay adds parameter magnitude regularization to:",
+          "options": [
+            "A test label",
+            "The objective loss",
+            "A validation split",
+            "A learning-rate schedule"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Dropout randomly disables units during:",
+          "options": [
+            "Final inference only",
+            "Data loading only",
+            "Training",
+            "Model deployment only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Data augmentation improves generalization by adding:",
+          "options": [
+            "Random incorrect labels",
+            "Repeated exact images only",
+            "Future test samples",
+            "Plausible transformed training examples"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Convolutional Networks",
+      "questions": [
+        {
+          "q": "A convolutional layer learns:",
+          "options": [
+            "Spatial filters over local receptive fields",
+            "Only global fully connected weights",
+            "Only text token counts",
+            "Only one scalar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Pooling reduces spatial dimensions and provides some:",
+          "options": [
+            "Exact parameter growth",
+            "Translation tolerance",
+            "Lossless pixel storage",
+            "Class labels"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Max pooling outputs the:",
+          "options": [
+            "Mean activation only",
+            "Minimum activation only",
+            "Maximum activation in each window",
+            "Sum of class probabilities"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A stride greater than 1 reduces:",
+          "options": [
+            "Network depth only",
+            "Kernel dimension always",
+            "Training labels only",
+            "Spatial resolution or output size"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Padding prevents convolution output from:",
+          "options": [
+            "Shrinking faster and preserves borders",
+            "Increasing model complexity only",
+            "Learning features",
+            "Using local neighborhoods"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A residual connection adds a layer input to its:",
+          "options": [
+            "Loss only",
+            "Output through a skip connection",
+            "Pooling window",
+            "Label vector"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Batch normalization can help CNN training by:",
+          "options": [
+            "Increasing class leakage",
+            "Removing labels",
+            "Reducing internal covariate shift effects and stabilizing gradients",
+            "Reducing kernel memory only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Transfer learning for vision commonly starts with a model pretrained on:",
+          "options": [
+            "A single production database",
+            "A random text corpus only",
+            "DNS data",
+            "Large image datasets such as ImageNet"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Object detection networks predict both class and:",
+          "options": [
+            "Bounding box location",
+            "Only output text",
+            "Only speech transcription",
+            "Only cluster ID"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Semantic segmentation outputs a class for:",
+          "options": [
+            "Only one image class",
+            "Every pixel",
+            "Only one bounding box",
+            "Only one word"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Recurrent & Sequence Networks",
+      "questions": [
+        {
+          "q": "RNNs maintain a hidden state representing:",
+          "options": [
+            "Only the final class label",
+            "Only current pixel color",
+            "Information from previous sequence positions",
+            "Only database indexes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The vanishing-gradient problem makes long RNN dependencies difficult to:",
+          "options": [
+            "Store",
+            "Count",
+            "Normalize",
+            "Learn"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An LSTM uses gates to control:",
+          "options": [
+            "Information retention, updates, and output",
+            "Only embedding size",
+            "Only batch labels",
+            "Only GPU clock speed"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A gated recurrent unit is a simplified version of:",
+          "options": [
+            "CNN",
+            "LSTM",
+            "Autoencoder only",
+            "Random forest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A bidirectional recurrent network processes a sequence from:",
+          "options": [
+            "Only random tokens",
+            "Only the last token",
+            "Both forward and backward directions",
+            "Only class labels"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Sequence-to-sequence models map one sequence to:",
+          "options": [
+            "Only a scalar table",
+            "Only an image grid",
+            "Only a cluster count",
+            "Another sequence"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Attention lets a decoder weight:",
+          "options": [
+            "Relevant encoder positions",
+            "Only training rows",
+            "Only class counts",
+            "Only kernel size"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Teacher forcing supplies the true previous token during:",
+          "options": [
+            "Final inference only",
+            "Sequence training",
+            "Input embedding only",
+            "Weight quantization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A variable-length sequence is handled with:",
+          "options": [
+            "Only fixed truncation",
+            "Only random deletion",
+            "Padding, masks, or packed sequences",
+            "Only one token"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An autoregressive model predicts the next output based on:",
+          "options": [
+            "Only future labels",
+            "Only class frequency",
+            "Only batch IDs",
+            "Previous tokens or values"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Transformers & Attention",
+      "questions": [
+        {
+          "q": "The self-attention operation compares each token to:",
+          "options": [
+            "Other tokens in the sequence",
+            "Only the first token by design",
+            "Only class labels",
+            "Only image metadata"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Multi-head attention learns:",
+          "options": [
+            "Multiple independent training datasets",
+            "Multiple parallel relationship subspaces",
+            "Only one attention score",
+            "Only one embedding value"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A scaled dot-product attention divides scores to control:",
+          "options": [
+            "Output vocabulary size",
+            "Sequence order only",
+            "Magnitude and softmax saturation",
+            "Number of labels"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Positional encoding supplies:",
+          "options": [
+            "Image compression",
+            "Database indexes",
+            "Gradient clipping",
+            "Token position information in a transformer"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A transformer encoder produces contextual representations using:",
+          "options": [
+            "Multi-head attention and feed-forward layers",
+            "Only recurrence",
+            "Only convolution",
+            "Only bag-of-words"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An encoder-decoder transformer is suitable for:",
+          "options": [
+            "Only image resizing",
+            "Translation and conditional generation",
+            "Only clustering",
+            "Only SQL joins"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A decoder-only transformer generates tokens:",
+          "options": [
+            "By random database lookup",
+            "By backward recurrence only",
+            "Autoregressively from previous context",
+            "Without any context"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The feed-forward block in a transformer operates on each:",
+          "options": [
+            "Sequence as one unlabeled cluster",
+            "Training label only",
+            "Attention head output only",
+            "Token position independently"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Attention masks prevent a decoder from attending to:",
+          "options": [
+            "Future tokens during causal generation",
+            "Past tokens in training",
+            "All current tokens",
+            "Only padding tokens"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Padding tokens are excluded with an attention mask to avoid:",
+          "options": [
+            "Legitimate word processing",
+            "Meaningless sequence contributions",
+            "Position encoding",
+            "Residual connections"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Autoencoders & Representation Learning",
+      "questions": [
+        {
+          "q": "An autoencoder trains an encoder and decoder to:",
+          "options": [
+            "Classify only labeled classes",
+            "Cluster labels directly",
+            "Reconstruct its input",
+            "Generate reinforcement rewards"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A bottleneck layer forces an autoencoder to learn:",
+          "options": [
+            "Exact raw byte copies",
+            "More output labels",
+            "Random dropout",
+            "Compressed representations"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A denoising autoencoder is trained to reconstruct clean data from:",
+          "options": [
+            "Corrupted input",
+            "Only output labels",
+            "Only future tokens",
+            "Only class weights"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A variational autoencoder models latent variables with a:",
+          "options": [
+            "Fixed unlearned cluster",
+            "Probabilistic distribution",
+            "Hash table",
+            "Decision tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Contrastive learning teaches representations by making positive pairs:",
+          "options": [
+            "Both identical and separated",
+            "All unrelated",
+            "Close and negative pairs apart",
+            "Only labels equal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Self-supervised learning creates supervisory signals from:",
+          "options": [
+            "Only human labels",
+            "Only reward scores",
+            "Only test sets",
+            "The data structure itself"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Masked language modeling predicts hidden tokens using:",
+          "options": [
+            "Context from surrounding text",
+            "Future labels only",
+            "Only token frequency",
+            "Only class labels"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A pretraining objective learns general representations before:",
+          "options": [
+            "Hardware initialization only",
+            "Task-specific fine-tuning",
+            "Label deletion",
+            "Data sharding"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Siamese network compares two inputs through:",
+          "options": [
+            "Independent random models only",
+            "A SQL join",
+            "Shared representation parameters and a similarity objective",
+            "A cache key"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Representation quality should be assessed on:",
+          "options": [
+            "Only embedding dimensions",
+            "Only training loss",
+            "Only parameter count",
+            "Downstream tasks, linear probes, and robustness"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Regularization in Deep Learning",
+      "questions": [
+        {
+          "q": "Dropout during inference should be:",
+          "options": [
+            "Disabled because the full network is used",
+            "Always increased",
+            "Applied randomly at deployment",
+            "Used to change labels"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Weight decay regularizes large:",
+          "options": [
+            "Feature categories only",
+            "Parameter magnitudes",
+            "Batch counts only",
+            "Class counts only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Mixup trains a model on convex combinations of:",
+          "options": [
+            "Passwords and secrets",
+            "Class ID hashes",
+            "Inputs and labels",
+            "Pixels and file names only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Label smoothing replaces hard targets with:",
+          "options": [
+            "All-zero labels",
+            "Random deleted labels",
+            "Only negative labels",
+            "Targets distributed partly across classes"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Data augmentation is intended to improve:",
+          "options": [
+            "Invariant feature learning",
+            "Training-label leakage",
+            "Test duplication",
+            "Model size only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Batch size affects:",
+          "options": [
+            "Only file format",
+            "Gradient noise, memory use, and convergence",
+            "Only output labels",
+            "Only class names"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Gradient accumulation simulates a larger batch by:",
+          "options": [
+            "Deleting parameters",
+            "Increasing dropout",
+            "Accumulating gradients across microbatches",
+            "Removing validation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Layer normalization stabilizes values across:",
+          "options": [
+            "Only sample count",
+            "Only class labels",
+            "Only time zone",
+            "Features within a layer or token representation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Residual connections ease optimization by providing:",
+          "options": [
+            "Direct information paths around layers",
+            "No skip around every layer",
+            "Random labels",
+            "Only larger logits"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Spectral normalization constrains:",
+          "options": [
+            "Vocabulary size",
+            "Layer weight Lipschitz behavior",
+            "Sequence length",
+            "Class entropy only"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Neural Network Design Scenarios",
+      "questions": [
+        {
+          "q": "A classifier overfits on a small dataset. The strongest first change is:",
+          "options": [
+            "Increase unvalidated epochs",
+            "Delete validation data",
+            "Reduce model size, add regularization, and use augmentation",
+            "Increase labels without review"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Image pixels have values from 0 to 255. Best practice is to:",
+          "options": [
+            "Leave different scales by layer only",
+            "Use raw values without preprocessing always",
+            "Multiply inputs by random values",
+            "Normalize inputs consistently for training and inference"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A CNN training loss is constant near high value. Check:",
+          "options": [
+            "Learning rate, normalization, initialization, and gradient flow",
+            "Only output file name",
+            "Only database schema",
+            "Only label font"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A sequence model ignores long-range context. Consider:",
+          "options": [
+            "More local recurrence only",
+            "Attention, longer context, or better memory representation",
+            "A smaller vocabulary always",
+            "Removing positions"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A GAN discriminator rapidly dominates generator training. Improve with:",
+          "options": [
+            "More unlabeled test leakage",
+            "Removing validation",
+            "Balanced capacity, gradient penalties, and training schedules",
+            "Deleting generator"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An autoencoder learns only identity mapping. Increase:",
+          "options": [
+            "Output dimensions indefinitely",
+            "Training labels",
+            "Validation leakage",
+            "Bottleneck constraints, denoising, or latent regularization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A model predicts well in one camera setting but fails in another. Add:",
+          "options": [
+            "Domain augmentation and robust evaluation",
+            "Only a larger model",
+            "Only one test image",
+            "Only a smaller batch"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A transformer is too large to deploy on edge devices. Use:",
+          "options": [
+            "Random weight removal",
+            "Distillation, pruning, or quantization after accuracy validation",
+            "Unverified mixed precision",
+            "No performance testing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Model performance drops after deployment while training metrics stay stable. Suspect:",
+          "options": [
+            "Only parameter initialization",
+            "Only kernel size",
+            "Data drift, preprocessing drift, or feedback loop",
+            "Only output vocabulary"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A language model hallucinates unsupported facts. Ground responses using:",
+          "options": [
+            "Higher temperature",
+            "More random sampling",
+            "Removing context",
+            "Retrieval, citations, uncertainty, and verification"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Deep Learning Debugging",
+      "questions": [
+        {
+          "q": "Loss becomes NaN during training. First check:",
+          "options": [
+            "Learning rate, input normalization, and exploding gradients",
+            "Output font size",
+            "Database row order",
+            "DNS TTL"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "All predictions are the same class. Check:",
+          "options": [
+            "Only kernel size",
+            "Class imbalance, activation, loss, and initialization",
+            "Only image filename",
+            "Only batch count"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Validation loss rises while training loss falls. This indicates:",
+          "options": [
+            "Underfitting always",
+            "Perfect convergence",
+            "Overfitting",
+            "Data augmentation success"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Gradients are extremely small in earlier transformer layers. Check:",
+          "options": [
+            "Only token punctuation",
+            "Only class count",
+            "Only cache TTL",
+            "Learning-rate warmup, residuals, normalization, and scaling"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A distributed training run has duplicated gradients. Verify:",
+          "options": [
+            "Gradient synchronization and loss scaling",
+            "Dataset file extension",
+            "Web server status",
+            "DNS SOA"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Inference outputs differ after quantization. Test:",
+          "options": [
+            "Only parameter names",
+            "Calibration, dynamic range, and layer sensitivity",
+            "Only GPU color",
+            "Only test logo"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A model uses near-zero memory but fails accuracy benchmarks. The issue may be:",
+          "options": [
+            "Perfect calibration",
+            "Data augmentation only",
+            "Over-aggressive pruning or quantization",
+            "Label smoothing only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Test accuracy is perfect immediately after feature addition. Verify for:",
+          "options": [
+            "Beneficial validation",
+            "Correct preprocessing",
+            "Balanced classes",
+            "Test-label leakage or target-derived features"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The training and inference preprocessing differs. Standardize:",
+          "options": [
+            "A shared versioned preprocessing pipeline",
+            "Only training images",
+            "Only hardware models",
+            "Only class ordering"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A model cannot generalize to longer sequences. Consider:",
+          "options": [
+            "Only class probabilities",
+            "Position extrapolation, masks, and context-window design",
+            "Only image pooling",
+            "Only batch labels"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Generative Modeling Foundations",
+      "questions": [
+        {
+          "q": "A variational autoencoder models latent code through:",
+          "options": [
+            "A fixed SQL index",
+            "A convolution kernel only",
+            "A mean and variance distribution",
+            "A reinforcement reward"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Generative adversarial training uses a generator and a:",
+          "options": [
+            "Classifier database",
+            "Attention cache",
+            "Hash function",
+            "Discriminator"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Diffusion models generate data by learning to:",
+          "options": [
+            "Reverse a gradual noising process",
+            "Encrypt training rows",
+            "Cluster labels only",
+            "Sort tokens only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A language generation model outputs the next token with a:",
+          "options": [
+            "Fixed hash value",
+            "Probability distribution",
+            "Database query result",
+            "Confusion matrix"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Temperature controls the randomness of:",
+          "options": [
+            "Database replication",
+            "Attention mask length",
+            "Token sampling from probabilities",
+            "Input normalization only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Top-p sampling limits candidates to tokens covering a cumulative probability:",
+          "options": [
+            "Fixed database index",
+            "Maximum token count only",
+            "Minimum class count",
+            "Threshold p"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Beam search keeps multiple high-scoring candidate sequences during:",
+          "options": [
+            "Decoding",
+            "Token encryption",
+            "Image pooling",
+            "Data sharding"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A stable diffusion prompt guides a model through:",
+          "options": [
+            "Random SQL joins",
+            "Text-conditioned image generation",
+            "Structured graph training only",
+            "Audio classification only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Conditional generation supplies extra context such as a class or prompt to control:",
+          "options": [
+            "Training hardware",
+            "Cache size",
+            "Output attributes",
+            "Database schema"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Evaluation of generative output should consider:",
+          "options": [
+            "Only parameter count",
+            "Only speed",
+            "Only vocabulary size",
+            "Quality, diversity, safety, and task-specific correctness"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+{
+  "id": "cloud-computing-004",
+  "sections": [
+    {
+      "name": "Cloud Security",
+      "questions": [
+        {
+          "q": "An unsigned software package downloaded at startup should trigger:",
+          "options": [
+            "Integrity verification before execution",
+            "Immediate root access",
+            "Public object storage",
+            "Automatic DNS change"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which control prevents direct internet access to databases?",
+          "options": [
+            "Public IP on every node",
+            "Private subnet and restricted security group",
+            "Open port 0-65535",
+            "Shared administrator password"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which traffic should be encrypted?",
+          "options": [
+            "Only DNS names",
+            "Only public landing pages",
+            "Data in transit and sensitive data at rest",
+            "Only local logs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which security control detects common HTTP attacks on an application?",
+          "options": [
+            "Load balancer pool only",
+            "Container image registry",
+            "Object versioning",
+            "Web application firewall"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which vulnerability is worsened by reused cloud administrator credentials?",
+          "options": [
+            "Blast radius of credential compromise",
+            "DNS TTL accuracy",
+            "CPU cache misses",
+            "Disk defragmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which practice reduces risk when a service account is compromised?",
+          "options": [
+            "A permanent administrator key",
+            "Short-lived credentials and least privilege",
+            "A shared password",
+            "Broad wildcard permissions"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which security layer is responsible for patching OS packages on IaaS VMs?",
+          "options": [
+            "Cloud provider for every OS package",
+            "Browser vendor",
+            "Customer, under shared responsibility",
+            "Application users"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which layer must be protected by application input validation?",
+          "options": [
+            "Physical rack only",
+            "DNS registrar only",
+            "Hypervisor only when using SaaS",
+            "Application and data layer"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A public storage bucket containing medical records is a serious example of:",
+          "options": [
+            "Data exposure and access misconfiguration",
+            "CAP theorem",
+            "DNS caching",
+            "Horizontal scaling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which logging practice supports forensic investigation in cloud accounts?",
+          "options": [
+            "Deleting logs after each request",
+            "Centralized immutable API and access logs",
+            "Logging passwords",
+            "Keeping logs only on compromised hosts"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud IAM",
+      "questions": [
+        {
+          "q": "A role should be preferred over an account password for workloads because roles provide:",
+          "options": [
+            "Permanent shared secrets",
+            "Public network access",
+            "Temporary credentials scoped by trust",
+            "Database ownership"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which IAM policy mechanism should deny access regardless of an allowed policy?",
+          "options": [
+            "Wildcard allow",
+            "Tag inheritance",
+            "Group membership only",
+            "Explicit deny"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which condition makes permission evidence more precise?",
+          "options": [
+            "Resource and action constraints",
+            "Broad resource star only",
+            "Any user by default",
+            "Long-lived password reuse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A federated employee login should use:",
+          "options": [
+            "A local shared account",
+            "External identity federation",
+            "A root credential copy",
+            "An anonymous role"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which identity is intended for human administrative access?",
+          "options": [
+            "Application instance role",
+            "Anonymous service account",
+            "User or federated principal",
+            "Database row"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "MFA primarily protects against:",
+          "options": [
+            "CPU exhaustion only",
+            "DNS poisoning only",
+            "Object versioning",
+            "Stolen-password compromise"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A service should not run with administrator privileges when it needs only:",
+          "options": [
+            "Read access to one storage bucket",
+            "All subscriptions",
+            "The ability to delete users",
+            "Billing ownership"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "IAM policies should be regularly checked for:",
+          "options": [
+            "Source file indentation",
+            "Unused permissions and policy drift",
+            "RAM color",
+            "CDN cache hits"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A break-glass administrative account should be:",
+          "options": [
+            "Embedded in client JavaScript",
+            "Shared with all operators",
+            "Highly protected and only used during emergencies",
+            "Logged in daily"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Cross-account access should be granted through:",
+          "options": [
+            "Shared root credentials",
+            "Public bucket policy",
+            "Open security groups",
+            "Explicit trust policies and assumed roles"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Disaster Recovery & Continuity",
+      "questions": [
+        {
+          "q": "Which DR choice offers the lowest downtime but highest cost?",
+          "options": [
+            "Hot standby or active-active",
+            "Tape-only cold backup",
+            "No backup",
+            "On-demand documentation only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which DR choice is cheapest but usually has the highest RTO?",
+          "options": [
+            "Hot standby",
+            "Cold standby",
+            "Active-active",
+            "Pilot-light with automation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "How should backup restore procedures be validated?",
+          "options": [
+            "Only reviewing filenames",
+            "Counting backup jobs",
+            "Scheduled restore drills",
+            "Deleting test environments"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which backup copy is protected from corruption at the primary region?",
+          "options": [
+            "Same disk",
+            "Same volume group",
+            "Same rack snapshot",
+            "Separate region and immutable copy"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A business requires no data loss and immediate restoration. Which target is required?",
+          "options": [
+            "RPO near zero and very low RTO",
+            "High RPO and high RTO",
+            "No monitoring",
+            "Manual tape archive only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which DR pattern replicates data continuously to a warm standby?",
+          "options": [
+            "Cold archive",
+            "Warm standby",
+            "One local snapshot",
+            "Static backup page"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A failover runbook should include:",
+          "options": [
+            "Only a server command",
+            "Only backup filenames",
+            "Verification, communication, rollback, and dependencies",
+            "Only billing details"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which dependency must be considered during regional failover?",
+          "options": [
+            "CPU brand only",
+            "Desktop wallpaper",
+            "Image file names",
+            "DNS, certificates, databases, queues, and secrets"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which backup feature prevents both ordinary deletion and provider-side overwrite within retention?",
+          "options": [
+            "Immutability or vault lock",
+            "Simple versioning only",
+            "Public ACL",
+            "Client-side cache"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which metric shows average time to recover an incident over repeated events?",
+          "options": [
+            "RPO only",
+            "Mean time to recovery",
+            "CPU clock rate",
+            "Storage object count"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Scaling & Performance",
+      "questions": [
+        {
+          "q": "Which pattern expands capacity before a known promotional traffic spike?",
+          "options": [
+            "No capacity planning",
+            "Scale down randomly",
+            "Predictive or scheduled scaling",
+            "Disable health checks"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A queue length exceeds threshold; which resource is most appropriate to add?",
+          "options": [
+            "DNS authority",
+            "Log archive storage",
+            "Admin accounts",
+            "Workers or consumer capacity"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A database reaches connection limits; adding more application replicas may:",
+          "options": [
+            "Worse the database bottleneck",
+            "Always solve it",
+            "Remove all traffic",
+            "Improve disk cache"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cache reduces database load because it stores:",
+          "options": [
+            "All access logs only",
+            "Frequently requested computed or retrieved data",
+            "Database encryption keys only",
+            "DNS SOA records"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cache pattern updates the cache through the application after reading data?",
+          "options": [
+            "Write-only archive",
+            "Round-robin DNS",
+            "Cache-aside",
+            "Circuit breaker"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which cache policy invalidates stale entries after a fixed period?",
+          "options": [
+            "Rollback commit",
+            "Canary deployment",
+            "Secret rotation",
+            "TTL expiration"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which design protects downstream services from a sudden thread or request surge?",
+          "options": [
+            "Bulkhead and concurrency limits",
+            "No timeout",
+            "Open retry loop",
+            "Shared session lock"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which database optimization first analyzes slow query plans and indexes?",
+          "options": [
+            "Adding CDN cache for writes",
+            "Query tuning",
+            "Opening all ports",
+            "Removing replicas"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Autoscaling should evaluate which metric for a request-buffered queue?",
+          "options": [
+            "Browser color depth",
+            "DNS TTL only",
+            "Queue depth and consumer lag",
+            "Database password length"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which result indicates good scaling is coupled with no performance regression?",
+          "options": [
+            "Only CPU increases",
+            "Cost rises without traffic",
+            "Instances become stateful",
+            "Latency and error rates remain acceptable"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Monitoring & Observability",
+      "questions": [
+        {
+          "q": "Which telemetry type records discrete application and infrastructure events?",
+          "options": [
+            "Logs",
+            "Traces only",
+            "Metrics only",
+            "CPU pins"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which telemetry aggregates numeric values over time for dashboards and alerts?",
+          "options": [
+            "Logs only",
+            "Metrics",
+            "Secrets",
+            "Container images"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Distributed tracing shows the path of a:",
+          "options": [
+            "DNS zone file",
+            "Database schema",
+            "Request across services",
+            "Cloud invoice"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which identifier should correlate logs, metrics, and traces across services?",
+          "options": [
+            "Database password",
+            "Public IP only",
+            "VM hostname only",
+            "Correlation or trace ID"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An alert should trigger on symptoms such as user latency, not only:",
+          "options": [
+            "Resource utilization",
+            "Log file names",
+            "Server count",
+            "Application logos"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which practice reduces noisy alert storms from a short transient spike?",
+          "options": [
+            "One alert per log line",
+            "Alert thresholds, windows, and aggregation",
+            "No alert suppression",
+            "Broadcast pages constantly"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A dashboard for checkout should track success rate, latency, and:",
+          "options": [
+            "Only disk capacity",
+            "Only server names",
+            "Dependency health",
+            "Only user passwords"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which tool is appropriate for centralized logs from many services?",
+          "options": [
+            "Local BIOS console",
+            "Static DNS cache",
+            "Object image cropper",
+            "Managed log analytics and search"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An SLO primarily defines:",
+          "options": [
+            "Target service reliability for users",
+            "A maximum cloud bill",
+            "A container image tag",
+            "A firewall port"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Error budget represents the permitted amount of:",
+          "options": [
+            "Unbilled storage",
+            "SLO violation before reliability work takes priority",
+            "Unused CPU",
+            "DNS cache misses"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "DevOps & Delivery",
+      "questions": [
+        {
+          "q": "Which practice enables frequent, automated release to production after validation?",
+          "options": [
+            "Manual ticket-only deployment",
+            "Waterfall hotfixes",
+            "Continuous delivery",
+            "Ad hoc copying"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Continuous integration primarily automates:",
+          "options": [
+            "Production database backups only",
+            "DNS domain purchase",
+            "Hardware procurement",
+            "Build and test integration for merged code"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which deployment installs a new version without changing infrastructure?",
+          "options": [
+            "In-place or rolling deployment",
+            "Physical rack move",
+            "DNS zone recreation",
+            "Manual image painting"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A canary release exposes the new version to:",
+          "options": [
+            "All users at once",
+            "A small controlled user or traffic segment",
+            "Only production admins",
+            "Only DNS servers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A reversible deployment should preserve:",
+          "options": [
+            "A permanent broken release",
+            "No previous artifacts",
+            "Rollback capability and compatible data migrations",
+            "Untracked manual changes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Infrastructure drift occurs when deployed resources differ from:",
+          "options": [
+            "Application source code only",
+            "Current cloud invoice",
+            "Container image name",
+            "Declared desired configuration"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which artifact should be immutable between environments?",
+          "options": [
+            "Versioned build or container image",
+            "A rewritten configuration per server",
+            "An unversioned binary",
+            "A password file"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which testing stage validates an application with production-like dependencies?",
+          "options": [
+            "Only syntax check",
+            "Integration or staging test",
+            "Only spell check",
+            "Only unit CSS check"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "GitOps uses Git as the:",
+          "options": [
+            "Billing processor",
+            "Runtime database",
+            "Source of truth for declarative infrastructure and applications",
+            "Load balancer hardware"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A deployment pipeline should stop the release if:",
+          "options": [
+            "A docs file is cosmetic",
+            "A noncritical test is skipped deliberately",
+            "A rollback is available",
+            "Required automated checks fail"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "questions": [
+        {
+          "q": "Which IaC property prevents configuration knowledge from existing only in consoles?",
+          "options": [
+            "Declarative versioned templates",
+            "Manual screenshots",
+            "Shared passwords",
+            "Terminal history only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Terraform commonly manages infrastructure across:",
+          "options": [
+            "Only source code repositories",
+            "Multiple cloud and service providers",
+            "Only container images",
+            "Only local filesystems"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AWS CloudFormation is primarily an IaC service for:",
+          "options": [
+            "Azure subscriptions",
+            "Git hosting only",
+            "AWS resource provisioning",
+            "DNS client software"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Azure Resource Manager templates describe:",
+          "options": [
+            "Application source syntax",
+            "Database row values only",
+            "Packet routing protocols",
+            "Azure resource deployments"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which IaC execution compares desired state with actual state?",
+          "options": [
+            "Plan and drift reconciliation",
+            "Port scanning only",
+            "Load testing only",
+            "Data encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Immutable infrastructure is rebuilt from templates instead of:",
+          "options": [
+            "Deploying versioned artifacts",
+            "Applying repeated manual in-place changes",
+            "Using health checks",
+            "Using configuration files"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which practice protects IaC state from unauthorized access?",
+          "options": [
+            "Public state file",
+            "Hard-coded credentials",
+            "Encrypted remote state and access controls",
+            "Emailing state backups"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which block creates multiple similar resources in Terraform?",
+          "options": [
+            "If statements only",
+            "Dockerfile CMD",
+            "Kubernetes Service",
+            "Count or for_each"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "IaC modules are useful for:",
+          "options": [
+            "Reusing tested infrastructure patterns",
+            "Duplicating credentials",
+            "Removing all variables",
+            "Disabling governance"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A policy-as-code check should prevent IaC from creating:",
+          "options": [
+            "Unused variable names only",
+            "Noncompliant public exposure or broad permissions",
+            "Version tags only",
+            "Docs comments"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Cost Optimization",
+      "questions": [
+        {
+          "q": "Which practice best matches predictable steady compute demand?",
+          "options": [
+            "Spot-only interruption-sensitive work",
+            "Oversized on-demand servers",
+            "Committed use or reserved capacity",
+            "Unlimited autoscaling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A cost dashboard by application owner enables:",
+          "options": [
+            "Automatic source compilation",
+            "Public access control",
+            "Database replication",
+            "Chargeback and accountability"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Right-sizing reduces waste by matching:",
+          "options": [
+            "Provisioned capacity to actual workload demand",
+            "All resources to maximum peak",
+            "All resources to minimum size",
+            "Only storage to CPU"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which architectural change reduces costly cross-region transfer?",
+          "options": [
+            "Move every service to separate regions",
+            "Keep frequently communicating tiers regionally close",
+            "Use public DNS only",
+            "Disable caching globally"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which resource lifecycle rule lowers archive storage cost?",
+          "options": [
+            "Delete all audit data immediately",
+            "Never delete temporary files",
+            "Move objects to colder tiers after inactivity",
+            "Use premium disk for every log"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A development environment running weekends unused should be:",
+          "options": [
+            "Always running",
+            "Promoted to production",
+            "Moved to tape",
+            "Scheduled to stop and start"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which metric is most useful for rightsizing a CPU-bound VM?",
+          "options": [
+            "Sustained CPU utilization",
+            "Billing currency",
+            "DNS TTL",
+            "Logo resolution"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A serverless architecture may reduce cost for intermittent workloads because it bills:",
+          "options": [
+            "Rack space forever",
+            "Actual execution rather than idle server time",
+            "All peak capacity upfront",
+            "Unlimited egress by default"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which action can control budget overruns before resources proliferate?",
+          "options": [
+            "No resource tags",
+            "Shared unowned accounts",
+            "Quotas, budgets, and approval workflows",
+            "Deleting all alerts"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A cost anomaly report after a traffic spike should compare with:",
+          "options": [
+            "Only employee names",
+            "Only server purchase dates",
+            "Only DNS error logs",
+            "Expected usage and scaling changes"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cloud Messaging & APIs",
+      "questions": [
+        {
+          "q": "Which service pattern decouples a producer from a consumer?",
+          "options": [
+            "Message queue",
+            "Shared local file",
+            "Direct memory pointer",
+            "Broadcast DNS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which delivery guarantee should be assumed until a message is acknowledged?",
+          "options": [
+            "Exactly once automatically",
+            "At least once is common; consumers must be idempotent",
+            "No duplicate possible",
+            "No retry needed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A dead-letter queue stores messages that:",
+          "options": [
+            "Succeeded immediately",
+            "Are encrypted at rest",
+            "Cannot be processed successfully after retries",
+            "Belong to DNS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which queue behavior helps absorb a traffic burst?",
+          "options": [
+            "Immediate database writes for every request",
+            "Public file polling",
+            "Unlimited retries",
+            "Buffering and backpressure"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which protocol is commonly used for event-driven IoT messages?",
+          "options": [
+            "MQTT",
+            "SMTP only",
+            "FTP only",
+            "DNS only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which API protection prevents a single client from exhausting capacity?",
+          "options": [
+            "Public root credentials",
+            "Rate limiting",
+            "No caching",
+            "Wider CIDR access"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which queue property preserves order where supported for a partition or sequence key?",
+          "options": [
+            "TTL only",
+            "Object metadata",
+            "Ordering or sequencing",
+            "DNS TTL"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which event model pushes updates to subscribers?",
+          "options": [
+            "Batch polling only",
+            "Point-to-point disk lock",
+            "DNS cache",
+            "Pub-sub"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A retry must use exponential backoff to avoid:",
+          "options": [
+            "Retry storms",
+            "Cache invalidation",
+            "Secret rotation",
+            "DNS propagation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which acknowledgment occurs only after processing succeeds?",
+          "options": [
+            "Producer billing acknowledgment",
+            "Consumer acknowledgment",
+            "DNS SOA acknowledgment",
+            "CDN cache acknowledgment"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Availability, Reliability & Trade-offs",
+      "questions": [
+        {
+          "q": "Availability and performance are sometimes improved by redundancy but can increase:",
+          "options": [
+            "Data consistency automatically",
+            "CPU clock speed",
+            "Cost and operational complexity",
+            "DNS security always"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A design with asynchronous replication may reduce write latency but risk:",
+          "options": [
+            "Zero recovery time",
+            "No WAN traffic",
+            "Stronger encryption",
+            "Replication lag and data loss during failover"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A cache improves read speed but introduces:",
+          "options": [
+            "Cache invalidation and consistency concerns",
+            "Automatic disk encryption",
+            "Guaranteed database backup",
+            "DNS availability"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Multi-region deployment improves resilience but complicates:",
+          "options": [
+            "DNS syntax only",
+            "Data replication and regulatory placement",
+            "Virtual CPU registers",
+            "Static HTML content"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A strongly consistent distributed write may increase latency because it needs:",
+          "options": [
+            "Only a local cache",
+            "Only a CDN edge",
+            "Coordination across replicas",
+            "Only a public key"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A queue decouples components but requires handling:",
+          "options": [
+            "Only password rotation",
+            "Only DNS TTL",
+            "Only server identity",
+            "Retries, duplicates, and dead letters"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A microservices migration can improve team independence but increase:",
+          "options": [
+            "Network and observability complexity",
+            "OS kernel sharing",
+            "Database simplicity always",
+            "Monolithic build size"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A high availability zone setup does not protect from:",
+          "options": [
+            "A single rack failure only",
+            "A shared application or regional account-level failure",
+            "A physical network switch only",
+            "A transient container restart"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which trade-off is common in multi-region databases?",
+          "options": [
+            "CPU temperature and color",
+            "DNS logo and font",
+            "Latency, consistency, availability, and cost",
+            "Server casing and wallpaper"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A graceful degradation design may serve cached content while:",
+          "options": [
+            "All features become unavailable",
+            "The database is publicly exposed",
+            "Secrets are logged",
+            "Core critical operations continue"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

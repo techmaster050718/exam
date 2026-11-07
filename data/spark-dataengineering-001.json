@@ -1,0 +1,1055 @@
+{
+  "id": "spark-dataengineering-001",
+  "sections": [
+    {
+      "name": "Big Data Foundations",
+      "questions": [
+        {
+          "q": "The three traditional V dimensions of big data are:",
+          "options": [
+            "Volume, velocity, variety",
+            "CPU, RAM, disk",
+            "Input, output, error",
+            "Schema, query, index"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Veracity describes:",
+          "options": [
+            "Speed of data transfer",
+            "Truthfulness, quality, and uncertainty of data",
+            "Number of records",
+            "Data location only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Big data systems scale by distributing work across:",
+          "options": [
+            "A single mainframe only",
+            "One cache server",
+            "Many commodity nodes",
+            "Only client devices"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Horizontal scaling adds:",
+          "options": [
+            "More RAM only to one machine",
+            "Only CPU clock rate",
+            "Only disk capacity",
+            "More machines"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Vertical scaling increases:",
+          "options": [
+            "Capacity of one machine",
+            "The number of machines",
+            "Only network nodes",
+            "Only file partitions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A data warehouse is optimized for:",
+          "options": [
+            "Small unstructured random writes",
+            "Structured analytical reporting",
+            "Only live sensor control",
+            "Only encrypted messaging"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A data lake stores data in:",
+          "options": [
+            "Only normalized relational tables",
+            "Only transactional indexes",
+            "Raw or varied formats for later processing",
+            "Only aggregate reports"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Schema-on-read defines structure when:",
+          "options": [
+            "Data is deleted",
+            "Only a file name is written",
+            "A cache expires",
+            "Data is queried or processed"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Schema-on-write validates structure before:",
+          "options": [
+            "Data is stored",
+            "Data is ever generated",
+            "A backup expires",
+            "A network packet arrives"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Data locality aims to process data:",
+          "options": [
+            "Only on a central desktop",
+            "Near the node where it is stored",
+            "Only in a client browser",
+            "Only after global replication"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Distributed Storage & HDFS",
+      "questions": [
+        {
+          "q": "HDFS splits large files into:",
+          "options": [
+            "One huge memory page",
+            "SQL rows",
+            "Blocks replicated across DataNodes",
+            "One object key only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The HDFS NameNode tracks:",
+          "options": [
+            "Application passwords",
+            "User browser sessions",
+            "Only MapReduce maps",
+            "Namespace and block locations"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A DataNode stores and serves:",
+          "options": [
+            "HDFS blocks",
+            "NameNode metadata only",
+            "Only cluster certificates",
+            "Only job source code"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "HDFS replication improves:",
+          "options": [
+            "Single-node write speed",
+            "Availability and fault tolerance",
+            "Block encryption only",
+            "Schema consistency"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "HDFS is optimized for large files with:",
+          "options": [
+            "Frequent random byte writes",
+            "Small low-latency database updates",
+            "Mostly sequential access and high throughput",
+            "Client file locking"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Rack awareness in HDFS places replicas across:",
+          "options": [
+            "Only one rack",
+            "Only memory caches",
+            "Only client networks",
+            "Racks to tolerate rack failure"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The HDFS secondary NameNode does not replace the primary by default and primarily helps with:",
+          "options": [
+            "Checkpointing namespace metadata",
+            "Data encryption",
+            "Map task scheduling",
+            "Spark caching"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A small-files problem is costly because HDFS metadata grows per:",
+          "options": [
+            "Byte only",
+            "File and block",
+            "Cluster rack",
+            "CPU core"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "NameNode high availability uses a standby and shared:",
+          "options": [
+            "Only local memory",
+            "Only DNS cache",
+            "Edit log coordination mechanism",
+            "Only DataNode disks"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Erasure coding reduces replication overhead while providing:",
+          "options": [
+            "No redundancy",
+            "Faster random writes",
+            "Only encryption",
+            "Fault tolerance with parity data"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "MapReduce & Hadoop YARN",
+      "questions": [
+        {
+          "q": "MapReduce is structured as map and:",
+          "options": [
+            "Reduce phases",
+            "Shuffle encryption only",
+            "Index phases only",
+            "Cache phases only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The shuffle phase transfers:",
+          "options": [
+            "Only input blocks to clients",
+            "Mapper output grouped by key to reducers",
+            "Only binary models",
+            "Only cluster certificates"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A combiner may reduce data moved to reducers by:",
+          "options": [
+            "Changing reducers into maps",
+            "Deleting partition keys",
+            "Locally aggregating map output",
+            "Replicating blocks"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A MapReduce partitioner assigns records to:",
+          "options": [
+            "NameNode metadata",
+            "HDFS checkpoints",
+            "Client browsers",
+            "Reducer partitions by key"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Speculative execution reruns a slow task because a node may be:",
+          "options": [
+            "Straggling",
+            "Offline forever",
+            "Empty only",
+            "Leader"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "YARN ResourceManager manages:",
+          "options": [
+            "Only HDFS block data",
+            "Cluster resources and scheduling",
+            "Only input file parsing",
+            "Only SQL schemas"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A YARN NodeManager manages containers on its:",
+          "options": [
+            "Client laptop",
+            "NameNode only",
+            "Worker node",
+            "Object bucket"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "YARN separates resource management from the:",
+          "options": [
+            "Data replication only",
+            "Node hardware",
+            "DNS",
+            "MapReduce application framework"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A container in YARN is a resource allocation for:",
+          "options": [
+            "Running an application task with memory and CPU",
+            "One HDFS block only",
+            "One browser session",
+            "One database table"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "MapReduce is designed for large batch jobs, not for:",
+          "options": [
+            "Offline aggregation",
+            "Low-latency interactive transactions",
+            "Log processing",
+            "ETL"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Hadoop Ecosystem",
+      "questions": [
+        {
+          "q": "Apache Hive provides SQL-like queries over:",
+          "options": [
+            "Only live network packets",
+            "Only HBase row locks",
+            "Data stored in distributed systems",
+            "Only Kafka topics"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Apache Pig uses a data-flow language called:",
+          "options": [
+            "HiveQL",
+            "SparkSQL",
+            "KQL",
+            "Pig Latin"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Apache HBase is a distributed:",
+          "options": [
+            "Wide-column NoSQL database",
+            "Relational warehouse",
+            "Graph cache",
+            "File system"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Apache Sqoop transfers data between Hadoop and:",
+          "options": [
+            "Kafka alone",
+            "Relational databases",
+            "Only HTTP clients",
+            "Only GPU memory"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Apache Flume collects and moves:",
+          "options": [
+            "SQL schemas",
+            "Model weights",
+            "Streaming log data",
+            "Graph vertices"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Apache Oozie coordinates:",
+          "options": [
+            "GPU kernels",
+            "Browser cache",
+            "DNS records",
+            "Hadoop workflow jobs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Apache ZooKeeper provides:",
+          "options": [
+            "Coordination, configuration, and distributed locks",
+            "A distributed SQL engine",
+            "Only object storage",
+            "Only Spark UI"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Apache Ambari is associated with:",
+          "options": [
+            "Container image registry",
+            "Provisioning and monitoring Hadoop clusters",
+            "Vector search",
+            "Machine learning training only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Apache Impala provides low-latency SQL through:",
+          "options": [
+            "MapReduce-only job scheduling",
+            "Only key-value writes",
+            "MPP-style distributed query execution",
+            "Only file transfer"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Hadoop ecosystem components should be selected based on:",
+          "options": [
+            "Popularity alone",
+            "Logo design",
+            "File extension",
+            "Latency, consistency, query type, and operations"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Data Formats & Storage",
+      "questions": [
+        {
+          "q": "Parquet is a columnar format optimized for:",
+          "options": [
+            "Analytical read-heavy queries",
+            "Transactional row locking",
+            "One-byte logs only",
+            "DNS records"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ORC is another column-oriented format used primarily for:",
+          "options": [
+            "Public key certificates",
+            "Big data analytics and compression",
+            "Network routing",
+            "Audio streaming only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Avro is commonly used for:",
+          "options": [
+            "Pixel matrices",
+            "GPU kernels",
+            "Row-oriented data and evolving schemas",
+            "HDFS block metadata only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Apache Arrow standardizes an in-memory:",
+          "options": [
+            "File replication protocol",
+            "Network packet",
+            "SQL transaction log",
+            "Columnar data representation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Snappy compression favors:",
+          "options": [
+            "Fast compression and decompression",
+            "Maximum compression ratio only",
+            "No CPU use",
+            "Encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Zstandard is useful when:",
+          "options": [
+            "No files are compressed",
+            "A configurable compression-speed ratio is needed",
+            "Only text encryption is required",
+            "Only row locking is needed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A columnar format reduces I/O by reading:",
+          "options": [
+            "Every raw byte always",
+            "Only table names",
+            "Only columns required by a query",
+            "Only row IDs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A data lake partition should generally reduce:",
+          "options": [
+            "All schema definitions",
+            "Data quality checks",
+            "Query result size only",
+            "Files scanned by data predicates"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Too many small files in object storage slows queries due to:",
+          "options": [
+            "Metadata and opening overhead",
+            "Loss of compression",
+            "High row width",
+            "CPU temperature only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Object storage decouples compute from storage and provides:",
+          "options": [
+            "Only block disk performance",
+            "Independent scaling and durable objects",
+            "Only fixed rack locality",
+            "Only small-files metadata"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Data Engineering Pipelines",
+      "questions": [
+        {
+          "q": "ETL transforms data before:",
+          "options": [
+            "Source extraction only",
+            "Every network request",
+            "Loading it into the destination",
+            "A cache is written"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "ELT loads raw data first and transforms it:",
+          "options": [
+            "Outside the source only",
+            "Before extraction",
+            "Only in the browser",
+            "Inside the destination analytics system"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Data lineage tracks:",
+          "options": [
+            "Origin and transformations of data",
+            "Only query output text",
+            "Only server cost",
+            "Only file names"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A data contract defines expected:",
+          "options": [
+            "Only server hostname",
+            "Schema, quality, semantics, and ownership",
+            "Only UI colors",
+            "Only network port"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An idempotent pipeline can rerun without:",
+          "options": [
+            "Changing state ever",
+            "Using checkpoints",
+            "Duplicating or corrupting results",
+            "Handling events twice"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A schema registry helps manage compatibility for:",
+          "options": [
+            "Only SQL indexes",
+            "Only object filenames",
+            "Only training labels",
+            "Event formats and producers or consumers"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Backfill reprocesses historical data due to:",
+          "options": [
+            "Data correction or new logic",
+            "Routine cache warming only",
+            "Only DNS TTL",
+            "Only cluster reboot"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A slow batch job may be improved with partition pruning and:",
+          "options": [
+            "Opening every partition",
+            "Predicate pushdown",
+            "Unbounded retries",
+            "Removing all indexes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Data quality checks should validate completeness, uniqueness, freshness, and:",
+          "options": [
+            "Only color",
+            "Only filename",
+            "Validity against domain rules",
+            "Only user count"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A pipeline orchestrator schedules and tracks dependencies using:",
+          "options": [
+            "Only file counts",
+            "Only passwords",
+            "Only CPU sockets",
+            "Directed acyclic workflows"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Batch & Stream Data",
+      "questions": [
+        {
+          "q": "Batch processing handles bounded data collected over:",
+          "options": [
+            "A defined period or dataset",
+            "Zero events only",
+            "Only one record forever",
+            "Only random network packets"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Stream processing handles data as soon as:",
+          "options": [
+            "A daily full backup starts",
+            "Events arrive over time",
+            "Only a batch closes",
+            "Only a file is manually downloaded"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An event time is the time when:",
+          "options": [
+            "The event is processed only",
+            "The cluster starts",
+            "The event occurred",
+            "The result is queried"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Processing time is the time when:",
+          "options": [
+            "The user created it only",
+            "The producer clock always agrees",
+            "The schema changes",
+            "The stream system observes the event"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A watermark indicates when an engine expects:",
+          "options": [
+            "No more earlier event time data for a window",
+            "All future data",
+            "All state is deleted",
+            "A partition is compacted"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Windowing groups stream events by:",
+          "options": [
+            "Only color",
+            "Time or event/count boundaries",
+            "Only file size",
+            "Only schema ID"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Late events may be dropped, updated, or handled by:",
+          "options": [
+            "Only deletion",
+            "Only batching",
+            "Allowed lateness and retraction",
+            "Only cache expiry"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Exactly-once semantics requires transactional coordination between:",
+          "options": [
+            "Only CPU cores",
+            "Only DNS servers",
+            "Only file names",
+            "Input, state, and output systems"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A stream connector reads external data through a:",
+          "options": [
+            "Source or sink connector",
+            "SQL-only cache",
+            "NameNode role",
+            "DataNode block"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An append-only event log is useful because it preserves:",
+          "options": [
+            "Only latest values",
+            "History and supports replay",
+            "Only row deletion",
+            "Only password hashes"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Kafka & Messaging",
+      "questions": [
+        {
+          "q": "Kafka messages are stored in durable ordered:",
+          "options": [
+            "One database table only",
+            "Client memory",
+            "Partitions across topics",
+            "HDFS NameNode only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Kafka topic is divided into:",
+          "options": [
+            "Rows only",
+            "Objects only",
+            "Nodes only",
+            "Partitions for parallelism"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A consumer group processes partitions across members with:",
+          "options": [
+            "Shared group offsets",
+            "A common random file",
+            "Only one partition globally",
+            "No progress tracking"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Kafka partitions preserve order per:",
+          "options": [
+            "Entire topic always",
+            "Partition, not across all partitions globally",
+            "Entire cluster globally",
+            "Consumer group only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A partition key determines:",
+          "options": [
+            "Which cluster is deleted",
+            "Which model weight is used",
+            "Which partition receives related records",
+            "Which DNS zone is selected"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Acks in Kafka configure producer acknowledgment relative to:",
+          "options": [
+            "CPU usage",
+            "Consumer offsets only",
+            "Broker clock",
+            "Replica durability"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Retention controls how long Kafka messages remain before:",
+          "options": [
+            "Deletion or compaction according to policy",
+            "Immediate consumption",
+            "Replication is disabled",
+            "The consumer reads them"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Log compaction retains the latest value for each:",
+          "options": [
+            "Partition file name",
+            "Key within a log segment",
+            "Consumer ID",
+            "Broker address"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Kafka Connect integrates Kafka with:",
+          "options": [
+            "Only GPU memory",
+            "Only browser storage",
+            "External sources and sinks",
+            "Only SQL joins"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Consumer lag measures distance between produced offsets and:",
+          "options": [
+            "Broker disk size",
+            "Topic partition count only",
+            "Producer key length",
+            "Committed or current consumed offsets"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Distributed Data Systems",
+      "questions": [
+        {
+          "q": "Replication provides availability but must manage:",
+          "options": [
+            "Consistency and conflict resolution",
+            "Only disk labels",
+            "Only query syntax",
+            "Only CPU color"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Sharding partitions data by key to distribute:",
+          "options": [
+            "Input file names",
+            "Storage and workload",
+            "Only network cables",
+            "Only schema comments"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A hot shard has disproportionate traffic because data distribution is:",
+          "options": [
+            "Encrypted",
+            "Compressed",
+            "Skewed by key or workload",
+            "Normalized"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Consistent hashing reduces key movement when:",
+          "options": [
+            "Data is encrypted",
+            "Queries use joins",
+            "Files are renamed only",
+            "Nodes join or leave"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "CAP theorem trade-offs occur during:",
+          "options": [
+            "Network partitions",
+            "Normal encryption only",
+            "Disk formatting",
+            "Client rendering"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A write-ahead log records changes before:",
+          "options": [
+            "Deleting backups",
+            "Applying them to durable state",
+            "Starting DNS",
+            "Building caches"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A consensus protocol coordinates replicated state even under:",
+          "options": [
+            "Perfect single-node operation only",
+            "No network",
+            "Node failures and partial connectivity",
+            "Only client writes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Eventual consistency allows replicas to converge after:",
+          "options": [
+            "Every cache deletion",
+            "A schema migration always",
+            "A DNS TTL expires",
+            "Temporary divergence"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A sequence number or vector clock helps track:",
+          "options": [
+            "Ordering or causality of distributed updates",
+            "DNS TTL",
+            "CPU temperature",
+            "File extension"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A distributed transaction spanning systems should prefer an outbox or Saga pattern when:",
+          "options": [
+            "One local database is used",
+            "Atomic cross-system locking is impractical",
+            "No service communication exists",
+            "Only read operations occur"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Hadoop & Big Data Scenarios",
+      "questions": [
+        {
+          "q": "A cluster has 100 TB of sequential logs and analytical SQL queries. The strongest storage/layout is:",
+          "options": [
+            "A local desktop database",
+            "A tiny single CSV file",
+            "HDFS or object storage with partitioned columnar files",
+            "A transactional row store only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A NameNode service fails. A high-availability cluster should promote a:",
+          "options": [
+            "Random DataNode as metadata server",
+            "Client laptop",
+            "New worker container",
+            "Standby NameNode using coordinated metadata services"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A MapReduce job has reducers overloaded while others idle. Check:",
+          "options": [
+            "Partition skew and key distribution",
+            "Only mapper count",
+            "Only block filename",
+            "Only cluster wallpaper"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A query scans months of data despite a date filter. Check:",
+          "options": [
+            "Only output formatting",
+            "Partition pruning and predicate pushdown",
+            "Only HDFS hostname",
+            "Only password policy"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Hive table loads many tiny files every hour. Improve with:",
+          "options": [
+            "Deleting all partitions",
+            "Removing compression",
+            "Compaction or batching into larger files",
+            "Adding more columns only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An analytical query reads one column from 100 TB. Use:",
+          "options": [
+            "One huge row-oriented CSV",
+            "Random file splits",
+            "A key-value cache only",
+            "Columnar Parquet/ORC with partition pruning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A hot HBase row receives all updates. Mitigate with:",
+          "options": [
+            "Better row-key design and workload distribution",
+            "A single hotter replica",
+            "Only more block caching",
+            "Deleting row keys"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A streaming ingestion pipeline is losing events. Add:",
+          "options": [
+            "In-memory queue only",
+            "Durable offsets, retries, idempotency, and monitoring",
+            "No acknowledgments",
+            "Random event deletion"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A batch workflow runs daily jobs but one upstream task fails. Orchestrate with:",
+          "options": [
+            "Manual untracked scripts only",
+            "A fixed sleep loop",
+            "Dependency DAGs, retries, alerts, and reruns",
+            "No lineage"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A data lake mixes raw and curated data without ownership. Add:",
+          "options": [
+            "Only more raw files",
+            "Only public access",
+            "Only local scripts",
+            "Zones, data contracts, lineage, catalog, and quality checks"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

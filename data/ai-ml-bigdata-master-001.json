@@ -1,0 +1,1055 @@
+{
+  "id": "ai-ml-bigdata-master-001",
+  "sections": [
+    {
+      "name": "Apache Spark Fundamentals",
+      "questions": [
+        {
+          "q": "Apache Spark is primarily an in-memory:",
+          "options": [
+            "Distributed data processing engine",
+            "Single-node relational database",
+            "NameNode daemon",
+            "Object storage format"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Spark RDD is a resilient distributed dataset with:",
+          "options": [
+            "Only SQL rows",
+            "Partitions and lineage",
+            "Only a data catalog",
+            "Only Kafka offsets"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Spark transformations are typically lazy because they:",
+          "options": [
+            "Delete source data",
+            "Write outputs immediately",
+            "Build a plan until an action triggers execution",
+            "Run only on one node"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An action triggers computation and can return data or:",
+          "options": [
+            "Build a cache only",
+            "Create a schema only",
+            "Delete partitions",
+            "Write output"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A DataFrame is a distributed collection with:",
+          "options": [
+            "Named columns and a schema",
+            "Only opaque bytes",
+            "Only Python lists",
+            "Only RDD partitions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Spark SQL executes relational queries through:",
+          "options": [
+            "Only HDFS commands",
+            "Catalyst optimization and distributed execution",
+            "Only MapReduce controllers",
+            "Only Hive GUI"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Spark executor runs tasks and holds execution memory on a:",
+          "options": [
+            "Driver client only",
+            "NameNode only",
+            "Worker node",
+            "Object store key"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Spark driver coordinates planning and task scheduling for a:",
+          "options": [
+            "HDFS block",
+            "Kafka broker",
+            "DataNode",
+            "Spark application"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A narrow transformation requires input from:",
+          "options": [
+            "One partition of a parent RDD or DataFrame",
+            "Every partition globally always",
+            "Only one executor cache",
+            "Only an external database"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A wide transformation requires data movement known as a:",
+          "options": [
+            "Broadcast",
+            "Shuffle",
+            "Cache hit",
+            "Projection"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Spark Execution & Optimization",
+      "questions": [
+        {
+          "q": "Catalyst optimizer rewrites DataFrame and SQL operations for:",
+          "options": [
+            "Image rendering",
+            "Password rotation",
+            "Logical and physical optimization",
+            "DNS routing"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Predicate pushdown moves filters close to:",
+          "options": [
+            "The Spark UI",
+            "The cache eviction list",
+            "The client input form",
+            "The data source to reduce scanned data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Column pruning reads only columns that are:",
+          "options": [
+            "Required by the query",
+            "Present in a random file",
+            "All columns by default",
+            "Only keys in a shuffle"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Adaptive Query Execution adjusts a Spark plan based on:",
+          "options": [
+            "Only source filenames",
+            "Runtime statistics",
+            "Only user password",
+            "Only cluster logo"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Broadcast join sends a small table to each:",
+          "options": [
+            "NameNode",
+            "Kafka broker",
+            "Executor to avoid a shuffle join",
+            "DataNode"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A sort merge join is useful for large tables and typically requires a:",
+          "options": [
+            "Broadcast copy",
+            "No partition movement",
+            "Only one executor",
+            "Shuffle and sort of join keys"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Partition skew causes some tasks to process:",
+          "options": [
+            "Much more data than others",
+            "No data only",
+            "All partitions equally",
+            "Only metadata"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Salting an aggregation key adds a prefix to distribute:",
+          "options": [
+            "Only source dates",
+            "Skewed keys across partitions",
+            "Only file names",
+            "Only network ports"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Caching is useful for a DataFrame used repeatedly, but it consumes:",
+          "options": [
+            "NameNode edits",
+            "Kafka offsets",
+            "Executor memory or storage",
+            "Object metadata only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Persisting data after transformations is best with an appropriate storage level and:",
+          "options": [
+            "No reuse plan",
+            "Only disk on driver",
+            "Only a public cache",
+            "Unpersisting it when no longer needed"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Spark Streaming & Structured Streaming",
+      "questions": [
+        {
+          "q": "Structured Streaming treats a stream as data arriving in:",
+          "options": [
+            "Unbounded tables with incremental queries",
+            "A fixed unbounded SQL only",
+            "A single static RDD",
+            "A Kafka NameNode"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Micro-batching processes records collected during:",
+          "options": [
+            "Forever in one batch",
+            "Small time intervals",
+            "Only one partition",
+            "Only event arrival time zero"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A trigger controls how often Structured Streaming:",
+          "options": [
+            "Deletes checkpoints",
+            "Compacts Parquet files",
+            "Starts a new processing batch",
+            "Changes cluster size"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Checkpointing stores offsets and state so recovery can:",
+          "options": [
+            "Delete input data",
+            "Restart from a random batch",
+            "Disable exactly once",
+            "Resume processing safely"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Watermarks allow the engine to manage late data and:",
+          "options": [
+            "State cleanup for event-time windows",
+            "Kafka key compaction",
+            "HDFS replication",
+            "Model quantization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An output mode of append emits:",
+          "options": [
+            "Only updated rows always",
+            "New rows after they are finalized",
+            "Only deleted rows",
+            "Only the latest checkpoint"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Update output mode writes rows whose values:",
+          "options": [
+            "All remain unchanged",
+            "Only delete data",
+            "Changed since the last update",
+            "Only metadata"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Complete output mode rewrites the:",
+          "options": [
+            "Only one changed row",
+            "Only Kafka offset",
+            "Only HDFS block",
+            "Entire result table for supported queries"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Stream joins may require stateful time bounds to avoid:",
+          "options": [
+            "Unbounded memory growth",
+            "Deterministic order",
+            "Schema evolution",
+            "Data serialization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Exactly-once end-to-end streaming needs support from sources, engine state, and:",
+          "options": [
+            "Only the driver",
+            "Transactional sinks or idempotent output",
+            "Only the event key",
+            "Only the UI"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Kafka Analytics & Event Architecture",
+      "questions": [
+        {
+          "q": "A Kafka topic stores events in partitions for:",
+          "options": [
+            "SQL table locking",
+            "File system metadata only",
+            "Parallelism and retention",
+            "GPU matrix math"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Spark streaming query can read Kafka using a:",
+          "options": [
+            "HDFS block reader only",
+            "Hive metastore only",
+            "DNS cache",
+            "Kafka source connector or integration"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Event-time aggregation groups records using the timestamp in:",
+          "options": [
+            "The event payload",
+            "The Spark driver clock only",
+            "Only Kafka arrival time",
+            "Only cluster startup"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A late-arriving event may update an already emitted window if the sink and output mode support:",
+          "options": [
+            "Only append",
+            "Updates or retractions",
+            "Only deletion",
+            "Only static scan"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Consumer offsets should be checkpointed atomically with:",
+          "options": [
+            "Only the broker hostname",
+            "Only the event key",
+            "Output state for exactly-once processing",
+            "Only the UI theme"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A repeated event should be handled by a deduplication key or:",
+          "options": [
+            "More producer retries only",
+            "Unbounded consumer lag",
+            "Random sampling",
+            "Idempotent sink update"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Kafka events are partitioned by key to preserve:",
+          "options": [
+            "Ordering and co-location for related records",
+            "Global order across partitions",
+            "Random distribution only",
+            "Equal partition sizes always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A hot Kafka partition indicates high key concentration and may require:",
+          "options": [
+            "Only more broker CPU",
+            "Key redesign or more granular partitioning",
+            "Only larger offsets",
+            "Only smaller retention"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Schema evolution must be managed to prevent:",
+          "options": [
+            "Only UI color issues",
+            "Only cluster names",
+            "Reader incompatibility and data loss",
+            "Only broker latency"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A dead-letter topic stores events that:",
+          "options": [
+            "All producers produce",
+            "All consumers commit",
+            "All schemas match",
+            "Fail transformation or validation after retries"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Spark ML & Data Science",
+      "questions": [
+        {
+          "q": "Spark MLlib provides distributed implementations of:",
+          "options": [
+            "Machine learning algorithms and pipelines",
+            "Only K-means visualization",
+            "Only SQL joins",
+            "Only network routing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A machine learning pipeline composes transformers and an:",
+          "options": [
+            "Database action",
+            "Estimator",
+            "Kafka partition",
+            "DataNode"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Transformer turns input data into:",
+          "options": [
+            "A training label only",
+            "A model schema only",
+            "Output features or predictions",
+            "A cluster executor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An Estimator produces a model by running:",
+          "options": [
+            "Only transformation",
+            "Only deletion",
+            "Only caching",
+            "Fit on training data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "StringIndexer converts categorical values into:",
+          "options": [
+            "Numeric indices",
+            "Binary embeddings",
+            "Dense SQL objects",
+            "HDFS blocks"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "OneHotEncoder expands categories into:",
+          "options": [
+            "Continuous timestamps",
+            "Indicator columns or sparse vectors",
+            "Cluster offsets",
+            "Token probabilities"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "VectorAssembler combines columns into one:",
+          "options": [
+            "Text file",
+            "Kafka topic",
+            "Feature vector column",
+            "HDFS block"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "CrossValidator selects model hyperparameters using:",
+          "options": [
+            "Only training loss",
+            "Only parameter count",
+            "Only inference time",
+            "Cross-validation and a metric"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Spark ML random forest trains multiple trees for:",
+          "options": [
+            "Ensemble classification or regression",
+            "Only text indexing",
+            "Only SQL grouping",
+            "Only streaming windows"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "For a Spark model, input schema validation should prevent:",
+          "options": [
+            "Cache misses only",
+            "Mismatch between training and serving features",
+            "Partition skew only",
+            "Code formatting only"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Data Lakehouse & Analytics",
+      "questions": [
+        {
+          "q": "A lakehouse combines data lake storage with:",
+          "options": [
+            "Only file uploads",
+            "Only SQL row locks",
+            "Table management, transactions, and analytics performance",
+            "Only GPU training"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Delta Lake provides ACID transactions over:",
+          "options": [
+            "Only an in-memory cache",
+            "Only Kafka brokers",
+            "Only HDFS NameNode memory",
+            "Object storage data files"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Apache Iceberg manages large analytic tables with:",
+          "options": [
+            "Metadata, snapshots, schema evolution, and partition evolution",
+            "Only row locking",
+            "Only password resets",
+            "Only client cache"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Apache Hudi provides incremental ingestion with:",
+          "options": [
+            "Only static files",
+            "Upserts and data lifecycle management",
+            "Only DNS routing",
+            "Only broadcast joins"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A time-travel query reads a table at:",
+          "options": [
+            "Any deleted file",
+            "Only current output",
+            "A previous version or snapshot",
+            "Only cluster startup"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A compaction job rewrites small data files into:",
+          "options": [
+            "Only metadata records",
+            "Only indexes",
+            "Only encrypted passwords",
+            "Larger optimized files"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A vacuum operation removes old files only after confirming:",
+          "options": [
+            "Retention and active reader protections",
+            "No query uses data",
+            "Only model cache expires",
+            "Only DNS TTL"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A z-order or clustering technique co-locates:",
+          "options": [
+            "Only usernames",
+            "Frequently filtered values for scan reduction",
+            "Only file extensions",
+            "Only broker IDs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Data governance in a lakehouse requires cataloging, lineage, quality, and:",
+          "options": [
+            "Public write access",
+            "Only file counts",
+            "Fine-grained access controls",
+            "Only query text"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A curated gold table should contain data that is:",
+          "options": [
+            "Always raw and untested",
+            "Only encrypted names",
+            "Only generated at runtime",
+            "Validated, governed, and ready for analytics"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Distributed Query & Big Data Analytics",
+      "questions": [
+        {
+          "q": "A distributed query optimizer chooses joins and partitions based on:",
+          "options": [
+            "Statistics, predicates, and execution cost",
+            "Only query text length",
+            "Only server logo",
+            "Only file extension"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Star schema fact tables contain measures and foreign keys and dimensions describe:",
+          "options": [
+            "Only random logs",
+            "Business entities and attributes",
+            "Only cache state",
+            "Only HDFS blocks"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A snowflake schema normalizes:",
+          "options": [
+            "Fact measures only",
+            "Only partition keys",
+            "Dimension tables into sub-dimension structures",
+            "Only event timestamps"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Column pruning prevents scanning unused:",
+          "options": [
+            "Partitions only",
+            "Clusters only",
+            "Rows only",
+            "Columns"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Aggregation on high-cardinality keys causes a large:",
+          "options": [
+            "Group key state and shuffle volume",
+            "Reduction in schema only",
+            "DNS cache size",
+            "Output file encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "OLAP workloads typically prioritize analytical scans over:",
+          "options": [
+            "Bulk reads only",
+            "Frequent short transactional updates",
+            "Batch ingestion only",
+            "File backups"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A materialized view stores precomputed results to improve:",
+          "options": [
+            "Raw ingestion speed",
+            "Only random sampling",
+            "Repeated query performance",
+            "Only schema versioning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An analytical dashboard should include freshness metadata so users know data:",
+          "options": [
+            "Only server speed",
+            "Only model temperature",
+            "Only file name",
+            "Recency and update status"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A data cube preaggregates measures across:",
+          "options": [
+            "Multiple dimensional combinations",
+            "Only one row key",
+            "Only model weights",
+            "Only broker offsets"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Ad hoc SQL performance depends on partition layout, file sizing, caching, and:",
+          "options": [
+            "Only username login",
+            "Predicate pushdown or vectorized execution",
+            "Only result font",
+            "Only container color"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Spark Troubleshooting",
+      "questions": [
+        {
+          "q": "An executor keeps failing with out-of-memory errors. Check:",
+          "options": [
+            "Only application name",
+            "Only HDFS hostname",
+            "Partition size, caching, joins, and executor memory",
+            "Only DNS TTL"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Spark job spends time shuffling. Consider:",
+          "options": [
+            "More wide transformations",
+            "Writing each partition repeatedly",
+            "Deleting checkpoints",
+            "Filtering early, broadcast joins, partitioning, and avoiding unnecessary columns"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Most tasks finish while one task runs long. This indicates:",
+          "options": [
+            "Data skew or a slow executor",
+            "Even partitioning",
+            "Only skew-free joins",
+            "Perfect line balancing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Spark spill occurs when data exceeds:",
+          "options": [
+            "The output schema only",
+            "Executor memory and must be written to disk",
+            "The source cache only",
+            "The DNS resolver"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An RDD lineage is too long and recovery is expensive. Checkpoint or persist it at a:",
+          "options": [
+            "Random executor",
+            "Client browser",
+            "Reliable stage boundary",
+            "Kafka consumer"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Too many tiny partitions create excessive task scheduling overhead. Use:",
+          "options": [
+            "More unneeded partitions",
+            "Only larger task timeout",
+            "Only smaller source files",
+            "Coalescing based on data size"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A broadcast join fails due to its size. Use a:",
+          "options": [
+            "Sort merge join or filtered table broadcast",
+            "A larger nameNode",
+            "Only RDD collect",
+            "Only an object rename"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A streaming query has increasing state size. Check:",
+          "options": [
+            "Only output mode spelling",
+            "Watermark, retention, joins, and state cleanup",
+            "Only Kafka broker color",
+            "Only executor count"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Spark UI shows long GC pauses. Check:",
+          "options": [
+            "Only query title",
+            "Only file extension",
+            "Memory pressure, serialization, cache use, and heap sizing",
+            "Only DNS name"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A cluster executes tasks but results are incorrect. Verify:",
+          "options": [
+            "Only random seed",
+            "Only UI theme",
+            "Only cluster wallpaper",
+            "Determinism, schema, time zones, null handling, and duplicate events"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Big Data Architecture Scenarios",
+      "questions": [
+        {
+          "q": "A company ingests 1 TB per day with hourly analytics. Choose:",
+          "options": [
+            "Partitioned object lake, batch ETL, and curated SQL tables",
+            "One local CSV server",
+            "One relational row per transaction only",
+            "Manual spreadsheet uploads"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An IoT fleet emits millions of sensor events. Use:",
+          "options": [
+            "One email inbox",
+            "Kafka, stream processing, event-time windows, and partitioned storage",
+            "One static file each event",
+            "Only batch nightly copy"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A finance team needs historical reproducibility. Store:",
+          "options": [
+            "Only mutable latest rows",
+            "Only public cache copies",
+            "Immutable snapshots, transaction metadata, and versioned tables",
+            "Only client screenshots"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A fraud stream needs joins between live events and profiles. Use:",
+          "options": [
+            "Random file polling",
+            "Only batch daily jobs",
+            "Only SQL on source files",
+            "Partitioned stateful stream processing with bounded window state"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An analytics query scans too much data. Improve through:",
+          "options": [
+            "Partition pruning, columnar formats, and compaction",
+            "Reading every file fully",
+            "Removing schemas",
+            "Adding tiny files"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A business team sees inconsistent metrics across reports. Create:",
+          "options": [
+            "Independent SQL formulas everywhere",
+            "A governed semantic layer and certified metrics tables",
+            "Only raw dashboards",
+            "Only spreadsheet copies"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A late event updates a 1-hour window already emitted. Configure:",
+          "options": [
+            "Only append and ignore late data",
+            "Only current event time",
+            "Allowed lateness, watermarks, and update-capable sink",
+            "Only random deletion"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Kafka key hot partition slows processing. Fix:",
+          "options": [
+            "Only adding one partition globally",
+            "Only deleting lag metrics",
+            "Only reducing consumers",
+            "Key design, partition count, and tenant-aware sharding"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A lakehouse needs GDPR deletion. Implement:",
+          "options": [
+            "Versioned delete procedures, lineage, and retention policies",
+            "Deleting only dashboard cache",
+            "Overwriting files randomly",
+            "Ignoring deleted user IDs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Two departments define revenue differently. Establish:",
+          "options": [
+            "Only separate dashboards",
+            "A governed metric definition, owner, and data contract",
+            "Only private SQL files",
+            "Only whichever number loads first"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Big Data Quality & Security",
+      "questions": [
+        {
+          "q": "A pipeline writes duplicate rows after retry. Add:",
+          "options": [
+            "Only longer sleeps",
+            "Only repeated retries",
+            "Idempotent keys or transactional writes",
+            "Only manual cleanup"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Input files contain invalid schema one out of 100 times. Add:",
+          "options": [
+            "Ignoring malformed rows blindly",
+            "Only dashboard output",
+            "Only public writes",
+            "Schema validation, quarantine, and alerting"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Sensitive fields appear in raw logs. Apply:",
+          "options": [
+            "Tokenization, masking, encryption, and access policies",
+            "Plaintext storage only",
+            "Only file names",
+            "Only retention deletion"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A data scientist reads a production table directly. Provide:",
+          "options": [
+            "Production write access",
+            "A curated governed replica or sandbox",
+            "Only database password",
+            "Only public export"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A pipeline is processed without knowing its source version. Add:",
+          "options": [
+            "Only output filename",
+            "Only schedule time",
+            "Lineage, provenance, and input run IDs",
+            "Only worker count"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A deletion request must remove derived copies too. Use:",
+          "options": [
+            "Only primary table deletion",
+            "Only dashboard cache",
+            "Only backup retention exemption",
+            "Deletion workflows with lineage-aware downstream propagation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An audit team needs evidence of table changes. Use:",
+          "options": [
+            "Table snapshots, logs, and access audit trails",
+            "Only current row counts",
+            "Only chat screenshots",
+            "Only password changes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A team shares broad read access to customer data. Implement:",
+          "options": [
+            "Public bucket access",
+            "Column and row-level authorization plus least privilege",
+            "One shared service account",
+            "Only UI hiding"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A schema change breaks downstream jobs. Use:",
+          "options": [
+            "Direct field renaming in production",
+            "Only alert after failures",
+            "Compatibility checks and a schema registry",
+            "Only weekly notes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A data job fails silently after partial writes. Add:",
+          "options": [
+            "Only manual review later",
+            "Only a success exit code",
+            "Only more output logging",
+            "Atomic commit or staging plus validation"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

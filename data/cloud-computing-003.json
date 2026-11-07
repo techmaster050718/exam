@@ -1,0 +1,1055 @@
+{
+  "id": "cloud-computing-003",
+  "sections": [
+    {
+      "name": "Compute Services & Selection",
+      "questions": [
+        {
+          "q": "Which cloud use case is best associated with Amazon EC2?",
+          "options": [
+            "Virtual machines when provider managed",
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud use case is best associated with AWS Lambda?",
+          "options": [
+            "Long-term tape archival",
+            "Serverless event handlers when provider managed",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cloud use case is best associated with AWS ECS?",
+          "options": [
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Managed container service when provider managed",
+            "Physical network cabling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which cloud use case is best associated with AWS EKS?",
+          "options": [
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Physical network cabling",
+            "Managed Kubernetes when provider managed"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which cloud use case is best associated with Azure Virtual Machines?",
+          "options": [
+            "Virtual machines when provider managed",
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud use case is best associated with Azure Functions?",
+          "options": [
+            "Long-term tape archival",
+            "Serverless event handlers when provider managed",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cloud use case is best associated with Azure Container Instances?",
+          "options": [
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Serverless containers when provider managed",
+            "Physical network cabling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which cloud use case is best associated with Azure Kubernetes Service?",
+          "options": [
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Physical network cabling",
+            "Managed Kubernetes when provider managed"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which cloud use case is best associated with AWS Batch?",
+          "options": [
+            "Managed batch workloads when provider managed",
+            "Long-term tape archival",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud use case is best associated with Azure Batch?",
+          "options": [
+            "Long-term tape archival",
+            "Managed batch workloads when provider managed",
+            "Global DNS registration",
+            "Physical network cabling"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Storage Services & Selection",
+      "questions": [
+        {
+          "q": "Which purpose best matches Amazon S3?",
+          "options": [
+            "Identity federation",
+            "Virtual machine scheduling",
+            "Object storage",
+            "DNS failover"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose best matches Amazon EBS?",
+          "options": [
+            "Identity federation",
+            "Virtual machine scheduling",
+            "DNS failover",
+            "Block storage volumes"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose best matches Amazon EFS?",
+          "options": [
+            "Shared file storage",
+            "Identity federation",
+            "Virtual machine scheduling",
+            "DNS failover"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose best matches Azure Blob Storage?",
+          "options": [
+            "Identity federation",
+            "Object storage",
+            "Virtual machine scheduling",
+            "DNS failover"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose best matches Azure Managed Disks?",
+          "options": [
+            "Identity federation",
+            "Virtual machine scheduling",
+            "Block storage volumes",
+            "DNS failover"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose best matches Azure Files?",
+          "options": [
+            "Identity federation",
+            "Virtual machine scheduling",
+            "DNS failover",
+            "Shared file storage"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose best matches Amazon S3 Glacier?",
+          "options": [
+            "Archive object storage",
+            "Identity federation",
+            "Virtual machine scheduling",
+            "DNS failover"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose best matches Azure Blob Archive?",
+          "options": [
+            "Identity federation",
+            "Archive object storage",
+            "Virtual machine scheduling",
+            "DNS failover"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A static website needs durable publicly accessible objects. Which AWS family is appropriate?",
+          "options": [
+            "Amazon EBS",
+            "AWS Lambda",
+            "Amazon S3",
+            "Amazon VPC"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A VM needs an independently attached persistent disk. Which Azure family is appropriate?",
+          "options": [
+            "Azure Blob Storage only",
+            "Azure Functions",
+            "Azure DNS",
+            "Azure Managed Disks"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cloud Databases",
+      "questions": [
+        {
+          "q": "Amazon RDS is used primarily for:",
+          "options": [
+            "Managed relational databases",
+            "Object storage",
+            "DNS resolution",
+            "Container orchestration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Amazon DynamoDB is a:",
+          "options": [
+            "Managed relational warehouse",
+            "Managed NoSQL key-value/document database",
+            "Block file system",
+            "Load balancer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Amazon Redshift is optimized for:",
+          "options": [
+            "Small transactional key-value reads",
+            "Virtual machine boot disks",
+            "Analytical data warehousing",
+            "Secret encryption"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Azure SQL Database is a:",
+          "options": [
+            "Message queue",
+            "Container registry",
+            "CDN service",
+            "Managed relational database"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Azure Cosmos DB is suitable for:",
+          "options": [
+            "Globally distributed NoSQL data",
+            "Only encrypted files",
+            "DNS certificate storage",
+            "Virtual routers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Azure Synapse Analytics is associated with:",
+          "options": [
+            "Identity federation",
+            "Data warehouse and analytics integration",
+            "Serverless DNS",
+            "CPU scheduling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A key-value workload needs single-digit millisecond access and automatic scaling. Which AWS service family fits?",
+          "options": [
+            "Amazon EFS",
+            "AWS Batch",
+            "DynamoDB",
+            "Amazon Route 53"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A globally distributed app needs configurable low-latency consistency across regions. Which Azure service fits?",
+          "options": [
+            "Azure Blob Archive",
+            "Azure Firewall",
+            "Azure Bastion",
+            "Azure Cosmos DB"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A query needs petabyte-scale historical analytical processing. Which choice is strongest?",
+          "options": [
+            "Redshift or Synapse",
+            "DynamoDB only",
+            "EBS snapshots",
+            "SNS topics"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A relational application needs patches, backups, and Multi-AZ-style high availability managed. Which choice is strongest?",
+          "options": [
+            "S3 Glacier",
+            "RDS or Azure SQL Database",
+            "Route 53",
+            "CloudFront"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Networking & Delivery Services",
+      "questions": [
+        {
+          "q": "Which AWS or Azure purpose is associated with Amazon VPC?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Virtual private network in AWS",
+            "Container image compilation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Azure Virtual Network?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Container image compilation",
+            "Virtual private network in Azure"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Amazon Route 53?",
+          "options": [
+            "Managed DNS",
+            "Object archival",
+            "Serverless document database",
+            "Container image compilation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Azure DNS?",
+          "options": [
+            "Object archival",
+            "Managed DNS",
+            "Serverless document database",
+            "Container image compilation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with AWS Direct Connect?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Dedicated private network link",
+            "Container image compilation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Azure ExpressRoute?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Container image compilation",
+            "Dedicated private network link"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Amazon CloudFront?",
+          "options": [
+            "CDN",
+            "Object archival",
+            "Serverless document database",
+            "Container image compilation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Azure Front Door?",
+          "options": [
+            "Object archival",
+            "Global application delivery and CDN",
+            "Serverless document database",
+            "Container image compilation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with AWS Transit Gateway?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Centralized inter-VPC connectivity",
+            "Container image compilation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AWS or Azure purpose is associated with Azure Firewall?",
+          "options": [
+            "Object archival",
+            "Serverless document database",
+            "Container image compilation",
+            "Managed cloud network firewall"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Serverless & Integration",
+      "questions": [
+        {
+          "q": "A short image-processing function triggered by an upload should use:",
+          "options": [
+            "AWS Lambda or Azure Functions",
+            "A dedicated DNS server",
+            "A long-term archive bucket",
+            "A physical load balancer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A queue-backed function should use a message service such as:",
+          "options": [
+            "Route 53",
+            "SQS or Azure Service Bus",
+            "EBS",
+            "Azure Bastion"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Amazon API Gateway primarily provides:",
+          "options": [
+            "Container image storage",
+            "Block disk attachment",
+            "API publishing, routing, and throttling",
+            "VPN key generation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Azure API Management is used to:",
+          "options": [
+            "Only monitor CPU",
+            "Only host virtual disks",
+            "Only archive backups",
+            "Publish, secure, and monitor APIs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Amazon EventBridge is primarily a:",
+          "options": [
+            "Event bus and integration service",
+            "Virtual desktop",
+            "Database engine",
+            "DNS registrar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Azure Event Grid routes events using a:",
+          "options": [
+            "Dedicated SQL replica",
+            "Pub-sub event delivery model",
+            "Block volume snapshot",
+            "VPN certificate"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AWS SNS is suitable for:",
+          "options": [
+            "Transactional disk blocks",
+            "DNS zone transfer",
+            "Publish-subscribe fanout messaging",
+            "Secret rotation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Azure Service Bus is suitable for:",
+          "options": [
+            "Static object cache",
+            "Virtual machine firmware",
+            "Container registry replication",
+            "Enterprise queues and topics"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which serverless service needs careful database connection pooling to avoid exhausting connections?",
+          "options": [
+            "Functions or Lambda accessing relational databases",
+            "Managed DNS",
+            "Object archive",
+            "CDN cache"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which mechanism protects serverless APIs from excessive requests?",
+          "options": [
+            "Public write buckets",
+            "Rate limiting and quotas",
+            "No authentication",
+            "Unlimited connection timeouts"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Containers & Managed Platforms",
+      "questions": [
+        {
+          "q": "Which purpose best matches Amazon ECR?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Container image registry",
+            "Network cable test"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose best matches Amazon ECS?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Network cable test",
+            "Managed container orchestration"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose best matches Amazon EKS?",
+          "options": [
+            "Managed Kubernetes",
+            "Database row locking",
+            "DNS record creation",
+            "Network cable test"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose best matches AWS Fargate?",
+          "options": [
+            "Database row locking",
+            "Serverless container compute",
+            "DNS record creation",
+            "Network cable test"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose best matches Azure Container Registry?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Container image registry",
+            "Network cable test"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose best matches Azure Container Instances?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Network cable test",
+            "Quick managed containers"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose best matches Azure Kubernetes Service?",
+          "options": [
+            "Managed Kubernetes",
+            "Database row locking",
+            "DNS record creation",
+            "Network cable test"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose best matches Amazon Elastic Beanstalk?",
+          "options": [
+            "Database row locking",
+            "Managed application platform",
+            "DNS record creation",
+            "Network cable test"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose best matches Azure App Service?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Managed web application platform",
+            "Network cable test"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose best matches AWS Lambda?",
+          "options": [
+            "Database row locking",
+            "DNS record creation",
+            "Network cable test",
+            "Function compute"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cloud Security Services",
+      "questions": [
+        {
+          "q": "AWS IAM is used to manage:",
+          "options": [
+            "Users, roles, policies, and permissions",
+            "Virtual disks only",
+            "DNS zone data only",
+            "Container images only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Azure Active Directory is now broadly called:",
+          "options": [
+            "Azure Files",
+            "Microsoft Entra ID",
+            "Azure Blob",
+            "Azure Monitor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AWS KMS and Azure Key Vault are used for:",
+          "options": [
+            "Load balancing",
+            "Object caching",
+            "Key management and secret protection",
+            "Compute scheduling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "AWS WAF protects web applications at the:",
+          "options": [
+            "BIOS layer",
+            "Disk byte layer",
+            "DNS registrar layer",
+            "Application layer"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Azure DDoS Protection helps defend against:",
+          "options": [
+            "Distributed denial-of-service attacks",
+            "SQL syntax errors",
+            "Image compression",
+            "Disk fragmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "AWS Shield is associated with:",
+          "options": [
+            "Database warehousing",
+            "DDoS protection",
+            "Serverless code storage",
+            "File encryption at rest"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Azure Private Link provides:",
+          "options": [
+            "Public DNS resolution",
+            "Container image builds",
+            "Private connectivity to cloud services",
+            "Source code hosting"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AWS service encrypts and manages keys separately from data services?",
+          "options": [
+            "EBS only",
+            "S3 Glacier only",
+            "CloudWatch",
+            "KMS"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which Azure service offers secret, key, and certificate storage?",
+          "options": [
+            "Key Vault",
+            "Blob Storage",
+            "Virtual Network",
+            "App Service"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Least privilege in AWS and Azure means granting:",
+          "options": [
+            "All subscriptions and actions",
+            "Only required actions and resources",
+            "Temporary blanket root access",
+            "Shared administrator credentials"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Monitoring, Audit & Security Operations",
+      "questions": [
+        {
+          "q": "Which purpose matches Amazon CloudWatch?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Metrics, logs, and alarms",
+            "Object deletion only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose matches AWS CloudTrail?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Object deletion only",
+            "API activity audit logs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose matches AWS Config?",
+          "options": [
+            "Resource configuration compliance",
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Object deletion only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose matches Azure Monitor?",
+          "options": [
+            "Virtual machine hardware",
+            "Metrics, logs, and alerts",
+            "DNS domain purchase",
+            "Object deletion only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose matches Microsoft Defender for Cloud?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Cloud security posture and workload protection",
+            "Object deletion only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose matches Azure Policy?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Object deletion only",
+            "Governance and compliance enforcement"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose matches AWS X-Ray?",
+          "options": [
+            "Distributed tracing",
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Object deletion only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose matches Azure Application Insights?",
+          "options": [
+            "Virtual machine hardware",
+            "Application performance monitoring",
+            "DNS domain purchase",
+            "Object deletion only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose matches Amazon GuardDuty?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Threat detection",
+            "Object deletion only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose matches Azure Sentinel or Microsoft Sentinel?",
+          "options": [
+            "Virtual machine hardware",
+            "DNS domain purchase",
+            "Object deletion only",
+            "Cloud-native SIEM and SOAR"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Data, Analytics & AI Services",
+      "questions": [
+        {
+          "q": "Which purpose matches Amazon Kinesis?",
+          "options": [
+            "Real-time streaming data",
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose matches Amazon Athena?",
+          "options": [
+            "Physical server repair",
+            "Serverless SQL against object data",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose matches Amazon SageMaker?",
+          "options": [
+            "Physical server repair",
+            "Private certificate issuance",
+            "Managed machine learning",
+            "Domain registration"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose matches Azure Event Hubs?",
+          "options": [
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration",
+            "Streaming event ingestion"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose matches Azure Data Lake?",
+          "options": [
+            "Scalable analytical data storage",
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose matches Azure Databricks?",
+          "options": [
+            "Physical server repair",
+            "Unified analytics and Spark",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which purpose matches Azure Machine Learning?",
+          "options": [
+            "Physical server repair",
+            "Private certificate issuance",
+            "Managed machine learning",
+            "Domain registration"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which purpose matches Amazon QuickSight?",
+          "options": [
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration",
+            "Business intelligence dashboards"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which purpose matches Power BI?",
+          "options": [
+            "Interactive business intelligence",
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which purpose matches AWS Glue?",
+          "options": [
+            "Physical server repair",
+            "Data integration and cataloging",
+            "Private certificate issuance",
+            "Domain registration"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "AWS vs Azure",
+      "questions": [
+        {
+          "q": "AWS EC2 and Azure Virtual Machines are both:",
+          "options": [
+            "Object storage services",
+            "Managed DNS services",
+            "Virtual machine compute services",
+            "Database-only services"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "AWS S3 and Azure Blob Storage are both:",
+          "options": [
+            "SQL database services",
+            "Serverless containers",
+            "VPN services",
+            "Object storage services"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "AWS RDS and Azure SQL Database are both:",
+          "options": [
+            "Managed relational database options",
+            "CDN services",
+            "Secret stores",
+            "Message queues"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "AWS Lambda and Azure Functions are both:",
+          "options": [
+            "Container registries",
+            "Serverless function platforms",
+            "Block storage",
+            "Global load balancers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Amazon VPC and Azure VNet are both:",
+          "options": [
+            "Key vaults",
+            "Data warehouses",
+            "Virtual private network constructs",
+            "Container images"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "CloudFront and Azure Front Door are both associated with:",
+          "options": [
+            "Database backup",
+            "Identity provisioning",
+            "Virtual disk snapshots",
+            "Global content delivery and application edge"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "IAM roles and Microsoft Entra roles can both be used to:",
+          "options": [
+            "Control authorization for identities",
+            "Define DNS TTL",
+            "Encrypt disk sectors",
+            "Compile source code"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "CloudWatch and Azure Monitor are both:",
+          "options": [
+            "Relational databases",
+            "Monitoring and alerting platforms",
+            "CDN origins",
+            "DNS registrars"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "CloudTrail and Azure activity logs are both associated with:",
+          "options": [
+            "Image builds",
+            "Serverless runtimes only",
+            "Audit trail activity",
+            "Capacity planning only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Kubernetes Services and Azure load balancer rules both help expose:",
+          "options": [
+            "Database encryption keys",
+            "Source code repositories",
+            "Billing forecasts",
+            "Workload network endpoints"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

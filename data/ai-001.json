@@ -1,0 +1,1055 @@
+{
+  "id": "ai-001",
+  "sections": [
+    {
+      "name": "AI Fundamentals & Agents",
+      "questions": [
+        {
+          "q": "Which property allows an AI agent to operate without continuous human intervention?",
+          "options": [
+            "Autonomy",
+            "Syntax checking",
+            "Data normalization",
+            "Compilation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which agent observes an environment, chooses actions, and uses feedback to improve?",
+          "options": [
+            "Static compiler",
+            "Intelligent agent",
+            "Relational view",
+            "DNS resolver"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which AI approach uses rules and symbols to represent knowledge and inference?",
+          "options": [
+            "Random forest",
+            "Gradient boosting",
+            "Symbolic AI",
+            "Linear regression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AI approach learns patterns primarily from examples and data?",
+          "options": [
+            "Manual code branching",
+            "Database normalization",
+            "Hash partitioning",
+            "Machine learning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which measure describes the ability of an AI system to act correctly across a range of tasks?",
+          "options": [
+            "General capability",
+            "Clock speed",
+            "File compression",
+            "Network latency"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An agent combines percepts into a model, selects a goal, and performs actions. This is a:",
+          "options": [
+            "MapReduce shuffle",
+            "Perception-action loop",
+            "Database transaction",
+            "HTTP handshake"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which agent has both a model of the world and internal goals?",
+          "options": [
+            "Random probe",
+            "Static index",
+            "Goal-based agent",
+            "Compiler pass"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which agent maximizes a numerical performance measure when choosing actions?",
+          "options": [
+            "Batch sorter",
+            "Schema validator",
+            "Password verifier",
+            "Utility-based agent"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A chatbot rejecting requests outside its intended scope demonstrates:",
+          "options": [
+            "Operational safety boundary",
+            "Feature hashing",
+            "Model quantization",
+            "Data sharding"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which evaluation asks whether an AI result is fair and acceptable to affected people?",
+          "options": [
+            "Cache profiling",
+            "Responsible AI evaluation",
+            "Disk benchmarking",
+            "Network sniffing"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Search & Problem Solving",
+      "questions": [
+        {
+          "q": "Which search strategy examines nodes without using a heuristic?",
+          "options": [
+            "A* search",
+            "Greedy best-first search",
+            "Breadth-first search",
+            "Hill climbing"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which search explores the deepest available node before backtracking?",
+          "options": [
+            "Breadth-first search",
+            "Uniform-cost search",
+            "Bidirectional search",
+            "Depth-first search"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which search guarantees an optimal path when edge costs are nonnegative?",
+          "options": [
+            "Uniform-cost search",
+            "Greedy search",
+            "DFS without path tracking",
+            "Random walk"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A* search evaluates a node using:",
+          "options": [
+            "h(n) minus g(n)",
+            "g(n) plus h(n)",
+            "Only path cost",
+            "Only child count"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which heuristic property is required for A* to guarantee optimality with consistent admissible assumptions?",
+          "options": [
+            "High overestimation",
+            "Randomness",
+            "Admissibility and consistency",
+            "No memory use"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which search is useful in games and prunes branches that cannot improve the current result?",
+          "options": [
+            "Dijkstra alone",
+            "K-means",
+            "Linear regression",
+            "Alpha-beta pruning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which optimization technique repeatedly moves to a better neighboring state?",
+          "options": [
+            "Hill climbing",
+            "Dijkstra search",
+            "Breadth-first search",
+            "Naive Bayes"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Local optima are difficult for hill climbing because it may:",
+          "options": [
+            "Search every tree leaf",
+            "Stop without finding the global optimum",
+            "Always backtrack completely",
+            "Exhaustively enumerate states"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Simulated annealing avoids some local minima by:",
+          "options": [
+            "Never accepting worse states",
+            "Removing the objective",
+            "Allowing limited uphill moves based on a decreasing temperature",
+            "Using only DFS"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Constraint satisfaction searches assign values while enforcing:",
+          "options": [
+            "Feature scaling",
+            "Gradient momentum",
+            "Packet routing",
+            "Variable constraints"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Knowledge Representation",
+      "questions": [
+        {
+          "q": "Which representation uses nodes and edges to express concepts and relationships?",
+          "options": [
+            "Semantic network",
+            "Histogram",
+            "Confusion matrix",
+            "Vector normalization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A frame is commonly used to represent:",
+          "options": [
+            "A convolution kernel",
+            "An object with slots and default values",
+            "A distributed file block",
+            "A neural activation only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which logic explicitly models true or false propositions and inference rules?",
+          "options": [
+            "Fuzzy clustering",
+            "Wavelet compression",
+            "Propositional logic",
+            "Linear algebra only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which logic can express relationships and quantified variables?",
+          "options": [
+            "Boolean hashing",
+            "SQL SELECT only",
+            "Gradient descent",
+            "First-order logic"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An ontology defines:",
+          "options": [
+            "Formal concepts, properties, and relationships in a domain",
+            "A neural activation map",
+            "A distributed cache",
+            "A database transaction ID"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A rule such as IF fever THEN recommend test is a form of:",
+          "options": [
+            "Kernel function",
+            "Production rule",
+            "Cluster centroid",
+            "Attention mask"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which uncertainty method combines prior probability and observed evidence?",
+          "options": [
+            "List sorting",
+            "Normalization pooling",
+            "Bayesian inference",
+            "Encryption"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AI system explains decisions through traceable rules and facts?",
+          "options": [
+            "Undocumented neural network only",
+            "Random token generator",
+            "Black-box hash only",
+            "Knowledge-based expert system"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A knowledge graph relationship is often stored as:",
+          "options": [
+            "A subject-predicate-object triple",
+            "An image tensor only",
+            "A confusion matrix row",
+            "A cache TTL"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which challenge occurs when information sources disagree or are incomplete?",
+          "options": [
+            "Data parallelism",
+            "Knowledge inconsistency and uncertainty",
+            "Cosine similarity",
+            "Batch normalization"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Planning & Reasoning",
+      "questions": [
+        {
+          "q": "Planning selects actions to transform an initial state into a:",
+          "options": [
+            "Random state",
+            "Training batch",
+            "Goal state",
+            "Cache miss"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A state-space plan is a sequence of:",
+          "options": [
+            "Tokens and embeddings only",
+            "Database indexes",
+            "Network packets",
+            "Actions and resulting states"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Partial-order planning permits actions to be ordered only where:",
+          "options": [
+            "Dependencies require it",
+            "Every action needs a random order",
+            "No preconditions exist",
+            "Parallelism is prohibited"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "STRIPS-like planning represents actions with:",
+          "options": [
+            "Pixels and kernels",
+            "Preconditions and effects",
+            "Query plans and indexes",
+            "Attention heads only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A robot chooses a route while avoiding obstacles. This is an example of:",
+          "options": [
+            "Data warehouse ETL",
+            "Model quantization",
+            "Planning under constraints",
+            "Batch normalization"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Reasoning about likely outcomes under uncertainty uses:",
+          "options": [
+            "Exact syntax parsing only",
+            "File checksum alone",
+            "Index compaction",
+            "Probabilistic inference"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Forward chaining starts from known facts and applies rules toward a:",
+          "options": [
+            "Conclusion",
+            "Initial fact only",
+            "Confusion matrix",
+            "Feature vector"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Backward chaining starts from a goal and looks for supporting:",
+          "options": [
+            "Output probabilities only",
+            "Premises and rules",
+            "SQL join results",
+            "CPU threads"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A system is non-monotonic if newly learned facts may:",
+          "options": [
+            "Increase all scores",
+            "Prevent training",
+            "Invalidate previous conclusions",
+            "Guarantee consistency"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A heuristic makes planning faster but does not always guarantee:",
+          "options": [
+            "Runtime execution",
+            "Any successful action",
+            "A defined state space",
+            "Optimality"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "AI Probability & Logic",
+      "questions": [
+        {
+          "q": "A binary proposition with value true has truth value:",
+          "options": [
+            "1",
+            "0",
+            "Unknown only",
+            "-1"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which operator means both propositions must be true?",
+          "options": [
+            "OR",
+            "AND",
+            "NOT",
+            "XOR"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which operator inverts a proposition?",
+          "options": [
+            "AND",
+            "OR",
+            "NOT",
+            "IMPLICATION"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An inference rule that draws a specific conclusion from general premises is:",
+          "options": [
+            "Abduction",
+            "Random sampling",
+            "Clustering",
+            "Deduction"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Inferring the best explanation from observed evidence is:",
+          "options": [
+            "Abduction",
+            "Deduction only",
+            "Regression",
+            "Sorting"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Bayesian network represents variables with edges indicating:",
+          "options": [
+            "GPU memory allocation",
+            "Conditional dependencies",
+            "SQL joins",
+            "Hadoop blocks"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "If rain and sprinkler both affect wet ground, a Bayesian model can represent a:",
+          "options": [
+            "Linear tokenizer only",
+            "Gradient clip",
+            "Joint conditional distribution",
+            "Cache key"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A probability estimate should be calibrated if predicted probability 0.8 means the event occurs:",
+          "options": [
+            "Exactly 8 times",
+            "With 80% certainty always",
+            "Never on unseen data",
+            "About 80% of comparable cases"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which term describes two independent events having no effect on each other's probability?",
+          "options": [
+            "Statistical independence",
+            "Covariance only",
+            "Collinearity",
+            "Overfitting"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Bayes' theorem updates prior beliefs using:",
+          "options": [
+            "Learning rate only",
+            "Likelihood and evidence",
+            "Batch size only",
+            "Precision alone"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Responsible AI & Bias",
+      "questions": [
+        {
+          "q": "Which principle requires users to understand significant automated decisions?",
+          "options": [
+            "Maximum collection",
+            "Vendor secrecy",
+            "Transparency and explainability",
+            "Model complexity"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which risk occurs when historical labels reflect past discrimination?",
+          "options": [
+            "MapReduce skew",
+            "Vapor pressure",
+            "Cache miss",
+            "Representational or label bias"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Fairness auditing should compare model outcomes across:",
+          "options": [
+            "Relevant demographic or protected groups",
+            "Only GPU vendors",
+            "Only training file names",
+            "Only request volume"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system that reveals individuals through model behavior may violate:",
+          "options": [
+            "Availability only",
+            "Privacy",
+            "Portability only",
+            "Scalability"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which technique reduces memorization of private training samples?",
+          "options": [
+            "Data duplication",
+            "Min-max scaling only",
+            "Differential privacy",
+            "One-hot encoding"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Human-in-the-loop review is most important for decisions with:",
+          "options": [
+            "Only trivial formatting",
+            "Low-risk spelling",
+            "Static sorting",
+            "High impact and uncertain confidence"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Model cards should document:",
+          "options": [
+            "Intended use, limitations, metrics, and risks",
+            "Only source file size",
+            "Only GPU cost",
+            "Only model logo"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which issue arises when a model performs well in development but fails in production?",
+          "options": [
+            "Syntax drift",
+            "Distribution shift",
+            "Hash collision",
+            "File checksum"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which safeguard limits a model's harmful or prohibited outputs?",
+          "options": [
+            "More training epochs only",
+            "Lower image resolution",
+            "Policy filtering and safety layers",
+            "Larger batch size"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Responsible data collection should minimize:",
+          "options": [
+            "Data documentation",
+            "Consent controls",
+            "Security controls",
+            "Collection to relevant and justified data"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "AI Agent Scenarios",
+      "questions": [
+        {
+          "q": "A home robot must plan a route while avoiding obstacles. Which component is most important?",
+          "options": [
+            "Planning and state-space search",
+            "Only image compression",
+            "Only SQL indexing",
+            "Only cache eviction"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A game agent needs strong moves and limited time. Which algorithm suits two-player decision-making?",
+          "options": [
+            "K-means",
+            "Alpha-beta search with evaluation heuristics",
+            "Naive Bayes",
+            "Linear regression"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A delivery agent finds a route with estimated distances. Which search method uses a heuristic directly?",
+          "options": [
+            "Depth-first without heuristic",
+            "Random hashing",
+            "A* or greedy best-first search",
+            "Linear regression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A diagnostic agent is given uncertain symptoms. Which approach is appropriate?",
+          "options": [
+            "Only hard-coded rules without uncertainty",
+            "Only clustering",
+            "Only sorting",
+            "Probabilistic Bayesian reasoning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An agent repeatedly repeats actions after observing no environment change. What should be added?",
+          "options": [
+            "A stateful memory or belief model",
+            "More HTML styling",
+            "A larger disk block",
+            "A stronger password"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A planning goal has many actions and dependencies. The strongest representation is:",
+          "options": [
+            "Pixels alone",
+            "Preconditions, effects, and dependency ordering",
+            "A flat probability table only",
+            "A cache TTL"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A chatbot exposes private training examples verbatim. The first corrective step is:",
+          "options": [
+            "Increase temperature",
+            "Add more parameters",
+            "Privacy testing and output filtering",
+            "Disable all evaluation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A hiring model rejects an underrepresented group disproportionately. The appropriate action is:",
+          "options": [
+            "Hide metrics from users",
+            "Train only longer",
+            "Remove human review permanently",
+            "Audit, remediate bias, and reassess intended use"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An AI system is deployed in a new country with different language and norms. What must be evaluated first?",
+          "options": [
+            "Domain and distribution transfer, fairness, and safety",
+            "Only model size",
+            "Only cloud cost",
+            "Only source syntax"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An agent makes a high-impact decision without explanation. Add:",
+          "options": [
+            "Only more confidence digits",
+            "Auditable rationale, uncertainty, and human review",
+            "A larger batch size",
+            "A random fallback"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Natural Language & Vision Foundations",
+      "questions": [
+        {
+          "q": "Which AI area converts speech audio into written text?",
+          "options": [
+            "Semantic search only",
+            "Object sorting",
+            "Automatic speech recognition",
+            "Data compression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which AI area converts written text into speech audio?",
+          "options": [
+            "Machine translation only",
+            "OCR",
+            "Image segmentation",
+            "Text-to-speech synthesis"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which AI area identifies objects and their locations in images?",
+          "options": [
+            "Object detection",
+            "Named entity recognition",
+            "Tokenization",
+            "Topic modeling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which AI area assigns a class to each pixel in an image?",
+          "options": [
+            "Text classification",
+            "Semantic segmentation",
+            "Sentiment analysis only",
+            "Named entity recognition"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which AI task maps text from one language to another?",
+          "options": [
+            "Optical character recognition",
+            "Speech synthesis",
+            "Machine translation",
+            "Image compression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which task extracts names, locations, and organizations from text?",
+          "options": [
+            "Text clustering",
+            "Image captioning",
+            "Speech synthesis",
+            "Named entity recognition"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which task predicts the topic of a document?",
+          "options": [
+            "Text classification",
+            "Image enhancement",
+            "File replication",
+            "Partitioning only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which representation maps similar words to nearby numerical vectors?",
+          "options": [
+            "One-way hashing",
+            "Word embeddings",
+            "Confusion matrix",
+            "SQL index"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which term describes a model reading text from left and right contexts?",
+          "options": [
+            "Linear hashing",
+            "Sharding",
+            "Bidirectional context modeling",
+            "LRU caching"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which task generates a textual description for an image?",
+          "options": [
+            "OCR only",
+            "Named entity recognition",
+            "Topic modeling",
+            "Image captioning"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Search & AI Math",
+      "questions": [
+        {
+          "q": "A* reports a poor solution with an admissible heuristic. Which setting may be wrong?",
+          "options": [
+            "The heuristic is inconsistent or edge costs violate assumptions",
+            "The heuristic is too low",
+            "All branches are unweighted",
+            "The starting node is expanded"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A heuristic estimates exactly the remaining cost. It is both admissible and:",
+          "options": [
+            "Overestimating",
+            "Consistent",
+            "Random",
+            "Non-additive"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A search space has uniform costs but memory is limited. Which strategy may work?",
+          "options": [
+            "A* with infinite memory",
+            "Greedy search only",
+            "Iterative deepening DFS",
+            "Random exponentiation"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A map search must optimize distance and minimize time. The best formulation includes:",
+          "options": [
+            "Only a random goal",
+            "Only a node count",
+            "Only terrain colors",
+            "A weighted objective or vector-valued trade-offs"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A game tree is too large. Which method reduces branches without complete exploration?",
+          "options": [
+            "Alpha-beta pruning and depth limits",
+            "Full DFS every leaf",
+            "Removing all heuristic scores",
+            "Ignoring turn alternation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A CSP solver repeatedly backtracks without progress. Which improvement can reduce search?",
+          "options": [
+            "More random passwords",
+            "Constraint propagation or variable ordering",
+            "Feature scaling",
+            "GPU profiling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A heuristic returns 100 when the true remaining cost is 80. It is:",
+          "options": [
+            "Admissible",
+            "Consistent by definition",
+            "Overestimating and potentially inadmissible",
+            "Optimal by definition"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A weighted A* prioritizes path finding speed over exact optimality. It uses:",
+          "options": [
+            "No g(n) component",
+            "No priority queue",
+            "No goal check",
+            "A heuristic weight greater than one"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A mini-max tree chooses a move assuming the opponent:",
+          "options": [
+            "Maximizes its own utility",
+            "Always passes",
+            "Randomly deletes nodes",
+            "Minimizes its own utility"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Bayesian diagnosis has a highly unlikely disease but a very strong symptom. The final probability depends on:",
+          "options": [
+            "Only prior",
+            "Prior, likelihood, and evidence normalization",
+            "Only likelihood",
+            "Only symptom count"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "AI Troubleshooting & Safety",
+      "questions": [
+        {
+          "q": "An AI decision differs across equally qualified groups. First verify:",
+          "options": [
+            "Only model file size",
+            "Only GPU price",
+            "Label quality, feature leakage, and fairness metrics",
+            "Only API latency"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A planning agent performs well in simulation but fails in reality. Add:",
+          "options": [
+            "More simulation logos",
+            "Only higher learning rate",
+            "Only more epochs",
+            "Domain transfer testing and uncertainty handling"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An assistant gives confident false answers. Improve with:",
+          "options": [
+            "Grounding, retrieval, and uncertainty calibration",
+            "Higher temperature only",
+            "More random sampling",
+            "Removing citations"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A vision model fails only on nighttime images. The likely issue is:",
+          "options": [
+            "Model tokenization",
+            "Distribution shift and underrepresentation in training data",
+            "SQL indexing",
+            "Data compression only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A safety filter blocks harmless requests too often. Tune:",
+          "options": [
+            "Increase model temperature",
+            "Remove filtering completely",
+            "Policy thresholds and context-aware classifiers",
+            "Hide all logs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A model encodes a prohibited secret seen in training. Mitigate with:",
+          "options": [
+            "More epochs",
+            "Larger embeddings",
+            "Public model release",
+            "Privacy review, filtering, and data minimization"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An explanation does not match the actual model behavior. Use:",
+          "options": [
+            "Verified post-hoc explanation or interpretable design",
+            "A visually plausible narrative",
+            "Only confidence score",
+            "Only feature names"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system uses protected attributes explicitly in high-impact decisions. Assess and likely remove or mitigate:",
+          "options": [
+            "Only unrelated colors",
+            "Direct use and proxy feature bias",
+            "Only network latency",
+            "Only storage format"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A monitoring system detects quality degradation after release. Trigger:",
+          "options": [
+            "A permanent model freeze",
+            "Public accusation of users",
+            "Rollback, retraining, or controlled investigation",
+            "Random parameter changes"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An AI output has no audit trail. Add:",
+          "options": [
+            "Only source comments",
+            "Only performance dashboard",
+            "Only browser cache",
+            "Versioned model, prompt, data, and decision logs"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

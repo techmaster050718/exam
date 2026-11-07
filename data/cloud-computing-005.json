@@ -1,0 +1,1055 @@
+{
+  "id": "cloud-computing-005",
+  "sections": [
+    {
+      "name": "Architecture Decisions",
+      "questions": [
+        {
+          "q": "A startup expects uncertain demand and wants minimum operations. Which model is strongest?",
+          "options": [
+            "Managed PaaS or serverless",
+            "Self-managed bare metal",
+            "Dedicated mainframe",
+            "Unmanaged public mailing server"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A scientific application needs a custom kernel and precise hardware control. Which model fits best?",
+          "options": [
+            "SaaS CRM",
+            "IaaS",
+            "FaaS only",
+            "Managed file sharing only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A team needs a managed database but no OS administration. Which choice fits?",
+          "options": [
+            "Colocation",
+            "Bare-metal VM",
+            "DBaaS",
+            "File server"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A mobile app needs globally low-latency content. Which combination fits best?",
+          "options": [
+            "A single origin server",
+            "Client-side secrets",
+            "Public database buckets",
+            "CDN, edge caching, and a replicated data tier"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An API must survive one zone failure while maintaining low latency. Which design is strongest?",
+          "options": [
+            "Multi-AZ active deployment behind a load balancer",
+            "One VM with snapshots",
+            "One private DNS name",
+            "A batch cron job"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A global write-heavy app must comply with regional data residency. Which architecture is strongest?",
+          "options": [
+            "One unrestricted global public database",
+            "Regional partitions with explicit replication and consistency rules",
+            "All reads on client devices",
+            "Unencrypted cross-region copies"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A batch system receives 10,000 files irregularly. Which design is strongest?",
+          "options": [
+            "A fixed single server polling",
+            "Email attachments to operators",
+            "Object storage events, queue, and autoscaled workers",
+            "A static database only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A site is read-heavy and database CPU is exhausted. Which first optimization is strongest?",
+          "options": [
+            "Add more writes to the primary",
+            "Remove indexes",
+            "Disable monitoring",
+            "Use caching and read replicas while checking query plans"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A payment service needs exactly-once-like business effects. Which control is strongest?",
+          "options": [
+            "Idempotency, durable workflow state, and deduplication",
+            "Repeated insert retries without keys",
+            "Best-effort UDP only",
+            "Shared mutable session state"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A newly deployed service has a high error rate. Which deployment choice minimizes impact?",
+          "options": [
+            "All traffic immediately",
+            "Canary or blue-green deployment with rollback",
+            "Delete previous artifacts",
+            "Disable health checks"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Networking Troubleshooting",
+      "questions": [
+        {
+          "q": "A VM cannot reach an API but resolves its DNS name correctly. Which issue category is most likely?",
+          "options": [
+            "DNS syntax only",
+            "TLS certificate only by default",
+            "Routing, firewall, security group, or port rule",
+            "Object storage quota only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A connection times out while the remote service answers. Which layer should be checked first?",
+          "options": [
+            "Application HTML only",
+            "Database row count only",
+            "Image metadata only",
+            "Network reachability and security rules"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A load balancer marks instances unhealthy, but each instance works locally. Check:",
+          "options": [
+            "Health check path, port, protocol, and network path",
+            "Only VM wallpaper",
+            "Only DNS TTL",
+            "Only server clock timezone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Private resources cannot access the internet for package updates. Which component may be missing?",
+          "options": [
+            "Public load balancer on database",
+            "NAT gateway or approved outbound route",
+            "DNS domain resolver only",
+            "Container registry"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Two VPCs cannot communicate despite overlapping routes. Which issue is possible?",
+          "options": [
+            "Different image tags only",
+            "Mismatched browser version",
+            "Missing peering/transit route or overlapping CIDR",
+            "DNS cache TTL only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A TLS service fails certificate verification. Which item should be verified?",
+          "options": [
+            "CPU quota only",
+            "Database index only",
+            "DNS TTL only",
+            "Certificate chain, hostname, validity, and trust store"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A client reaches a website but assets are stale. Which component needs cache handling?",
+          "options": [
+            "CDN cache and origin versioning",
+            "Database transaction isolation",
+            "Virtual network ACL only",
+            "Hypervisor migration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A VPN tunnel shows repeated disconnects. Check:",
+          "options": [
+            "Object storage lifecycle",
+            "Encryption settings, MTU, route, and peer health",
+            "Container registry tags",
+            "DNS record value only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A global app routes users to a distant region. Which setting is likely?",
+          "options": [
+            "Database journal size",
+            "Container CPU limit",
+            "Geolocation or traffic policy misconfiguration",
+            "Secret rotation schedule"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A security group allows HTTPS inbound but no response appears. Which additional check is relevant?",
+          "options": [
+            "DNS only",
+            "Cloud billing category",
+            "Application language syntax only",
+            "Subnet routing, NACL, instance process, and certificate"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Storage & Database Troubleshooting",
+      "questions": [
+        {
+          "q": "Uploads succeed but later disappear. The likely issue is:",
+          "options": [
+            "Lifecycle policy or incorrect bucket/versioning configuration",
+            "DNS TTL",
+            "Load balancer algorithm",
+            "CPU scheduler"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A database latency spike occurs after a deployment. Which first check is strongest?",
+          "options": [
+            "Server wallpaper",
+            "Queries, locks, connections, and plan changes",
+            "DNS provider name",
+            "Client font size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Object reads are slow from a distant region. The strongest improvement is:",
+          "options": [
+            "Increase database row width",
+            "Open public write access",
+            "CDN caching or cross-region replication/placement",
+            "Disable compression"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A database disk remains near capacity. Which action is safest first?",
+          "options": [
+            "Delete live data blindly",
+            "Disable backups",
+            "Remove primary key",
+            "Measure growth and increase capacity only after validating retention and cleanup"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A cache causes stale account balances. Which consistency solution fits?",
+          "options": [
+            "Cache invalidation and versioned/short-TTL reads for critical writes",
+            "Cache forever",
+            "Use public DNS",
+            "Remove all database reads"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Read replicas show lagging data. For a just-written record, route to:",
+          "options": [
+            "Any stale replica",
+            "Primary or an application consistency-aware read",
+            "A CDN copy",
+            "The oldest backup"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A relational table grows without indexes and starts timing out. Check:",
+          "options": [
+            "Only bucket lifecycle",
+            "Only VM hostname",
+            "Query plan and index maintenance",
+            "Only DNS TTL"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A partitioned database splits by customer ID. If most data belongs to one customer, this is:",
+          "options": [
+            "Balanced sharding",
+            "Cache hit",
+            "Replication lag solved",
+            "Hot partition or hotspot problem"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A backup exists but the restore test fails. The issue may be:",
+          "options": [
+            "Incomplete dependencies, encryption key, or restore procedure",
+            "DNS TTL",
+            "Object cache",
+            "Server CPU branding"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A file-share workload gets low throughput. Check:",
+          "options": [
+            "Website colors",
+            "File protocol, provisioned IOPS, network, and concurrency",
+            "DNS registrar",
+            "Source code indentation"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Distributed Systems",
+      "questions": [
+        {
+          "q": "A network partition may make replicas disagree. This test is explained by:",
+          "options": [
+            "ACID table normalization",
+            "DNS TTL",
+            "CAP theorem trade-offs",
+            "Vertical scaling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "During a partition, an availability-first system may accept writes but later reconcile conflicts. This favors:",
+          "options": [
+            "Strict consistency only",
+            "No partitions",
+            "Zero latency",
+            "Availability over strict consistency"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A consistency-first system during partition may reject writes to avoid:",
+          "options": [
+            "Conflicting updates and stale reads",
+            "Cost optimization",
+            "Load balancing",
+            "Encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Eventual consistency is acceptable for a social feed but not for:",
+          "options": [
+            "Profile image caching",
+            "A financial authorization decision requiring strong guarantees",
+            "View counts",
+            "Recommendation ranking"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A duplicate message can occur after network retry. The consumer should be:",
+          "options": [
+            "Non-repeatable by design",
+            "Stateful to one host",
+            "Idempotent",
+            "Password protected only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A distributed transaction spans services. Which pattern avoids holding locks long?",
+          "options": [
+            "Local nested transaction only",
+            "Shared SQL table across services",
+            "One global file lock",
+            "Saga with compensating actions"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Two services independently update inventory and payment. Which ordering mechanism helps?",
+          "options": [
+            "Durable ordered events and idempotency",
+            "Random UDP packets",
+            "A browser cookie",
+            "Manual email"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A leader election must prevent split-brain. A system needs:",
+          "options": [
+            "Two independent leaders",
+            "Quorum and fencing tokens",
+            "No timeouts",
+            "A public shared password"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A clock skew makes timestamp-based ordering unreliable. Use:",
+          "options": [
+            "Wall clock only",
+            "UUID version only",
+            "Server coordination, logical clocks, or sequence IDs",
+            "Random sleep"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A dead-letter queue should be used when:",
+          "options": [
+            "Every message is successful",
+            "No consumers exist",
+            "Only DNS errors occur",
+            "A message repeatedly fails processing"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Security & IAM Scenarios",
+      "questions": [
+        {
+          "q": "A developer needs temporary AWS access. The strongest control is:",
+          "options": [
+            "Assume a short-lived IAM role",
+            "Share the root key",
+            "Use a permanent access key",
+            "Disable MFA"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A public URL exposes confidential blobs. Which action is first?",
+          "options": [
+            "Delete the object permanently without review",
+            "Restrict access and rotate/revoke exposed credentials",
+            "Add CDN cache",
+            "Increase VM size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A cloud account has one admin user performing all tasks. Improve with:",
+          "options": [
+            "Shared password",
+            "No audit logs",
+            "Role separation, least privilege, and MFA",
+            "Broad wildcard policies"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A workload needs to call a database without embedded secrets. Use:",
+          "options": [
+            "A public key only",
+            "A plaintext config file",
+            "A shared administrator password",
+            "Workload identity and managed credentials"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A security scan reports an unpatched public VM. The strongest next step is:",
+          "options": [
+            "Isolate, patch, validate, and restore from trusted state",
+            "Ignore the finding",
+            "Open more ports",
+            "Delete audit logs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An API key is committed to Git. The correct response is:",
+          "options": [
+            "Leave it active until a new release",
+            "Revoke and rotate it, then remove it using history remediation where needed",
+            "Rename the key file",
+            "Only change the repository title"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A third-party SaaS needs limited access. Grant:",
+          "options": [
+            "Account administrator access",
+            "All subscriptions",
+            "Scoped role with explicit trust and expiry",
+            "Shared root password"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Kubernetes pod reads cloud metadata credentials too broadly. Mitigate with:",
+          "options": [
+            "Privileged pod mode",
+            "HostNetwork on every pod",
+            "Broad IAM wildcard",
+            "Workload identity and pod-level least privilege"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A security group allows all inbound traffic. Reduce it to:",
+          "options": [
+            "Required source CIDR, protocol, and port",
+            "All ports from any source",
+            "Public database access",
+            "Port forwarding everywhere"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A ransomware incident affects production shares. Restore from:",
+          "options": [
+            "The most recent writable share",
+            "Immutable backups isolated from production credentials",
+            "Public object storage",
+            "An unverified snapshot owner"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "DevOps & Deployment Scenarios",
+      "questions": [
+        {
+          "q": "A database migration is incompatible with the old application. Which deployment strategy helps?",
+          "options": [
+            "Deploy migration only and stop traffic",
+            "Delete old columns first",
+            "Backward-compatible migration with expanded-contract pattern",
+            "Disable rollback"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A release must be rolled back without downtime if problems appear. Use:",
+          "options": [
+            "Direct production SSH edits",
+            "Manual restart only",
+            "Untracked patches",
+            "Blue-green or progressive canary deployment"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A pipeline passes local tests but fails in staging. The first concern is:",
+          "options": [
+            "Configuration and dependency differences",
+            "Source code indentation only",
+            "Developer timezone",
+            "Logo image"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A deployed container is missing an environment variable. Which control catches this earlier?",
+          "options": [
+            "DNS TTL checks only",
+            "Schema validation and deployment template checks",
+            "Manual screenshots",
+            "Container count reports"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Infrastructure console edits caused drift. Recover with:",
+          "options": [
+            "Repeated manual fixes only",
+            "Deleting Git history",
+            "IaC reconciliation and policy enforcement",
+            "Sharing admin credentials"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A new version consumes twice the memory. The pipeline must check:",
+          "options": [
+            "Only source spelling",
+            "Only DNS TTL",
+            "Only image tag length",
+            "Resource limits and staging performance tests"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A pipeline deploys secrets to logs. Correct it by:",
+          "options": [
+            "Masking secrets and using a secret manager",
+            "Deleting all logs",
+            "Using weaker secrets",
+            "Hard-coding secrets in README"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A service has frequent partial deploy failures. Improve with:",
+          "options": [
+            "One giant release",
+            "Health checks, rollback automation, and smaller changes",
+            "Manual no-verification deployment",
+            "Removing monitoring"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Configuration differs between regions. Use:",
+          "options": [
+            "Copying console changes manually",
+            "A public config file",
+            "Versioned environment configuration and policy checks",
+            "A separate administrator password"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A pipeline takes too long. The first optimization should preserve:",
+          "options": [
+            "Skipping security and tests",
+            "Deploying unbuilt source",
+            "Disabling rollback",
+            "Parallelism plus required safety gates"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Cost & Performance Scenarios",
+      "questions": [
+        {
+          "q": "A cost report shows many idle development VMs. Apply:",
+          "options": [
+            "Tagging, scheduling, rightsizing, and budgets",
+            "Delete the cost report only",
+            "Disable autoscaling everywhere",
+            "Use more reserved instances blindly"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A batch job can wait and tolerate interruptions. Which compute pricing fits?",
+          "options": [
+            "Always-on dedicated host",
+            "Spot or preemptible capacity with checkpointing",
+            "Reserved database only",
+            "Public static server"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A steady API receives predictable traffic. Which capacity choice may lower cost?",
+          "options": [
+            "No baseline and no autoscaling",
+            "Only peak-sized servers",
+            "Reserved or savings-plan capacity for baseline plus autoscaling",
+            "Cold standby for every request"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A data lake stores old backups that are rarely accessed. Use:",
+          "options": [
+            "Premium block storage",
+            "Active SQL index",
+            "High-memory cache",
+            "Archive lifecycle tier"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A database server is 90% memory while CPU is low. Rightsize based on:",
+          "options": [
+            "Memory footprint and workload latency",
+            "CPU only",
+            "DNS TTL",
+            "Logo file size"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A CDN is added but origin bandwidth remains unchanged. Check:",
+          "options": [
+            "Database row count only",
+            "Cacheability headers, TTL, cache misses, and private response caching",
+            "VM hostname",
+            "DNS registrar"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A serverless function runs 10 minutes per invocation. It is likely poor-fit because:",
+          "options": [
+            "Functions have no triggers",
+            "DNS will fail",
+            "Long execution is expensive and timeout constrained; use dedicated workers",
+            "S3 cannot store input"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An application incurs high data egress. First architecture optimization is:",
+          "options": [
+            "Adding more public IPs",
+            "Removing compression",
+            "Widening all security groups",
+            "Regional placement, caching, and minimizing cross-region transfer"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A cost spike follows an autoscaling event. Check:",
+          "options": [
+            "Scaling metrics, thresholds, cooldowns, and traffic source",
+            "Only server casing",
+            "Only employee logins",
+            "Only image dimensions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A team cannot identify owner of an expensive resource. Add:",
+          "options": [
+            "More anonymous accounts",
+            "Mandatory cost tags and account-level ownership",
+            "A public resource group",
+            "One shared administrator user"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "AWS/Azure Service Selection",
+      "questions": [
+        {
+          "q": "AWS object storage is needed for globally distributed public static assets. Choose:",
+          "options": [
+            "EC2 with local disk",
+            "RDS",
+            "S3 with CloudFront",
+            "Route 53 only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Azure needs low-latency objects for a website. Choose:",
+          "options": [
+            "Azure SQL Database",
+            "Virtual Network",
+            "Key Vault",
+            "Blob Storage with Azure Front Door/CDN"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An AWS workload needs managed relational failover across zones. Choose:",
+          "options": [
+            "Amazon RDS Multi-AZ",
+            "DynamoDB only",
+            "S3",
+            "CloudFront"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An Azure application needs managed no-OS relational database. Choose:",
+          "options": [
+            "Azure VM SQL without need",
+            "Azure SQL Database",
+            "Blob Storage",
+            "Traffic Manager only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An AWS event should trigger a short image transform. Choose:",
+          "options": [
+            "An oversized EC2 cron",
+            "Redshift",
+            "Lambda from the object event",
+            "Route 53"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An Azure event should trigger a function workflow. Choose:",
+          "options": [
+            "Azure SQL only",
+            "Azure Files",
+            "Virtual Network",
+            "Azure Functions with Event Grid or Blob trigger"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An AWS Kubernetes cluster is needed with control plane management. Choose:",
+          "options": [
+            "Amazon EKS",
+            "EC2 alone without orchestration",
+            "S3",
+            "RDS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An Azure Kubernetes cluster needs managed control plane operations. Choose:",
+          "options": [
+            "Virtual machine cluster with custom control plane unless required",
+            "AKS",
+            "Blob Storage",
+            "App Service only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A centralized AWS audit trail is required. Choose:",
+          "options": [
+            "IAM password policy only",
+            "CloudFront logs only",
+            "CloudTrail with centralized secure storage",
+            "EC2 tags"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A centralized Azure security posture dashboard is required. Choose:",
+          "options": [
+            "Blob lifecycle only",
+            "VM Scale Sets",
+            "DNS zone only",
+            "Microsoft Defender for Cloud with Azure Policy"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Troubleshooting & Architecture Trade-offs",
+      "questions": [
+        {
+          "q": "A service scales but latency rises. Check:",
+          "options": [
+            "Queue depth, downstream dependencies, connection pools, and saturation",
+            "Only VM count",
+            "Only DNS TTL",
+            "Only source code comments"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system passes unit tests but fails under peak load. The issue is likely:",
+          "options": [
+            "Only variable names",
+            "Capacity, concurrency, lock contention, or downstream limits",
+            "Only image compression",
+            "Only DNS casing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A CDN reduces origin load but personalization becomes incorrect. Fix with:",
+          "options": [
+            "Cache every user response",
+            "Remove authentication",
+            "Cache keys, Vary headers, and private-response controls",
+            "Disable CDN entirely"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "An application retries aggressively after timeout. Improve with:",
+          "options": [
+            "Immediate unlimited retries",
+            "Longer timeout with no limit",
+            "Random duplicate writes",
+            "Retry budgets, exponential backoff, and jitter"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A database is consistently saturated, while application CPU is low. Consider:",
+          "options": [
+            "Query optimization, caching, replicas, or partitioning",
+            "More application replicas only",
+            "Opening public access",
+            "Adding DNS records"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A service has no single host dependency but loses state during restart. It violates:",
+          "options": [
+            "Least privilege",
+            "Stateless deployment expectations",
+            "Strong encryption",
+            "TLS pinning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A multi-region database has replication lag. A read-after-write requirement needs:",
+          "options": [
+            "Any replica",
+            "CDN cache",
+            "Primary routing or session consistency guarantees",
+            "Old backup"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A queue worker keeps processing duplicate side effects. Add:",
+          "options": [
+            "More retries only",
+            "Random sleep only",
+            "No acknowledgments",
+            "Idempotency keys and durable deduplication"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A system must remain available but tolerate stale reads. Favor:",
+          "options": [
+            "AP-style availability with reconciliation and conflicts handling",
+            "Strict synchronous global consistency",
+            "A single data center",
+            "No caching"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system requires every transaction to reflect immediately worldwide. Architectures face:",
+          "options": [
+            "No trade-offs",
+            "Higher latency and complexity or limited availability trade-offs",
+            "Zero network cost",
+            "Automatic consistency"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Cloud Reliability & Service Selection",
+      "questions": [
+        {
+          "q": "A public API needs 99.99% availability. The application should avoid:",
+          "options": [
+            "Health checks",
+            "Load balancing",
+            "A single instance and single-zone dependency",
+            "Automated backups"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A regional outage is possible. Which data placement improves recovery?",
+          "options": [
+            "A single local disk",
+            "One availability zone only",
+            "An unverified snapshot",
+            "Cross-region replica or backup with tested failover"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A service must drain traffic before replacement during deployment. Use:",
+          "options": [
+            "Connection draining and rolling replacement",
+            "Immediate process termination",
+            "DNS deletion",
+            "Cache clearing only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A dependency starts timing out. The caller should use:",
+          "options": [
+            "Unlimited waits",
+            "Timeouts, retries with backoff, and circuit breakers",
+            "Open retries",
+            "No fallback"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An application stores uploaded files in local instance disks. During scale-out, users may not find files. Use:",
+          "options": [
+            "Instance-specific disks",
+            "A local browser cache",
+            "Shared object storage",
+            "A random host route"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A service requires user sessions across instances. Store state in:",
+          "options": [
+            "One web instance memory",
+            "A public cookie",
+            "A local server file",
+            "An external cache or database with secure access"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A batch deadline is missed during one slow job. Improve isolation with:",
+          "options": [
+            "Separate queues, workers, and concurrency limits",
+            "A single shared unbounded worker pool",
+            "No monitoring",
+            "Manual restarts only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A service owner cannot explain a latency spike. Instrument:",
+          "options": [
+            "Only server CPU",
+            "Request tracing, logs, metrics, and dependency timing",
+            "Only billing totals",
+            "Only container names"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A configuration change should be reversible. Store it in:",
+          "options": [
+            "An operator memory",
+            "A local console change",
+            "Versioned configuration with automated rollback",
+            "A public untracked file"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A cloud service outage is announced. The business response should use:",
+          "options": [
+            "No communication",
+            "Random configuration changes",
+            "Credential sharing",
+            "An incident runbook, status updates, and validated alternate paths"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}
