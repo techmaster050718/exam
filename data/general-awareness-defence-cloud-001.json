@@ -1,0 +1,680 @@
+{
+  "id": "general-awareness-defence-cloud-001",
+  "sections": [
+    {
+      "name": "Geographical Nicknames & Titles",
+      "questions": [
+        {
+          "q": "Which Indian state is known as the Land of Five Rivers?",
+          "options": [
+            "Punjab",
+            "Haryana",
+            "Rajasthan",
+            "Bihar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Arunachal Pradesh is popularly known as the:",
+          "options": [
+            "Land of Kings",
+            "Land of Rising Sun",
+            "Sugar Bowl of India",
+            "Land of Festivals"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Jaipur is commonly called the:",
+          "options": [
+            "Blue City",
+            "City of Lakes",
+            "Pink City",
+            "City of Nawabs"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following pairs is correctly matched?",
+          "options": [
+            "Mumbai — City of Lakes",
+            "Jodhpur — Pink City",
+            "Jaipur — City of Joy",
+            "Bengaluru — Silicon Valley of India"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Current Affairs & National Awareness",
+      "questions": [
+        {
+          "q": "As of 7 November 2026, who is the President of India?",
+          "options": [
+            "Droupadi Murmu",
+            "Pratibha Patil",
+            "Smriti Irani",
+            "Meira Kumar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "As of 7 November 2026, who is the Vice President of India?",
+          "options": [
+            "Jagdeep Dhankhar",
+            "C. P. Radhakrishnan",
+            "Venkaiah Naidu",
+            "Hamdullah Mohib"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which constitutional office is currently held by Narendra Modi?",
+          "options": [
+            "President of India",
+            "Vice President of India",
+            "Prime Minister of India",
+            "Lok Sabha Speaker"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Who is the current Defence Minister of India as of 7 November 2026?",
+          "options": [
+            "Amit Shah",
+            "Rajiv Gauba",
+            "S. Jaishankar",
+            "Rajnath Singh"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Defence & Armed Forces Current Affairs",
+      "questions": [
+        {
+          "q": "As of 7 November 2026, who is serving as Chief of Defence Staff?",
+          "options": [
+            "General N. S. Raja Subramani",
+            "General Manoj Pande",
+            "General Upendra Dwivedi",
+            "Admiral R. Hari Kumar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Chief of Defence Staff is principally responsible for promoting:",
+          "options": [
+            "Civil administration",
+            "Tri-service coordination",
+            "Judicial integration",
+            "Railway security"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The integrated headquarters of the Indian Armed Forces support coordination under:",
+          "options": [
+            "Election Commission",
+            "NITI Aayog",
+            "Department of Military Affairs",
+            "Department of Posts"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Surya Kiran exercise is associated with military cooperation between India and:",
+          "options": [
+            "France",
+            "Australia",
+            "Japan",
+            "Nepal"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Army",
+      "questions": [
+        {
+          "q": "As of 7 November 2026, the Chief of Army Staff is:",
+          "options": [
+            "General Dhiraj Seth",
+            "General N. S. Raja Subramani",
+            "General Bipin Rawat",
+            "Lieutenant General Anil Chauhan"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How many operational commands does the Indian Army have?",
+          "options": [
+            "5",
+            "7",
+            "6",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Army Training Command (ARTRAC) is headquartered at:",
+          "options": [
+            "Lucknow",
+            "Jaipur",
+            "Shimla",
+            "Pune"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which armoured vehicle is indigenously associated with the Indian Army and manufactured for high-altitude operations?",
+          "options": [
+            "INS Vikrant",
+            "Rafale",
+            "Tejas Mk 1A",
+            "Arjun tank"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Navy & Maritime Awareness",
+      "questions": [
+        {
+          "q": "As of 7 November 2026, the Chief of Naval Staff is:",
+          "options": [
+            "Admiral Krishna Swaminathan",
+            "Admiral R. Hari Kumar",
+            "Admiral Dinesh K. Tripathi",
+            "Admiral Karambir Singh"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How many operational commands does the Indian Navy have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The headquarters of the Western Naval Command is at:",
+          "options": [
+            "Kochi",
+            "Visakhapatnam",
+            "Mumbai",
+            "Chennai"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "INS Vikrant is a:",
+          "options": [
+            "Destroyer",
+            "Submarine",
+            "Patrol vessel",
+            "Aircraft carrier"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Air Force & Aviation Awareness",
+      "questions": [
+        {
+          "q": "As of 7 November 2026, the Chief of Air Staff is:",
+          "options": [
+            "Air Chief Marshal Ashutosh Dixit",
+            "Air Chief Marshal A. P. Singh",
+            "Air Chief Marshal Vivek Ram Chaudhari",
+            "Air Chief Marshal Rakesh Kumar Singh Bhadauria"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "How many commands does the Indian Air Force have?",
+          "options": [
+            "5",
+            "7",
+            "6",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The headquarters of the Maintenance Command of the IAF is at:",
+          "options": [
+            "Bengaluru",
+            "Prayagraj",
+            "Nagpur",
+            "Shillong"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which fighter aircraft is a multirole platform operated by the Indian Air Force?",
+          "options": [
+            "Arihant",
+            "INS Chennai",
+            "Arjun",
+            "Rafale"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "CAPF & Paramilitary Forces",
+      "questions": [
+        {
+          "q": "Which force guards India’s international border with Pakistan and Bangladesh?",
+          "options": [
+            "BSF",
+            "CRPF",
+            "CISF",
+            "ITBP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Central Reserve Police Force is primarily responsible for:",
+          "options": [
+            "Coastal defence",
+            "Internal security and law-and-order assistance",
+            "Customs enforcement",
+            "Civil aviation security only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Indo-Tibetan Border Police is deployed mainly along the border with:",
+          "options": [
+            "Myanmar",
+            "Bangladesh",
+            "China",
+            "Nepal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which force provides security at airports and major industrial establishments?",
+          "options": [
+            "Navy",
+            "Army Medical Corps",
+            "Assam Rifles",
+            "CISF"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Defence Organizations",
+      "questions": [
+        {
+          "q": "DRDO primarily works in the field of:",
+          "options": [
+            "Defence research and development",
+            "Foreign trade",
+            "Postal services",
+            "Public broadcasting"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "HAL is associated with:",
+          "options": [
+            "Shipbuilding",
+            "Aircraft manufacture and maintenance",
+            "Missile testing",
+            "Border policing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which organization conducts military and strategic education for senior officers of the armed forces?",
+          "options": [
+            "Reserve Bank of India",
+            "ISRO headquarters",
+            "National Defence College",
+            "Indian Council of Medical Research"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The headquarters of the Integrated Defence Staff is located in:",
+          "options": [
+            "Mumbai",
+            "Chennai",
+            "Hyderabad",
+            "New Delhi"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Military Exercises",
+      "questions": [
+        {
+          "q": "The exercise Yudh Abhyas is conducted between India and:",
+          "options": [
+            "United States",
+            "Russia",
+            "France",
+            "United Kingdom"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The naval exercise Varuna is conducted between India and:",
+          "options": [
+            "Japan",
+            "France",
+            "Australia",
+            "Nepal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The exercise Malabar is conducted among India and which major maritime group?",
+          "options": [
+            "France and Spain",
+            "UK and Canada",
+            "USA, Japan and Australia",
+            "Russia and China"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The exercise Indra is a bilateral military exercise between India and:",
+          "options": [
+            "Israel",
+            "Brazil",
+            "Singapore",
+            "Russia"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "National Appointments, Awards & Events",
+      "questions": [
+        {
+          "q": "The highest peacetime gallantry award in India is the:",
+          "options": [
+            "Ashoka Chakra",
+            "Param Vir Chakra",
+            "Vir Chakra",
+            "Shaurya Chakra"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The highest wartime gallantry award in India is the:",
+          "options": [
+            "Ashoka Chakra",
+            "Param Vir Chakra",
+            "Padma Shri",
+            "Kirti Chakra"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Republic Day of India commemorates the commencement of which document?",
+          "options": [
+            "Panchsheel Agreement",
+            "Government of India Act 1935",
+            "Constitution of India",
+            "Quit India Resolution"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which award is not primarily a military gallantry decoration?",
+          "options": [
+            "Vir Chakra",
+            "Shaurya Chakra",
+            "Param Vir Chakra",
+            "Bharat Ratna"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Ramayana",
+      "questions": [
+        {
+          "q": "The author traditionally credited with composing the Ramayana is:",
+          "options": [
+            "Valmiki",
+            "Vyasa",
+            "Kalidasa",
+            "Tulsidas"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Who was the king of Lanka in the Ramayana?",
+          "options": [
+            "Sugriva",
+            "Ravana",
+            "Vibhishana",
+            "Bali"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who crossed the ocean to find Sita and delivered Rama’s message in Lanka?",
+          "options": [
+            "Lakshmana",
+            "Jambavan",
+            "Hanuman",
+            "Angada"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Ramayana is traditionally divided into sections called:",
+          "options": [
+            "Parvas",
+            "Sargas only",
+            "Upanishads",
+            "Kandas"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Mahabharata",
+      "questions": [
+        {
+          "q": "The Mahabharata is traditionally attributed to:",
+          "options": [
+            "Vyasa",
+            "Valmiki",
+            "Panini",
+            "Bharavi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Bhagavad Gita appears in which major section of the Mahabharata?",
+          "options": [
+            "Adi Parva",
+            "Bhishma Parva",
+            "Shanti Parva",
+            "Anushasana Parva"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who was the charioteer and spiritual guide of Arjuna?",
+          "options": [
+            "Bhima",
+            "Vidura",
+            "Krishna",
+            "Karna"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The battlefield of the Mahabharata war was at:",
+          "options": [
+            "Ayodhya",
+            "Lanka",
+            "Kashi",
+            "Kurukshetra"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Indian Epics & Hindu Mythology",
+      "questions": [
+        {
+          "q": "In the traditional Hindu narrative, which deity destroyed Tripura?",
+          "options": [
+            "Shiva",
+            "Brahma",
+            "Indra",
+            "Agni"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Upanishads are primarily associated with:",
+          "options": [
+            "Tax administration",
+            "Philosophical inquiry about Brahman and Atman",
+            "Medical surgery",
+            "Naval warfare"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In the Ramayana tradition, the name of Rama’s father is:",
+          "options": [
+            "Janaka",
+            "Bhishma",
+            "Dasharatha",
+            "Dhritarashtra"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Draupadi was the common wife of the:",
+          "options": [
+            "Kaurava brothers",
+            "Seven sages",
+            "Eight Vasus",
+            "Five Pandavas"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "AWS & Azure Cloud Services",
+      "questions": [
+        {
+          "q": "Which AWS service provides object storage?",
+          "options": [
+            "Amazon S3",
+            "Amazon EC2",
+            "AWS Lambda",
+            "Amazon RDS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Azure service is used for globally managed object/blob storage?",
+          "options": [
+            "Azure Functions",
+            "Azure Blob Storage",
+            "Azure SQL Database",
+            "Azure Monitor"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which AWS service runs code without managing servers?",
+          "options": [
+            "Amazon EC2",
+            "Amazon EBS",
+            "AWS Lambda",
+            "Amazon VPC"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which Azure service provides serverless event-driven compute?",
+          "options": [
+            "Azure Virtual Machines",
+            "Azure Disk Storage",
+            "Azure ExpressRoute",
+            "Azure Functions"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "AWS vs Azure",
+      "questions": [
+        {
+          "q": "AWS EC2 is most similar to which Azure service for virtual machines?",
+          "options": [
+            "Azure Virtual Machines",
+            "Azure Blob Storage",
+            "Azure Functions",
+            "Azure Cosmos DB"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Amazon RDS is most closely equivalent to which Azure category?",
+          "options": [
+            "Object storage",
+            "Managed relational databases",
+            "DNS hosting",
+            "Serverless functions"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AWS CloudWatch is best compared with which Azure service for monitoring and logging?",
+          "options": [
+            "Azure Active Directory",
+            "Azure CDN",
+            "Azure Monitor",
+            "Azure Key Vault"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "AWS IAM and Azure role-based access control are both primarily used for:",
+          "options": [
+            "Content delivery",
+            "Packet capture",
+            "Video streaming",
+            "Identity and access management"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

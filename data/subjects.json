@@ -52,5 +52,11 @@
     "title": "Indian Polity",
     "description": "Constitution, governance, Parliament, judiciary and constitutional bodies",
     "icon": "⚖️"
+  },
+  {
+    "id": "general-awareness",
+    "title": "General & Defence Awareness",
+    "description": "Current affairs, geography, defence, Indian epics and cloud computing",
+    "icon": "🎯"
   }
 ]

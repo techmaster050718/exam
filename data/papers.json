@@ -218,5 +218,15 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "general-awareness-defence-cloud-001",
+    "subject": "general-awareness",
+    "title": "General Awareness & Defence Mastery — 60 Questions",
+    "subtitle": "Current affairs through 7 Nov 2026, geography, defence services, epics and AWS/Azure",
+    "file": "data/general-awareness-defence-cloud-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]
