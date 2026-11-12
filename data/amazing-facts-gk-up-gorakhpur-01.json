@@ -1,0 +1,1075 @@
+{
+  "id": "amazing-facts-gk-up-gorakhpur-01",
+  "sections": [
+    {
+      "name": "Amazing Facts & World GK",
+      "questions": [
+        {
+          "q": "Which river is traditionally regarded as the longest river in the world?",
+          "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Sahara Desert is mainly located in which continent?",
+          "options": [
+            "Africa",
+            "Asia",
+            "Australia",
+            "South America"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which country has the largest number of time zones because of its overseas territories?",
+          "options": [
+            "Russia",
+            "United States",
+            "France",
+            "China"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which is the deepest known ocean trench on Earth?",
+          "options": [
+            "Java Trench",
+            "Mariana Trench",
+            "Puerto Rico Trench",
+            "Peru-Chile Trench"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which mountain is the highest above sea level?",
+          "options": [
+            "K2",
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Denali"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which animal is famous for carrying its young in a pouch?",
+          "options": [
+            "Penguin",
+            "Kangaroo",
+            "Hippopotamus",
+            "Giraffe"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is the smallest prime number greater than 2?",
+          "options": [
+            "3",
+            "5",
+            "7",
+            "11"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "India — General Knowledge",
+      "questions": [
+        {
+          "q": "Which animal is the national animal of India?",
+          "options": [
+            "Bengal Tiger",
+            "Indian Elephant",
+            "Snow Leopard",
+            "Gaur"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which Indian state is the largest by area?",
+          "options": [
+            "Maharashtra",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Uttar Pradesh"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "On which date did the Constitution of India come into effect?",
+          "options": [
+            "26 January 1950",
+            "15 August 1947",
+            "2 October 1945",
+            "26 November 1949"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which organisation is the national space agency of India?",
+          "options": [
+            "DRDO",
+            "ISRO",
+            "Bhabha Atomic Research Centre",
+            "CSIR"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river is regarded as the national river of India?",
+          "options": [
+            "Yamuna",
+            "Ganga",
+            "Godavari",
+            "Brahmaputra"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which Indian national park is the largest by area?",
+          "options": [
+            "Kaziranga National Park",
+            "Jim Corbett National Park",
+            "Hemis National Park",
+            "Nandankanan National Park"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The headquarters of Indian Railways is in which city?",
+          "options": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "India — Geography & Environment",
+      "questions": [
+        {
+          "q": "The Western Ghats run along the western edge of which broad region of India?",
+          "options": [
+            "Gujarat and Rajasthan",
+            "Deccan Plateau",
+            "Eastern India",
+            "Himalayan foothills"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river is the largest tributary of the Ganga?",
+          "options": [
+            "Yamuna",
+            "Ghaghara",
+            "Sone",
+            "Kosi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Indian monsoon is mainly caused by which process?",
+          "options": [
+            "Ocean currents only",
+            "Differential heating of land and sea",
+            "Volcanic activity",
+            "Polar winds"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which soil type is most suitable for cotton cultivation in India?",
+          "options": [
+            "Laterite soil",
+            "Black soil",
+            "Alluvial soil",
+            "Mountain soil"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a major biosphere reserve in the Sunderbans region?",
+          "options": [
+            "Nilgiri",
+            "Sundarbans",
+            "Nanda Devi",
+            "Gulf of Mannar"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which is the highest motorable pass in India?",
+          "options": [
+            "Zojila Pass",
+            "Khardung La",
+            "Shipki La",
+            "Bara Lacha La"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river flows eastward and drains into the Bay of Bengal from the peninsula?",
+          "options": [
+            "Mahanadi",
+            "Indus",
+            "Chenab",
+            "Jhelum"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "India — History & Culture",
+      "questions": [
+        {
+          "q": "The Mauryan Empire was founded by which ruler?",
+          "options": [
+            "Ashoka",
+            "Chandragupta Maurya",
+            "Harsha",
+            "Samudragupta"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which ruler is associated with the conquest of Kalinga?",
+          "options": [
+            "Harsha",
+            "Ashoka",
+            "Chandragupta",
+            "Akbar"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The city of Hampi was the capital of which empire?",
+          "options": [
+            "Maurya Empire",
+            "Vijayanagara Empire",
+            "Pala Empire",
+            "Chola Empire"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Taj Mahal is located in which city?",
+          "options": [
+            "Jaipur",
+            "Agra",
+            "Lucknow",
+            "Delhi"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Who led the Salt March in 1930?",
+          "options": [
+            "Bhagat Singh",
+            "Subhas Chandra Bose",
+            "Mahatma Gandhi",
+            "Lala Lajpat Rai"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which classical dance form is traditionally associated with Odisha?",
+          "options": [
+            "Bharatanatyam",
+            "Odissi",
+            "Kathakali",
+            "Manipuri"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Ajanta Caves are located in which state?",
+          "options": [
+            "Madhya Pradesh",
+            "Maharashtra",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh — General Knowledge",
+      "questions": [
+        {
+          "q": "What is the capital city of Uttar Pradesh?",
+          "options": [
+            "Lucknow",
+            "Prayagraj",
+            "Kanpur",
+            "Agra"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which district is the largest in Uttar Pradesh by area?",
+          "options": [
+            "Lakhimpur Kheri",
+            "Allahabad",
+            "Mirzapur",
+            "Chitrakoot"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a major national park in Uttar Pradesh?",
+          "options": [
+            "Bandhavgarh",
+            "Jim Corbett",
+            "Dudhwa",
+            "Kaziranga"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which major river meets the Ganga at Prayagraj?",
+          "options": [
+            "Yamuna",
+            "Sone",
+            "Ghaghara",
+            "Kosi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which major university is located in Varanasi?",
+          "options": [
+            "Banaras Hindu University",
+            "Lucknow University",
+            "Aligarh Muslim University",
+            "Allahabad University"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city in Uttar Pradesh is widely known for the leather industry?",
+          "options": [
+            "Agra",
+            "Kanpur",
+            "Noida",
+            "Ghaziabad"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which expressway is known to extend through a major stretch of Uttar Pradesh?",
+          "options": [
+            "Purvanchal Expressway",
+            "Yamuna Expressway",
+            "Agra-Lucknow Expressway",
+            "Ganga Expressway"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh — History & Culture",
+      "questions": [
+        {
+          "q": "The ancient region of Kosala was associated with which part of present-day Uttar Pradesh?",
+          "options": [
+            "Eastern UP",
+            "Western UP",
+            "Bundelkhand",
+            "Terai region"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is associated with the Buddhist site Sarnath?",
+          "options": [
+            "Varanasi",
+            "Lucknow",
+            "Jhansi",
+            "Agra"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The 1857 Revolt is also commonly known as the",
+          "options": [
+            "Quit India Movement",
+            "Sepoy Mutiny",
+            "National Movement",
+            "Kakori Conspiracy"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which city is famous for the Taj Mahal?",
+          "options": [
+            "Varanasi",
+            "Agra",
+            "Mathura",
+            "Ayodhya"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which city is a major centre of Awadhi culture?",
+          "options": [
+            "Lucknow",
+            "Meerut",
+            "Kanpur",
+            "Chitrakoot"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which place is associated with the story of Lord Krishna and Govardhan Hill?",
+          "options": [
+            "Mathura",
+            "Jaunpur",
+            "Saharanpur",
+            "Mirzapur"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Kakori conspiracy case was associated with the freedom struggle in which district?",
+          "options": [
+            "Lucknow",
+            "Kanpur",
+            "Allahabad",
+            "Kakori"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Uttar Pradesh — Geography & Specialities",
+      "questions": [
+        {
+          "q": "Which river is often called the lifeline of western Uttar Pradesh?",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Ghaghara",
+            "Gandak"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Bundelkhand region lies in which part of Uttar Pradesh?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Terai region is mainly known for its",
+          "options": [
+            "Dry desert conditions",
+            "Wet marshy grasslands and forests",
+            "High altitude glaciers",
+            "Salt flats"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which district is famous for Banaras silk?",
+          "options": [
+            "Varanasi",
+            "Saharanpur",
+            "Bareilly",
+            "Ghaziabad"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which industry is strongly associated with Firozabad?",
+          "options": [
+            "Glass bangles",
+            "Steel production",
+            "Petrochemicals",
+            "Textile mills"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Ganga-Ghaghara-Yamuna system is most associated with which broad region of UP?",
+          "options": [
+            "Bundelkhand",
+            "Doab region",
+            "Purvanchal",
+            "Terai"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which crop is most strongly associated with western Uttar Pradesh?",
+          "options": [
+            "Tea",
+            "Sugarcane",
+            "Coffee",
+            "Rubber"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Gorakhpur — Detailed GK",
+      "questions": [
+        {
+          "q": "Gorakhpur district lies in which part of Uttar Pradesh?",
+          "options": [
+            "Western UP",
+            "Eastern UP",
+            "Northern Himalayan belt",
+            "Bundelkhand"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river is associated with the Gorakhpur region?",
+          "options": [
+            "Rapti",
+            "Yamuna",
+            "Ghaghara",
+            "Sone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Gorakhnath Temple is associated with which saint and tradition?",
+          "options": [
+            "Gorakhnath",
+            "Kabir",
+            "Ramananda",
+            "Tulsidas"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Gita Press is mainly known for publishing which type of literature?",
+          "options": [
+            "Government gazettes",
+            "Hindu religious literature and scripture editions",
+            "Foreign language dictionaries",
+            "Railway timetables"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Gorakhpur is important in railway geography mainly because it connects which kind of routes?",
+          "options": [
+            "Western and southern India",
+            "Eastern and northern Indian railway routes",
+            "Only local district lines",
+            "Coastal ports"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a major institution in Gorakhpur?",
+          "options": [
+            "Gorakhpur University",
+            "IIT Gorakhpur",
+            "Banaras Hindu University",
+            "University of Allahabad"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which nearby district is strongly associated with the Buddhist circuit linked with the wider eastern UP region?",
+          "options": [
+            "Kushinagar",
+            "Mirzapur",
+            "Azamgarh",
+            "Etawah"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Gorakhpur — History, Culture & Places",
+      "questions": [
+        {
+          "q": "The Gorakhnath Math in Gorakhpur is primarily associated with which tradition?",
+          "options": [
+            "Vaishnavism",
+            "Nath tradition",
+            "Shaiva Siddhanta",
+            "Brahmo Samaj"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Gita Press in Gorakhpur is famous for promoting literature related to",
+          "options": [
+            "Modern poetry only",
+            "Hindu scripture and devotional literature",
+            "British colonial history",
+            "Only scientific journals"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a major Buddhist pilgrimage site near Gorakhpur?",
+          "options": [
+            "Kushinagar",
+            "Mathura",
+            "Patna",
+            "Nainital"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The cultural identity of the Gorakhpur region is closely associated with which broader tradition?",
+          "options": [
+            "Braj culture only",
+            "Eastern Uttar Pradesh and Nath tradition heritage",
+            "Coastal maritime culture",
+            "Desert folk traditions"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The city of Gorakhpur is known for which important mode of connectivity?",
+          "options": [
+            "Air cargo only",
+            "Railway connectivity and logistics",
+            "Desert road trade only",
+            "Coastal shipping"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a prominent medical institution associated with Gorakhpur?",
+          "options": [
+            "Gorakhpur Medical College",
+            "Bharat Heavy Electricals",
+            "Rashtrapati Bhavan",
+            "Indian Council of Agricultural Research"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The historical and religious significance of Gorakhpur is closely linked with which cultural tradition?",
+          "options": [
+            "Nath sect and yoga tradition",
+            "Maratha military traditions",
+            "Tamil classical literature",
+            "Western colonial administration"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Prayagraj (Allahabad) — Detailed GK",
+      "questions": [
+        {
+          "q": "Prayagraj is historically known by which name?",
+          "options": [
+            "Jhansi",
+            "Allahabad",
+            "Banaras",
+            "Kanpur"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The confluence of the Ganga, Yamuna and the mythical Saraswati is traditionally associated with which city?",
+          "options": [
+            "Ayodhya",
+            "Prayagraj",
+            "Mathura",
+            "Kushinagar"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Kumbh Mela is most famously held at which place?",
+          "options": [
+            "Prayagraj",
+            "Agra",
+            "Lucknow",
+            "Meerut"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which historical building is associated with the Nehru family in Prayagraj?",
+          "options": [
+            "Anand Bhavan",
+            "Gol Gumbaz",
+            "Red Fort",
+            "Qutub Minar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Allahabad High Court is located in which city?",
+          "options": [
+            "Prayagraj",
+            "Varanasi",
+            "Aligarh",
+            "Jhansi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which university is located in Prayagraj?",
+          "options": [
+            "University of Allahabad",
+            "University of Lucknow",
+            "Banaras Hindu University",
+            "Aligarh Muslim University"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which festival is associated with a major bathing congregation in Prayagraj?",
+          "options": [
+            "Magh Mela",
+            "Holi",
+            "Diwali",
+            "Raksha Bandhan"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Important Places & Cities of Uttar Pradesh",
+      "questions": [
+        {
+          "q": "Which city is famous for the Taj Mahal?",
+          "options": [
+            "Lucknow",
+            "Agra",
+            "Kanpur",
+            "Mirzapur"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which city is known as the spiritual capital of India and is an important pilgrimage centre?",
+          "options": [
+            "Varanasi",
+            "Bareilly",
+            "Saharanpur",
+            "Noida"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is associated with the Jhansi Fort and Rani Lakshmibai?",
+          "options": [
+            "Jhansi",
+            "Meerut",
+            "Firozabad",
+            "Mainpuri"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is connected to the Buddhist site Sarnath?",
+          "options": [
+            "Varanasi",
+            "Lucknow",
+            "Ayodhya",
+            "Ghaziabad"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is known for the glass bangles industry in Uttar Pradesh?",
+          "options": [
+            "Firozabad",
+            "Kanpur",
+            "Bhadohi",
+            "Mirzapur"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which industrial centre in Uttar Pradesh is famous for textiles and leather?",
+          "options": [
+            "Kanpur",
+            "Pilibhit",
+            "Moradabad",
+            "Rampur"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is strongly associated with the pilgrimage heritage of Lord Rama?",
+          "options": [
+            "Ayodhya",
+            "Noida",
+            "Etawah",
+            "Mathura"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "India — Firsts, Superlatives & Specialities",
+      "questions": [
+        {
+          "q": "Which was the first Indian satellite launched into space?",
+          "options": [
+            "Aryabhata",
+            "INSAT-1A",
+            "Mangalyaan",
+            "Chandrayaan-1"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The first Indian to win a Nobel Prize was",
+          "options": [
+            "C. V. Raman",
+            "Rabindranath Tagore",
+            "S. Chandrashekhar",
+            "Homi Bhabha"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which is the highest mountain peak in India?",
+          "options": [
+            "Nanda Devi",
+            "Kangchenjunga",
+            "K2",
+            "Mount Everest"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following was the first IIT established in India?",
+          "options": [
+            "IIT Delhi",
+            "IIT Kanpur",
+            "IIT Kharagpur",
+            "IIT Bombay"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which institution is the premier atomic research organisation in India?",
+          "options": [
+            "ISRO",
+            "BARC",
+            "C-DAC",
+            "DRDO"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which is the largest state in India by area?",
+          "options": [
+            "Madhya Pradesh",
+            "Uttarakhand",
+            "Rajasthan",
+            "Uttar Pradesh"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which is the longest river in India?",
+          "options": [
+            "Ganga",
+            "Godavari",
+            "Brahmaputra",
+            "Mahanadi"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "General Awareness & Surroundings",
+      "questions": [
+        {
+          "q": "Which is the national currency of India?",
+          "options": [
+            "Rupee",
+            "Yen",
+            "Taka",
+            "Dollar"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which international organisation is headquartered in Geneva?",
+          "options": [
+            "UNESCO",
+            "World Bank",
+            "WHO",
+            "International Olympic Committee"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which environmental issue is most directly linked to the burning of fossil fuels?",
+          "options": [
+            "Acid rain",
+            "Plate tectonics",
+            "Volcanic eruption",
+            "Tidal waves"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which important river of northern India flows through Uttar Pradesh?",
+          "options": [
+            "Yamuna",
+            "Godavari",
+            "Mahanadi",
+            "Kaveri"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The abbreviation BPL is commonly used for which concept?",
+          "options": [
+            "Below Poverty Line",
+            "Banking Policy Limit",
+            "Basic Public Law",
+            "Broad Public Level"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a non-renewable resource?",
+          "options": [
+            "Coal",
+            "Wind",
+            "Solar energy",
+            "Hydro energy"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a major public infrastructure project in Uttar Pradesh?",
+          "options": [
+            "Ganga Expressway",
+            "Trans-Siberian Railway",
+            "Panama Canal",
+            "Eurotunnel"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Mixed High-Level GK",
+      "questions": [
+        {
+          "q": "Which city is the administrative headquarters of eastern Uttar Pradesh and is also associated with the Gorakhnath tradition?",
+          "options": [
+            "Gorakhpur",
+            "Noida",
+            "Azamgarh",
+            "Saharanpur"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which city is most famously associated with the Kumbh Mela?",
+          "options": [
+            "Haridwar",
+            "Prayagraj",
+            "Nashik",
+            "Ujjain"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which river is not a major river of Uttar Pradesh?",
+          "options": [
+            "Ganga",
+            "Yamuna",
+            "Narmada",
+            "Ghaghara"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which institution is most closely associated with the space programme of India?",
+          "options": [
+            "ISRO",
+            "NHAI",
+            "NPCIL",
+            "BHEL"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which district of Uttar Pradesh is the largest by area?",
+          "options": [
+            "Lakhimpur Kheri",
+            "Allahabad",
+            "Mirzapur",
+            "Sonbhadra"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which classical dance form is associated with Tamil Nadu rather than Uttar Pradesh?",
+          "options": [
+            "Bharatanatyam",
+            "Kathak",
+            "Odissi",
+            "Manipuri"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a well-known Buddhist site in Uttar Pradesh?",
+          "options": [
+            "Sarnath",
+            "Rameswaram",
+            "Khajuraho",
+            "Bhimbetka"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a prominent educational hub in Uttar Pradesh?",
+          "options": [
+            "Lucknow",
+            "Bengaluru",
+            "Kochi",
+            "Bhopal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is the largest national park in India by area?",
+          "options": [
+            "Jim Corbett",
+            "Kaziranga",
+            "Hemis",
+            "Dudhwa"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

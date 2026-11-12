@@ -1,0 +1,92 @@
+{
+  "id": "isro-icrb-cse-pyq-2025",
+  "title": "ISRO ICRB Scientist/Engineer SC — Computer Science 2025 (Official PYQ subset)",
+  "sourceType": "OFFICIAL_PYQ",
+  "exam": "ISRO ICRB Scientist/Engineer SC",
+  "discipline": "Computer Science",
+  "year": 2025,
+  "source": "Official ISRO previous-year question paper",
+  "verificationStatus": "Verified from official ISRO PDF",
+  "sections": [
+    {
+      "name": "Computer Science / Discipline Specific",
+      "questions": [
+        {
+          "q": "Huffman coding algorithm works on the principle of",
+          "options": [
+            "Randomization of symbols",
+            "Key based portioning of symbols",
+            "Hashing of symbols",
+            "Frequencies of input symbols"
+          ],
+          "answer": 3,
+          "sourceType": "OFFICIAL_PYQ",
+          "exam": "ISRO ICRB Scientist/Engineer SC",
+          "discipline": "Computer Science",
+          "year": 2025,
+          "sourceReference": "Official ISRO ICRB Computer Science 2025 paper"
+        },
+        {
+          "q": "Which of the following is true about Greedy algorithm?",
+          "options": [
+            "does not make any optimization",
+            "makes local optimal decisions based on the selected criterion",
+            "requires exhaustive search of all possible solutions",
+            "is obvious in its correctness"
+          ],
+          "answer": 1,
+          "sourceType": "OFFICIAL_PYQ",
+          "exam": "ISRO ICRB Scientist/Engineer SC",
+          "discipline": "Computer Science",
+          "year": 2025,
+          "sourceReference": "Official ISRO ICRB Computer Science 2025 paper"
+        },
+        {
+          "q": "How many keys are needed for encrypted communication among 16 persons using AES encryption assuming unique key is used between any two persons?",
+          "options": [
+            "120 keys",
+            "256 keys",
+            "32 keys",
+            "216 keys"
+          ],
+          "answer": 0,
+          "sourceType": "OFFICIAL_PYQ",
+          "exam": "ISRO ICRB Scientist/Engineer SC",
+          "discipline": "Computer Science",
+          "year": 2025,
+          "sourceReference": "Official ISRO ICRB Computer Science 2025 paper"
+        },
+        {
+          "q": "Which of the following does not use key(s)?",
+          "options": [
+            "Symmetric Ciphers",
+            "Generation of Message Digest",
+            "Generation of Message Authentication Code",
+            "Key exchange algorithms"
+          ],
+          "answer": 1,
+          "sourceType": "OFFICIAL_PYQ",
+          "exam": "ISRO ICRB Scientist/Engineer SC",
+          "discipline": "Computer Science",
+          "year": 2025,
+          "sourceReference": "Official ISRO ICRB Computer Science 2025 paper"
+        },
+        {
+          "q": "Match the following in the context of Information Security. (i) Non-repudiation, (ii) Data Integrity, (iii) Data Confidentiality, (iv) Access Control",
+          "options": [
+            "(i) - (R), (ii) - (P), (iii) - (Q), (iv) - (S)",
+            "(i) - (R), (ii) - (S), (iii) - (P), (iv) - (Q)",
+            "(i) - (P), (ii) - (R), (iii) - (S), (iv) - (Q)",
+            "(i) - (R), (ii) - (Q), (iii) - (P), (iv) - (S)"
+          ],
+          "answer": 1,
+          "sourceType": "OFFICIAL_PYQ",
+          "exam": "ISRO ICRB Scientist/Engineer SC",
+          "discipline": "Computer Science",
+          "year": 2025,
+          "sourceReference": "Official ISRO ICRB Computer Science 2025 paper"
+        }
+      ]
+    }
+  ]
+}

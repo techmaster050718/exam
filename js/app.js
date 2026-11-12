@@ -140,9 +140,11 @@
     let correct = 0, wrong = 0, unattempted = 0;
 
     questions.forEach((q) => {
-      // After JSON round-trip, object keys become strings — check both
+      // After JSON round-trip, object keys become strings — check both.
+      // Authentic PYQ paper sets may carry a null answer when the source PDF does
+      // not provide the official key; treat those as ungraded rather than guessing.
       const chosen = answers[q.globalIndex] ?? answers[String(q.globalIndex)];
-      if (chosen === undefined || chosen === null) {
+      if (chosen === undefined || chosen === null || q.answer === null || q.answer === undefined) {
         unattempted++;
       } else if (Number(chosen) === q.answer) {
         correct++;
@@ -173,9 +175,11 @@
       }
       const s = sections[name];
       s.total++;
-      // After JSON round-trip, object keys become strings
+      // After JSON round-trip, object keys become strings.
+      // Questions from officially published source files that do not include a
+      // verifiable key should not be auto-graded as incorrect guesses.
       const chosen = answers[q.globalIndex] ?? answers[String(q.globalIndex)];
-      if (chosen === undefined || chosen === null) {
+      if (chosen === undefined || chosen === null || q.answer === null || q.answer === undefined) {
         s.unattempted++;
       } else if (Number(chosen) === q.answer) {
         s.correct++;

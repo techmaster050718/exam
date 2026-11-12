@@ -1,0 +1,431 @@
+{
+  "id": "barc-oces-dgfs-cse-predicted-001",
+  "title": "BARC OCES/DGFS CSE — Advanced Syllabus-Based Practice Paper 1",
+  "sourceType": "PREDICTED",
+  "exam": "BARC OCES/DGFS",
+  "discipline": "Computer Science",
+  "source": "Syllabus-based practice paper generated from technical syllabus; not an authentic PYQ",
+  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "sections": [
+    {
+      "name": "Algorithms & Data Structures",
+      "questions": [
+        {
+          "q": "Which of the following is the longest path problem in a general graph?",
+          "options": [
+            "Polynomial-time solvable",
+            "NP-hard",
+            "Trivially easy",
+            "Linear-time solvable"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The height of a complete binary tree with n nodes is",
+          "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n log n)",
+            "O(1)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a max-priority queue, extracting the maximum has complexity",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A trie is most useful for",
+          "options": [
+            "Numeric sorting",
+            "String searching and prefix matching",
+            "Hashing integers",
+            "Reducing I/O delay"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which algorithm is best for finding the shortest path from a source to all vertices in a graph with negative edges but no negative cycle?",
+          "options": [
+            "Dijkstra",
+            "Prim",
+            "Kruskal",
+            "Bellman-Ford"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A graph is called Eulerian if",
+          "options": [
+            "All vertices have even degree",
+            "It has a spanning tree",
+            "It is complete",
+            "It is bipartite"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following sorts is stable?",
+          "options": [
+            "Quick sort",
+            "Heap sort",
+            "Selection sort",
+            "Merge sort"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The recurrence T(n)=2T(n/2)+n log n solves to",
+          "options": [
+            "O(n)",
+            "O(n log^2 n)",
+            "O(log n)",
+            "O(n^2)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A collision in hashing can be resolved using",
+          "options": [
+            "Chaining",
+            "Recursion",
+            "Pipelining",
+            "Multiplexing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data structure supports LIFO access?",
+          "options": [
+            "Queue",
+            "Priority queue",
+            "Stack",
+            "Deque"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems & Security",
+      "questions": [
+        {
+          "q": "Which of the following is not a necessary condition for deadlock?",
+          "options": [
+            "Mutual exclusion",
+            "Hold and wait",
+            "Circular wait",
+            "Preemption"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The problem of thrashing occurs due to",
+          "options": [
+            "Insufficient CPU",
+            "Excessive page faults",
+            "Lack of concurrency",
+            "Too many semaphores"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The best way to reduce external fragmentation is to",
+          "options": [
+            "Increase block size",
+            "Use paging",
+            "Use contiguous allocation",
+            "Reduce OS memory"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A monitor provides synchronization by",
+          "options": [
+            "Locking and condition variables",
+            "Interrupt handling",
+            "Page replacement",
+            "Time slicing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In multi-user systems, a secure authentication system should protect against",
+          "options": [
+            "Replay attacks",
+            "Cache memory hits",
+            "Hash collisions only",
+            "Network segmentation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of these is a symmetric key cryptographic algorithm?",
+          "options": [
+            "RSA",
+            "Diffie-Hellman",
+            "AES",
+            "DSA"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A digital signature provides",
+          "options": [
+            "Confidentiality alone",
+            "Integrity and non-repudiation",
+            "Low latency",
+            "Faster routing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What does CIA in information security stand for?",
+          "options": [
+            "Confidentiality, Integrity, Availability",
+            "Control, Integrity, Access",
+            "Confinement, Integrity, Analysis",
+            "Communication, Identity, Assurance"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which operating system component handles file metadata and access control?",
+          "options": [
+            "Kernel",
+            "Compiler",
+            "Assembler",
+            "Loader"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An inode primarily stores",
+          "options": [
+            "File system metadata",
+            "Socket state",
+            "Page tables",
+            "Process stack"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "DBMS & SQL",
+      "questions": [
+        {
+          "q": "Which normal form eliminates transitive dependencies?",
+          "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "4NF"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A foreign key is",
+          "options": [
+            "A key that references a candidate key in another relation",
+            "A key that is always unique",
+            "A key used for hashing",
+            "A temporary key"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the purpose of a clustered index?",
+          "options": [
+            "Store rows in sorted order",
+            "Encrypt the table",
+            "Compress the schema",
+            "Protect against SQL injection"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The ACID property that ensures all or nothing is",
+          "options": [
+            "Consistency",
+            "Atomicity",
+            "Isolation",
+            "Durability"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In SQL, which clause is evaluated before the HAVING clause?",
+          "options": [
+            "WHERE",
+            "GROUP BY",
+            "ORDER BY",
+            "SELECT"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the result of a LEFT JOIN between A and B?",
+          "options": [
+            "Only rows matched from A and B",
+            "All rows from A with matching B rows",
+            "All rows from B with matching A rows",
+            "Only rows not in A"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which SQL aggregate gives the number of rows?",
+          "options": [
+            "AVG()",
+            "SUM()",
+            "COUNT()",
+            "MIN()"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Locking in a database is mainly used for",
+          "options": [
+            "Concurrency control",
+            "Routing optimization",
+            "Hardware security",
+            "Encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A deadlock state may be resolved by",
+          "options": [
+            "Waiting indefinitely",
+            "Aborting one of the transactions",
+            "Ignoring the lock",
+            "Reducing page size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which operation removes duplicate rows from a result set?",
+          "options": [
+            "DISTINCT",
+            "UNION",
+            "SORT BY",
+            "LIMIT"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "COA & TOC",
+      "questions": [
+        {
+          "q": "Which addressing mode allows an operand to be fetched from a memory location whose address is stored in a register?",
+          "options": [
+            "Immediate",
+            "Direct",
+            "Indirect",
+            "Index"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Pipelining improves performance by",
+          "options": [
+            "Reducing memory",
+            "Overlapping instruction execution stages",
+            "Shortening the clock cycle only",
+            "Eliminating interrupts"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Turing machine is used to characterize",
+          "options": [
+            "Regular languages",
+            "Context-free languages",
+            "Computable languages",
+            "Finite languages"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A regular expression equivalent to a finite automaton is used for",
+          "options": [
+            "Lexical analysis",
+            "Code generation",
+            "Page replacement",
+            "Deadlock prevention"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A language accepted by a DFA is always",
+          "options": [
+            "Context-sensitive",
+            "Context-free",
+            "Regular",
+            "Recursively enumerable"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The purpose of a control unit is to",
+          "options": [
+            "Perform arithmetic operations",
+            "Coordinate instruction execution",
+            "Store data permanently",
+            "Handle network routing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is not a valid access method?",
+          "options": [
+            "Immediate addressing",
+            "Indexed addressing",
+            "Relative addressing",
+            "Random addressing only"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In compiler design, FIRST sets are used in",
+          "options": [
+            "Parsing decisions",
+            "Memory allocation",
+            "Deadlock detection",
+            "Circuit minimization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of these is usually generated after semantic analysis?",
+          "options": [
+            "Intermediate code",
+            "Machine code directly",
+            "Page table",
+            "Packet trace"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which parsing method is bottom-up?",
+          "options": [
+            "LL(1)",
+            "Recursive descent",
+            "LR",
+            "Predictive"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}

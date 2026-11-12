@@ -1,0 +1,536 @@
+{
+  "id": "nic-scientist-b-cse-predicted-001",
+  "title": "NIC Scientist-B CSE / IT — Syllabus-Based Practice Paper 1",
+  "sourceType": "PREDICTED",
+  "exam": "NIC Scientist-B",
+  "discipline": "Computer Science / IT",
+  "source": "Syllabus-based practice paper generated from technical syllabus; not an authentic PYQ",
+  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "sections": [
+    {
+      "name": "Programming & Data Structures",
+      "questions": [
+        {
+          "q": "What is the time complexity of inserting a key into a hash table with separate chaining when the load factor is kept below 1?",
+          "options": [
+            "O(log n)",
+            "O(n)",
+            "O(1) average",
+            "O(n log n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which traversal of a binary tree can be used to reconstruct the tree uniquely if the inorder traversal is known?",
+          "options": [
+            "Preorder is enough",
+            "Postorder is enough",
+            "Only level-order is enough",
+            "Preorder and inorder together are enough"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A circular queue with size 5 and head=2, tail=4 has 3 elements. Which of the following is true after one enqueue when the queue is full?",
+          "options": [
+            "Overflow occurs",
+            "Underflow occurs",
+            "The new element is inserted at index 0",
+            "The new element is inserted at index 3"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following operations on a binary search tree has the worst-case time complexity O(n)?",
+          "options": [
+            "Search in a balanced BST",
+            "Insert in a balanced BST",
+            "Delete the minimum key in a balanced BST",
+            "Traversal of a skewed BST"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which data structure is most suitable for implementing round-robin scheduling?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Binary heap",
+            "Tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The recurrence T(n)=2T(n/2)+n has solution",
+          "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is true for a min-heap?",
+          "options": [
+            "Parent is always smaller than or equal to children",
+            "Parent is always greater than or equal to children",
+            "Left child is always smaller than the right child",
+            "Heap ordering is valid only for complete binary trees"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a doubly linked list, deleting a node requires",
+          "options": [
+            "Only the next pointer",
+            "Only the previous pointer",
+            "Pointers to the node and its previous/next neighbors",
+            "Traversal from head until the value is found"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following sorting algorithms is not comparison-based?",
+          "options": [
+            "Merge sort",
+            "Quick sort",
+            "Counting sort",
+            "Heap sort"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A recursive function calls itself on smaller subproblems. The maximum depth of recursion is best controlled by which of the following?",
+          "options": [
+            "Stack size",
+            "Queue size",
+            "Hash table capacity",
+            "B-tree branching factor"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Algorithms & Complexity",
+      "questions": [
+        {
+          "q": "Which algorithm design technique is best suited for finding the shortest path in a graph with non-negative edge weights?",
+          "options": [
+            "Divide and conquer",
+            "Dynamic programming",
+            "Greedy",
+            "Backtracking"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which problem is NP-complete?",
+          "options": [
+            "Binary search",
+            "Travelling salesman problem",
+            "Merging two sorted arrays",
+            "Minimum spanning tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In dynamic programming, overlapping subproblems imply",
+          "options": [
+            "The problem can be solved greedily",
+            "The same subproblem recurs multiple times",
+            "The problem has no polynomial-time solution",
+            "The recurrence is non-recursive"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a characteristic of a greedy algorithm?",
+          "options": [
+            "It always finds the global optimum for every problem",
+            "It makes locally optimal choices",
+            "It requires complete state-space exploration",
+            "It never uses heuristics"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is the best asymptotic upper bound for the sum 1 + 2 + ... + n?",
+          "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Branch and bound is most useful when",
+          "options": [
+            "The search space is small and complete enumeration is feasible",
+            "The problem is unconstrained",
+            "All subproblems are independent",
+            "There is no objective function"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The worst-case time complexity of Floyd-Warshall algorithm on an n-vertex graph is",
+          "options": [
+            "O(n)",
+            "O(n^2)",
+            "O(n^3)",
+            "O(n log n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In complexity theory, if a problem can be verified in polynomial time, it belongs to",
+          "options": [
+            "P",
+            "NP",
+            "NP-hard",
+            "Undecidable"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is not a valid complexity class relation?",
+          "options": [
+            "P ⊆ NP",
+            "NP-hard ⊆ NP",
+            "NP-complete ⊆ NP",
+            "P ⊆ NP-hard"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which algorithm is best for finding the minimum spanning tree of a connected weighted graph?",
+          "options": [
+            "Dijkstra",
+            "Bellman-Ford",
+            "Prim's algorithm",
+            "Kruskal's algorithm"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "q": "Which of the following is shared by all threads of the same process?",
+          "options": [
+            "Registers",
+            "Stack",
+            "File descriptors",
+            "Program counter"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A deadlock condition can occur when the system satisfies",
+          "options": [
+            "Mutual exclusion, hold and wait, circular wait, no preemption",
+            "Mutual exclusion, starvation, concurrency, waiting",
+            "Round-robin, fairness, hold and wait, no preemption",
+            "Semaphore, queueing, deadlock, starvation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The best CPU scheduling algorithm for minimizing average waiting time in a general case is",
+          "options": [
+            "FCFS",
+            "Round robin",
+            "SJF",
+            "Priority scheduling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following is used to protect a critical section?",
+          "options": [
+            "Fork",
+            "Mutex",
+            "Pipeline",
+            "Socket"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Belady's anomaly is associated with",
+          "options": [
+            "FIFO page replacement",
+            "LRU page replacement",
+            "Optimal page replacement",
+            "Second chance replacement"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which page replacement policy is optimal in terms of minimizing page faults?",
+          "options": [
+            "FIFO",
+            "LRU",
+            "Optimal page replacement",
+            "LFU"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A system with paging uses translation lookaside buffer. The main purpose of TLB is to",
+          "options": [
+            "Reduce page fault rate",
+            "Accelerate address translation",
+            "Allocate blocks of memory",
+            "Schedule CPU tasks"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which scheduling policy is preemptive?",
+          "options": [
+            "FCFS",
+            "SJF non-preemptive",
+            "Priority non-preemptive",
+            "Round robin"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which of the following is an example of inter-process communication?",
+          "options": [
+            "Cache miss",
+            "Semaphore",
+            "Pipeline",
+            "Interrupt"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Disk scheduling algorithm that minimizes head movement for requests already in queue is",
+          "options": [
+            "FCFS",
+            "SSTF",
+            "SCAN",
+            "LOOK"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "DBMS & SQL",
+      "questions": [
+        {
+          "q": "Which normal form removes partial dependency?",
+          "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A primary key in a relation is",
+          "options": [
+            "A candidate key that is chosen as the main identifier",
+            "Any attribute with unique values",
+            "A foreign key",
+            "An index"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which SQL clause is used to filter rows after grouping?",
+          "options": [
+            "WHERE",
+            "HAVING",
+            "GROUP BY",
+            "ORDER BY"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A transaction holds which of the following properties?",
+          "options": [
+            "Atomicity, consistency, isolation, durability",
+            "Accuracy, consistency, identity, durability",
+            "Availability, authorization, indexing, atomicity",
+            "Isolation, indexing, recovery, versioning"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a B+ tree, all records are stored in",
+          "options": [
+            "Internal nodes only",
+            "Leaf nodes",
+            "Root node only",
+            "Non-leaf nodes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which lock mode allows concurrent reads but prevents writes?",
+          "options": [
+            "Exclusive lock",
+            "Shared lock",
+            "Update lock",
+            "Intent lock"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A view in SQL is",
+          "options": [
+            "A physical table",
+            "A virtual table based on a query",
+            "A stored procedure",
+            "A trigger"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The SQL JOIN that returns only matching rows from both tables is",
+          "options": [
+            "LEFT JOIN",
+            "RIGHT JOIN",
+            "FULL JOIN",
+            "INNER JOIN"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "To retrieve duplicate rows from a table, which SQL construct is used?",
+          "options": [
+            "GROUP BY with HAVING COUNT(*) > 1",
+            "WHERE DISTINCT",
+            "JOIN with UNIQUE",
+            "ORDER BY DESC"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which statement is used to ensure transaction durability?",
+          "options": [
+            "COMMIT",
+            "ROLLBACK",
+            "START TRANSACTION",
+            "SAVEPOINT"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "questions": [
+        {
+          "q": "Which layer of the OSI model is responsible for routing?",
+          "options": [
+            "Data link",
+            "Network",
+            "Transport",
+            "Session"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In IPv4, classless inter-domain routing uses",
+          "options": [
+            "Subnet masks",
+            "Switching tables",
+            "Gateways only",
+            "DNS records"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which protocol is used to resolve an IP address to a MAC address?",
+          "options": [
+            "DNS",
+            "ARP",
+            "DHCP",
+            "ICMP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which transport layer protocol provides best-effort delivery without retransmission?",
+          "options": [
+            "TCP",
+            "UDP",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "HTTP status code 404 indicates",
+          "options": [
+            "Server error",
+            "Bad request",
+            "Not found",
+            "Unauthorized"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following is used to assign dynamic IP addresses to hosts?",
+          "options": [
+            "NAT",
+            "DHCP",
+            "DNS",
+            "HTTP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The TCP three-way handshake begins with",
+          "options": [
+            "ACK",
+            "SYN",
+            "FIN",
+            "RST"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which device operates at Layer 2 of the OSI model?",
+          "options": [
+            "Router",
+            "Switch",
+            "Gateway",
+            "Application server"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol is used for secure web communication?",
+          "options": [
+            "HTTP",
+            "HTTPS",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A firewall primarily provides",
+          "options": [
+            "Switching",
+            "Packet filtering and access control",
+            "TCP sequencing",
+            "Address translation"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

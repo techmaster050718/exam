@@ -338,5 +338,375 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "upsi-2021-paper-001",
+    "title": "UP SI 2021 Official Paper 1 (Verified)",
+    "subtitle": "Authentic official PYQ set",
+    "file": "data/upsi-2021-paper-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-2021-paper-002",
+    "title": "UP SI 2021 Official Paper 2 (Verified)",
+    "subtitle": "Authentic official PYQ set",
+    "file": "data/upsi-2021-paper-002.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-2026-paper-001",
+    "title": "UP SI 2026 Practice Set (Separate from authentic PYQ)",
+    "subtitle": "Not counted as authentic PYQ",
+    "file": "data/upsi-2026-paper-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-2026-paper-002",
+    "title": "UP SI 2026 Practice Set (Separate from authentic PYQ)",
+    "subtitle": "Not counted as authentic PYQ",
+    "file": "data/upsi-2026-paper-002.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-pattern-001",
+    "title": "UP SI Separate Practice Bank 1 (Not authentic PYQ)",
+    "subtitle": "Practice-only set; not a verified PYQ paper",
+    "file": "data/upsi-pyq-pattern-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-pattern-002",
+    "title": "UP SI Separate Practice Bank 2 (Not authentic PYQ)",
+    "subtitle": "Practice-only set; not a verified PYQ paper",
+    "file": "data/upsi-pyq-pattern-002.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-pattern-003",
+    "title": "UP SI Separate Practice Bank 3 (Not authentic PYQ)",
+    "subtitle": "Practice-only set; not a verified PYQ paper",
+    "file": "data/upsi-pyq-pattern-003.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-level-1",
+    "title": "UP SI Prediction Bank — Level 1 (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction bank; not authentic PYQ",
+    "file": "data/upsi-predicted-2027-level-1.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-level-2",
+    "title": "UP SI Prediction Bank — Level 2 (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction bank; not authentic PYQ",
+    "file": "data/upsi-predicted-2027-level-2.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-hard",
+    "title": "UP SI Prediction Bank — Hard (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction bank; not authentic PYQ",
+    "file": "data/upsi-predicted-2027-hard.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-very-hard",
+    "title": "UP SI Prediction Bank — Very Hard (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction bank; not authentic PYQ",
+    "file": "data/upsi-predicted-2027-very-hard.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-master-test",
+    "title": "UP SI Master Test (Separate from authentic PYQ)",
+    "subtitle": "Mixed practice set; not authentic PYQ",
+    "file": "data/upsi-master-test.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-2021-001",
+    "title": "UP SI 2021 PYQ Archive File (Separate from current generated bank)",
+    "subtitle": "Retained as a legacy source file; not part of the authentic set",
+    "file": "data/upsi-pyq-2021-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-2021-002",
+    "title": "UP SI 2021 Legacy PYQ Archive (Separate from current generated bank)",
+    "subtitle": "Retained as a legacy source file; not part of the authentic set",
+    "file": "data/upsi-pyq-2021-002.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-pyq-2026-001",
+    "title": "UP SI 2026 Legacy Practice File (Separate from authentic PYQ)",
+    "subtitle": "Not part of the verified authentic paper set",
+    "file": "data/upsi-pyq-2026-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-001",
+    "title": "UP SI Predicted Paper 2027 — Level 1",
+    "subtitle": "UP Police SI practice paper",
+    "file": "data/upsi-predicted-2027-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "upsi-predicted-2027-002",
+    "title": "UP SI Predicted Paper 2027 — Level 2",
+    "subtitle": "UP Police SI practice paper",
+    "file": "data/upsi-predicted-2027-002.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "up-police-si"
+  },
+  {
+    "id": "alp-cbt1-pyq-001",
+    "title": "ALP Legacy Practice Set 1 (Separate from authentic PYQ)",
+    "subtitle": "Legacy file; not part of verified authentic PYQ set",
+    "file": "data/alp-cbt1-pyq-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt1-pyq-002",
+    "title": "ALP Legacy Practice Set 2 (Separate from authentic PYQ)",
+    "subtitle": "Legacy file; not part of verified authentic PYQ set",
+    "file": "data/alp-cbt1-pyq-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt1-prediction-001",
+    "title": "ALP Prediction Bank 1 (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction set; not authentic PYQ",
+    "file": "data/alp-cbt1-prediction-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt1-hard-prediction-001",
+    "title": "ALP Hard Prediction Bank (Separate from authentic PYQ)",
+    "subtitle": "Generated prediction set; not authentic PYQ",
+    "file": "data/alp-cbt1-hard-prediction-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt2-parta-001",
+    "title": "ALP CBT-2 Part-A Practice (Separate from authentic PYQ)",
+    "subtitle": "Practice-only set; not authentic PYQ",
+    "file": "data/alp-cbt2-parta-001.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt2-parta-hard-001",
+    "title": "ALP CBT-2 Part-A Hard Practice (Separate from authentic PYQ)",
+    "subtitle": "Practice-only set; not authentic PYQ",
+    "file": "data/alp-cbt2-parta-hard-001.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-basic-science-engineering",
+    "title": "ALP Basic Science & Engineering Practice (Separate from authentic PYQ)",
+    "subtitle": "Practice-only set; not authentic PYQ",
+    "file": "data/alp-basic-science-engineering.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-master-test",
+    "title": "ALP Master Test (Separate from authentic PYQ)",
+    "subtitle": "Practice test only; not authentic PYQ",
+    "file": "data/alp-master-test.json",
+    "durationMin": 150,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-advanced-prediction",
+    "title": "ALP Advanced Prediction Set (Separate from authentic PYQ)",
+    "subtitle": "Prediction set; not authentic PYQ",
+    "file": "data/alp-advanced-prediction.json",
+    "durationMin": 150,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-pyq-001",
+    "title": "RRB ALP Official Paper 1 (Verified)",
+    "subtitle": "Authentic official paper set",
+    "file": "data/alp-pyq-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-pyq-002",
+    "title": "RRB ALP Official Paper 2 (Verified)",
+    "subtitle": "Authentic official paper set",
+    "file": "data/alp-pyq-002.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-pyq-pattern-001",
+    "title": "ALP Pattern-Practice Bank (Separate from authentic PYQ)",
+    "subtitle": "Pattern-only practice bank; not authentic PYQ",
+    "file": "data/alp-pyq-pattern-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-predicted-001",
+    "title": "ALP Predicted Bank (Separate from authentic PYQ)",
+    "subtitle": "Prediction bank; not authentic PYQ",
+    "file": "data/alp-predicted-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "alp-cbt2-001",
+    "title": "ALP CBT-2 Part-A — 100 Questions",
+    "subtitle": "Railway MCQ practice paper",
+    "file": "data/alp-cbt2-001.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "rrb-alp"
+  },
+  {
+    "id": "nic-scientist-b-cse-predicted-001",
+    "title": "NIC Scientist-B CSE / IT — Practice Paper 1",
+    "subtitle": "Syllabus-based practice paper (not PYQ)",
+    "file": "data/nic-scientist-b-cse-predicted-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "nic-scientist-b"
+  },
+  {
+    "id": "drdo-rac-scientist-b-cse-predicted-001",
+    "title": "DRDO RAC Scientist-B CSE — Practice Paper 1",
+    "subtitle": "Advanced syllabus-based practice paper (not PYQ)",
+    "file": "data/drdo-rac-scientist-b-cse-predicted-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "drdo-rac-scientist-b"
+  },
+  {
+    "id": "barc-oces-dgfs-cse-predicted-001",
+    "title": "BARC OCES/DGFS CSE — Practice Paper 1",
+    "subtitle": "Advanced syllabus-based practice paper (not PYQ)",
+    "file": "data/barc-oces-dgfs-cse-predicted-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "barc-oces-dgfs"
+  },
+  {
+    "id": "sbi-so-it-predicted-001",
+    "title": "SBI SO IT / Systems — Practice Paper 1",
+    "subtitle": "Practical IT and systems practice paper (not PYQ)",
+    "file": "data/sbi-so-it-predicted-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "sbi-so-it"
+  },
+  {
+    "id": "isro-icrb-cse-pyq-2025",
+    "title": "ISRO ICRB Scientist/Engineer SC — Computer Science 2025",
+    "subtitle": "Official PYQ subset from the ISRO public paper archive",
+    "file": "data/isro-icrb-cse-pyq-2025.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "isro-icrb-cse"
+  },
+  {
+    "id": "amazing-facts-gk-up-gorakhpur-01",
+    "title": "Amazing Facts & GK — UP & Gorakhpur Special",
+    "subtitle": "Syllabus-based general knowledge paper; not a PYQ",
+    "file": "data/amazing-facts-gk-up-gorakhpur-01.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "general-awareness"
   }
 ]

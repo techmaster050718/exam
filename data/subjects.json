@@ -70,5 +70,47 @@
     "title": "AI, ML & Big Data",
     "description": "Artificial intelligence, machine learning, deep learning, generative AI and big data technologies",
     "icon": "🤖"
+  },
+  {
+    "id": "up-police-si",
+    "title": "UP Police SI",
+    "description": "Authentic UP Police SI previous-year papers and verified paper sets",
+    "icon": "👮"
+  },
+  {
+    "id": "rrb-alp",
+    "title": "Assistant Loco Pilot",
+    "description": "Authentic RRB ALP previous-year papers and verified official paper sets",
+    "icon": "🚆"
+  },
+  {
+    "id": "isro-icrb-cse",
+    "title": "ISRO ICRB Scientist/Engineer — CSE",
+    "description": "Official ISRO ICRB Computer Science previous-year questions",
+    "icon": "🛰️"
+  },
+  {
+    "id": "nic-scientist-b",
+    "title": "NIC Scientist-B",
+    "description": "Syllabus-based Computer Science / IT practice paper; not a PYQ",
+    "icon": "🖥️"
+  },
+  {
+    "id": "drdo-rac-scientist-b",
+    "title": "DRDO RAC Scientist-B",
+    "description": "Advanced syllabus-based Computer Science practice paper; not a PYQ",
+    "icon": "🛡️"
+  },
+  {
+    "id": "barc-oces-dgfs",
+    "title": "BARC OCES / DGFS",
+    "description": "Advanced syllabus-based Computer Science practice paper; not a PYQ",
+    "icon": "⚛️"
+  },
+  {
+    "id": "sbi-so-it",
+    "title": "SBI SO — IT / Systems",
+    "description": "Practical IT and systems syllabus-based practice paper; not a PYQ",
+    "icon": "🏦"
   }
 ]

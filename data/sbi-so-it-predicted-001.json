@@ -1,0 +1,431 @@
+{
+  "id": "sbi-so-it-predicted-001",
+  "title": "SBI SO IT / Systems — Practical Syllabus-Based Practice Paper 1",
+  "sourceType": "PREDICTED",
+  "exam": "SBI Specialist Officer IT / Systems",
+  "discipline": "IT / Systems",
+  "source": "Syllabus-based practice paper generated from IT and systems syllabus; not an authentic PYQ",
+  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "sections": [
+    {
+      "name": "Operating Systems & Systems Administration",
+      "questions": [
+        {
+          "q": "Which OS component is responsible for memory management and process scheduling?",
+          "options": [
+            "Kernel",
+            "Compiler",
+            "Linker",
+            "GUI shell"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A system call is",
+          "options": [
+            "A user-level function call",
+            "An interface to kernel services",
+            "A hardware interrupt",
+            "A database query"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is an example of a blocking I/O operation?",
+          "options": [
+            "Polling CPU repeatedly",
+            "Waiting for disk read completion",
+            "Executing a system timer",
+            "Running a shell script"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which file system feature best supports concurrent file access?",
+          "options": [
+            "Log-based metadata",
+            "Single-threaded file writes",
+            "No locking",
+            "Monolithic disk layout"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The purpose of a file permission bitmask is to control",
+          "options": [
+            "CPU power",
+            "User access rights",
+            "Disk geometry",
+            "Packet routing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which scheduling policy is commonly used for fairness in time-sharing systems?",
+          "options": [
+            "FCFS",
+            "Round robin",
+            "SJF",
+            "Priority without preemption"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Virtual memory helps by",
+          "options": [
+            "Reducing main memory pressure",
+            "Improving disk speed",
+            "Removing page faults",
+            "Increasing CPU clock frequency"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a RAID array, redundancy is primarily used to improve",
+          "options": [
+            "Power efficiency",
+            "Fault tolerance",
+            "Processor cache",
+            "Network speed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which command is typically used in Linux to display running processes?",
+          "options": [
+            "ls",
+            "ps",
+            "grep",
+            "chmod"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the main purpose of a firewall in enterprise systems?",
+          "options": [
+            "Encrypt all files",
+            "Filter and control network traffic",
+            "Assign IP addresses",
+            "Increase memory bandwidth"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "DBMS & Data Management",
+      "questions": [
+        {
+          "q": "Which of the following is a candidate key?",
+          "options": [
+            "A minimal superkey",
+            "A foreign key",
+            "A stored view",
+            "A transaction log"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A transaction with ACID guarantees is",
+          "options": [
+            "Prone to partial writes",
+            "Atomic and durable",
+            "Always serialized automatically",
+            "Not recoverable"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The purpose of an index is to",
+          "options": [
+            "Reduce searching time",
+            "Write all data to disk faster",
+            "Filter network packets",
+            "Eliminate deadlocks"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A B+ tree stores data primarily in",
+          "options": [
+            "Leaf nodes",
+            "Root nodes only",
+            "Internal nodes only",
+            "Heap files"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which join returns all rows from both tables, matching where possible?",
+          "options": [
+            "INNER JOIN",
+            "LEFT JOIN",
+            "RIGHT JOIN",
+            "FULL OUTER JOIN"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Normalization is performed to",
+          "options": [
+            "Increase redundancy",
+            "Reduce anomalies",
+            "Speed up hardware",
+            "Encrypt relations"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A view in SQL is",
+          "options": [
+            "A materialized table",
+            "A logical table based on a query",
+            "An access control list",
+            "A database trigger"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A dirty read occurs when",
+          "options": [
+            "A transaction reads uncommitted data",
+            "A table is not normalized",
+            "A file is deleted",
+            "A process blocks"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which transaction property ensures independence of concurrent transactions?",
+          "options": [
+            "Consistency",
+            "Isolation",
+            "Durability",
+            "Atomicity"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The SQL clause used to limit the number of rows returned is",
+          "options": [
+            "HAVING",
+            "LIMIT",
+            "GROUP BY",
+            "UNION"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks & Security",
+      "questions": [
+        {
+          "q": "Which protocol is used to translate domain names into IP addresses?",
+          "options": [
+            "DNS",
+            "SMTP",
+            "IMAP",
+            "HTTP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "What is the purpose of NAT?",
+          "options": [
+            "Map private addresses to public addresses",
+            "Encrypt HTTP traffic",
+            "Route ICMP packets",
+            "Allocate ports"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A router primarily works at which OSI layer?",
+          "options": [
+            "Layer 2",
+            "Layer 3",
+            "Layer 5",
+            "Layer 7"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which protocol provides reliable, connection-oriented communication?",
+          "options": [
+            "UDP",
+            "ICMP",
+            "TCP",
+            "ARP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which security mechanism ensures that data were not modified in transit?",
+          "options": [
+            "Authentication",
+            "Integrity",
+            "Availability",
+            "Authorization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "What is the main purpose of SSL/TLS?",
+          "options": [
+            "Secure communication over a network",
+            "Route packets",
+            "Allocate subnet masks",
+            "Replace DNS"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a common web application vulnerability?",
+          "options": [
+            "SQL injection",
+            "Page replacement",
+            "Heap sorting",
+            "BFS traversal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In TCP, the SYN flag is used to",
+          "options": [
+            "Terminate a connection",
+            "Initiate a connection",
+            "Request data retransmission",
+            "Acknowledge packet loss"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is an asymmetric encryption method?",
+          "options": [
+            "AES",
+            "DES",
+            "RSA",
+            "Blowfish"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A VPN is mainly used for",
+          "options": [
+            "Secure remote network access",
+            "Routing at layer 2",
+            "Indexing database tables",
+            "Increasing CPU speed"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Programming, Web & Banking IT",
+      "questions": [
+        {
+          "q": "Which HTML tag is used to create a hyperlink?",
+          "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<img>"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which JavaScript keyword is used to declare a block-scoped variable?",
+          "options": [
+            "var",
+            "let",
+            "function",
+            "const"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which HTTP method is idempotent by design?",
+          "options": [
+            "POST",
+            "PUT",
+            "PATCH",
+            "CONNECT"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a common banking technology for instant fund transfer?",
+          "options": [
+            "UDP",
+            "IMPS",
+            "MST",
+            "SMTP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which factor is most important for business continuity in banking systems?",
+          "options": [
+            "Low CPU temperature",
+            "Disaster recovery planning",
+            "Shorter DNS names",
+            "Reduced packet size"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these is used to prevent unauthorized access in web applications?",
+          "options": [
+            "Session management",
+            "Round robin",
+            "Hashing only",
+            "TCP filtering"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a stateful protocol?",
+          "options": [
+            "HTTP without session management",
+            "HTTP with cookies",
+            "SMTP",
+            "ICMP"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A certificate in PKI is used to bind",
+          "options": [
+            "A public key to an identity",
+            "A device to a port",
+            "A process to a queue",
+            "An IP with a domain"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a core banking concept?",
+          "options": [
+            "Shared transaction processing across branches",
+            "Dedicated single-branch ledger only",
+            "No account validation",
+            "Disk-less servers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which technology is commonly used to secure online payment transactions?",
+          "options": [
+            "SSL/TLS",
+            "XML parser",
+            "B-tree",
+            "Round robin scheduler"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

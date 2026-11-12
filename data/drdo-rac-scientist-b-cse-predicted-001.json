@@ -1,0 +1,431 @@
+{
+  "id": "drdo-rac-scientist-b-cse-predicted-001",
+  "title": "DRDO RAC Scientist-B CSE — Advanced Syllabus-Based Practice Paper 1",
+  "sourceType": "PREDICTED",
+  "exam": "DRDO RAC Scientist-B",
+  "discipline": "Computer Science",
+  "source": "Syllabus-based practice paper generated from technical syllabus; not an authentic PYQ",
+  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "sections": [
+    {
+      "name": "Algorithms & Complexity",
+      "questions": [
+        {
+          "q": "Which of the following statements is true for the worst-case time complexity of quicksort?",
+          "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "For a graph with n vertices and m edges, the complexity of BFS is",
+          "options": [
+            "O(V + E)",
+            "O(V^2)",
+            "O(E log V)",
+            "O(V log E)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The recurrence T(n)=T(n/2)+O(1) solves to",
+          "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n log n)",
+            "O(1)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which algorithm is used to detect a cycle in an undirected graph efficiently?",
+          "options": [
+            "Kruskal",
+            "DFS with recursion stack",
+            "Binary search",
+            "Dijkstra"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of these is not a greedy problem?",
+          "options": [
+            "Huffman coding",
+            "Kruskal MST",
+            "0/1 knapsack",
+            "Activity selection"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Given a connected weighted graph, which algorithm guarantees shortest paths from a single source with non-negative weights?",
+          "options": [
+            "Prim",
+            "Bellman-Ford",
+            "Dijkstra",
+            "Kruskal"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A dynamic programming solution usually includes",
+          "options": [
+            "Local optimization only",
+            "Optimal substructure and overlapping subproblems",
+            "Only divide-and-conquer steps",
+            "No state memoization"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which problem is known to be NP-hard but not necessarily NP-complete?",
+          "options": [
+            "Longest path problem",
+            "Insertion sort",
+            "Binary search",
+            "Linear search"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In an adjacency matrix for a dense graph, the space complexity is",
+          "options": [
+            "O(V)",
+            "O(E)",
+            "O(V^2)",
+            "O(log V)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A graph is bipartite if and only if it has no",
+          "options": [
+            "Cycle",
+            "Odd cycle",
+            "Self-loop",
+            "Parallel edge"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Data Structures & Trees",
+      "questions": [
+        {
+          "q": "A full binary tree with 15 nodes has how many leaves?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a max-heap, the parent of node i is located at",
+          "options": [
+            "i/2",
+            "2i",
+            "2i+1",
+            "(i-1)/2"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "AVL trees are balanced by",
+          "options": [
+            "Queue length",
+            "Tree height difference",
+            "Hash bucket count",
+            "Edge weights"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The inorder traversal of a BST gives",
+          "options": [
+            "Descending order",
+            "Ascending order",
+            "Level order",
+            "Preorder order"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A hash table with open addressing suffers from",
+          "options": [
+            "No collisions",
+            "Clustering",
+            "Always O(1) insertion",
+            "Blocking of memory"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A stack is best suited for",
+          "options": [
+            "Shortest path computation",
+            "Expression evaluation",
+            "Sorting by key",
+            "BFS traversal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is not a tree traversal?",
+          "options": [
+            "Preorder",
+            "Inorder",
+            "Spanning",
+            "Postorder"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A graph with no cycles is called a",
+          "options": [
+            "Complete graph",
+            "Cyclic graph",
+            "Forest",
+            "Hamiltonian graph"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In an array implementation of a queue, overflow occurs when",
+          "options": [
+            "rear == front",
+            "front == 0",
+            "rear == max_size - 1 and front != 0",
+            "front > rear"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which list operation is amortized O(1) on a dynamic array?",
+          "options": [
+            "Insert at beginning",
+            "Delete from middle",
+            "Append",
+            "Binary search"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems & Concurrency",
+      "questions": [
+        {
+          "q": "The critical section problem is solved primarily using",
+          "options": [
+            "Mutexes",
+            "Linked lists",
+            "Heaps",
+            "Routers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following may lead to starvation?",
+          "options": [
+            "Semaphore",
+            "Priority scheduling",
+            "Poll scheduling",
+            "DMA"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The producer-consumer problem is solved using",
+          "options": [
+            "Condition variables and semaphores",
+            "Hash tables",
+            "Dijkstra's algorithm",
+            "Topological sort"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The page fault frequency is reduced by",
+          "options": [
+            "Larger page size",
+            "Smaller locality of reference",
+            "Increasing TLB entries",
+            "Removing memory hierarchy"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The optimal CPU scheduling for interactive systems is often",
+          "options": [
+            "SJF",
+            "Round robin",
+            "FCFS",
+            "Priority without preemption"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Deadlock prevention focuses on breaking at least one of the necessary conditions. Which one is not necessary?",
+          "options": [
+            "Mutual exclusion",
+            "Hold and wait",
+            "Circular wait",
+            "No preemption"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A process in the waiting state can transition to",
+          "options": [
+            "Ready",
+            "Running",
+            "New",
+            "Terminated"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which memory management scheme does not require contiguous physical memory?",
+          "options": [
+            "Paging",
+            "Sequential memory allocation",
+            "Single partition",
+            "Buddy system"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which scheduling algorithm is non-preemptive?",
+          "options": [
+            "SRJF",
+            "Round robin",
+            "FCFS",
+            "Lottery scheduling"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Semaphore value can be decremented only when it is",
+          "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Large"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Database & TOC",
+      "questions": [
+        {
+          "q": "A relation is in BCNF if for every functional dependency X -> Y, X is a",
+          "options": [
+            "Superkey",
+            "Foreign key",
+            "Candidate key",
+            "Composite attribute"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The closure of a set of attributes under functional dependencies is used for",
+          "options": [
+            "Normalization",
+            "Index creation",
+            "Transaction carving",
+            "Concurrency control"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is not a property of transactions?",
+          "options": [
+            "Atomicity",
+            "Isolation",
+            "Consistency",
+            "Entropy"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A DFA can be represented using",
+          "options": [
+            "Transition table",
+            "Grammar rules",
+            "B-tree",
+            "Virtual memory"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A context-free grammar generates",
+          "options": [
+            "Regular languages only",
+            "Context-free languages",
+            "Recursive enumerable languages",
+            "Finite languages only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A language accepted by a PDA is called",
+          "options": [
+            "Regular language",
+            "Context-free language",
+            "Context-sensitive language",
+            "Recursive language"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which automaton is equivalent to a regular expression?",
+          "options": [
+            "DFA",
+            "Turing machine",
+            "PDA",
+            "Finite automaton"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The pumping lemma is used to prove that a language is",
+          "options": [
+            "Regular",
+            "Context-free",
+            "Not regular",
+            "Infinite"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which operation is used to combine two relations based on a common attribute?",
+          "options": [
+            "Union",
+            "Join",
+            "Difference",
+            "Projection"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A serializable schedule ensures",
+          "options": [
+            "Deadlock-free execution",
+            "Equivalent to some serial execution",
+            "No page faults",
+            "Faster CPU scheduling"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
