@@ -708,5 +708,15 @@
     "correctMark": 1,
     "negativeMark": 0.25,
     "subject": "general-awareness"
+  },
+  {
+    "id": "cds-capf-english-practice-02",
+    "subject": "english-language",
+    "title": "CDS + CAPF AC English Practice Paper 2",
+    "subtitle": "Syllabus-based English practice for CDS and CAPF AC; not a PYQ",
+    "file": "data/cds-capf-english-practice-02.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]
