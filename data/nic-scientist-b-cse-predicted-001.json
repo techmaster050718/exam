@@ -1,11 +1,11 @@
 {
   "id": "nic-scientist-b-cse-predicted-001",
   "title": "NIC Scientist-B CSE / IT — Syllabus-Based Practice Paper 1",
-  "sourceType": "PREDICTED",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
   "exam": "NIC Scientist-B",
   "discipline": "Computer Science / IT",
-  "source": "Syllabus-based practice paper generated from technical syllabus; not an authentic PYQ",
-  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "source": "Official NIC Scientist-B CSE/IT syllabus and domain coverage; not an authentic PYQ",
+  "verificationStatus": "Generated from official syllabus; not a verified previous-year paper",
   "sections": [
     {
       "name": "Programming & Data Structures",

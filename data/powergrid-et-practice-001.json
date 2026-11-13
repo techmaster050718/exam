@@ -1,0 +1,536 @@
+{
+  "id": "powergrid-et-practice-001",
+  "title": "POWERGRID Executive Trainee — Syllabus-Based Practice Paper 1",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
+  "exam": "POWERGRID Executive Trainee",
+  "discipline": "Electrical / Computer Science / IT",
+  "source": "Official POWERGRID ET technical syllabus and domain coverage; not an authentic PYQ",
+  "verificationStatus": "Generated from official syllabus; not a verified previous-year paper",
+  "sections": [
+    {
+      "name": "Programming & Data Structures",
+      "questions": [
+        {
+          "q": "Which of the following is the worst-case time complexity of binary search on a sorted array of n elements?",
+          "options": [
+            "O(log n)",
+            "O(n)",
+            "O(n log n)",
+            "O(1)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which data structure is best suited for implementing a priority queue efficiently?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Heap",
+            "Linked list"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In a hash table with separate chaining, the average-case time complexity for a successful search is",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n^2)"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A binary tree is height-balanced if for every node, the difference in height between its left and right subtrees is",
+          "options": [
+            "At most 1",
+            "At least 1",
+            "Zero or greater",
+            "Always equal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which traversal of a binary tree visits the root node before its children?",
+          "options": [
+            "Inorder",
+            "Postorder",
+            "Preorder",
+            "Level-order"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which sorting algorithm has the best worst-case time complexity among the following?",
+          "options": [
+            "Bubble sort",
+            "Selection sort",
+            "Merge sort",
+            "Insertion sort"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following is true for a circular queue?",
+          "options": [
+            "It can never be full",
+            "It has no head pointer",
+            "It reuses empty spaces efficiently",
+            "It is always sorted"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "What is the output of the expression 5 && 7 in C-like logic?",
+          "options": [
+            "5",
+            "7",
+            "1",
+            "0"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a stable sorting algorithm?",
+          "options": [
+            "Quick sort",
+            "Heap sort",
+            "Merge sort",
+            "Selection sort"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A linked list is most suitable when the operation frequently performed is",
+          "options": [
+            "Random access by index",
+            "Direct lookup in O(1)",
+            "Insertion/deletion at arbitrary positions",
+            "Sorting entire data set"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Algorithms & Complexity",
+      "questions": [
+        {
+          "q": "Which algorithm is used to find the shortest path in a graph with non-negative edge weights?",
+          "options": [
+            "Bellman-Ford",
+            "Kruskal",
+            "Dijkstra",
+            "Prim"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The recurrence T(n)=2T(n/2)+n solves to",
+          "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(log n)",
+            "O(n^2)"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is an example of dynamic programming?",
+          "options": [
+            "Fibonacci via memoization",
+            "Quick sort partitioning",
+            "DFS traversal",
+            "Hash table probing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which graph algorithm is used to find the minimum spanning tree?",
+          "options": [
+            "Dijkstra",
+            "Kruskal",
+            "BFS",
+            "Topological sort"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which algorithm guarantees optimal solution for the 0/1 knapsack problem with dynamic programming?",
+          "options": [
+            "Greedy",
+            "Branch and bound",
+            "DP",
+            "Linear search"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which complexity class is represented by NP-hard problems?",
+          "options": [
+            "Easily solvable in polynomial time",
+            "At least as hard as the hardest NP problems",
+            "Only for tree graphs",
+            "Only for sorted arrays"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In BFS traversal, the data structure used is",
+          "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Heap"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following best describes greedy algorithms?",
+          "options": [
+            "Always optimal for all problems",
+            "Make locally optimal choices at each step",
+            "Only work on trees",
+            "Ignore edge weights"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A strongly connected directed graph has",
+          "options": [
+            "No cycles",
+            "A path between every pair of vertices",
+            "Only one source vertex",
+            "Only even-degree nodes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which traversal is typically used to detect a cycle in an undirected graph?",
+          "options": [
+            "Depth-first search with recursion stack",
+            "Binary search",
+            "Merge sort",
+            "Radix sort"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems & DBMS",
+      "questions": [
+        {
+          "q": "Which of the following is an example of a preemptive CPU scheduling algorithm?",
+          "options": [
+            "FCFS",
+            "Round Robin",
+            "SJF without preemption",
+            "Priority without preemption"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Deadlock can occur if a system has which of the following conditions?",
+          "options": [
+            "Mutual exclusion, hold and wait, no preemption, circular wait",
+            "No waiting, no lock, no cycle",
+            "Single thread, single process, no memory",
+            "Only one resource type"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In paging, the page table helps map",
+          "options": [
+            "Logical addresses to physical addresses",
+            "Processes to threads",
+            "CPU registers to memory",
+            "Files to sectors"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which normal form eliminates transitive dependency?",
+          "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A primary key is used to",
+          "options": [
+            "Allow duplicate rows",
+            "Uniquely identify records",
+            "Store NULL values only",
+            "Create a view"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which SQL clause is used to filter rows after grouping?",
+          "options": [
+            "WHERE",
+            "HAVING",
+            "GROUP BY",
+            "ORDER BY"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a property of a transaction?",
+          "options": [
+            "Atomicity",
+            "Color",
+            "Recursion",
+            "Indexing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which locking protocol ensures serializability?",
+          "options": [
+            "Two-phase locking",
+            "Priority queue locking",
+            "Time-slice locking",
+            "Round robin locking"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In an index, B-tree is generally preferred over a linear scan when",
+          "options": [
+            "The table is very small",
+            "Fast lookup is required on large data",
+            "No queries are executed",
+            "The schema has no keys"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is true about a view in SQL?",
+          "options": [
+            "It stores data physically",
+            "It is a virtual table",
+            "It cannot be queried",
+            "It eliminates redundancy automatically"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Networking & Computer Organization",
+      "questions": [
+        {
+          "q": "The TCP three-way handshake includes",
+          "options": [
+            "SYN, ACK, FIN",
+            "SYN, SYN-ACK, ACK",
+            "ACK, RST, FIN",
+            "SYN, PSH, ACK"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which layer of the OSI model is responsible for end-to-end delivery of data across networks?",
+          "options": [
+            "Data Link",
+            "Network",
+            "Transport",
+            "Application"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which protocol is used to translate a domain name to an IP address?",
+          "options": [
+            "DNS",
+            "DHCP",
+            "FTP",
+            "SMTP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The subnet mask 255.255.255.0 corresponds to a network prefix of",
+          "options": [
+            "/16",
+            "/20",
+            "/24",
+            "/8"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which addressing mode uses the value in a register to access memory?",
+          "options": [
+            "Immediate",
+            "Direct",
+            "Indirect",
+            "Indexed"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The ALU primarily performs",
+          "options": [
+            "Memory management",
+            "Arithmetic and logical operations",
+            "Disk scheduling",
+            "User authentication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A pipeline in CPU architecture helps improve",
+          "options": [
+            "Power consumption only",
+            "Instruction throughput",
+            "Storage capacity",
+            "Bus width"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following faults is a hazard in pipelining?",
+          "options": [
+            "Control hazard",
+            "Magnetic hazard",
+            "Physical hazard",
+            "Encryption hazard"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which protocol is usually used for secure web communication?",
+          "options": [
+            "HTTP",
+            "FTP",
+            "HTTPS",
+            "SMTP"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following is a valid IPv4 address?",
+          "options": [
+            "256.10.0.1",
+            "172.16.0.1",
+            "999.1.1.1",
+            "10.0.0.999"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Security, Software Engineering & Power Systems",
+      "questions": [
+        {
+          "q": "The CIA triad in information security stands for",
+          "options": [
+            "Confidentiality, Integrity, Availability",
+            "Control, Identity, Access",
+            "Consistency, Isolation, Application",
+            "Cloud, Interface, Authorization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a symmetric encryption technique?",
+          "options": [
+            "RSA",
+            "AES",
+            "Diffie-Hellman",
+            "DSA"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which software engineering model is iterative and incremental?",
+          "options": [
+            "Waterfall",
+            "Spiral",
+            "Linear sequential",
+            "Purely static"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In software testing, the purpose of unit testing is to validate",
+          "options": [
+            "Entire system behavior",
+            "Individual components",
+            "Only UI screens",
+            "Only database backups"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a common security risk in web applications?",
+          "options": [
+            "XSS",
+            "B-tree indexing",
+            "Pipeline stalls",
+            "Cache line fill"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In power systems, the unit of reactive power is",
+          "options": [
+            "Watt",
+            "Volt-ampere reactive",
+            "Joule",
+            "Henry"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A transformer works on the principle of",
+          "options": [
+            "Static induction",
+            "Electromagnetic induction",
+            "Photoelectric effect",
+            "Nuclear fission"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which device is used to protect electrical circuits from overcurrent?",
+          "options": [
+            "Transformer",
+            "Relay",
+            "Fuse",
+            "Inductor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The power factor of an ideal purely resistive load is",
+          "options": [
+            "0",
+            "0.5",
+            "1",
+            "-1"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Which of the following is a common source of renewable power?",
+          "options": [
+            "Coal plant",
+            "Solar PV",
+            "Diesel generator",
+            "Nuclear waste"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

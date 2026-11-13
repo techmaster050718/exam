@@ -1,11 +1,11 @@
 {
   "id": "drdo-rac-scientist-b-cse-predicted-001",
   "title": "DRDO RAC Scientist-B CSE — Advanced Syllabus-Based Practice Paper 1",
-  "sourceType": "PREDICTED",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
   "exam": "DRDO RAC Scientist-B",
   "discipline": "Computer Science",
-  "source": "Syllabus-based practice paper generated from technical syllabus; not an authentic PYQ",
-  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "source": "Official DRDO RAC Scientist-B CSE syllabus and technical domain coverage; not an authentic PYQ",
+  "verificationStatus": "Generated from official syllabus; not a verified previous-year paper",
   "sections": [
     {
       "name": "Algorithms & Complexity",

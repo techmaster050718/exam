@@ -1,0 +1,2065 @@
+{
+  "id": "bcs071-cloud-computing-complete-01",
+  "sections": [
+    {
+      "name": "Unit I - Introduction to Cloud Computing",
+      "questions": [
+        {
+          "q": "Which statement best defines cloud computing?",
+          "options": [
+            "Use of remote servers over a network to provision computing resources on demand",
+            "Installation of software only on personal desktops",
+            "Manual scheduling of batch jobs on a single machine",
+            "Use of physical storage without any network access"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The term 'on-demand self-service' in cloud computing means that a user can:",
+          "options": [
+            "Wait for a vendor technician to configure every server",
+            "Provision resources automatically without human intervention from the provider",
+            "Set up hardware physically in a data center on request",
+            "Install only licensed software from a local CD"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Elasticity in cloud computing is best described as the system's ability to:",
+          "options": [
+            "Reduce cost by permanent over-provisioning",
+            "Add or remove resources automatically to match demand",
+            "Use only one large server for all workloads",
+            "Store data in a fixed archive format"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Scalability is primarily concerned with:",
+          "options": [
+            "The automatic increase or decrease of resources during runtime",
+            "The ability of a system to handle growth in workload or size",
+            "The backup strategy used after a disaster",
+            "The price of purchased hardware"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which cloud characteristic means multiple customers share the same physical infrastructure while remaining logically isolated?",
+          "options": [
+            "Broad network access",
+            "Measured service",
+            "Multi-tenancy",
+            "Resource abstraction"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Resource pooling in cloud means:",
+          "options": [
+            "Resources are kept idle until a customer manually requests them",
+            "A provider allocates a shared pool of resources across multiple users based on demand",
+            "All customers receive dedicated hardware in every case",
+            "Resources are always stored only in one geographical region"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Broad network access in the cloud requires that resources are:",
+          "options": [
+            "Only accessible from a single workstation",
+            "Accessible via standard network mechanisms from multiple client platforms",
+            "Stored in a local private network only",
+            "Provided without any authentication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Measured service refers to cloud services being:",
+          "options": [
+            "Available only for one customer at a time",
+            "Monitored, controlled, and billed according to actual usage",
+            "Configured only by provider staff through in-person visits",
+            "Restricted to a fixed monthly quota regardless of demand"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The pay-as-you-go model is most closely associated with:",
+          "options": [
+            "Flat-rate software licensing",
+            "Utility computing",
+            "Manual enterprise procurement",
+            "Custom hardware maintenance"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which concept is most closely related to cloud computing's treatment of hardware as a shared, abstracted resource?",
+          "options": [
+            "Virtualized infrastructure",
+            "Dedicated server leasing",
+            "Physical cabling only",
+            "Single-tenant datacenter design"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a major advantage of cloud computing?",
+          "options": [
+            "Complete elimination of all operational risk",
+            "Faster deployment and reduced upfront capital investment",
+            "Guaranteed access without internet connectivity",
+            "No need for security practices"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a common limitation or challenge in cloud adoption?",
+          "options": [
+            "Unlimited free resources",
+            "Security, privacy, and vendor lock-in concerns",
+            "No requirement for networking",
+            "Automatic zero downtime for every application"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is the best comparison between traditional computing and cloud computing?",
+          "options": [
+            "Traditional computing always requires only a browser-based interface, while cloud requires no infrastructure",
+            "Traditional computing usually relies on fixed local resources, while cloud offers scalable shared resources over a network",
+            "Traditional computing eliminates the need for virtualization, while cloud does not use it",
+            "Traditional computing is always public, while cloud is always private"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A company chooses cloud computing mainly because it wants to reduce capital expenditure and increase deployment speed. This is an example of:",
+          "options": [
+            "Cloud deployment motivation",
+            "Local backup policy",
+            "Low-level assembly architecture",
+            "Static server management"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which statement correctly distinguishes distributed computing from parallel computing?",
+          "options": [
+            "Distributed computing is always single-threaded, while parallel computing uses a central server only",
+            "Parallel computing often executes multiple tasks simultaneously on interconnected resources, while distributed computing emphasizes autonomous nodes connected by a network",
+            "Distributed computing cannot involve communication between nodes, while parallel computing always does",
+            "Parallel computing is only about storage, while distributed computing is only about processors"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Grid computing is best described as:",
+          "options": [
+            "A single virtual machine running on a host",
+            "A network of loosely coupled computing resources shared across administrative domains",
+            "A database-only system for object storage",
+            "A container orchestration service"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cluster computing differs from grid computing primarily because a cluster usually:",
+          "options": [
+            "Spans independent organizations and is loosely coupled",
+            "Uses a tightly managed set of connected machines with common administration",
+            "Is only a software concept with no hardware",
+            "Supports only one application at a time"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is the best example of edge computing?",
+          "options": [
+            "Processing sensor data locally near the device instead of sending everything to a central cloud",
+            "Running a single database on a personal laptop",
+            "Uploading all files to a remote archive without filtering",
+            "Creating a local printer queue only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Fog computing is best described as:",
+          "options": [
+            "A cloud-only model with no local devices",
+            "Distributed computing between edge devices and centralized cloud, with intermediate local processing",
+            "A purely static network model",
+            "The use of one VM per user with no sharing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Serverless computing is different from traditional hosting because the user typically pays for:",
+          "options": [
+            "Idle server capacity only",
+            "The amount of actual code execution time or event-triggered work performed",
+            "Physical hardware ownership",
+            "Every operating system license separately"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cloud-native computing is most associated with:",
+          "options": [
+            "Monolithic applications deployed entirely on one server",
+            "Designing systems for containerization, microservices, automation, and dynamic orchestration",
+            "Storing all data in a single text file on a desktop",
+            "Disabling all network communication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following statements is correct regarding scalability and elasticity?",
+          "options": [
+            "Scalability is always automatic, while elasticity is a static design property",
+            "Elasticity is about dynamic adjustment to workload, while scalability is about the system's ability to grow or shrink in capacity",
+            "Scalability is a network protocol, while elasticity is a storage feature",
+            "They are identical and can be used interchangeably in all contexts"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Availability and reliability are related but not identical because availability is about:",
+          "options": [
+            "How long a system is functioning and accessible when needed",
+            "The system's users' locations",
+            "The number of storage snapshots retained",
+            "The cost of a cloud subscription"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Fault tolerance in a cloud system means the system can:",
+          "options": [
+            "Ignore all failures and continue without monitoring",
+            "Continue operating correctly even when some components fail",
+            "Stop scaling permanently after a failure",
+            "Only recover from failures through manual reboot"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Agility in cloud adoption most directly refers to:",
+          "options": [
+            "The ability to quickly create, deploy, and change resources in response to business needs",
+            "The cost per unit of bandwidth",
+            "The speed of a single CPU core",
+            "The number of physical disks in a rack"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Resource utilization in a shared cloud environment is improved when:",
+          "options": [
+            "Servers are left idle and isolated for each workload",
+            "Resources are multiplexed efficiently among multiple consumers based on demand",
+            "Every customer gets a dedicated room-sized data center",
+            "No automation is used for scheduling"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "name": "Unit II - SOA, Virtualization, and Service-Oriented Computing",
+      "questions": [
+        {
+          "q": "Service-Oriented Architecture (SOA) is primarily designed to support:",
+          "options": [
+            "Direct hard-wired application coupling only",
+            "Loose coupling and reusable services over a network",
+            "Single-tenant hardware provisioning",
+            "Operating only on a single OS instance"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A service provider in SOA is best described as the entity that:",
+          "options": [
+            "Consumes a service without implementing it",
+            "Provides a service or functionality to other components or users",
+            "Only stores logs in a local file",
+            "Acts as a network switch"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In a service registry, the primary purpose is to:",
+          "options": [
+            "Execute the service logic itself",
+            "Store service metadata so consumers can discover providers",
+            "Replace the application server",
+            "Encrypt all network traffic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Loose coupling in SOA is beneficial because it:",
+          "options": [
+            "Requires all systems to use the same programming language only",
+            "Reduces dependency between services and allows independent evolution",
+            "Prevents all inter-service communication",
+            "Forces synchronous calls only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Reusability in SOA allows a business capability to be:",
+          "options": [
+            "Used only once in a single program",
+            "Composed into multiple applications without rewriting the logic",
+            "Deleted after one invocation",
+            "Implemented only in one language"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Interoperability is most important when services need to:",
+          "options": [
+            "Operate only on one vendor's platform",
+            "Communicate across different systems, technologies, or platforms",
+            "Be physically on the same machine without networking",
+            "Avoid any message format standard"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Composability in SOA refers to the ability to:",
+          "options": [
+            "Assemble smaller services into larger business processes",
+            "Store all data in one file",
+            "Use only a monolithic architecture",
+            "Disable all APIs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following best distinguishes web services from a simple script?",
+          "options": [
+            "Web services are designed to expose machine-readable functionality over standard protocols",
+            "Scripts always use a service registry",
+            "Web services cannot be reused",
+            "Scripts are always deployed across clouds"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "SOAP is generally associated with:",
+          "options": [
+            "A lightweight REST-based protocol with format-free payloads",
+            "An XML-based messaging protocol with a defined contract and standards",
+            "A database query language",
+            "A hardware virtualization layer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "REST is best characterized as:",
+          "options": [
+            "A protocol that requires a fixed WSDL standard only",
+            "An architectural style for stateless communication using HTTP methods and resources",
+            "A virtual machine monitor",
+            "A disk partitioning scheme"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Compared with SOAP, REST commonly favors:",
+          "options": [
+            "Verbose XML-heavy contracts and strict WS-* standards",
+            "Lightweight resource-based communication with JSON or XML over HTTP",
+            "Only binary protocols for all service interactions",
+            "No network-layer routing"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The publish-subscribe model is most useful when:",
+          "options": [
+            "A sender needs to send a message to every interested receiver without direct point-to-point coupling",
+            "A database is used in local memory only",
+            "A hypervisor must isolate guest OS instances",
+            "Two systems need to physically share a disk"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a message broker-based system, a topic or channel is used to:",
+          "options": [
+            "Store local files permanently on a desktop",
+            "Organize messages for subscribers interested in a related stream of events",
+            "Replace the role of a hypervisor",
+            "Configure CPU scheduling"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Event-driven communication is especially suitable for:",
+          "options": [
+            "Static offline file transfer only",
+            "Systems where components react to changes or events asynchronously",
+            "A single-threaded computer without networking",
+            "Purely local memory-only programs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following best describes a system of systems?",
+          "options": [
+            "A single monolithic application used by one company",
+            "Multiple independent systems connected and coordinated to achieve a larger goal",
+            "A single VM hosting many containers",
+            "A hardware architecture without software"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Virtualization is best defined as:",
+          "options": [
+            "The process of replicating a network cable in software",
+            "The abstraction of physical resources into logical virtual resources",
+            "The removal of all hardware from a system",
+            "A form of manually writing device drivers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The primary need for virtualization in cloud computing is to:",
+          "options": [
+            "Reduce all security risks completely",
+            "Improve resource utilization, isolation, and flexible provisioning",
+            "Eliminate every network requirement",
+            "Replace all operating systems"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which benefit is most directly associated with virtualization?",
+          "options": [
+            "Lower hardware utilization",
+            "Higher resource consolidation and easier migration",
+            "Permanent single-tenant locking",
+            "Increased network slowdown"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A virtual machine is:",
+          "options": [
+            "A software implementation of a computer system that runs an operating system",
+            "A physical server without any guest OS",
+            "A network router only",
+            "A single database table"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A hypervisor is responsible for:",
+          "options": [
+            "Managing the network cable layout",
+            "Creating and managing virtual machines by abstracting hardware resources",
+            "Running business logic in application code only",
+            "Replacing the storage filesystem"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A Type-1 hypervisor is also called a bare-metal hypervisor because it:",
+          "options": [
+            "Runs directly on the physical hardware",
+            "Runs inside a host operating system",
+            "Needs a cloud gateway to function",
+            "Requires a browser to install"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Type-2 hypervisor is typically installed:",
+          "options": [
+            "Directly on the metal with no host OS",
+            "On top of an existing host operating system",
+            "Inside a storage array",
+            "Without any hardware access"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Full virtualization differs from para-virtualization because full virtualization:",
+          "options": [
+            "Requires guest OS modification to communicate with the hypervisor",
+            "Allows unmodified guest operating systems to run by emulating hardware interfaces",
+            "Cannot support multiple VMs",
+            "Requires no CPU support"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Hardware-assisted virtualization is mainly enabled by:",
+          "options": [
+            "Application-specific CPU features that help trap and virtualize privileged instructions",
+            "Manual BIOS edits only",
+            "Cloud APIs only",
+            "A single virtual disk image"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Server virtualization is most useful when an organization wants to:",
+          "options": [
+            "Run multiple operating systems on one physical server",
+            "Replace all storage with RAM",
+            "Avoid all networking",
+            "Use a single machine for only one workload forever"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Desktop virtualization primarily aims to:",
+          "options": [
+            "Host user desktops in a virtual environment, often centralized or remote",
+            "Eliminate all operating systems",
+            "Replace local ethernet cables",
+            "Remove all need for authentication"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Application virtualization is used to:",
+          "options": [
+            "Run an application in a virtualized environment independent of the host OS installation",
+            "Replace the CPU with a software bus",
+            "Serialize all storage into a flat file",
+            "Deploy one network switch per workload"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Storage virtualization allows:",
+          "options": [
+            "Physical storage devices to appear as a pooled or abstract logical resource",
+            "A VM to replace all CPU cycles",
+            "A hypervisor to manage no disks",
+            "Only local file systems without network access"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Network virtualization often includes:",
+          "options": [
+            "Virtual NICs, virtual switches, and logical networks",
+            "Only two physical routers",
+            "No traffic segmentation",
+            "One permanent public IP per host"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "OS-level virtualization is most closely associated with:",
+          "options": [
+            "Running multiple isolated user spaces on the same kernel",
+            "Emulating a complete hardware platform for each VM",
+            "Replacing network protocols",
+            "Creating a single host-only storage layer"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Containerization is different from full virtualization because containers usually:",
+          "options": [
+            "Share the host OS kernel while isolating application processes",
+            "Require a separate guest OS for each application",
+            "Operate without networking",
+            "Use one hardware resource only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which comparison is most accurate about a virtual machine and a container?",
+          "options": [
+            "A VM includes a guest OS and virtualized hardware, while a container usually packages an app and its dependencies on a shared host OS",
+            "A container is always heavier than a VM",
+            "A VM cannot run multiple processes, while a container can only run one process",
+            "They are identical in isolation and lifecycle"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Instruction-set-level virtualization is primarily concerned with:",
+          "options": [
+            "Virtualizing CPU instruction execution or ISA interfaces",
+            "Managing only web APIs",
+            "Replacing all storage devices",
+            "Reducing hypervisor scheduling"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which virtualization layer is directly responsible for managing guest operating systems over hardware?",
+          "options": [
+            "Hardware-level virtualization",
+            "Library or API-level virtualization",
+            "Application-level virtualization",
+            "Network-only virtualization"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Library or API-level virtualization is most relevant when:",
+          "options": [
+            "Applications need to interact with a virtualized version of an API or library behavior",
+            "A host OS is being replaced entirely",
+            "Only one VM is needed",
+            "No networking is present"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A hypervisor-based virtualization architecture typically includes:",
+          "options": [
+            "Physical hardware, a hypervisor, and one or more guest VMs",
+            "Only a base OS and a browser",
+            "Only a SNAT rule",
+            "No resource management"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "VM isolation is important because it prevents:",
+          "options": [
+            "A guest VM from affecting other VMs or the host beyond its permitted resources",
+            "All cloud users from sharing storage",
+            "Any scheduling decisions from being made",
+            "Containers from running on the same host"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "VM migration is primarily used to:",
+          "options": [
+            "Move a running VM between physical hosts for maintenance, load balancing, or fault tolerance",
+            "Convert a hypervisor into a database",
+            "Delete a snapshot automatically",
+            "Replace all network protocols"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "CPU virtualization is mainly concerned with:",
+          "options": [
+            "Allowing multiple VMs to share CPU time through scheduling and privileged instruction handling",
+            "Only storing CPU logs",
+            "Removing the need for an OS",
+            "Making network packets invisible"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Memory overcommitment in virtualization means:",
+          "options": [
+            "Allocating more virtual memory than the physical memory available, relying on paging or demand management",
+            "Using only static memory partitions",
+            "Removing all swap space",
+            "Never mapping memory pages to storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "I/O virtualization is necessary because:",
+          "options": [
+            "Guest VMs must share or access storage and devices through emulated or virtualized interfaces",
+            "Only network packets need work",
+            "Applications do not require I/O",
+            "No device drivers are needed in cloud"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A virtual NIC is best described as:",
+          "options": [
+            "A logical network interface exposed to a VM, connected through a virtual switch or bridge",
+            "A physical motherboard port",
+            "A backup script for storage",
+            "A disk partition label"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which tool is commonly associated with desktop virtualization and VM management in enterprise environments?",
+          "options": [
+            "VirtualBox",
+            "Kafka",
+            "MongoDB",
+            "MapReduce"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which virtualization technology is widely used for Linux-based KVM environments and supports efficient native performance?",
+          "options": [
+            "KVM",
+            "SOAP",
+            "RDBMS",
+            "REST"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following technologies is most closely associated with container runtime and orchestration in modern cloud platforms?",
+          "options": [
+            "Docker and Kubernetes",
+            "SNMP trap only",
+            "ASCII file locking only",
+            "Tape backup only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A disaster recovery plan for virtualized workloads often relies on:",
+          "options": [
+            "Snapshots, replication, and failover to alternate hosts or regions",
+            "Turning off all logging",
+            "Replacing every VM with a single bare-metal server",
+            "Disabling backups entirely"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "RPO and RTO are relevant to virtualization and disaster recovery because they define:",
+          "options": [
+            "The time allowed for data loss and restoration after failure",
+            "The number of VMs on a host",
+            "The CPU count of a VM",
+            "API version compatibility only"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Unit III - Cloud Architecture, Services, Storage, and Deployment",
+      "questions": [
+        {
+          "q": "A layered cloud architecture usually separates concerns such as:",
+          "options": [
+            "Physical resources, virtualization, management, service, and client layers",
+            "Only one single backend service layer",
+            "Database indexing only",
+            "User interface design only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In a cloud architecture, the front end typically represents:",
+          "options": [
+            "The user-facing interfaces and clients that access cloud services",
+            "The physical disk hardware only",
+            "The hypervisor management console only",
+            "The service registry"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The back end in a cloud architecture most likely includes:",
+          "options": [
+            "Datacenters, storage, servers, networking, and middleware services",
+            "Only browser JavaScript code",
+            "Only a single user device",
+            "Only the public network gateway"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The NIST definition of cloud computing emphasizes that cloud services are:",
+          "options": [
+            "Always non-shared and physically local",
+            "Delivered over a network and accessed on demand, with pooled resources and measured usage",
+            "Only available with manual procurement releases",
+            "Equivalent to a single private datacenter"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which NIST characteristic is best illustrated by a user starting a VM in a few minutes without contacting a technician?",
+          "options": [
+            "Resource pooling",
+            "Rapid elasticity",
+            "Measured service",
+            "Broad network access"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In IaaS, the cloud provider is primarily responsible for:",
+          "options": [
+            "Installing and managing the application code",
+            "Provisioning the underlying hardware, virtualization, and infrastructure services",
+            "Defining the business logic of an application",
+            "Writing user authentication code"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In PaaS, the customer typically manages:",
+          "options": [
+            "The physical data center and hypervisors only",
+            "The deployed application and application configuration while the provider manages runtime and platform services",
+            "The entire public internet infrastructure",
+            "The hardware firmware layer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In SaaS, the customer typically focuses on:",
+          "options": [
+            "The operating system and server maintenance",
+            "Using the provided application without managing underlying infrastructure or platform concerns",
+            "Enterprise network topology design",
+            "Hypervisor configuration on bare metal"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a typical example of IaaS?",
+          "options": [
+            "Amazon EC2",
+            "Google Docs",
+            "Heroku",
+            "Salesforce CRM"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a typical example of PaaS?",
+          "options": [
+            "Azure App Service",
+            "Amazon S3",
+            "Windows Server on dedicated hardware",
+            "A local file server"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a typical example of SaaS?",
+          "options": [
+            "Google Workspace",
+            "EC2 instances",
+            "Azure Kubernetes Service",
+            "VMware ESXi"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The responsibility model in cloud computing means that:",
+          "options": [
+            "The provider and customer share responsibilities differently depending on the service model",
+            "Only the customer is responsible for all infrastructure layers",
+            "Only the provider is responsible for all runtime concerns",
+            "Responsibility is irrelevant once a service is deployed"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A public cloud deployment model is best suited when:",
+          "options": [
+            "An organization wants shared infrastructure available to many customers over the internet",
+            "Only one company uses a dedicated environment",
+            "The organization wants no external connectivity",
+            "A single VM must be permanently retired"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A private cloud is typically characterized by:",
+          "options": [
+            "Exclusive use by one organization, often on-premises or dedicated",
+            "Open shared public access to all users",
+            "A single public subscription with no isolation",
+            "A database only architecture"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A hybrid cloud is most useful when:",
+          "options": [
+            "An organization wants to combine private infrastructure with public cloud resources for flexibility and compliance",
+            "No cloud resources are used at all",
+            "A single provider must store all data in one region",
+            "Only one VM runs a browser app"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A community cloud would be most appropriate for:",
+          "options": [
+            "A single private hospital network",
+            "A shared infrastructure used by several organizations with common concerns, such as government or research institutions",
+            "A single app server with no user access",
+            "A standalone laptop environment"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a major architectural design challenge in cloud systems?",
+          "options": [
+            "Guaranteed zero downtime for all workloads",
+            "Scalability, availability, reliability, security, and performance management",
+            "Single-language application development",
+            "No need for replication or backups"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Vendor lock-in is a concern because it may:",
+          "options": [
+            "Increase portability across different providers",
+            "Make it difficult and costly to migrate workloads or data to another cloud provider",
+            "Eliminate compliance requirements",
+            "Automatically reduce network latency"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An SLA in cloud computing is best described as:",
+          "options": [
+            "A service-level contract that defines expected performance, availability, and responsibilities",
+            "A VM template format",
+            "A serverless trigger rule",
+            "An OS installation guide"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloud storage is best described as:",
+          "options": [
+            "Storage that is provided and managed over a network as a service",
+            "A local SSD-only approach",
+            "A type of CPU cache",
+            "A private backup tape only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Object storage is best suited for:",
+          "options": [
+            "Large-scale unstructured data such as images, logs, and backups",
+            "Executing real-time operating system kernels",
+            "Maintaining RAM-only state",
+            "Building a single database index"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Block storage is typically used for:",
+          "options": [
+            "High-performance volumes attached to virtual machines like databases and operating systems",
+            "Streaming static web pages only",
+            "A message topic stream",
+            "A JSON file object store"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "File storage is most commonly used when:",
+          "options": [
+            "Multiple users need shared access to files through a hierarchical directory structure",
+            "A workload only needs a single in-memory variable",
+            "A VM does not need storage",
+            "No object keys are used"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which statement correctly compares object storage and block storage?",
+          "options": [
+            "Object storage stores data as immutable objects with metadata and keys, while block storage offers raw volumes attached to VMs",
+            "Object storage is always faster than block storage for databases",
+            "Block storage uses keys and metadata, while object storage uses raw bytes only",
+            "They are the same concept under different names"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Durability in cloud storage refers to:",
+          "options": [
+            "The likelihood that data will remain intact and retrievable over time",
+            "The number of network ports available",
+            "The speed of a single CPU core",
+            "The price of a virtualization license"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Availability in cloud storage is primarily about:",
+          "options": [
+            "Whether data and services are accessible when needed",
+            "Only the physical location of a data center",
+            "The color scheme of the dashboard",
+            "Whether the system is single-threaded"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which cloud storage feature is most directly related to creating alternate copies of data for resilience?",
+          "options": [
+            "Replication",
+            "Broad network access",
+            "Hypervisor mirroring",
+            "Service registry"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Storage-as-a-Service is useful when an organization wants to:",
+          "options": [
+            "Consume storage capacity as an on-demand managed service without owning the infrastructure",
+            "Only use local SSD disks",
+            "Run no application workloads",
+            "Avoid all data backups"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Amazon S3 is primarily a:",
+          "options": [
+            "Object storage service",
+            "Virtual machine hypervisor",
+            "Network packet analyzer",
+            "User authentication system"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In Amazon S3, a bucket is best described as:",
+          "options": [
+            "A container for storing objects under a unique namespace",
+            "A database table",
+            "A virtual network segment",
+            "A VM snapshot"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which S3 feature is used to protect against accidental deletion or overwrite by retaining multiple versions of an object?",
+          "options": [
+            "Versioning",
+            "Serverless scaling",
+            "CPU scheduling",
+            "Guest additions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Lifecycle policies in S3 are primarily used to:",
+          "options": [
+            "Automatically move objects between storage classes based on age and access patterns",
+            "Assign IPv6 addresses to VMs",
+            "Encrypt only memory pages",
+            "Reduce the need for backups"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which S3 storage class is designed for data that is infrequently accessed but still requires rapid retrieval?",
+          "options": [
+            "Standard-IA",
+            "Standard",
+            "One Zone-IA",
+            "Archive-only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Amazon EBS is best classified as:",
+          "options": [
+            "Block storage attached to EC2 instances",
+            "A serverless queue",
+            "An object storage bucket",
+            "A database backup only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Azure Blob Storage is primarily intended for:",
+          "options": [
+            "Unstructured object data such as files and media",
+            "Raw CPU register storage",
+            "Driver installation bundles only",
+            "An OS kernel image with no metadata"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Azure Disk Storage is best compared to:",
+          "options": [
+            "Amazon EBS block storage attached to virtual machines",
+            "Amazon S3 object buckets",
+            "Static website hosting",
+            "Queue-based message brokers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cloud storage design that chooses object storage over block storage is most likely optimizing for:",
+          "options": [
+            "Scalability and distributed access to unstructured data",
+            "Low-level kernel booting only",
+            "Single-threaded CPU simulation",
+            "No metadata retention"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Unit IV - Resource Management and Cloud Security",
+      "questions": [
+        {
+          "q": "Inter-cloud computing most directly refers to:",
+          "options": [
+            "A single provider environment with no external federation",
+            "Collaboration and resource sharing among multiple cloud providers or clouds",
+            "Only local file sharing across machines",
+            "A private network that never connects to the internet"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cloud federation is best described as:",
+          "options": [
+            "The aggregation of different cloud environments under shared policies and resource management",
+            "A direct physical cable between two desktops",
+            "A single VM cluster without networking",
+            "A database schema migration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloud bursting is most useful when:",
+          "options": [
+            "A private cloud needs to use public cloud resources during peak load",
+            "Storage is disabled",
+            "Only one user accesses a VM",
+            "No dynamic scaling is desired"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Resource discovery in a distributed cloud environment is used to:",
+          "options": [
+            "Find available resources, services, and providers to meet workload requirements",
+            "Delete all instances permanently",
+            "Prevent any API calls",
+            "Eliminate security logging"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Static provisioning differs from dynamic provisioning because static provisioning:",
+          "options": [
+            "Allocates resources in advance based on prediction rather than real-time demand",
+            "Requires no resources at all",
+            "Uses only containers",
+            "Never changes after deployment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Dynamic provisioning is most useful when:",
+          "options": [
+            "A system must scale resources in response to actual workload changes in real time",
+            "The environment is permanently static",
+            "No cloud APIs are involved",
+            "The provider does not monitor usage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Vertical scaling means:",
+          "options": [
+            "Increasing the capacity of an existing instance, such as more CPU or memory",
+            "Creating a completely new cloud account",
+            "Adding more network security groups only",
+            "Reducing container image size"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Horizontal scaling means:",
+          "options": [
+            "Adding more instances to distribute load",
+            "Changing a VM's BIOS",
+            "Reducing all metering",
+            "Removing a database index"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Demand-based provisioning mainly responds to:",
+          "options": [
+            "Actual current demand or usage patterns",
+            "Historical purchase orders only",
+            "A fixed monthly invoice",
+            "A single administrator decision"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Reservation-based provisioning is appropriate when:",
+          "options": [
+            "A customer wants guaranteed capacity for predictable workloads by reserving resources ahead of time",
+            "There is no need for performance guarantees",
+            "The system must never scale",
+            "A provider forbids all automation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Threshold-based provisioning often triggers when:",
+          "options": [
+            "Resource utilization crosses a pre-defined threshold such as CPU or memory usage",
+            "A process reaches zero memory",
+            "An API is deleted",
+            "A user logs out"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Predictive provisioning is based on:",
+          "options": [
+            "Forecasting future demand using historical patterns and trends",
+            "Static reservations only",
+            "Manual spreadsheet approvals only",
+            "Backup restoration cycles"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The CIA triad in cloud security refers to:",
+          "options": [
+            "Connectivity, integrity, and automation",
+            "Confidentiality, integrity, and availability",
+            "Compliance, interoperability, and authorization",
+            "Consistency, isolation, and authentication"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Confidentiality in cloud security aims to protect data from:",
+          "options": [
+            "Unauthorized disclosure",
+            "Temporary network latency",
+            "User authorization management",
+            "Service availability monitoring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Integrity in cloud security ensures that data is:",
+          "options": [
+            "Accessible only to a single user",
+            "Protected from unauthorized alteration and remains trustworthy",
+            "Stored in immutable object storage only",
+            "Compressed with no encryption"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Authentication is the process of:",
+          "options": [
+            "Verifying the identity of a user or system",
+            "Granting access rights after authorization",
+            "Monitoring network latency",
+            "Encrypting a file at rest"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Authorization is the process of:",
+          "options": [
+            "Checking whether an authenticated principal is allowed to perform an action",
+            "Creating the user account",
+            "Repairing a hard disk",
+            "Applying load balancing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Least privilege in IAM means that a user or service should:",
+          "options": [
+            "Receive the narrowest set of permissions necessary to do its job",
+            "Have root-level access by default",
+            "Be exempt from auditing",
+            "Receive no permissions and no roles"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Multi-factor authentication is used to:",
+          "options": [
+            "Require more than one factor for identity verification, such as password plus OTP or hardware token",
+            "Skip password checks entirely",
+            "Encrypt the entire hypervisor",
+            "Disable all logging"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Role-based access control is useful because it:",
+          "options": [
+            "Assigns permissions according to job roles rather than individual user settings alone",
+            "Requires every user to have an administrator account",
+            "Eliminates the need for logs",
+            "Works only for bare-metal servers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A common cloud security challenge is a data breach because it may:",
+          "options": [
+            "Expose sensitive information through weak controls, misconfiguration, or compromised credentials",
+            "Automatically improve service latency",
+            "Reduce the number of VMs",
+            "Remove all backups"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A shared technology vulnerability is primarily a risk because:",
+          "options": [
+            "Multiple tenants may rely on the same underlying infrastructure components, and a flaw in one layer can affect others",
+            "Only one tenant exists in a public cloud",
+            "All clouds use no virtualization",
+            "It is only relevant to on-premises storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "SaaS security typically focuses on:",
+          "options": [
+            "Tenant isolation, application security, access control, and secure configuration of the SaaS platform",
+            "Only the physical hardware layer",
+            "Low-level device drivers",
+            "Operating system installation from source code"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "VM escape is a security concern because it allows:",
+          "options": [
+            "A guest VM to break out of the isolation boundary and interact with the host or other VMs",
+            "A VM to move between clouds without authentication",
+            "A guest OS to replace a CPU",
+            "A data center to ignore backups"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Hypervisor security is important because the hypervisor:",
+          "options": [
+            "Controls access to physical resources and can be a critical attack surface if compromised",
+            "Is only used for application code",
+            "Is never involved in network communication",
+            "Cannot affect VMs once launched"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which security standard is focused broadly on information security management systems?",
+          "options": [
+            "ISO 27001",
+            "TCP/IP",
+            "OpenStack Horizon",
+            "MapReduce"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "ISO 27017 and ISO 27018 are relevant to cloud security primarily because they:",
+          "options": [
+            "Provide guidance for cloud-specific security and privacy controls",
+            "Define storage block sizes",
+            "Standardize DNS records",
+            "Specify container network port numbers"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "SOC 2 reports are important to cloud customers because they help assess:",
+          "options": [
+            "A provider's controls related to security, availability, processing integrity, confidentiality, and privacy",
+            "Only the physical power usage of a data center",
+            "The efficiency of one storage bucket only",
+            "The price of on-demand CPU instances"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The purpose of a security governance framework is to ensure that:",
+          "options": [
+            "Policies, controls, risks, and compliance obligations are defined and enforced consistently",
+            "No logs are retained",
+            "Users are always anonymous",
+            "No infrastructure is monitored"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Identity federation in cloud access is designed to:",
+          "options": [
+            "Allow users to use credentials across trusted domains or providers",
+            "Create a single private datacenter",
+            "Turn off network routing",
+            "Replace the hypervisor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A temporary credential in IAM is typically used for:",
+          "options": [
+            "Short-lived access to resources under limited time windows",
+            "Permanent root access to every account",
+            "Data center maintenance only",
+            "No security monitoring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Data loss prevention in cloud systems is usually supported by a combination of:",
+          "options": [
+            "Encryption, backup, access control, and monitoring practices",
+            "Only CPU upgrades",
+            "Only disk replacement",
+            "Only load balancer configuration"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In the context of cloud security, a denial-of-service attack seeks to:",
+          "options": [
+            "Make services unavailable or heavily degraded by overwhelming resources",
+            "Reduce database replication",
+            "Create storage snapshots automatically",
+            "Bypass all IAM policies"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following best describes the shared responsibility model?",
+          "options": [
+            "The provider and customer share security and operational responsibilities according to the service model",
+            "The provider owns every responsibility and the customer has none",
+            "The customer owns all physical hardware, while the provider owns no services",
+            "Responsibility is always 50 percent split regardless of service type"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloud governance is most concerned with:",
+          "options": [
+            "Policies, compliance, cost, access, and accountability for cloud resources",
+            "Only a single VM's CPU temperature",
+            "Local browser history only",
+            "A single OS patch schedule"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a strong cloud security control for protecting data at rest?",
+          "options": [
+            "Encryption",
+            "No backup policy",
+            "Removing all authentication",
+            "Disabling firewall logging"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A zero-trust security model assumes that:",
+          "options": [
+            "No user, device, or network segment is inherently trusted; verification is required continuously",
+            "All internal traffic is always safe and needs no validation",
+            "Only a private network requires access control",
+            "Authentication ends after one login forever"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Unit V - Hadoop, VirtualBox, Federation, and Advanced Cloud Technologies",
+      "questions": [
+        {
+          "q": "Hadoop is mainly designed for:",
+          "options": [
+            "Distributed storage and processing of large-scale data sets",
+            "Single-user database transactions only",
+            "Virtual machine hypervisor control only",
+            "Local file system optimization at the byte level"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The Hadoop Distributed File System is best known for:",
+          "options": [
+            "Storing large files across multiple machines with fault tolerance and replication",
+            "Replacing all hardware drivers",
+            "Providing real-time application hosting only",
+            "Keeping all data in a single disk"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In HDFS, the NameNode is responsible for:",
+          "options": [
+            "Tracking file metadata and the namespace of the cluster",
+            "Uploading object data to a cloud bucket",
+            "Executing application code in the browser",
+            "Managing a single network cable"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "DataNodes in HDFS primarily:",
+          "options": [
+            "Store actual blocks of data and serve read and write requests",
+            "Manage only CPU caches",
+            "Run only user interfaces",
+            "Store only metadata for a registry"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The fault tolerance in HDFS is achieved largely through:",
+          "options": [
+            "Replication of data blocks across multiple machines",
+            "Single-node local storage only",
+            "No distributed storage",
+            "Manual file restoration only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "MapReduce is designed for:",
+          "options": [
+            "Parallel processing of large data sets using map and reduce phases",
+            "Control of VM isolation only",
+            "Providing page-level query semantics only",
+            "Operating a single application on a laptop"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In the MapReduce model, the map phase is primarily responsible for:",
+          "options": [
+            "Reading input data and transforming it into intermediate key-value pairs",
+            "Deleting the final output",
+            "Managing cloud governance only",
+            "Configuring a browser tab"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The reduce phase in MapReduce typically:",
+          "options": [
+            "Aggregates and summarizes intermediate key-value outputs produced by the map phase",
+            "Creates a new hypervisor",
+            "Deletes all NameNode metadata",
+            "Transforms a VM into a browser"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Data locality in Hadoop is important because it allows:",
+          "options": [
+            "Computation to occur close to the data, reducing network transfer and improving efficiency",
+            "All data to be stored in a single memory heap",
+            "No use of replication",
+            "Only a single DataNode to serve all requests"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "VirtualBox is best described as:",
+          "options": [
+            "A desktop virtualization product used to run guest operating systems on a host machine",
+            "A database migration tool",
+            "A message broker",
+            "A load balancing algorithm"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Guest Additions in VirtualBox are intended to:",
+          "options": [
+            "Improve integration between the guest OS and the host, such as shared folders and display support",
+            "Replace the hypervisor",
+            "Load the host OS kernel",
+            "Delete snapshots automatically"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Snapshots in virtual machine management are used to:",
+          "options": [
+            "Capture the state of a VM at a point in time for recovery or rollback",
+            "Remove all disks from a host",
+            "Control public IP addresses only",
+            "Implement application-level encryption"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which network mode in VirtualBox attaches a VM to a network similar to a physical network and allows it to appear as a separate machine on the LAN?",
+          "options": [
+            "Bridged networking",
+            "Single-user mode",
+            "No networking",
+            "Object storage mode"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Google App Engine is best classified as:",
+          "options": [
+            "A Platform-as-a-Service offering for deploying web applications and services on managed infrastructure",
+            "A hypervisor management console",
+            "A hardware virtualization level",
+            "A database backup service"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "OpenStack is primarily known as:",
+          "options": [
+            "An open-source cloud platform that provides compute, storage, networking, and identity services",
+            "A message queue protocol-only tool",
+            "A static desktop application",
+            "An object-oriented programming language"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The major OpenStack service responsible for compute resources is:",
+          "options": [
+            "Nova",
+            "Keystone",
+            "Swift",
+            "Horizon"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Neutron in OpenStack is mainly associated with:",
+          "options": [
+            "Networking functionality and SDN-like capabilities",
+            "Object storage",
+            "Identity management only",
+            "Application deployment logic"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Swift in OpenStack is primarily used for:",
+          "options": [
+            "Object storage",
+            "Compute scheduling",
+            "DNS resolution",
+            "Security groups only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Cloud federation is valuable because it enables:",
+          "options": [
+            "Interoperability, resource sharing, and portability across multiple cloud providers",
+            "The permanent binding of all workloads to one data center",
+            "No SLA management",
+            "Single-vendor hardware dependence only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A federated cloud service is most likely to support:",
+          "options": [
+            "Cross-cloud application composition and shared resource discovery across providers",
+            "A single local file system only",
+            "Manual spreadsheet-based provisioning only",
+            "Static virtualization without APIs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a likely future direction of federated cloud ecosystems?",
+          "options": [
+            "Multi-cloud interoperability, hybrid cloud portability, and edge-cloud integration",
+            "Single-vendor locked architecture only",
+            "No automated discovery of services",
+            "Disabling all networking for cloud resources"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cloud environment that uses containers, microservices, dynamic orchestration, and API-driven integration is best described as:",
+          "options": [
+            "Cloud-native",
+            "Bare-metal legacy",
+            "Single-user appliance",
+            "Tape archive-only"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Extra Cloud Computing Modern Concepts",
+      "questions": [
+        {
+          "q": "Docker is primarily used to:",
+          "options": [
+            "Package applications and dependencies into portable containers",
+            "Create RAID storage arrays",
+            "Manage cloud IAM policies only",
+            "Replace the need for a hypervisor"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Kubernetes is best described as:",
+          "options": [
+            "A container orchestration platform for managing deployment, scaling, and networking of containers",
+            "A distributed database system only",
+            "A hypervisor type",
+            "A network protocol for DNS only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A microservice architecture emphasizes:",
+          "options": [
+            "Small, independently deployable services that work together to form a larger application",
+            "A single monolithic program with no service boundaries",
+            "Only a single database table",
+            "No integration between application components"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Function-as-a-Service is especially suitable for:",
+          "options": [
+            "Event-triggered, short-lived workloads that scale automatically with demand",
+            "Long-running database servers only",
+            "Always-on hardware-managed VMs",
+            "Legacy tape backup processing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "AWS Lambda, Azure Functions, and Google Cloud Functions are examples of:",
+          "options": [
+            "Serverless compute offerings",
+            "OpenStack storage services",
+            "VM migration tools",
+            "Network switch hardware"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "CI/CD in cloud engineering mainly improves:",
+          "options": [
+            "Continuous integration and continuous delivery or deployment for faster and safer software changes",
+            "Data center cooling only",
+            "CPU overclocking",
+            "Network cable installation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Infrastructure as Code is primarily used to:",
+          "options": [
+            "Define and manage cloud resources through code, enabling repeatable provisioning and automation",
+            "Write only static HTML pages",
+            "Provision storage without network access",
+            "Replace all service registries"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Terraform is widely used for:",
+          "options": [
+            "Declarative infrastructure provisioning across cloud providers and environments",
+            "Only local system monitoring",
+            "Single-node CPU benchmarking",
+            "Replacing object storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Observability in cloud systems focuses on understanding system behavior through:",
+          "options": [
+            "Monitoring, tracing, logs, and metrics",
+            "Only manual spreadsheet analysis",
+            "Only REST API documentation",
+            "Only storage replication counts"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A load balancer in cloud computing is used to:",
+          "options": [
+            "Distribute incoming traffic across multiple application instances to improve performance and availability",
+            "Store raw data in object buckets",
+            "Replace the database",
+            "Create snapshots without network access"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A content delivery network is mainly designed to:",
+          "options": [
+            "Cache and deliver content closer to users, reducing latency and improving load times",
+            "Replace the hypervisor on a host",
+            "Store only private keys",
+            "Generate application source code"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Autoscaling in cloud environments helps by:",
+          "options": [
+            "Adjusting resource capacity automatically according to demand and policies",
+            "Creating a static VM pool with no change",
+            "Disabling load balancers",
+            "Reducing all logging"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is a key benefit of edge computing for IoT systems?",
+          "options": [
+            "Lower latency and reduced bandwidth use by processing data closer to the source",
+            "Higher cost by forcing all data to a central cloud",
+            "No security concerns at the device level",
+            "No need for sensors or gateways"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cloud database is best characterized by:",
+          "options": [
+            "A database service managed over the network, often with scalability and provisioning features built in",
+            "Only a flat file on a local workstation",
+            "An application server without persistence",
+            "A raw storage volume without indexing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which of the following is the best description of NoSQL databases?",
+          "options": [
+            "Databases designed for flexible schemas and large-scale distributed workloads, often without full relational constraints",
+            "Only spreadsheets managed by cloud vendors",
+            "A hypervisor feature for VM snapshots",
+            "A DNS file format"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "CAP theorem addresses trade-offs in distributed systems between:",
+          "options": [
+            "Consistency, availability, and partition tolerance",
+            "Security, performance, and cost",
+            "Fault tolerance, load balancing, and metadata",
+            "CPU, memory, and storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Event-driven architecture is most closely associated with:",
+          "options": [
+            "Reactive workflows where services respond to events and messages asynchronously",
+            "Single-threaded synchronous code only",
+            "A database with no event emitter",
+            "Flat local files only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An API gateway is typically used to:",
+          "options": [
+            "Centralize routing, authentication, rate limiting, and composition for multiple microservices",
+            "Store backup images only",
+            "Replace the need for a hypervisor",
+            "Provide random access memory to a VM"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Service discovery in a microservice environment helps by:",
+          "options": [
+            "Allowing services to find and communicate with one another dynamically",
+            "Bypassing all cloud networking",
+            "Mapping each service to a single static IP forever",
+            "Replacing application monitoring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A message queue is mainly used to:",
+          "options": [
+            "Decouple producers and consumers by buffering and delivering events asynchronously",
+            "Replace the need for a database",
+            "Store only VM metadata",
+            "Connect a browser directly to a DNS server"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A Virtual Private Cloud is designed to:",
+          "options": [
+            "Provide a logically isolated private cloud section within a public cloud provider network",
+            "Remove all network security controls",
+            "Replace container orchestration",
+            "Lock a customer to a single region always"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A security group is most similar to:",
+          "options": [
+            "A firewall rule set controlling allowed ingress and egress traffic",
+            "A database query planner",
+            "A CPU scheduling algorithm",
+            "A backup retention policy"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A VPN in cloud architectures is typically used to:",
+          "options": [
+            "Create a secure private connection between networks over a public network",
+            "Replace the need for authentication",
+            "Reduce all traffic to a single route",
+            "Store object data in a bucket"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Disaster recovery planning in the cloud often emphasizes:",
+          "options": [
+            "Backup, replication, failover, RPO, and RTO targets",
+            "Disabling all storage snapshots",
+            "Permanent reliance on a single availability zone",
+            "No need for incident response"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "RTO is best defined as:",
+          "options": [
+            "The maximum acceptable time to restore a service after a disruption",
+            "The amount of data lost since the last backup",
+            "The number of replicas created in a region",
+            "The lifetime of an IAM token"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "RPO is best defined as:",
+          "options": [
+            "The maximum acceptable age of data that may be lost during recovery",
+            "The time a VM takes to boot",
+            "The maximum CPU load before autoscaling",
+            "The size of a DNS record"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A multi-region cloud architecture is typically adopted to:",
+          "options": [
+            "Improve resilience, disaster recovery, and global availability",
+            "Avoid all monitoring",
+            "Reduce the need for networking",
+            "Limit access to one user"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "FinOps in cloud management focuses on:",
+          "options": [
+            "Managing cloud cost, usage, and accountability as a financial and operational discipline",
+            "Only CPU virtualization",
+            "A Kubernetes networking plugin",
+            "The design of local private networks only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Reserved instances or reserved capacity are typically chosen to:",
+          "options": [
+            "Reduce long-term costs for predictable workloads with stable demand",
+            "Disable all autoscaling",
+            "Create VM snapshots without charging",
+            "Avoid network security monitoring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Spot or preemptible instances are best suited for:",
+          "options": [
+            "Fault-tolerant, flexible workloads that can handle interruptions",
+            "Always-on critical production databases",
+            "No-ops that cannot be restarted",
+            "Security camera hardware only"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Confidential computing is intended to protect:",
+          "options": [
+            "Data while it is in use within secure hardware-enforced trusted execution environments",
+            "Only static files at rest without encryption",
+            "Only browser cookies",
+            "No cloud network traffic"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A common goal of cloud migration strategies such as lift-and-shift, replatforming, and refactoring is to:",
+          "options": [
+            "Move existing workloads to the cloud while balancing speed, cost, and architecture improvement",
+            "Eliminate all applications from a company",
+            "Avoid all use of containers",
+            "Remove all security controls"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Vendor lock-in is a concern primarily because it may:",
+          "options": [
+            "Increase migration difficulty, cost, and dependence on one provider's proprietary services",
+            "Lower all cloud performance automatically",
+            "Improve public internet speed for all users",
+            "Reduce the need for IAM and monitoring"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A cloud SLA is important because it defines:",
+          "options": [
+            "Expected service availability, support commitments, and responsibilities between provider and customer",
+            "Only the DNS record of one service",
+            "The host operating system version only",
+            "The amount of memory in a single laptop"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

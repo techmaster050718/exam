@@ -1,0 +1,1635 @@
+{
+  "id": "bcs701-artificial-intelligence-complete-01",
+  "sections": [
+    {
+      "name": "Unit I - Introduction to Artificial Intelligence and Intelligent Agents",
+      "questions": [
+        {
+          "q": "Artificial Intelligence is best described as the field that enables machines to:",
+          "options": [
+            "Perform tasks that normally require human intelligence",
+            "Store large databases securely",
+            "Replace all human decision makers",
+            "Execute only arithmetic calculations"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Which statement best captures the meaning of intelligence in AI?",
+          "options": [
+            "The ability to print documents quickly",
+            "The ability to reason, learn, and adapt effectively to achieve goals",
+            "The ability to use a keyboard without errors",
+            "The ability to increase network speed"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The primary goal of AI is to develop systems that can:",
+          "options": [
+            "Work without a user interface",
+            "Reduce the need for software testing",
+            "Solve complex problems and behave intelligently in varying environments",
+            "Replace all electrical circuits"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Strong AI is best described as a system that:",
+          "options": [
+            "Performs a narrow set of tasks efficiently",
+            "Works only with static rules",
+            "Requires no data or learning",
+            "Matches human-level general intelligence across many domains"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Weak or narrow AI is characterized by:",
+          "options": [
+            "Specialized performance in a limited domain",
+            "General reasoning across every domain",
+            "Human-like consciousness",
+            "Complete self-awareness"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "General AI is different from narrow AI because it aims to:",
+          "options": [
+            "Be optimal for just one application",
+            "Handle a wide range of tasks at human-like capability",
+            "Use only one algorithm",
+            "Avoid all learning"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The term superintelligence is best understood as:",
+          "options": [
+            "A machine that can only solve math proofs",
+            "A device with more memory than a server",
+            "A system that outperforms humans in most cognitive tasks",
+            "A chatbot with more users"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "AI differs from conventional programming mainly because AI systems often:",
+          "options": [
+            "Do not need any code",
+            "Only work with binary data",
+            "Use no knowledge representation",
+            "Learn from data and adapt to new situations"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Machine learning is a subset of AI that focuses on:",
+          "options": [
+            "Learning patterns from data",
+            "Programming rules by hand only",
+            "Replacing all sensors",
+            "Running only static algorithms"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Deep learning differs from traditional machine learning because it uses:",
+          "options": [
+            "Simple if-else logic only",
+            "Neural networks with layered representations",
+            "Hard-coded expert rules",
+            "No training process"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The Dartmouth conference is historically important because it is regarded as the event that:",
+          "options": [
+            "Introduced mobile computing",
+            "Developed the first TCP protocol",
+            "Coined the field of artificial intelligence as a research discipline",
+            "Started the internet"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The expert systems era was mainly characterized by:",
+          "options": [
+            "Purely statistical pattern recognition",
+            "Self-driving cars alone",
+            "Deep internet search",
+            "Large rule-based systems encoding human expertise"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "AI winters are typically associated with:",
+          "options": [
+            "Periods of reduced funding and optimism due to unmet expectations",
+            "The invention of CPUs",
+            "The beginning of object-oriented programming",
+            "The spread of HTTP"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Modern AI is best described as relying heavily on:",
+          "options": [
+            "Manual symbolic rules only",
+            "Large-scale data, learning algorithms, and computational power",
+            "No formal evaluation",
+            "Only static decision trees"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Which of the following is a major application of AI?",
+          "options": [
+            "Travel booking without internet",
+            "Manual file indexing only",
+            "Natural language processing",
+            "Hardware fabrication"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A limitation of AI is that it may struggle when:",
+          "options": [
+            "The system is connected to a keyboard",
+            "The task is purely arithmetic",
+            "The system is offline",
+            "The data is biased, incomplete, or the environment is uncertain"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Thinking humanly is an AI approach that emphasizes:",
+          "options": [
+            "Modeling how humans think and reason",
+            "Improving CPU clock speed",
+            "Building better hard drives",
+            "Replacing all human input"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Acting humanly is best associated with:",
+          "options": [
+            "Using only binary outputs",
+            "Behaving in a way that is indistinguishable from a human in performance",
+            "Running a single SQL query",
+            "Ignoring perception"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Thinking rationally focuses on:",
+          "options": [
+            "Human intuition only",
+            "Only visual output",
+            "Logical reasoning and mathematically grounded inference",
+            "No environment interaction"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Acting rationally means an agent chooses actions that:",
+          "options": [
+            "Always follow the first rule in a program",
+            "Never consider uncertainty",
+            "Avoid using sensors",
+            "Maximize expected objective success given its goals and information"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "An agent in AI is best defined as:",
+          "options": [
+            "A program that perceives an environment and acts through sensors and actuators",
+            "A fixed hardware component only",
+            "A storage device used for logs",
+            "A static database schema"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The environment in an AI system refers to:",
+          "options": [
+            "Only the internal memory of the agent",
+            "Everything outside the agent that it interacts with",
+            "Only the CPU registers",
+            "Only the network cards"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A percept is:",
+          "options": [
+            "The agent's final output only",
+            "A rule in the knowledge base",
+            "The agent's sensory input at a given time",
+            "A network packet format"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Unit II - Problem Solving and Search Strategies",
+      "questions": [
+        {
+          "q": "A search problem is formally defined by:",
+          "options": [
+            "Only a set of users",
+            "Only a database schema",
+            "Only the output layer of a neural net",
+            "A state space, initial state, actions, transition model, goal test, and path cost"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The frontier in a graph search is best described as:",
+          "options": [
+            "The set of unexpanded nodes available for exploration",
+            "The list of all visited nodes",
+            "The final solution path only",
+            "The set of goal states alone"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Node expansion in search means:",
+          "options": [
+            "Deleting the frontier",
+            "Generating successor states from a current node",
+            "Removing all heuristics",
+            "Stopping search immediately"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Breadth-first search explores nodes in order of:",
+          "options": [
+            "Depth first and then breadth",
+            "Lowest heuristic value first",
+            "Increasing depth from the start node",
+            "Random order"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Breadth-first search is complete on finite branching trees provided that:",
+          "options": [
+            "The branching factor is infinite",
+            "The search depth is bounded to zero",
+            "The graph contains cycles only",
+            "The graph has finite branching and the goal is at finite depth"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which search is guaranteed to find the shallowest goal in an unweighted graph?",
+          "options": [
+            "Breadth-first search",
+            "Depth-first search",
+            "Greedy best-first search",
+            "Simulated annealing"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Depth-first search typically uses which data structure?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Priority queue",
+            "Trie"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A major drawback of DFS is that it may:",
+          "options": [
+            "Always find the shortest path",
+            "Use only a priority queue",
+            "Get trapped in deep or infinite branches",
+            "Be complete on every graph"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Iterative deepening DFS combines the strengths of:",
+          "options": [
+            "A* and hill climbing",
+            "Minimax and alpha-beta",
+            "Forward and backward chaining",
+            "BFS and DFS by repeatedly performing depth-limited DFS"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Which search algorithm is optimal when edge costs are non-negative and the step cost is uniform?",
+          "options": [
+            "Uniform-cost search",
+            "Depth-first search",
+            "Hill climbing",
+            "Stochastic search"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A heuristic function h(n) estimates:",
+          "options": [
+            "The full path cost from start to goal",
+            "The cost from node n to the goal",
+            "The number of nodes expanded so far",
+            "Only the depth of the root"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In A* search, f(n) is computed as:",
+          "options": [
+            "g(n) - h(n)",
+            "h(n) / g(n)",
+            "g(n) + h(n)",
+            "g(n) * h(n)"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A heuristic is admissible if it:",
+          "options": [
+            "Always overestimates the goal cost",
+            "Is equal to zero everywhere",
+            "Ignores domain knowledge",
+            "Never overestimates the true cost to the goal"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A heuristic is consistent if:",
+          "options": [
+            "The estimated cost of a step does not exceed the actual incremental cost plus the estimated cost of the next state",
+            "It is always zero",
+            "It is random",
+            "It does not depend on the goal"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Greedy best-first search uses mainly:",
+          "options": [
+            "Total path cost only",
+            "Heuristic cost to the goal only",
+            "Random exploration",
+            "Utility values"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A* search is preferable to greedy search when the goal is to:",
+          "options": [
+            "Avoid all heuristic evaluation",
+            "Use only backward chaining",
+            "Find an optimal path while still using a heuristic",
+            "Disregard path cost"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The effective branching factor measures:",
+          "options": [
+            "The total number of edges in a graph",
+            "The size of the heuristic table",
+            "The runtime of BFS only",
+            "How many successors are really explored on average"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Optimization problems are concerned with finding a solution that:",
+          "options": [
+            "Maximizes or minimizes an objective function",
+            "Always uses a queue",
+            "Never handles constraints",
+            "Has only one state"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A local optimum is best described as:",
+          "options": [
+            "A guaranteed global minimum",
+            "A solution better than neighboring states but not necessarily globally best",
+            "A state with no possible transitions",
+            "A terminal state in a game tree"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Hill climbing can fail on a landscape with:",
+          "options": [
+            "Only one state",
+            "No objective function",
+            "A local maximum or plateau",
+            "Only deterministic constraints"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Stochastic hill climbing differs from basic hill climbing because it:",
+          "options": [
+            "Uses only minimax",
+            "Never evaluates objective function",
+            "Requires a complete game tree",
+            "Randomizes the selection of successor states"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Random-restart hill climbing is used to:",
+          "options": [
+            "Escape local maxima by restarting from different initial states",
+            "Eliminate all randomness",
+            "Only solve linear equations",
+            "Perform Bayesian inference"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Simulated annealing accepts worse states with a probability that:",
+          "options": [
+            "Always equals zero",
+            "Depends on temperature and current difference in objective value",
+            "Increases with every step",
+            "Depends only on the heuristic function"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A constraint satisfaction problem consists of:",
+          "options": [
+            "Only rules and queries",
+            "Only sensors and actuators",
+            "Variables, domains, and constraints",
+            "Only a utility function"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The most constrained variable heuristic in CSP is also known as:",
+          "options": [
+            "Alpha-beta ordering",
+            "Forward chaining",
+            "Tuple selection",
+            "MRV heuristic"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Forward checking in CSP helps by:",
+          "options": [
+            "Reducing domains of unassigned variables after each assignment",
+            "Sorting the final solution list",
+            "Selecting the best heuristic only once",
+            "Discarding all constraints"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Arc consistency in a CSP ensures that:",
+          "options": [
+            "Only one variable is assigned",
+            "Every value in a variable's domain is supported by some value in neighboring variables' domains",
+            "The domain is always empty",
+            "The graph is acyclic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In adversarial search, the MAX player tries to:",
+          "options": [
+            "Minimize the number of actions",
+            "Reject all branches",
+            "Maximize the final utility value",
+            "Ignore terminal states"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Minimax is used when:",
+          "options": [
+            "There is only one player with no competition",
+            "Only probabilistic inference is used",
+            "No utility function exists",
+            "Two players alternate turns with opposite objectives"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Alpha-beta pruning reduces the number of nodes evaluated by:",
+          "options": [
+            "Pruning branches that cannot affect the final minimax decision",
+            "Increasing the branching factor",
+            "Turning all nodes into leaves",
+            "Eliminating the evaluation function"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "In alpha-beta pruning, alpha represents:",
+          "options": [
+            "The best value for MIN so far",
+            "The best value for MAX so far",
+            "A leaf node count",
+            "A heuristic estimate only"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A stochastic game differs from a deterministic game because it includes:",
+          "options": [
+            "No terminal states",
+            "Only one player",
+            "Chance nodes or probabilistic outcomes",
+            "No evaluation function"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Expectiminimax is used for games that include:",
+          "options": [
+            "Only chess endgames",
+            "No minimax at all",
+            "Only deterministic agents",
+            "Chance events as well as adversarial moves"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "name": "Unit III - Knowledge Representation and Reasoning",
+      "questions": [
+        {
+          "q": "A knowledge base stores:",
+          "options": [
+            "Facts, rules, and information used for reasoning",
+            "Only user passwords",
+            "Only network packets",
+            "Only UI templates"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Inference in AI is best described as:",
+          "options": [
+            "Translating code to hardware",
+            "Deriving new conclusions from known facts and rules",
+            "Encoding HTTP headers",
+            "Compressing data"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In propositional logic, a proposition is:",
+          "options": [
+            "Only a variable name",
+            "A network address",
+            "A declarative statement that is either true or false",
+            "A program loop"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The logical connective AND corresponds to:",
+          "options": [
+            "Disjunction",
+            "Negation",
+            "Implication",
+            "Conjunction"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A tautology is a formula that:",
+          "options": [
+            "Is true under every interpretation",
+            "Is false under every interpretation",
+            "Is always unsatisfiable",
+            "Contains no variables"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Logical equivalence means that two formulas:",
+          "options": [
+            "Are both tautologies",
+            "Have the same truth value in every model",
+            "Never use variables",
+            "Are always contradictory"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "The semantics of a logic system defines:",
+          "options": [
+            "Only the textual syntax",
+            "Only variable names",
+            "How symbols are assigned meaning and truth values",
+            "Only parser rules"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Entailment means that:",
+          "options": [
+            "A proposition is always false",
+            "A formula is syntactically identical",
+            "A rule has no variables",
+            "A conclusion logically follows from premises in all models where the premises hold"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Forward chaining is best characterized as:",
+          "options": [
+            "Data-driven reasoning from known facts to a conclusion",
+            "Goal-driven search from the conclusion backward",
+            "A search procedure without rules",
+            "A minimax evaluation"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Backward chaining is best characterized as:",
+          "options": [
+            "A probability network",
+            "Goal-driven reasoning that works backward from a query",
+            "A clustering algorithm",
+            "A search algorithm without rules"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "First-order logic extends propositional logic by allowing:",
+          "options": [
+            "Only binary symbols",
+            "No truth values",
+            "Predicates, variables, quantifiers, and functions",
+            "Only one constant symbol"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The universal quantifier means:",
+          "options": [
+            "There exists at least one object",
+            "For no objects in the domain",
+            "For one specific object only",
+            "For all objects in the domain"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The existential quantifier means:",
+          "options": [
+            "There exists at least one object in the domain",
+            "For every object in the domain",
+            "No object exists",
+            "Only one model exists"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Unification in logic is used to:",
+          "options": [
+            "Define a probability distribution",
+            "Match patterns by finding substitutions that make expressions identical",
+            "Sort nodes in a graph",
+            "Replace all variables with constants"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Generalized Modus Ponens is a rule for:",
+          "options": [
+            "Computing a gradient descent step",
+            "Choosing the next action in a game",
+            "Inferring a conclusion from a rule and matching facts",
+            "Searching the frontier only"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Resolution in logic is based on:",
+          "options": [
+            "Random assignments of truth values",
+            "Graph coloring only",
+            "Only forward chaining",
+            "Deriving contradiction to prove validity or inconsistency"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In Prolog, a fact is usually represented as:",
+          "options": [
+            "A predicate with constants, such as parent(john, mary).",
+            "A JSON object",
+            "A binary tree node",
+            "A regular expression"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Recursion is important in Prolog because it allows:",
+          "options": [
+            "Only linear search",
+            "Definitions to refer to themselves through repeated calls",
+            "Only arithmetic loops",
+            "No backtracking"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Backtracking in Prolog occurs when:",
+          "options": [
+            "A variable is assigned permanently",
+            "A graph is fully explored",
+            "A query fails and the system tries alternative rule or fact matches",
+            "No inference is needed"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The Wumpus World is used to illustrate:",
+          "options": [
+            "Only a spreadsheet model",
+            "Only robotics hardware design",
+            "Only network routing",
+            "Knowledge-based agents acting under partial information"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A breeze in Wumpus World indicates:",
+          "options": [
+            "A pit is nearby",
+            "The gold is nearby",
+            "The Wumpus is present",
+            "The cell is safe"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An ontology is best described as:",
+          "options": [
+            "A CPU scheduling queue",
+            "A formal description of concepts, entities, and relationships in a domain",
+            "A probability table",
+            "A deep learning layer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "An ontology differs from a database because it emphasizes:",
+          "options": [
+            "Only storage of raw records",
+            "Only transaction consistency",
+            "Meaningful concepts, relations, and reasoning over domain knowledge",
+            "Only indexing performance"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A taxonomy is most similar to:",
+          "options": [
+            "A circuit diagram",
+            "A dependency graph only",
+            "A neural architecture",
+            "A hierarchical classification of concepts"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A knowledge-based agent typically relies on:",
+          "options": [
+            "A knowledge base plus an inference engine",
+            "Only a fixed lookup table",
+            "Only sensors without memory",
+            "Only random actions"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "TELL in knowledge-based systems means:",
+          "options": [
+            "Ask a query",
+            "Add information to the knowledge base",
+            "Reset the system",
+            "Delete the agent"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "ASK in knowledge-based systems means:",
+          "options": [
+            "Discard data",
+            "Replace a node",
+            "Request information or query the knowledge base",
+            "Reboot the system"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "name": "Unit IV - Uncertainty and Learning Techniques",
+      "questions": [
+        {
+          "q": "Uncertainty in AI arises because:",
+          "options": [
+            "All data is always perfect",
+            "There are no probabilities",
+            "Machines never make mistakes",
+            "The environment may be incomplete, noisy, or partially observable"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Conditional probability P(A|B) is interpreted as:",
+          "options": [
+            "The probability of A given that B is true",
+            "The probability of B given A is false",
+            "The probability of A and B together divided by zero",
+            "The improbability of A"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Bayes' theorem is used to compute:",
+          "options": [
+            "Only feasible states",
+            "Posterior probabilities from prior and likelihood information",
+            "Only model weights",
+            "Only decision-tree paths"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "In Bayes' theorem, the prior probability represents:",
+          "options": [
+            "The final conclusion after inference",
+            "Only the likelihood",
+            "Initial belief before observing the evidence",
+            "The activation function value"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A Bayesian network is a:",
+          "options": [
+            "Linear algebra matrix only",
+            "A rule-based knowledge base without probability",
+            "A simple database",
+            "Graphical model representing probabilistic dependencies among variables"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "In a Bayesian network, a node represents:",
+          "options": [
+            "A random variable",
+            "A rule",
+            "A sensor failure only",
+            "A hardware register"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The main purpose of a conditional probability table in a Bayesian network is to specify:",
+          "options": [
+            "How to install hardware",
+            "How a node depends on its parents",
+            "How to encode a stack",
+            "How to evaluate a database query"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Fuzzy logic is used to handle:",
+          "options": [
+            "Only exact arithmetic",
+            "Only digital logic gates",
+            "Imprecision and partial truth rather than binary true or false",
+            "Only static truth tables"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "The membership function in fuzzy logic defines:",
+          "options": [
+            "The exact integers in a set",
+            "A SQL table schema",
+            "The number of rules in a decision tree",
+            "How strongly an element belongs to a fuzzy set"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Fuzzification in a fuzzy system means:",
+          "options": [
+            "Converting crisp input values into fuzzy membership values",
+            "Reducing the number of variables",
+            "Finding the exact solution",
+            "Deleting the rule base"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Defuzzification is used to:",
+          "options": [
+            "Only process text tokens",
+            "Convert fuzzy outputs back into a crisp output",
+            "Create labels for training data",
+            "Remove all logic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A perceptron computes a weighted sum of inputs and then applies:",
+          "options": [
+            "A gradient slope only",
+            "A Bayes rule",
+            "An activation function",
+            "A planning operator"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In a perceptron, the bias term helps to:",
+          "options": [
+            "Increase the number of hidden layers",
+            "Eliminate learning",
+            "Reduce input dimensionality",
+            "Shift the decision boundary"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A single-layer perceptron can represent:",
+          "options": [
+            "Linearly separable patterns",
+            "Only nonlinear functions",
+            "Only recurrent networks",
+            "Only CNNs"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "The main limitation of a single-layer perceptron is:",
+          "options": [
+            "It requires no training",
+            "It cannot learn non-linearly separable problems",
+            "It never uses weights",
+            "It has no activation function"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Backpropagation is mainly used to:",
+          "options": [
+            "Randomize the input data",
+            "Convert rules to logic",
+            "Update weights in a multilayer neural network by propagating error backward",
+            "Extract features from text"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Machine learning is best defined as:",
+          "options": [
+            "The field of writing only fixed rules",
+            "The field of managing storage devices",
+            "The field of hardware design",
+            "The field of building models that improve with experience from data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Training data differs from testing data because training data is used to:",
+          "options": [
+            "Fit the model parameters",
+            "Evaluate the final model performance only",
+            "Store random variables",
+            "Create the environment"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A label in supervised learning is:",
+          "options": [
+            "The number of layers in a network",
+            "The target output associated with an input example",
+            "A sensor reading only",
+            "A search frontier node"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Classification is a form of learning that predicts:",
+          "options": [
+            "Continuous numeric values only",
+            "No output at all",
+            "Discrete categories or classes",
+            "Only a graph structure"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Regression is used when the task is to predict:",
+          "options": [
+            "Class labels only",
+            "The action chosen by an agent",
+            "Only boolean values",
+            "Continuous numeric values"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Unsupervised learning is used when training data is:",
+          "options": [
+            "Unlabelled and the algorithm must discover structure",
+            "Fully labelled and direct",
+            "Only binary and static",
+            "A set of fixed rules"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Clustering is an unsupervised learning task that groups:",
+          "options": [
+            "Only labels into classes",
+            "Similar data points together",
+            "Only features into features",
+            "Only rules into logic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Overfitting occurs when a model:",
+          "options": [
+            "Performs equally well everywhere",
+            "Does not use any features",
+            "Fits the training data too closely and performs poorly on new data",
+            "Always has zero error"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Underfitting occurs when a model:",
+          "options": [
+            "Uses too many parameters",
+            "Never learns",
+            "Uses only a test set",
+            "Is too simple to capture the pattern in the data"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The bias-variance tradeoff refers to:",
+          "options": [
+            "The balance between model simplicity and sensitivity to training data",
+            "The number of training samples only",
+            "A rule-based search tradeoff",
+            "A hardware memory tradeoff"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Unit V - Applications of AI and Multi-Agent Systems",
+      "questions": [
+        {
+          "q": "Natural Language Processing is concerned with:",
+          "options": [
+            "Only storing text files",
+            "Enabling computers to understand and generate human language",
+            "Only parsing binary data",
+            "Only rendering graphics"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Tokenization in NLP refers to:",
+          "options": [
+            "Translating text to code",
+            "Reducing image pixels",
+            "Splitting text into smaller units such as words or subwords",
+            "Classifying data into clusters"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Stemming and lemmatization are both used to:",
+          "options": [
+            "Parse boolean expressions",
+            "Render a 3D scene",
+            "Compress neural networks",
+            "Reduce words to their base or root form"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Part-of-speech tagging assigns:",
+          "options": [
+            "Syntactic labels such as noun, verb, or adjective to words",
+            "Numeric IDs to documents",
+            "Only image labels",
+            "Only graph edges"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Named entity recognition aims to identify:",
+          "options": [
+            "Only hardware components",
+            "People, organizations, locations, and other named entities in text",
+            "Only repeated patterns",
+            "Only line endings"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Sentiment analysis is mainly used to determine:",
+          "options": [
+            "The number of tokens in a document",
+            "The branch factor in search",
+            "The emotional polarity or opinion expressed in text",
+            "The accuracy of a sensor"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Machine translation deals with:",
+          "options": [
+            "Only image translation",
+            "Only file compression",
+            "Only audio sampling",
+            "Automatic conversion of text from one language to another"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Information retrieval focuses on:",
+          "options": [
+            "Finding relevant documents or information from a large collection",
+            "Running only exact string matching",
+            "Designing computer hardware",
+            "Decision making without data"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Precision and recall are used to evaluate:",
+          "options": [
+            "CPU memory usage",
+            "Information retrieval and classification performance",
+            "Network bandwidth only",
+            "Task schedule lengths"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Robotics integrates AI with:",
+          "options": [
+            "Only static arithmetic",
+            "Only symbolic reasoning without sensors",
+            "Perception, planning, control, and action in physical environments",
+            "Only remote memory storage"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Path planning in robotics is concerned with:",
+          "options": [
+            "Choosing the best keyboard layout",
+            "Only choosing the next CPU core",
+            "Reading a file without motion",
+            "Finding a route for a robot while avoiding obstacles"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Speech recognition is the process of:",
+          "options": [
+            "Converting spoken language into text",
+            "Rendering sound through speakers",
+            "Running a compiler",
+            "Transforming images to audio"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A software agent is best described as:",
+          "options": [
+            "A static HTML page",
+            "An autonomous software entity that performs tasks on behalf of a user or system",
+            "A network protocol only",
+            "A hardware driver"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A reactive agent primarily acts by:",
+          "options": [
+            "Forecasting long-term goals",
+            "Accumulating a huge knowledge graph",
+            "Responding directly to current percepts without elaborate reasoning",
+            "Ignoring sensors"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A multi-agent system consists of:",
+          "options": [
+            "A single monolithic algorithm",
+            "Only sensors without actions",
+            "Only one database row",
+            "Multiple interacting agents that coordinate or compete to solve tasks"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Negotiation in multi-agent systems is used when agents:",
+          "options": [
+            "Bargain and exchange offers to reach an agreement",
+            "Never communicate",
+            "Only write log files",
+            "Only reduce data storage"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Trust and reputation are important in multi-agent systems because they help:",
+          "options": [
+            "Choose a search frontier",
+            "Assess reliability and guide cooperation among agents",
+            "Increase CPU cycles",
+            "Remove sensors"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Explainable AI aims to make model decisions:",
+          "options": [
+            "Faster to compile",
+            "More random and unpredictable",
+            "More understandable and transparent to humans",
+            "More difficult to debug"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A black-box model is difficult to interpret because:",
+          "options": [
+            "It has no data at all",
+            "It uses only logical rules",
+            "It is always a simple if-else tree",
+            "Its internal decision logic is not easily understandable to humans"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Feature importance in XAI is used to identify:",
+          "options": [
+            "Which features most influenced a model's prediction",
+            "Which hardware register is used",
+            "Which database table is ignored",
+            "Which agent failed to act"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A surrogate model in XAI is used to:",
+          "options": [
+            "Replace the real model completely",
+            "Approximate a complex model with a simpler interpretable model",
+            "Remove all explanations",
+            "Reduce network traffic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A case-based explanation in XAI is based on:",
+          "options": [
+            "Only random guesses",
+            "Only mathematical proofs",
+            "Analogous past instances to justify a current decision",
+            "Only fixed rules"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "In AI safety, fairness is concerned with:",
+          "options": [
+            "Improving only hardware performance",
+            "Reducing code readability",
+            "Ignoring user impact",
+            "Avoiding discriminatory or unjust outcomes across groups"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Human-in-the-loop systems are valuable because they:",
+          "options": [
+            "Allow human oversight in critical decisions",
+            "Eliminate all human validation",
+            "Remove the need for feedback",
+            "Disable personalization"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Extra AI Modern Concepts",
+      "questions": [
+        {
+          "q": "Reinforcement learning is based on:",
+          "options": [
+            "Only labelled datasets",
+            "Reward-driven learning through interaction with an environment",
+            "Only symbolic logic tables",
+            "Only static rules"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Semi-supervised learning uses:",
+          "options": [
+            "Only unlabelled data",
+            "Only labelled data",
+            "A small amount of labelled data and a larger amount of unlabelled data",
+            "No data at all"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Self-supervised learning is mainly designed to:",
+          "options": [
+            "Replace all labelled datasets",
+            "Ignore unlabeled data",
+            "Only train a decision tree",
+            "Create supervisory signals from the data itself"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A decision tree splits data according to:",
+          "options": [
+            "Features that best separate the target classes or values",
+            "Random text chunks",
+            "Only one label at a time",
+            "Only output probabilities"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Random forests improve performance by:",
+          "options": [
+            "Using one single tree always",
+            "Combining multiple decision trees to reduce variance and improve stability",
+            "Reducing the number of features to zero",
+            "Ignoring model evaluation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "k-NN classifies a new sample based on:",
+          "options": [
+            "The average of all features only",
+            "Only the training loss",
+            "The labels of its nearest neighboring samples",
+            "Only the decision boundary"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Naive Bayes assumes that:",
+          "options": [
+            "All features are perfectly dependent",
+            "No probabilities are used",
+            "Only one class exists",
+            "Features are conditionally independent given the class"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Support Vector Machines aim to find:",
+          "options": [
+            "A hyperplane that maximizes the margin between classes",
+            "A random cluster center",
+            "A search frontier",
+            "A full game tree"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Regularization helps prevent overfitting by:",
+          "options": [
+            "Creating more noise in data",
+            "Penalizing overly complex models",
+            "Removing all validation",
+            "Reducing the number of constraints"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Cross-validation is used to:",
+          "options": [
+            "Remove all test data",
+            "Only train the model once",
+            "Estimate model performance by splitting data into training and validation folds",
+            "Discard the learning rate"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A confusion matrix is used to summarize:",
+          "options": [
+            "Only the number of neurons",
+            "Only activation values",
+            "Only dataset size",
+            "True positives, false positives, true negatives, and false negatives"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "The F1-score balances:",
+          "options": [
+            "Precision and recall",
+            "Bias and variance",
+            "Depth and width",
+            "Loss and learning rate"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Gradient descent updates model parameters in the direction of:",
+          "options": [
+            "The positive gradient of accuracy only",
+            "The negative gradient of the loss function",
+            "Random noise",
+            "The number of epochs"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A loss function measures:",
+          "options": [
+            "Only the number of parameters",
+            "Only graph depth",
+            "How far the model predictions are from the target values",
+            "Only token count"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Feature engineering refers to:",
+          "options": [
+            "Only writing metadata",
+            "Only converting to JSON",
+            "Only selecting a random subset",
+            "Creating or transforming input features to improve model learning"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A convolutional neural network is especially effective for:",
+          "options": [
+            "Image and spatial pattern recognition",
+            "Purely textual data only",
+            "Only network routing",
+            "Only symbolic logic"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "An RNN is designed to process:",
+          "options": [
+            "Only static images",
+            "Sequential data with temporal dependencies",
+            "Only database tables",
+            "Only pure arithmetic"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Attention mechanisms allow a model to:",
+          "options": [
+            "Ignore all context",
+            "Use only fixed-size windows",
+            "Focus selectively on the most relevant parts of the input",
+            "Disable learning"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "A transformer architecture is known for:",
+          "options": [
+            "Only local search",
+            "Only hand-coded rules",
+            "Only forward chaining",
+            "Parallelizable sequence modeling using self-attention"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "A generative AI system is primarily used to:",
+          "options": [
+            "Create new content such as text, images, or code",
+            "Only classify existing data",
+            "Only search databases",
+            "Only run symbolic logic"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "A large language model is a model trained on:",
+          "options": [
+            "Only hardware features",
+            "Massive text corpora to understand and generate language",
+            "Only network packet traces",
+            "Only image pixels without context"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "A context window in an LLM refers to:",
+          "options": [
+            "The size of a local memory chip",
+            "The amount of GPU memory only",
+            "The amount of recent input the model can consider in one pass",
+            "The number of labels in a classifier"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Retrieval-augmented generation improves a model by:",
+          "options": [
+            "Ignoring all external knowledge",
+            "Eliminating all training",
+            "Using only one token",
+            "Combining retrieval of relevant external information with generation"
+          ],
+          "answer": 3
+        },
+        {
+          "q": "Hallucination in AI refers to:",
+          "options": [
+            "Confident but false or unsupported outputs",
+            "Correct but unexplained outputs",
+            "A training loss reduction",
+            "A database consistency check"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Fine-tuning a model usually means:",
+          "options": [
+            "Deleting the model weights",
+            "Adapting a pre-trained model to a specific task using additional data",
+            "Reducing all learning to zero",
+            "Forcing a model to ignore context"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "AI bias is a concern because it may:",
+          "options": [
+            "Always reduce computational cost",
+            "Increase the number of features",
+            "Cause unfair or skewed decisions due to biased data or design choices",
+            "Ensure all outcomes are neutral"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Responsible AI emphasizes:",
+          "options": [
+            "Faster training at any cost",
+            "Performance without any evaluation",
+            "Ignoring model documentation",
+            "Ethical, transparent, fair, and accountable use of AI systems"
+          ],
+          "answer": 3
+        }
+      ]
+    }
+  ]
+}

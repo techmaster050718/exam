@@ -1,11 +1,11 @@
 {
   "id": "sbi-so-it-predicted-001",
   "title": "SBI SO IT / Systems — Practical Syllabus-Based Practice Paper 1",
-  "sourceType": "PREDICTED",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
   "exam": "SBI Specialist Officer IT / Systems",
   "discipline": "IT / Systems",
-  "source": "Syllabus-based practice paper generated from IT and systems syllabus; not an authentic PYQ",
-  "verificationStatus": "Generated from syllabus; not a verified previous-year paper",
+  "source": "Official SBI SO IT / Systems syllabus and banking technology coverage; not an authentic PYQ",
+  "verificationStatus": "Generated from official syllabus; not a verified previous-year paper",
   "sections": [
     {
       "name": "Operating Systems & Systems Administration",

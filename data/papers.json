@@ -280,12 +280,32 @@
     "negativeMark": 0.25
   },
   {
+    "id": "bcs071-cloud-computing-complete-01",
+    "subject": "cloud-computing",
+    "title": "BCS071 Cloud Computing Complete Revision — 203 Questions",
+    "subtitle": "Full syllabus coverage from fundamentals to security, storage, federation, and modern cloud technologies",
+    "file": "data/bcs071-cloud-computing-complete-01.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
     "id": "ai-001",
     "subject": "ai-ml-bigdata",
     "title": "AI Fundamentals — 100 Questions",
     "subtitle": "AI concepts, agents, search, knowledge representation and responsible AI",
     "file": "data/ai-001.json",
     "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "bcs701-artificial-intelligence-complete-01",
+    "subject": "ai-ml-bigdata",
+    "title": "BCS701 Artificial Intelligence Complete Revision — 160 Questions",
+    "subtitle": "Full AI syllabus coverage from agents and search to logic, learning, NLP, robotics, multi-agent systems, and modern AI",
+    "file": "data/bcs701-artificial-intelligence-complete-01.json",
+    "durationMin": 90,
     "correctMark": 1,
     "negativeMark": 0.25
   },
@@ -688,6 +708,16 @@
     "correctMark": 1,
     "negativeMark": 0.25,
     "subject": "sbi-so-it"
+  },
+  {
+    "id": "powergrid-et-practice-001",
+    "title": "POWERGRID Executive Trainee — Syllabus-Based Practice Paper 1",
+    "subtitle": "Technical practice paper for POWERGRID ET preparation (not PYQ)",
+    "file": "data/powergrid-et-practice-001.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "powergrid-et"
   },
   {
     "id": "isro-icrb-cse-pyq-2025",
