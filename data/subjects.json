@@ -118,5 +118,11 @@
     "title": "POWERGRID Executive Trainee",
     "description": "Syllabus-based practice for POWERGRID ET technical preparation; not a PYQ",
     "icon": "⚡"
+  },
+  {
+    "id": "english-vocabulary",
+    "title": "English Vocabulary",
+    "description": "A–Z competitive vocabulary and idioms for CDS, SSC, banking and UPSC English",
+    "icon": "📘"
   }
 ]

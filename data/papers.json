@@ -748,5 +748,15 @@
     "durationMin": 60,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "english-vocabulary-bank-az",
+    "subject": "english-vocabulary",
+    "title": "A–Z Competitive Vocabulary Practice Bank",
+    "subtitle": "1300 advanced words and 260 idioms/phrases from A to Z",
+    "file": "data/english-vocabulary-bank-az.json",
+    "durationMin": 90,
+    "correctMark": 1,
+    "negativeMark": 0.25
   }
 ]
