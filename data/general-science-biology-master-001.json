@@ -1,0 +1,275 @@
+{
+  "id": "general-science-biology-master-001",
+  "sections": [
+    {
+      "name": "Cell Biology and Biomolecules",
+      "questions": [
+        {"q":"Which observation most directly supports the endosymbiotic origin of mitochondria?","options":["They contain circular DNA and divide by binary fission","They are bounded by a single membrane","They occur only in photosynthetic cells","They synthesize cellulose"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In a plant cell, which structure selectively allows water to enter while limiting many dissolved solutes?","options":["Cell wall","Tonoplast","Middle lamella","Plasma membrane"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A pancreatic cell producing large quantities of digestive enzymes would be expected to have especially abundant:","options":["Centrioles","Peroxisomes","Rough endoplasmic reticulum","Chloroplasts"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which organelle modifies, sorts and packages many proteins for secretion?","options":["Nucleolus","Smooth endoplasmic reticulum","Lysosome","Golgi apparatus"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The 70S ribosomes of bacteria are composed of which subunits?","options":["50S and 30S","60S and 40S","40S and 30S","80S and 70S"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A cell placed in a strongly hypertonic solution loses water and its protoplast pulls away from the wall. This is called:","options":["Cytokinesis","Plasmolysis","Crenation of the wall","Deplasmolysis"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which feature is present in both prokaryotic and eukaryotic cells?","options":["Nuclear envelope","Mitochondria","Ribosomes","Golgi bodies"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A mature mammalian red blood cell lacks a nucleus. The most immediate advantage is increased capacity for:","options":["Cell division","Antibody secretion","Lipid synthesis","Haemoglobin"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which pairing of organelle and function is correct?","options":["Peroxisome — breakdown of hydrogen peroxide","Nucleolus — aerobic respiration","Lysosome — photosynthesis","Centrosome — protein glycosylation"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The principal structural component of the plant cell wall is:","options":["Chitin","Cellulose","Glycogen","Peptidoglycan"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which biomolecule is made of amino acids joined by peptide bonds?","options":["Triglyceride","Polysaccharide","Protein","Nucleic acid"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A triglyceride consists of:","options":["Three amino acids and glycerol","Three nucleotides and phosphate","Two fatty acids and glucose","Glycerol esterified with three fatty acids"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which polysaccharide is the principal storage carbohydrate in animals?","options":["Glycogen","Cellulose","Chitin","Starch"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Enzymes increase reaction rates mainly by:","options":["Increasing the free-energy change","Lowering activation energy","Changing the reaction equilibrium","Being consumed as reactants"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Adenine pairs with thymine in DNA through:","options":["One hydrogen bond","Three hydrogen bonds","Two hydrogen bonds","A peptide bond"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Genetics and Molecular Biology",
+      "questions": [
+        {"q":"During DNA replication, which enzyme joins Okazaki fragments on the lagging strand?","options":["Helicase","Primase","DNA polymerase","DNA ligase"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A DNA template strand has the sequence 3′-TAC GGA-5′. What is the corresponding mRNA sequence?","options":["5′-AUG CCU-3′","5′-TAC GGA-3′","3′-AUG CCU-5′","5′-UAC GGA-3′"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which RNA molecule carries amino acids to the ribosome during translation?","options":["mRNA","tRNA","rRNA","siRNA"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The start codon that usually initiates translation is:","options":["UAA","UGA","AUG","UAG"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A mutation changes a codon but not the encoded amino acid. It is best described as:","options":["Frameshift","Nonsense","Missense","Silent"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In a monohybrid cross Aa × Aa with complete dominance, the expected phenotypic ratio is:","options":["3:1","1:1","1:2:1","9:3:3:1"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"An organism with genotype Aa is described as:","options":["Homozygous dominant","Heterozygous","Homozygous recessive","Hemizygous"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A recessive phenotype appears in a child although both parents show the dominant phenotype. Under simple Mendelian inheritance, the parents are most likely:","options":["Both homozygous dominant","One homozygous dominant and one recessive","Both heterozygous","Both homozygous recessive"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In humans, which parent determines the chromosomal sex of the child?","options":["Mother, by X-bearing ova","Neither parent; it is fixed by autosomes","Both equally through the ovum","Father, through X- or Y-bearing sperm"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A test cross is performed by crossing an individual with a dominant phenotype with a:","options":["Homozygous recessive individual","Homozygous dominant individual","Second dominant-phenotype individual only","Mutant unrelated species"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The separation of homologous chromosomes during meiosis I explains Mendel's law of:","options":["Dominance","Segregation","Independent assortment only","Blending inheritance"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Crossing over between homologous chromosomes occurs principally during:","options":["Metaphase II","Anaphase I","Prophase I","Telophase II"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A human gamete normally contains how many chromosomes?","options":["46","44","23 pairs","23"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which statement correctly distinguishes DNA from RNA in most cells?","options":["DNA contains deoxyribose and thymine; RNA contains ribose and uracil","DNA is single-stranded and RNA is always double-stranded","RNA contains phosphate but DNA does not","DNA contains uracil instead of thymine"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In eukaryotic cells, transcription of most protein-coding genes occurs in the:","options":["Ribosome","Nucleus","Golgi apparatus","Lysosome"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"An insertion of one nucleotide within a coding sequence is especially likely to cause a:","options":["Silent mutation","Chromosome duplication","Frameshift mutation","Change only in DNA methylation"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The two alleles of a gene in a diploid organism occupy corresponding positions on:","options":["Sister chromatids only","Non-homologous chromosomes","Mitochondrial membranes","Homologous chromosomes"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which genotype can produce type O blood under the ABO system?","options":["ii","IAIB","IAi","IBi"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Consider DNA replication: (1) it is semiconservative, (2) the leading strand is synthesised continuously, and (3) DNA polymerase extends a strand by adding nucleotides to its 3′ end. Which statements are correct?","options":["1, 2 and 3","1 and 3 only","2 and 3 only","1 and 2 only"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Human Anatomy, Tissues and Musculoskeletal System",
+      "questions": [
+        {"q":"Which epithelial tissue is best suited to rapid diffusion across the alveoli?","options":["Stratified cuboidal","Simple squamous","Transitional","Ciliated columnar"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The structural and functional unit of compact bone is the:","options":["Nephron","Sarcomere","Osteon","Alveolus"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which tissue connects a skeletal muscle to a bone?","options":["Ligament","Cartilage","Fascia only","Tendon"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which connective tissue joins one bone to another at a joint?","options":["Ligament","Tendon","Areolar tissue","Adipose tissue"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The shoulder joint is classified as a:","options":["Pivot joint","Ball-and-socket joint","Hinge joint","Saddle joint"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which feature distinguishes cardiac muscle from skeletal muscle?","options":["It has no contractile proteins","It is voluntary","Its cells are branched and joined by intercalated discs","It lacks mitochondria"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The basic contractile unit repeated along a myofibril is the:","options":["Neuron","Osteon","Myelin sheath","Sarcomere"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which mineral is stored in large amounts in the skeleton and contributes to bone rigidity?","options":["Calcium phosphate","Sodium chloride","Potassium iodide","Ferrous sulphate"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The longest bone in the adult human body is the:","options":["Tibia","Femur","Humerus","Fibula"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which part of the vertebral column has the greatest number of vertebrae?","options":["Cervical","Thoracic","Lumbar","Sacral"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which structure protects the brain and encloses it within the skull?","options":["Sternum","Pelvic girdle","Cranium","Scapula"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which blood cell fragment is directly involved in formation of a platelet plug?","options":["Erythrocyte","Lymphocyte","Monocyte","Platelet"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which blood component is the liquid matrix in which cells and dissolved substances are suspended?","options":["Plasma","Serum albumin only","Lymphocyte","Haemoglobin"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which anatomical plane divides the body into left and right portions?","options":["Transverse","Sagittal","Coronal","Oblique"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Digestion, Nutrition and Metabolism",
+      "questions": [
+        {"q":"The enzyme pepsin begins the digestion of proteins in the:","options":["Mouth","Stomach","Ileum","Large intestine"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Bile assists digestion chiefly by:","options":["Hydrolysing proteins to peptides","Converting starch into maltose","Emulsifying fats into smaller droplets","Digesting nucleic acids"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Most absorption of digested nutrients in humans occurs in the:","options":["Oesophagus","Stomach","Colon","Small intestine"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The finger-like projections that increase absorptive surface area in the small intestine are:","options":["Villi","Alveoli","Nephrons","Cilia of the trachea"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which enzyme in saliva starts carbohydrate digestion by hydrolysing starch?","options":["Pepsin","Salivary amylase","Trypsin","Lipase"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Trypsin is secreted by the pancreas primarily as an inactive precursor called:","options":["Pepsinogen","Prothrombin","Trypsinogen","Chymotrypsin"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The acidic environment of the stomach is produced mainly by secretion of:","options":["Bile salts","Sodium bicarbonate","Lactic acid from food","Hydrochloric acid"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Vitamin C deficiency classically causes:","options":["Rickets","Pellagra","Scurvy","Beriberi"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A diet deficient in niacin (vitamin B3) may lead to:","options":["Night blindness","Pellagra","Scurvy","Goitre"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which vitamin is essential for normal blood clotting through synthesis of several clotting factors?","options":["Vitamin A","Vitamin C","Vitamin K","Vitamin E"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Night blindness is most directly associated with deficiency of:","options":["Vitamin D","Vitamin B12","Vitamin K","Vitamin A"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Vitamin D promotes intestinal absorption of which mineral?","options":["Calcium","Iodine","Sodium","Iron"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A common nutritional cause of microcytic anaemia is inadequate:","options":["Iodine","Iron","Vitamin C","Fluoride"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Iodine is required for synthesis of thyroid hormones. Its prolonged dietary deficiency can cause:","options":["Scurvy","Osteoporosis","Goitre","Haemophilia"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+                {"q":"Which macronutrient provides the greatest energy per gram when completely oxidised?","options":["Carbohydrate","Protein","Alcohol-free water","Fat"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Dietary fibre supports normal bowel function mainly because it:","options":["Adds bulk and helps maintain intestinal movement","Is absorbed as amino acids","Neutralises all stomach acid","Replaces pancreatic enzymes"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Respiration, Circulation and Blood",
+      "questions": [
+        {"q":"At the alveoli, oxygen diffuses into pulmonary capillaries mainly because:","options":["Active transport pumps it through","Its partial pressure is higher in alveolar air than in deoxygenated blood","Haemoglobin releases carbon dioxide into the alveoli","The alveolar wall is impermeable to water"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Most oxygen in human blood is transported:","options":["Dissolved freely in plasma","As bicarbonate ions","Bound reversibly to haemoglobin","By platelets"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Most carbon dioxide in blood is transported from tissues to lungs as:","options":["Carbaminohaemoglobin only","Dissolved carbon dioxide only","Carbonic acid in red cells","Bicarbonate ions in plasma"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The main muscle responsible for quiet inspiration is the:","options":["Diaphragm","Rectus abdominis","Internal intercostal","Biceps brachii"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"During inspiration, the diaphragm normally:","options":["Relaxes and domes upward","Contracts and flattens","Closes the glottis","Compresses the lungs directly"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The natural pacemaker of the human heart is the:","options":["Atrioventricular node","Bundle of His","Sinoatrial node","Purkinje network"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which chamber pumps oxygenated blood into the systemic circulation?","options":["Right atrium","Right ventricle","Left atrium","Left ventricle"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The pulmonary artery is unusual among arteries because it carries:","options":["Deoxygenated blood from the heart to the lungs","Oxygenated blood to the body","Blood from lungs to the left atrium","Lymph to the lungs"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which vessel returns oxygenated blood from the lungs to the heart?","options":["Pulmonary artery","Pulmonary vein","Vena cava","Coronary sinus"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The human circulation is called double circulation because blood passes through the heart:","options":["Once in every complete circuit","Only during exercise","Twice in one complete circuit of the body","Through two separate hearts"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which blood group is considered the universal red-cell donor in emergency transfusion when Rh compatibility is included?","options":["AB positive","A negative","B positive","O negative"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Antibodies against which ABO antigen are normally present in the plasma of a person with blood group A?","options":["B antigen","A antigen","Both A and B antigens","Neither A nor B antigen"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The Rh factor is determined primarily by the presence or absence of which antigen on red blood cells?","options":["A antigen","D antigen","H antigen","K antigen"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which blood cells are chiefly responsible for oxygen transport?","options":["Neutrophils","Platelets","Erythrocytes","Basophils"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which formed element of blood is most directly responsible for initiating haemostasis?","options":["Erythrocyte","Eosinophil","Lymphocyte","Platelet"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A pulse felt at the wrist is caused by:","options":["Pressure waves in an artery following ventricular contraction","Valves closing in the veins","Expansion of lymphatic vessels","Atrial filling during diastole"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Excretion, Nervous System and Endocrine Regulation",
+      "questions": [
+        {"q":"The functional unit of the kidney that filters blood and forms urine is the:","options":["Alveolus","Nephron","Neuron","Villus"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Ultrafiltration of blood in a nephron occurs mainly in the:","options":["Collecting duct","Loop of Henle","Glomerulus and Bowman's capsule","Distal convoluted tubule"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Antidiuretic hormone increases water reabsorption primarily by acting on the:","options":["Glomerular capsule","Proximal stomach","Renal artery","Collecting ducts"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Urea is formed mainly in the liver from the metabolism of:","options":["Ammonia produced during amino-acid breakdown","Glucose in red cells","Fatty acids in the lungs","Glycogen in the kidney"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The myelin sheath around many axons primarily:","options":["Produces neurotransmitters","Insulates the axon and speeds impulse conduction","Forms the synaptic cleft","Stores calcium in muscle"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The gap between two communicating neurons is the:","options":["Node of Ranvier","Axon hillock","Synaptic cleft","Dendritic spine only"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which brain region is especially important in coordinating posture and fine movement?","options":["Hypothalamus","Medulla oblongata","Thalamus","Cerebellum"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The medulla oblongata helps regulate:","options":["Breathing and heart rate","Colour vision","Voluntary language alone","Insulin synthesis"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A rapid, automatic withdrawal of the hand from a hot object is coordinated chiefly through a:","options":["Cerebral reflex only","Spinal reflex arc","Hormonal response by the thyroid","Voluntary pathway through the cerebellum"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Insulin lowers blood glucose chiefly by promoting:","options":["Glycogen breakdown in the liver","Glucose production in the kidney","Glucose uptake and storage in tissues","Glucagon secretion from beta cells"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which pancreatic cells secrete glucagon?","options":["Beta cells","Acinar cells","Delta cells","Alpha cells"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Adrenaline is secreted by the:","options":["Adrenal medulla","Adrenal cortex only","Thyroid follicles","Posterior pituitary"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Thyroxine synthesis requires an adequate supply of:","options":["Calcium","Iodine","Iron","Sodium"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which hormone stimulates milk production after childbirth?","options":["Oxytocin","Progesterone","Prolactin","Follicle-stimulating hormone"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Human Reproduction and Development",
+      "questions": [
+        {"q":"In humans, fertilisation most commonly occurs in the:","options":["Uterus","Cervix","Vagina","Ampulla of the oviduct"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The corpus luteum principally secretes:","options":["Progesterone","Testosterone","Thyroxine","Adrenaline"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Ovulation in a typical menstrual cycle is triggered most directly by a surge of:","options":["Prolactin","Luteinising hormone","Oxytocin","Thyroid-stimulating hormone"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Sperm are produced in the:","options":["Prostate gland","Epididymis","Seminiferous tubules","Vas deferens"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The main site of implantation of a human blastocyst is the:","options":["Ovary","Oviduct lumen","Cervix","Endometrium"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The placenta allows exchange between maternal and fetal blood while normally:","options":["Keeping the two blood supplies largely separate","Mixing all blood cells freely","Replacing the fetal heart","Producing maternal red cells"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which hormone maintains the endometrium during early pregnancy before placental production is sufficient?","options":["Insulin","Progesterone","Glucagon","Melatonin"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The number of chromosomes in a human zygote is normally:","options":["23","44","46","92"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A major function of the acrosome in a sperm cell is to:","options":["Store the paternal chromosomes","Provide most ATP for swimming","Form the tail","Release enzymes that assist penetration of the egg coverings"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Identical (monozygotic) twins arise when:","options":["One fertilised egg divides into two embryos","Two ova are fertilised by one sperm","Two blastocysts fuse","Two sperm fertilise one ovum"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which structure carries a mature egg from the ovary toward the uterus?","options":["Ureter","Oviduct","Urethra","Vas deferens"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The principal male sex hormone produced by the testes is:","options":["Oestrogen","Progesterone","Testosterone","Prolactin"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In flowering plants, double fertilisation produces a zygote and a:","options":["Diploid pollen grain","Haploid embryo sac","Triploid zygote","Triploid endosperm"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Pollen grains are formed in the:","options":["Anther","Stigma","Ovary","Style"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The transfer of pollen from anther to stigma of the same flower is:","options":["Cross-fertilisation","Self-pollination","Apomixis","Germination"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"After fertilisation in a flowering plant, the ovule generally develops into a:","options":["Fruit wall","Stigma","Seed","Pollen tube"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Human Diseases, Immunity and Public Health",
+      "questions": [
+        {"q":"Tuberculosis is caused by:","options":["Adenovirus","Plasmodium vivax","Candida albicans","Mycobacterium tuberculosis"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The vector that transmits malaria parasites to humans is the:","options":["Female Anopheles mosquito","Male Aedes mosquito","Housefly","Sandfly"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Dengue is transmitted principally by mosquitoes of the genus:","options":["Culex","Aedes","Anopheles","Simulium"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"HIV primarily attacks which immune-cell population?","options":["Red blood cells","Platelets","CD4-positive T helper cells","Neutrophils only"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Antibiotics are generally ineffective against influenza because influenza is caused by a:","options":["Bacterium","Protozoan","Fungus","Virus"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A vaccine protects mainly by inducing:","options":["Immunological memory against a specific antigen","Immediate destruction of every pathogen in the environment","Permanent increase in body temperature","Replacement of all white blood cells"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The first line of defence that is part of innate immunity includes:","options":["Antibodies from memory B cells","Skin and mucous membranes","Memory T cells only","Antibiotic medicines"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Antibodies are secreted in large amounts by differentiated:","options":["Cytotoxic T cells","Macrophages","Plasma cells","Platelets"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A booster dose of a vaccine is intended chiefly to:","options":["Replace innate immunity","Cause the original infection","Destroy memory lymphocytes","Strengthen or renew the adaptive immune response"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Oral rehydration solution is useful in diarrhoeal illness because coupled absorption of glucose and sodium helps:","options":["Promote water absorption in the intestine","Eliminate all intestinal pathogens","Stop antibody production","Replace red blood cells"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A disease that is constantly present at a usual level in a region is described as:","options":["Pandemic","Endemic","Sporadic only","Eradicated"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"An epidemic becomes a pandemic when it:","options":["Affects only one household","Is caused by a bacterium","Spreads across countries or continents with sustained transmission","Has a vaccine available"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Microorganisms and Infectious Agents",
+      "questions": [
+        {"q":"Which structure is characteristic of bacteria but absent from animal cells?","options":["Cellulose wall","Chitin wall","Chloroplast","Peptidoglycan cell wall"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A virus can reproduce only:","options":["Inside a suitable living host cell","On nutrient agar without cells","By binary fission in water","Through photosynthesis"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The infectious protein particle that lacks nucleic acid is called a:","options":["Viroid","Prion","Virion","Plasmid"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Baker's yeast belongs to which group?","options":["Bacteria","Protozoa","Fungi","Algae"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The malarial parasite belongs to the genus:","options":["Trypanosoma","Entamoeba","Leishmania","Plasmodium"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Amoebic dysentery is caused by:","options":["Entamoeba histolytica","Giardia lamblia","Paramecium caudatum","Plasmodium falciparum"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which bacterial process converts atmospheric nitrogen into ammonia?","options":["Nitrification","Nitrogen fixation","Denitrification","Ammonification only"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Rhizobium benefits leguminous plants by:","options":["Producing chlorophyll in roots","Causing root rot","Fixing atmospheric nitrogen in root nodules","Converting nitrate to atmospheric oxygen"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which organism is used in curd formation by fermenting lactose to lactic acid?","options":["Penicillium chrysogenum","Rhizobium leguminosarum","Saccharomyces cerevisiae","Lactobacillus"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Penicillin was first discovered by Alexander Fleming from a mould belonging to:","options":["Penicillium","Aspergillus","Rhizopus","Mucor"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Bacterial conjugation typically involves transfer of genetic material through:","options":["A fungal hypha","Direct cell contact, often via a pilus","A plant pollen tube","A mosquito vector"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which statement about antibiotics is correct?","options":["They cure every viral infection","They are vaccines against bacteria","Misuse can select for antibiotic-resistant bacteria","They are effective only against fungi"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The organism that causes cholera is:","options":["Salmonella enterica serovar Typhi","Vibrio vulnificus","Shigella dysenteriae","Vibrio cholerae"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Typhoid fever is caused by:","options":["Salmonella enterica serovar Typhi","Vibrio cholerae","Clostridium tetani","Streptococcus pneumoniae"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Ringworm is generally caused by:","options":["A virus","Dermatophyte fungi","A nematode","A protozoan"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which viral disease is classically associated with Negri bodies in infected nerve cells?","options":["Polio","Hepatitis B","Rabies","Measles"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Plant Structure and Physiology",
+      "questions": [
+        {"q":"The opening and closing of most stomata are regulated by:","options":["Companion cells","Root hairs","Sieve plates","Guard cells"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The cohesion-tension mechanism explains the ascent of sap mainly through:","options":["Xylem vessels and tracheids","Phloem sieve tubes","Cortical air spaces","Cambium cells"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Translocation of sucrose from source tissues to sinks occurs primarily through:","options":["Xylem","Phloem","Epidermis","Cork"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The loss of water vapour from aerial parts of a plant, chiefly through stomata, is:","options":["Guttation","Translocation","Transpiration","Respiration"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In C4 plants, the first stable product of carbon dioxide fixation is usually:","options":["3-phosphoglycerate","Ribulose bisphosphate","Glucose","Oxaloacetate"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The oxygen released during oxygenic photosynthesis originates from:","options":["Water","Carbon dioxide","Glucose","Chlorophyll"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The Calvin cycle takes place in the chloroplast:","options":["Thylakoid lumen","Stroma","Outer membrane","Grana interspace"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which pigment is the primary reaction-centre pigment in photosynthesis?","options":["Carotene","Xanthophyll","Chlorophyll a","Anthocyanin"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The immediate energy currency used by cells, generated during respiration, is:","options":["DNA","Cellulose","Urea","ATP"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In aerobic respiration, most ATP in a eukaryotic cell is generated through oxidative phosphorylation at the:","options":["Inner mitochondrial membrane","Nuclear envelope","Golgi membrane","Cell wall"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Plant Hormones and Reproduction",
+      "questions": [
+        {"q":"Which plant hormone is most directly associated with cell elongation and apical dominance?","options":["Ethylene","Auxin","Abscisic acid","Jasmonate"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Gibberellins are commonly associated with:","options":["Stomatal closure during drought","Fruit ripening only","Stem elongation and breaking seed dormancy","Leaf abscission only"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which plant hormone promotes stomatal closure during water stress?","options":["Cytokinin","Auxin","Gibberellin","Abscisic acid"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The gaseous plant hormone that promotes fruit ripening is:","options":["Ethylene","Auxin","Cytokinin","Gibberellin"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Cytokinins are best known for promoting:","options":["Apical dominance","Cell division","Stomatal closure","Fruit abscission"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A plant bends toward a unilateral light source because auxin:","options":["Accumulates on the illuminated side and stops all growth","Destroys chlorophyll on the shaded side","Promotes greater elongation on the shaded side of the shoot","Moves only into the roots"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In a flower, the ovary develops after fertilisation into the:","options":["Seed coat","Embryo","Pollen grain","Fruit"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The male gametophyte of an angiosperm is the:","options":["Pollen grain","Ovule","Embryo sac","Endosperm"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The embryo sac of a typical flowering plant is located within the:","options":["Anther","Ovule","Stigma","Filament"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Vegetative propagation by potato tubers occurs through buds known as:","options":["Lenticels","Root caps","Eyes","Stolons"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A seed's testa develops from the:","options":["Ovary wall","Endosperm","Embryonic root","Integuments of the ovule"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which adaptation commonly helps wind-pollinated flowers release pollen efficiently?","options":["Exposed, often dangling anthers","Large nectar glands","Strongly scented petals","Sticky fruits"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Animal Classification and Evolution",
+      "questions": [
+        {"q":"An animal with a notochord at some stage of its life belongs to:","options":["Arthropoda","Chordata","Mollusca","Annelida"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Jointed appendages and a chitinous exoskeleton are defining features of:","options":["Echinodermata","Cnidaria","Arthropoda","Porifera"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which pair is correctly matched?","options":["Earthworm — Mollusca","Starfish — Annelida","Octopus — Arthropoda","Hydra — Cnidaria"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A distinguishing characteristic of mammals is the presence of:","options":["Mammary glands","Feathers","Gills throughout life","A two-chambered heart"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which vertebrate group typically has a four-chambered heart and feathers?","options":["Amphibia","Aves","Reptilia","Osteichthyes"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A frog is classified as an amphibian because its life cycle commonly includes:","options":["Only a marine larval stage","A chitinous exoskeleton","Aquatic larval and largely terrestrial adult stages","Feathers and a beak"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which pair of structures is homologous, reflecting common ancestry despite different functions?","options":["Bird wing and insect wing","Fish fin and butterfly wing","Octopus eye and human eye only by function","Human arm and whale flipper"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The forelimbs of a human, whale and bat are examples of homologous structures because they share:","options":["A common basic anatomical plan","The same function in each animal","Identical external shape","The same habitat"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Similar adaptations evolving independently in unrelated lineages are an example of:","options":["Divergent evolution","Convergent evolution","Artificial selection","Genetic drift only"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Natural selection acts directly on variation in:","options":["An organism's intended future traits","The needs of a population","Phenotypes that affect survival and reproduction","Acquired characteristics in every case"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The founder effect is a form of genetic drift that occurs when:","options":["A population becomes infinitely large","All mutations are eliminated","Natural selection stops permanently","A new population is established by a small number of individuals"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The Hardy-Weinberg principle describes allele frequencies that remain constant in the absence of evolutionary forces. Which condition is required?","options":["Random mating in a sufficiently large population","Strong directional selection","Frequent migration","High mutation rate"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Fossils found in successively younger rock strata generally provide evidence of:","options":["No change in life through time","Changes in organisms over geological time","The exact lifespan of every species","The absence of extinction"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The term 'survival of the fittest' in evolutionary biology refers most closely to:","options":["The physically largest individuals surviving","The strongest individuals winning every contest","Differential reproductive success in a given environment","Organisms consciously adapting to their needs"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Ecology, Ecosystems and Conservation",
+      "questions": [
+        {"q":"In an ecosystem, producers occupy which trophic level?","options":["Secondary consumers","Decomposers only","Top consumers","First trophic level"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The ten per cent law of energy transfer is associated with:","options":["Lindeman","Darwin","Mendel","Haeckel"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Why are food chains generally limited in length?","options":["Energy increases at each trophic transfer","Only a fraction of energy passes to the next trophic level","Producers consume all decomposers","Biomass cannot contain chemical energy"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A network of interconnected food chains in an ecosystem is called a:","options":["Biomass pyramid","Ecological niche","Food web","Biogeochemical cycle"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Biological magnification is most likely to cause the highest concentration of a persistent pollutant in:","options":["Primary producers","Soil water","Decomposers only","Top-level consumers"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The largest reservoir of nitrogen in the global nitrogen cycle is the:","options":["Atmosphere","Oceanic fish","Topsoil","Living vegetation"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A keystone species is one that:","options":["Is always the most abundant species","Has a disproportionately large effect on ecosystem structure relative to its abundance","Occurs only in one country","Is necessarily an apex predator"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The variety of genes, species and ecosystems in a region collectively represents:","options":["Biomass","Primary productivity","Biodiversity","Ecological succession"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"An endemic species is one that:","options":["Migrates across continents every year","Has been domesticated","Is extinct in the wild","Is native to and restricted to a particular geographic area"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A biodiversity hotspot is identified chiefly by high endemism and:","options":["Severe threat from habitat loss","High annual rainfall alone","Absence of human settlement","Low plant diversity"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which is an example of in-situ conservation?","options":["Seed storage in a gene bank","Protection of a species in its natural habitat within a national park","Captive breeding in a zoo only","Cryopreservation of embryos"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"A species assessed by the IUCN as Critically Endangered faces which level of extinction risk in the wild?","options":["Extremely high risk of extinction in the wild","Very high risk, corresponding to Endangered","High risk, corresponding to Vulnerable","Low risk, corresponding to Least Concern"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In a Hardy–Weinberg population, a recessive phenotype occurs in 9% of individuals. What proportion is expected to be heterozygous, assuming the model's conditions hold?","options":["0.09","0.21","0.42","0.49"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    },
+    {
+      "name": "Biotechnology, Applied Biology and Discoveries",
+      "questions": [
+        {"q":"Restriction endonucleases are used in genetic engineering because they:","options":["Translate mRNA into proteins","Join amino acids in a chain","Copy RNA into DNA only","Cut DNA at specific recognition sequences"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The polymerase chain reaction (PCR) is used to:","options":["Amplify a selected DNA sequence","Separate proteins by charge","Produce antibodies in the body","Sequence whole ecosystems directly"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"In recombinant DNA technology, a plasmid commonly serves as a:","options":["Restriction enzyme","Vector for carrying inserted DNA","Protein marker only","Cell-wall component"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Bt cotton is engineered to express an insecticidal protein originally derived from:","options":["Agrobacterium tumefaciens","Escherichia coli","Bacillus thuringiensis","Rhizobium"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The first widely used recombinant human therapeutic protein produced commercially was:","options":["Growth hormone from plants","Insulin from yeast-free animal tissue","Haemoglobin from bacteria","Human insulin produced using engineered microorganisms"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The CRISPR-Cas9 system is adapted from a natural defence system found in:","options":["Bacteria and archaea","Flowering plants only","Mammalian red blood cells","Fungi only"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The scientist who first observed cells in a thin slice of cork and coined the term 'cell' was:","options":["Antonie van Leeuwenhoek","Robert Hooke","Matthias Schleiden","Rudolf Virchow"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Who is credited with establishing that green plants release oxygen during photosynthesis through experiments with plants and animals?","options":["Gregor Mendel","Louis Pasteur","Joseph Priestley","Thomas Hunt Morgan"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The double-helix model of DNA was proposed by:","options":["Meselson and Stahl","Hershey and Chase","Franklin and Wilkins jointly in a model paper","James Watson and Francis Crick"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The Hershey–Chase experiment used bacteriophages to demonstrate that hereditary information is carried by:","options":["DNA","Protein","Lipid","Carbohydrate"],"answer":0,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"The process of pasteurisation is named after Louis Pasteur and is used primarily to:","options":["Sterilise food by ionising radiation","Reduce harmful microbes in liquids using controlled heat","Remove all minerals from milk","Convert lactose into starch"],"answer":1,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Which public-health measure most directly reduces transmission of mosquito-borne diseases in urban settings?","options":["Routine antibiotics for all residents","Adding vitamins to drinking water","Removing stagnant water where vectors breed","Increasing indoor lighting"],"answer":2,"sourceType":"SYLLABUS_BASED_PRACTICE"},
+        {"q":"Match each method with its main use: (1) PCR, (2) gel electrophoresis, (3) ELISA. Which sequence is correct?","options":["Separate proteins; amplify DNA; determine blood groups","Detect antibodies; sequence DNA; amplify proteins","Amplify DNA; detect antibodies or antigens; separate DNA fragments by size","Amplify DNA; separate DNA fragments by size; detect antibodies or antigens"],"answer":3,"sourceType":"SYLLABUS_BASED_PRACTICE"}
+      ]
+    }
+  ]
+}

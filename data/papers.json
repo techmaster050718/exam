@@ -170,6 +170,16 @@
     "negativeMark": 0.25
   },
   {
+    "id": "general-science-biology-master-001",
+    "subject": "general-science",
+    "title": "Biology Master Paper — 200 Questions",
+    "subtitle": "Competitive-exam syllabus practice; not an official previous-year paper",
+    "file": "data/general-science-biology-master-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
     "id": "geography-001",
     "subject": "geography",
     "title": "Indian Geography — Set 1",
