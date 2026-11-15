@@ -1,5 +1,17 @@
 # Data Structures – Complete Revision Notes
 > **Exam-Ready | Government Competitive Exams (GATE, SSC, Banking, NIC, ISRO)**
+> Last Updated: 2026-11-15
+
+---
+
+## Data structures command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Linear structures | Arrays, lists, stacks, queues, deques |
+| Non-linear structures | Trees, heaps, BST, balanced trees, graphs |
+| Advanced structures | Hash tables, tries, B-trees, B+ trees |
+| Complexity focus | Time/space complexity, traversal, insertion, search |
+| Exam approach | Definitions, diagrams, operation complexities, use cases |
 
 ---
 

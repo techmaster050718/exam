@@ -3,6 +3,18 @@
 > **Exam Focus:** SSC, UPSC, Railways, State PSC, NEET Prelims  
 > **Coverage:** Cell Biology → Ecology → Biotechnology  
 > **Style:** Tables, Must-Remember boxes, Traps
+> Last Updated: 2026-11-15
+
+---
+
+## Biology command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Cell biology | Cell organelles, mitosis, meiosis, cell types |
+| Human physiology | Digestive, circulatory, respiratory, excretory, nervous, endocrine systems |
+| Diagnosis & health | Blood groups, vitamins, hormones, diseases |
+| Reproduction & genetics | Heredity, sex determination, chromosome basics |
+| Ecology & biotechnology | Ecosystem, biodiversity, microbial applications |
 
 ---
 

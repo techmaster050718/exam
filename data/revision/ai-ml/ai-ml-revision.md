@@ -1,5 +1,17 @@
 # Artificial Intelligence, Machine Learning & Big Data Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## AI/ML command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Learning paradigms | Supervised, unsupervised, reinforcement |
+| Model evaluation | Confusion matrix, accuracy, precision, recall, F1 |
+| ML fundamentals | Bias-variance, regularization, activation functions |
+| Big data | Hadoop HDFS, MapReduce, Spark, distributed processing |
+| Exam focus | Definitions, formulas, trade-offs, architecture memory |
 
 ---
 

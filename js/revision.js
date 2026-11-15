@@ -7,6 +7,12 @@
 
   let revisionIndex = null;
   let activeModuleId = null;
+  const filterState = {
+    category: 'All',
+    exam: 'All',
+    depth: 'All',
+    time: 'All'
+  };
 
   const { App } = window;
   const themeToggle = document.getElementById('theme-toggle');
@@ -168,11 +174,71 @@
     }
   }
 
+  function moduleMatchesFilters(mod) {
+    const categoryFilter = filterState.category;
+    const examFilter = filterState.exam;
+    const depthFilter = filterState.depth;
+    const timeFilter = filterState.time;
+
+    if (categoryFilter !== 'All') {
+      const matchCategory =
+        (mod.subCategory && mod.subCategory.toLowerCase() === categoryFilter.toLowerCase()) ||
+        (mod.category && mod.category.toLowerCase() === categoryFilter.toLowerCase()) ||
+        (mod.tags && mod.tags.some(tag => tag.toLowerCase() === categoryFilter.toLowerCase())) ||
+        (mod.title && mod.title.toLowerCase().includes(categoryFilter.toLowerCase()));
+      if (!matchCategory) return false;
+    }
+
+    if (examFilter !== 'All') {
+      const exams = Array.isArray(mod.exams) ? mod.exams : [];
+      const examMatch = exams.some(exam => exam.toLowerCase() === examFilter.toLowerCase());
+      if (!examMatch) return false;
+    }
+
+    if (depthFilter !== 'All') {
+      const depth = (mod.depth || 'Standard').toLowerCase();
+      if (depth !== depthFilter.toLowerCase()) return false;
+    }
+
+    if (timeFilter !== 'All') {
+      const timeValue = (mod.estimatedTime || mod.estimatedReadMin ? `${mod.estimatedTime || mod.estimatedReadMin} min` : '').toLowerCase();
+      const normalized = timeFilter.toLowerCase();
+      if (normalized === '10 sec' && !String(mod.estimatedTime || '').toLowerCase().includes('10 sec')) return false;
+      if (normalized === '1 min' && !String(mod.estimatedTime || '').toLowerCase().includes('1 min')) return false;
+      if (normalized === '5 min' && !String(mod.estimatedTime || '').toLowerCase().includes('5 min')) return false;
+      if (normalized === 'deep revision' && !String(mod.depth || '').toLowerCase().includes('deep')) return false;
+    }
+
+    return true;
+  }
+
+  function getFilteredModules() {
+    if (!revisionIndex || !revisionIndex.modules) return [];
+    const queryValue = document.getElementById('revision-search')?.value?.toLowerCase().trim() || '';
+
+    return revisionIndex.modules.filter(mod => {
+      if (!moduleMatchesFilters(mod)) return false;
+      if (!queryValue) return true;
+
+      const haystack = [
+        mod.title,
+        mod.id,
+        mod.file,
+        mod.subCategory,
+        ...(mod.tags || []),
+        ...(mod.exams || []),
+        ...(mod.subtopics || [])
+      ].join(' ').toLowerCase();
+
+      return haystack.includes(queryValue);
+    });
+  }
+
   function renderSidebar(filteredModules = null) {
     const container = document.getElementById('sidebar-categories');
     if (!container || !revisionIndex) return;
 
-    const modulesToRender = filteredModules || revisionIndex.modules;
+    const modulesToRender = filteredModules || getFilteredModules();
     let html = '';
 
     for (let cat of revisionIndex.categories) {
@@ -190,9 +256,8 @@
       html += `</div>`;
     }
 
-    container.innerHTML = html;
+    container.innerHTML = html || '<div style="padding: 12px 0; color: var(--text-muted); font-size: 0.85rem;">No modules match the current filters.</div>';
 
-    // Attach click events
     container.querySelectorAll('.module-item').forEach(el => {
       el.addEventListener('click', () => {
         const modId = el.getAttribute('data-id');
@@ -205,22 +270,43 @@
     const searchInput = document.getElementById('revision-search');
     if (!searchInput) return;
 
-    searchInput.addEventListener('input', (e) => {
-      const q = e.target.value.toLowerCase().trim();
-      if (!q) {
-        renderSidebar();
-        return;
-      }
+    const updateFilteredModules = () => {
+      renderSidebar(getFilteredModules());
+    };
 
-      const filtered = revisionIndex.modules.filter(m => {
-        if (m.title.toLowerCase().includes(q)) return true;
-        if (m.id.toLowerCase().includes(q)) return true;
-        if (m.subtopics && m.subtopics.some(s => s.toLowerCase().includes(q))) return true;
-        return false;
+    searchInput.addEventListener('input', updateFilteredModules);
+
+    const categorySelect = document.getElementById('filter-category');
+    const examSelect = document.getElementById('filter-exam');
+    const depthSelect = document.getElementById('filter-depth');
+    const timeSelect = document.getElementById('filter-time');
+    const clearButton = document.getElementById('clear-filters');
+
+    [categorySelect, examSelect, depthSelect, timeSelect].forEach(select => {
+      if (!select) return;
+      select.addEventListener('change', () => {
+        filterState.category = document.getElementById('filter-category')?.value || 'All';
+        filterState.exam = document.getElementById('filter-exam')?.value || 'All';
+        filterState.depth = document.getElementById('filter-depth')?.value || 'All';
+        filterState.time = document.getElementById('filter-time')?.value || 'All';
+        renderSidebar(getFilteredModules());
       });
-
-      renderSidebar(filtered);
     });
+
+    if (clearButton) {
+      clearButton.addEventListener('click', () => {
+        filterState.category = 'All';
+        filterState.exam = 'All';
+        filterState.depth = 'All';
+        filterState.time = 'All';
+        if (categorySelect) categorySelect.value = 'All';
+        if (examSelect) examSelect.value = 'All';
+        if (depthSelect) depthSelect.value = 'All';
+        if (timeSelect) timeSelect.value = 'All';
+        searchInput.value = '';
+        renderSidebar();
+      });
+    }
   }
 
   async function loadModule(modId) {

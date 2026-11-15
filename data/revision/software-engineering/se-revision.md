@@ -1,5 +1,17 @@
 # Software Engineering & SDLC Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Software engineering command map
+| Domain | Core recall points |
+| :--- | :--- |
+| SDLC & models | Waterfall, V-model, Spiral, Agile, Scrum |
+| Project measurement | COCOMO, cyclomatic complexity, velocity, burn-down |
+| Quality & testing | Black-box, white-box, unit, integration, system, acceptance |
+| Design principles | Cohesion, coupling, modularity, maintainability |
+| Exam focus | Process model selection, metrics, testing principles |
 
 ---
 

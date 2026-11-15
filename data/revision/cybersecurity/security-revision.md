@@ -1,5 +1,17 @@
 # Information Security & Cryptography Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Cybersecurity command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Cryptography | DES, 3DES, AES, RSA, ECC, SHA-256 |
+| Digital trust | Hashing, signatures, PKI, non-repudiation |
+| Web security | OWASP, XSS, SQLi, CSRF, SSRF |
+| Governance | Zero Trust, IAM, MFA, PCI-DSS, RBI breach reporting |
+| Exam focus | Algorithms, security principles, web attack defenses |
 
 ---
 

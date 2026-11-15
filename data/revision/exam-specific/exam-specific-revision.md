@@ -1,5 +1,17 @@
 # Exam-Specific Target Revision Modules
 > **Tailored High-Yield Reference Mapped to All Uploaded Question Bank Papers**
+> Last Updated: 2026-11-15
+
+---
+
+## Exam-specific command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Target exams | IBPS SO IT, UP Police SI, RRB ALP, CDS/CAPF, ISRO/DRDO/NIC |
+| High-yield topics | DBMS, networking, OS, DS, SE, cyber, law, GK, English |
+| Exam pattern | Prelims vs mains, fixed-role subject focus, weighted subtopics |
+| Strategy | Topic prioritization, repeated concepts, paper-specific recall |
+| Exam use | Direct revision anchor for uploaded question banks and exam blueprints |
 
 ---
 

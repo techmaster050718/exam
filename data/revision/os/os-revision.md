@@ -1,6 +1,19 @@
 # Operating Systems — Exam Revision
 
 > **Exam Focus:** Process Management, Scheduling, Synchronization, Memory, File Systems, I/O, Disk Scheduling
+> Last Updated: 2026-11-15
+
+---
+
+## OS command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Process model | PCB, states, context switch, transitions |
+| Scheduling | FCFS, SJF, SRTF, priority, RR, MLFQ |
+| Synchronization | Race conditions, critical section, mutex, semaphores, deadlock |
+| Memory | Paging, segmentation, virtual memory, TLB, page replacement |
+| Storage & I/O | File systems, inode, disks, DMA, buffering |
+| Exam focus | Definitions, algorithm trade-offs, didactic comparisons |
 
 ---
 

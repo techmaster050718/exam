@@ -1,5 +1,18 @@
 # Indian Polity & Constitution Revision Notes
 > **Exam-Ready Reference | Competitive Exams (UPSC, UP Police SI, CDS, CAPF, SSC, State PSC)**
+> Last Updated: 2026-11-15
+
+---
+
+## Polity command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Preamble & basics | Adopting date, borrowed features, 42nd Amendment, identity clauses |
+| Fundamental rights | Equality, freedom, religion, exploitation, minority rights, remedies |
+| Constitutional bodies | EC, CAG, UPSC, Finance Commission, AGI |
+| Emergency provisions | National, state, financial emergencies |
+| Schedules | 1 to 12 and their principal functions |
+| Federal structure | Union, State, Concurrent lists and constitutional design |
 
 ---
 

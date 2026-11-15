@@ -1,5 +1,17 @@
 # English Language & Verbal Ability Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO, CDS, CAPF, SSC CGL, Banking)**
+> Last Updated: 2026-11-15
+
+---
+
+## English command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Grammar | Subject-verb agreement, active/passive, tense rules, modifiers |
+| Vocabulary | Idioms, one-word substitutions, phrasal verbs, collocations |
+| Sentence logic | Error detection, para-jumbles, conjunctions, pronouns |
+| Writing skills | Precis, sentence improvement, cloze tests, comprehension |
+| Exam strategy | Rule-based recall, pattern recognition, elimination |
 
 ---
 

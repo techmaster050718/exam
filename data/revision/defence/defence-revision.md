@@ -1,5 +1,17 @@
 # Defence, Armed Forces & Security Revision Notes
 > **Exam-Ready Reference | Competitive Exams (CDS, CAPF AC, SSB OIR, AFCAT, NDA)**
+> Last Updated: 2026-11-15
+
+---
+
+## Defence command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Service structure | Army, Navy, Air Force, Coast Guard, CAPFs, strategic commands |
+| Command architecture | 7 army commands, 3 naval commands, 7 air force commands, ANC, SFC |
+| Strategic systems | Agni, BrahMos, Akash, Prithvi, Nag, Barak-8 |
+| Security institutions | DRDO, HAL, BEL, BDL, MHA, CAPFs, intelligence agencies |
+| Operational relevance | Border security, maritime security, air defence, jointness, HADR |
 
 ---
 

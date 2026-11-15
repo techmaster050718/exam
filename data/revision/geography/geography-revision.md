@@ -1,5 +1,17 @@
 # Geography – Physical & Indian Geography Revision Notes
 > **Exam-Ready Reference | Competitive Exams (UPSC, UP Police SI, CDS, CAPF, SSC, State PSC)**
+> Last Updated: 2026-11-15
+
+---
+
+## Geography command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Physical geography | Earth interior, atmosphere, landforms, weather, climate systems |
+| Indian drainage | Himalayan rivers, peninsular rivers, dams, river basins |
+| Ecology & biodiversity | National parks, biosphere reserves, wildlife, forests |
+| Indian geography | Soil, agriculture, climate regions, resource geography |
+| Exam approach | Maps, tables, flows, river systems, strategic geography |
 
 ---
 

@@ -1,5 +1,17 @@
 # Algorithmic Complexity & Asymptotic Analysis
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Complexity command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Growth hierarchy | O(1), O(log n), O(n), O(n log n), O(n²), O(2ⁿ), O(n!) |
+| Asymptotic notation | Big-O, Big-Omega, Big-Theta, little-o, little-omega |
+| Recurrence analysis | Master theorem, recurrence patterns, divide-and-conquer |
+| Loop analysis | Single loops, nested loops, geometric progressions |
+| Exam focus | Complexity comparison and recurrence reasoning |
 
 ---
 

@@ -1,6 +1,19 @@
 # 📐 Quantitative Aptitude — Complete Revision Guide
 > **Exam-Oriented | Formula + Example + Shortcut + Common Trap**
 > Covers: SSC, IBPS, SBI, RRB, UPSC CSAT, and all competitive exams
+> Last Updated: 2026-11-15
+
+---
+
+## Aptitude command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Arithmetic | Percentage, profit-loss, discount, SI, CI, ratio, averages |
+| Time & work | Work-rate, pipes, efficiency, wages, combined work |
+| Speed & distance | Time, speed, relative motion, boats, trains |
+| Algebra & numbers | Simplification, identities, surds, linear/quadratic equations |
+| Geometry & mensuration | 2D/3D formulas, area, volume, surface area |
+| Data & probability | DI, probability, permutations, combinations |
 
 ---
 

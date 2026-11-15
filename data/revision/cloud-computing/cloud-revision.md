@@ -1,5 +1,17 @@
 # ☁️ CLOUD COMPUTING — COMPLETE REVISION GUIDE
 > Government Exam Oriented | Covers AWS, Azure, DevOps, Security, Cost
+> Last Updated: 2026-11-15
+
+---
+
+## Cloud command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Service models | IaaS, PaaS, SaaS, FaaS and responsibility split |
+| Deployment models | Public, private, hybrid, multi-cloud |
+| Virtualization | Hypervisors, VMs, containers, isolation trade-offs |
+| Orchestration | Docker, Kubernetes pods, deployments, services |
+| Exam focus | Cloud responsibility, deployment choices, architecture memory |
 
 ---
 

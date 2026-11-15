@@ -1,5 +1,17 @@
 # Computer Networks – Complete Exam Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Networks command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Architecture | OSI vs TCP/IP, layers and PDUs |
+| Addressing & routing | IPv4, subnetting, ARP, DNS, DHCP, routing protocols |
+| Transport | TCP vs UDP, handshake, teardown, ports |
+| Security & application | HTTP, HTTPS, SMTP, FTP, SSH, firewalls, status codes |
+| Exam focus | Layer mapping, protocol behaviour, header logic, routing concepts |
 
 ---
 

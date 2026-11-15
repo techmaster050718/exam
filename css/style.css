@@ -318,7 +318,6 @@ img, svg { max-width: 100%; display: block; }
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-}
 .topbar-brand span { color: var(--accent); }
 
 .topbar-actions { display: flex; align-items: center; gap: var(--space-sm); }

@@ -1,5 +1,17 @@
 # Banking Technology, Digital Payments & IT Governance Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, SBI SO, FinTech)**
+> Last Updated: 2026-11-15
+
+---
+
+## Banking technology command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Payment rails | UPI, IMPS, NEFT, RTGS, NPCI payment architecture |
+| Core banking | CBS, Finacle, BaNCS, Flexcube, HA/DR architecture |
+| Messaging standards | ISO 8583, ISO 20022, SWIFT, IFSC, MICR, CTS |
+| Governance & risk | RBI, digital security, IT controls, fraud prevention |
+| Exam focus | Payment settlement logic, bank IT architecture, compliance terms |
 
 ---
 

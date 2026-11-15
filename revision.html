@@ -28,6 +28,31 @@
       max-height: calc(100vh - 100px);
       overflow-y: auto;
     }
+    .filter-group {
+      margin-bottom: 12px;
+    }
+    .filter-label {
+      display: block;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted, #666);
+      margin-bottom: 6px;
+    }
+    .filter-select {
+      width: 100%;
+      padding: 9px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--border-color, rgba(0,0,0,0.15));
+      background: var(--input-bg, #fff);
+      color: var(--text-color, #111);
+      font-size: 0.85rem;
+      outline: none;
+    }
+    .filter-actions {
+      margin: 10px 0 14px;
+    }
     .revision-search {
       width: 100%;
       padding: 10px 14px;
@@ -138,9 +163,9 @@
     
     <!-- Hero Header -->
     <section class="home-hero" style="text-align: left; padding: 24px 0 12px 0;">
-      <h1 style="font-size: 2rem; margin-bottom: 8px;">📖 Master Revision Section</h1>
+      <h1 style="font-size: 2rem; margin-bottom: 8px;">📖 General Awareness Command Center</h1>
       <p style="color: var(--text-muted, #666); font-size: 1rem; margin: 0;">
-        High-density formula sheets, diagrams, shortcuts, and memory tricks for all subjects in the question bank.
+        High-density revision for India GK, defence, intelligence, UP, Gorakhpur, technology, security, geopolitics, and current affairs.
       </p>
     </section>
 
@@ -148,6 +173,73 @@
     <div class="revision-layout">
       <!-- Left Sidebar: Modules & Search -->
       <aside class="revision-sidebar" aria-label="Revision Topics">
+        <div class="filter-group">
+          <label class="filter-label" for="filter-category">Category</label>
+          <select id="filter-category" class="filter-select">
+            <option value="All">All</option>
+            <option value="India">India</option>
+            <option value="Defence">Defence</option>
+            <option value="Army">Army</option>
+            <option value="Navy">Navy</option>
+            <option value="Air Force">Air Force</option>
+            <option value="Special Forces">Special Forces</option>
+            <option value="Intelligence">Intelligence</option>
+            <option value="Police">Police</option>
+            <option value="CAPF">CAPF</option>
+            <option value="UP">UP</option>
+            <option value="Gorakhpur">Gorakhpur</option>
+            <option value="Technology">Technology</option>
+            <option value="Cyber">Cyber</option>
+            <option value="Space">Space</option>
+            <option value="Nuclear">Nuclear</option>
+            <option value="IR">IR</option>
+            <option value="Neighbours">Neighbours</option>
+            <option value="Wars">Wars</option>
+            <option value="Global Hotspots">Global Hotspots</option>
+            <option value="Current Affairs">Current Affairs</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-exam">Exam</label>
+          <select id="filter-exam" class="filter-select">
+            <option value="All">All</option>
+            <option value="CDS">CDS</option>
+            <option value="AFCAT">AFCAT</option>
+            <option value="CAPF">CAPF</option>
+            <option value="SSB">SSB</option>
+            <option value="UP SI">UP SI</option>
+            <option value="IBPS">IBPS</option>
+            <option value="SBI SO">SBI SO</option>
+            <option value="General Government Exams">General Government Exams</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-depth">Depth</label>
+          <select id="filter-depth" class="filter-select">
+            <option value="All">All</option>
+            <option value="Quick">Quick</option>
+            <option value="Standard">Standard</option>
+            <option value="Deep">Deep</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-time">Time</label>
+          <select id="filter-time" class="filter-select">
+            <option value="All">All</option>
+            <option value="10 sec">10 sec</option>
+            <option value="1 min">1 min</option>
+            <option value="5 min">5 min</option>
+            <option value="Deep Revision">Deep Revision</option>
+          </select>
+        </div>
+
+        <div class="filter-actions">
+          <button id="clear-filters" class="btn btn-outline" type="button">Clear Filters</button>
+        </div>
+
         <input type="text" id="revision-search" class="revision-search" placeholder="🔍 Search topics or formulas..." autocomplete="off">
         <div id="sidebar-categories">
           <!-- Populated by js/revision.js -->

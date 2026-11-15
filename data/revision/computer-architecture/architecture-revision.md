@@ -1,5 +1,17 @@
 # Computer Architecture — Revision Notes
 > **Exam Focus:** Concepts, formulas, ASCII diagrams, and traps for competitive/government exams.
+> Last Updated: 2026-11-15
+
+---
+
+## Architecture command map
+| Domain | Core recall points |
+| :--- | :--- |
+| CPU organization | ALU, CU, registers, buses, instruction cycle |
+| Memory hierarchy | Registers, cache, RAM, SSD, HDD, latency and hierarchy |
+| Cache design | Direct, associative, set-associative, write policies |
+| Performance | Hit time, miss penalty, AMAT, cache trade-offs |
+| Exam focus | Functional block diagrams, mapping rules, memory reasoning |
 
 ---
 

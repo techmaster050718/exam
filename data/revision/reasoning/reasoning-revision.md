@@ -1,5 +1,17 @@
 # REASONING ABILITY — COMPLETE REVISION GUIDE
 ### Government Exam Master Reference | All Topics | Shortcuts | Traps
+> Last Updated: 2026-11-15
+
+---
+
+## Reasoning command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Number & alphabet logic | Series, coding, odd one out, ranking |
+| Verbal reasoning | Analogy, blood relations, direction sense, syllogism |
+| Non-verbal reasoning | Mirror image, paper folding, embedded figures |
+| Logical structures | Seating arrangements, puzzles, Venn diagrams, assumptions |
+| Quantitative logic | Number series, coding-decoding, clock, calendars |
 
 ---
 

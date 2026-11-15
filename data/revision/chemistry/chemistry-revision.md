@@ -1,5 +1,17 @@
 # General Science – Chemistry Revision Notes
 > **Exam-Ready Reference | Competitive Exams (RRB ALP, CDS, CAPF, SSC, State PSC)**
+> Last Updated: 2026-11-15
+
+---
+
+## Chemistry command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Atomic structure | Subatomic particles, periodic trends, orbital principles |
+| Inorganic chemistry | Compounds, acids, bases, salts, metals, alloys |
+| Physical chemistry | Mole concept, reactions, equilibria, pH, solutions |
+| Organic basics | Hydrocarbons, functional groups, reactions, nomenclature |
+| Exam strategy | Memory tables, formulas, practical uses, common compounds |
 
 ---
 

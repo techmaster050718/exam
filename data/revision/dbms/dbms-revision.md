@@ -1,5 +1,17 @@
 # Database Management Systems (DBMS) & SQL Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## DBMS command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Data model | ER model, cardinality, participation, keys |
+| Relational design | Normal forms, dependency rules, key hierarchy |
+| SQL | DDL/DML, joins, aggregations, window functions |
+| Transactions | ACID, isolation levels, locking, concurrency |
+| Exam focus | Schema design, query reasoning, normalization, transaction anomalies |
 
 ---
 

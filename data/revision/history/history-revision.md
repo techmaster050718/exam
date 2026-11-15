@@ -1,6 +1,17 @@
 # 📜 HISTORY REVISION — Government Exam Master File
 > **Format:** Timeline + Tables | **Coverage:** Ancient → Medieval → Modern India
-> **Last Updated:** 2026 | **Exam Relevance:** UPSC / SSC / State PCS / RRB
+> **Last Updated:** 2026-11-15 | **Exam Relevance:** UPSC / SSC / State PCS / RRB
+
+---
+
+## History command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Ancient India | IVC, Vedic Age, Buddhism, Jainism, Mauryan, Gupta, Sangam |
+| Medieval India | Delhi Sultanate, Rajput states, Bhakti movement, Mughal Empire |
+| Modern India | 1857 revolt, nationalism, freedom struggle, 1947, post-independence polity |
+| Regional significance | Ancient sites, dynasties, cultural flows, ecology and political change |
+| Exam method | Timeline, key rulers, dates, movements, social and economic change |
 
 ---
 

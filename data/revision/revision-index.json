@@ -3,7 +3,7 @@
   "description": "High-density exam revision materials covering all 79 papers and 21 exam subjects present in the question bank.",
   "version": "1.0",
   "lastUpdated": "2026-11-15",
-  "totalModules": 26,
+  "totalModules": 43,
   "totalLines": 8965,
   "totalWords": 56361,
   "categories": [
@@ -79,6 +79,31 @@
         "data/revision/defence/defence-revision.md",
         "data/revision/general-awareness/general-awareness-revision.md",
         "data/revision/exam-specific/exam-specific-revision.md"
+      ]
+    },
+    {
+      "id": "general-awareness-command-center",
+      "name": "General Awareness Command Center",
+      "icon": "🛰️",
+      "description": "India GK, Defence, Police, Intelligence, UP, Gorakhpur, Technology, Security, Geopolitics, Current Affairs",
+      "files": [
+        "data/revision/general-awareness/india-master-gk.md",
+        "data/revision/general-awareness/defence-command-center.md",
+        "data/revision/general-awareness/special-forces-command-center.md",
+        "data/revision/general-awareness/indian-military-operations.md",
+        "data/revision/general-awareness/intelligence-security-command-center.md",
+        "data/revision/general-awareness/police-capf-command-center.md",
+        "data/revision/general-awareness/up-gk-command-center.md",
+        "data/revision/general-awareness/gorakhpur-command-center.md",
+        "data/revision/general-awareness/neighbours-and-ir.md",
+        "data/revision/general-awareness/current-wars-hotspots.md",
+        "data/revision/general-awareness/technology-and-cyber-command-center.md",
+        "data/revision/general-awareness/space-command-center.md",
+        "data/revision/general-awareness/nuclear-command-center.md",
+        "data/revision/general-awareness/defence-technology-command-center.md",
+        "data/revision/general-awareness/defence-exercises-command-center.md",
+        "data/revision/general-awareness/exam-revision-layer.md",
+        "data/revision/general-awareness/quick-revision-layer.md"
       ]
     }
   ],
@@ -592,6 +617,717 @@
         "3. SOFTWARE METRICS & COCOMO",
         "4. SOFTWARE TESTING METHODOLOGIES",
         "5. MUST REMEMBER & COMMON TRAPS"
+      ]
+    },
+    {
+      "id": "india-master-gk",
+      "title": "India Master GK Command Center",
+      "file": "data/revision/general-awareness/india-master-gk.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 87,
+      "wordCount": 1200,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 9,
+      "subtopics": [
+        "1. CONSTITUTIONAL BASICS",
+        "2. NATIONAL SYMBOLS",
+        "3. GEOGRAPHY & STATES",
+        "4. RIVERS & PHYSICAL FEATURES",
+        "5. DAMS & PORTS",
+        "6. INSTITUTIONS & ECONOMY",
+        "7. HISTORY & FREEDOM MOVEMENT",
+        "8. AWARDS & FIRSTS",
+        "9. QUICK REVISION"
+      ],
+      "subCategory": "India",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "CAPF",
+        "UP SI",
+        "SSB",
+        "General Government Exams"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "NCERT",
+        "PIB",
+        "Census",
+        "Official government portals"
+      ],
+      "tags": [
+        "India",
+        "Geography",
+        "History",
+        "Constitution",
+        "Economy"
+      ]
+    },
+    {
+      "id": "defence-command-center",
+      "title": "Indian Defence Command Center",
+      "file": "data/revision/general-awareness/defence-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 123,
+      "wordCount": 1650,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 10,
+      "subtopics": [
+        "1. ARMY COMMANDS & RANKS",
+        "2. INDIAN NAVY",
+        "3. INDIAN AIR FORCE",
+        "4. SPECIAL FORCES",
+        "5. MISSILES & DEFENCE TECH",
+        "6. EXERCISES",
+        "7. DEFENCE ORGANIZATIONS",
+        "8. MILITARY OPERATIONS",
+        "9. QUICK REVISION",
+        "10. COMMON TRAPS"
+      ],
+      "subCategory": "Defence",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "SSB"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MoD",
+        "PIB",
+        "Official service history"
+      ],
+      "tags": [
+        "Defence",
+        "Army",
+        "Navy",
+        "Air Force",
+        "Special Forces"
+      ]
+    },
+    {
+      "id": "intelligence-security-command-center",
+      "title": "Intelligence & Security Command Center",
+      "file": "data/revision/general-awareness/intelligence-security-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 81,
+      "wordCount": 1185,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. AGENCY OVERVIEW",
+        "2. RAW",
+        "3. IB",
+        "4. NIA & CBI",
+        "5. NSG",
+        "6. INTERNAL SECURITY",
+        "7. SECTION COMPARISON",
+        "8. QUICK REVISION"
+      ],
+      "subCategory": "Intelligence",
+      "exams": [
+        "CAPF",
+        "CDS",
+        "SSB",
+        "UP SI"
+      ],
+      "depth": "Standard",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MHA",
+        "PIB",
+        "Official public institutional histories"
+      ],
+      "tags": [
+        "Intelligence",
+        "Security",
+        "IB",
+        "RAW",
+        "NIA",
+        "NSG"
+      ]
+    },
+    {
+      "id": "up-gk-command-center",
+      "title": "Uttar Pradesh GK Command Center",
+      "file": "data/revision/general-awareness/up-gk-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 90,
+      "wordCount": 1300,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. GEOGRAPHY",
+        "2. HISTORY & CULTURE",
+        "3. ECONOMY",
+        "4. POLITY",
+        "5. DEFENCE & SECURITY",
+        "6. IMPORTANT CITIES",
+        "7. QUICK REVISION",
+        "8. EXAM TRAPS"
+      ],
+      "subCategory": "UP",
+      "exams": [
+        "UP SI",
+        "General Government Exams",
+        "CAPF"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "UP government",
+        "Census",
+        "District profiles"
+      ],
+      "tags": [
+        "UP",
+        "Geography",
+        "Economy",
+        "Police",
+        "History"
+      ]
+    },
+    {
+      "id": "gorakhpur-command-center",
+      "title": "Gorakhpur GK Command Center",
+      "file": "data/revision/general-awareness/gorakhpur-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 75,
+      "wordCount": 1050,
+      "estimatedReadMin": 7,
+      "subtopicsCount": 7,
+      "subtopics": [
+        "1. GEOGRAPHY",
+        "2. HISTORY & CULTURE",
+        "3. INSTITUTIONS",
+        "4. RAILWAY IMPORTANCE",
+        "5. ECONOMY",
+        "6. WHY GORAKHPUR MATTERS",
+        "7. QUICK REVISION"
+      ],
+      "subCategory": "Gorakhpur",
+      "exams": [
+        "UP SI",
+        "General Government Exams"
+      ],
+      "depth": "Standard",
+      "estimatedTime": "4 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "District profiles",
+        "Railway notices",
+        "Official institutions"
+      ],
+      "tags": [
+        "Gorakhpur",
+        "UP",
+        "Railways",
+        "Education",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "neighbours-and-ir",
+      "title": "Neighbours, International Relations & Strategic Hotspots",
+      "file": "data/revision/general-awareness/neighbours-and-ir.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 100,
+      "wordCount": 1460,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 9,
+      "subtopics": [
+        "1. NEIGHBOUR COUNTRY MATRIX",
+        "2. INDIA–CHINA",
+        "3. INDIA–PAKISTAN",
+        "4. INTERNATIONAL ORGANIZATIONS",
+        "5. INDO-PACIFIC FRAMEWORKS",
+        "6. MARITIME CHOKEPOINTS",
+        "7. GLOBAL HOTSPOTS",
+        "8. QUICK REVISION",
+        "9. SOURCE POLICY"
+      ],
+      "subCategory": "IR",
+      "exams": [
+        "CDS",
+        "SSB",
+        "CAPF",
+        "General Government Exams"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MEA",
+        "PIB",
+        "Official international institutions"
+      ],
+      "tags": [
+        "IR",
+        "Neighbours",
+        "China",
+        "Pakistan",
+        "Indo-Pacific"
+      ]
+    },
+    {
+      "id": "current-wars-hotspots",
+      "title": "Current Wars, Global Hotspots & Dynamic Affairs Tracker",
+      "file": "data/revision/general-awareness/current-wars-hotspots.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 68,
+      "wordCount": 980,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. DYNAMIC TRACKER FORMAT",
+        "2. CONFLICT ZONES",
+        "3. STRATEGIC HOTSPOTS",
+        "4. CURRENT AFFAIRS CATEGORIES",
+        "5. DATE STAMPING RULE",
+        "6. QUICK REVISION"
+      ],
+      "subCategory": "Current Affairs",
+      "exams": [
+        "CDS",
+        "SSB",
+        "General Government Exams"
+      ],
+      "depth": "Standard",
+      "estimatedTime": "4 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "Official statements",
+        "Public reporting",
+        "Reliable institutions"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Wars",
+        "Hotspots",
+        "Geopolitics"
+      ]
+    },
+    {
+      "id": "technology-and-cyber-command-center",
+      "title": "Technology, Cybersecurity & National Security Command Center",
+      "file": "data/revision/general-awareness/technology-and-cyber-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 94,
+      "wordCount": 1350,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. CYBERSECURITY BASICS",
+        "2. AI & DEEPFAKES",
+        "3. EMERGING TECHNOLOGIES",
+        "4. SPACE & DEFENCE TECH",
+        "5. NUCLEAR SECURITY",
+        "6. EMERGING WARFARE",
+        "7. QUICK REVISION",
+        "8. SOURCE POLICY"
+      ],
+      "subCategory": "Technology",
+      "exams": [
+        "IBPS",
+        "SBI SO",
+        "CDS",
+        "SSB",
+        "General Government Exams"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "CERT-In",
+        "ISRO",
+        "DRDO",
+        "Public policy documents"
+      ],
+      "tags": [
+        "Cyber",
+        "AI",
+        "Space",
+        "Nuclear",
+        "Defence Technology"
+      ]
+    },
+    {
+      "id": "indian-military-operations",
+      "title": "Indian Military Operations — Chronological Revision",
+      "file": "data/revision/general-awareness/indian-military-operations.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 166,
+      "wordCount": 2200,
+      "estimatedReadMin": 12,
+      "subtopicsCount": 10,
+      "subtopics": [
+        "1. 1947–48 KASHMIR",
+        "2. GOA 1961",
+        "3. 1965 WAR",
+        "4. 1971 BANGLADESH WAR",
+        "5. OPERATION TRIDENT",
+        "6. SIACHEN 1984",
+        "7. OPERATION PAWAN",
+        "8. KARGIL 1999",
+        "9. 26/11 SECURITY RESPONSE",
+        "10. SURGICAL STRIKES & BALAKOT"
+      ],
+      "subCategory": "Defence",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "SSB"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "6 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MoD",
+        "Official military histories",
+        "Public records"
+      ],
+      "tags": [
+        "Operations",
+        "War",
+        "India",
+        "Defence",
+        "Kargil"
+      ]
+    },
+    {
+      "id": "police-capf-command-center",
+      "title": "Police, CAPFs & Internal Security Command Center",
+      "file": "data/revision/general-awareness/police-capf-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 93,
+      "wordCount": 1240,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. POLICE HIERARCHY",
+        "2. CAPFS",
+        "3. SPECIAL POLICE UNITS",
+        "4. INTERNAL SECURITY",
+        "5. UP POLICE",
+        "6. AGENCY COMPARISON",
+        "7. FAST REVISION",
+        "8. TRAPS"
+      ],
+      "subCategory": "Police",
+      "exams": [
+        "CAPF",
+        "UP SI",
+        "General Government Exams",
+        "CDS"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MHA",
+        "State police portals",
+        "Official public records"
+      ],
+      "tags": [
+        "Police",
+        "CAPF",
+        "Internal Security",
+        "ATS",
+        "STF"
+      ]
+    },
+    {
+      "id": "special-forces-command-center",
+      "title": "Special Forces Command Center",
+      "file": "data/revision/general-awareness/special-forces-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 94,
+      "wordCount": 1420,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. SPECIAL FORCES ECOSYSTEM",
+        "2. PARA SF",
+        "3. MARCOS",
+        "4. GARUD",
+        "5. SFF",
+        "6. NSG",
+        "7. QUICK REVISION",
+        "8. EXAM TRAPS"
+      ],
+      "subCategory": "Special Forces",
+      "exams": [
+        "CDS",
+        "CAPF",
+        "SSB",
+        "General Government Exams"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MoD",
+        "Service public briefs",
+        "Official institutional material"
+      ],
+      "tags": [
+        "Special Forces",
+        "Army",
+        "Navy",
+        "Air Force",
+        "Defence"
+      ]
+    },
+    {
+      "id": "space-command-center",
+      "title": "Space Command Center",
+      "file": "data/revision/general-awareness/space-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 98,
+      "wordCount": 1460,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. INDIAN SPACE ECOSYSTEM",
+        "2. LAUNCH VEHICLES",
+        "3. SATELLITE TYPES",
+        "4. MAJOR MISSIONS",
+        "5. DEFENCE RELEVANCE",
+        "6. QUICK REVISION",
+        "7. TRAPS",
+        "8. VERIFICATION"
+      ],
+      "subCategory": "Space",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "General Government Exams",
+        "IBPS"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "ISRO",
+        "Public mission documents",
+        "Official government releases"
+      ],
+      "tags": [
+        "Space",
+        "ISRO",
+        "Launch Vehicles",
+        "NavIC",
+        "Defence"
+      ]
+    },
+    {
+      "id": "nuclear-command-center",
+      "title": "Nuclear Command Center",
+      "file": "data/revision/general-awareness/nuclear-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 90,
+      "wordCount": 1380,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. NUCLEAR BASICS",
+        "2. INDIAN INSTITUTIONS",
+        "3. CIVILIAN NUCLEAR POWER",
+        "4. STRATEGIC CONTEXT",
+        "5. NON-PROLIFERATION",
+        "6. INDIA’S POSITION",
+        "7. QUICK REVISION",
+        "8. TRAPS"
+      ],
+      "subCategory": "Nuclear",
+      "exams": [
+        "CDS",
+        "General Government Exams",
+        "AFCAT",
+        "CAPF"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "DAE",
+        "BARC",
+        "NPCIL",
+        "IAEA"
+      ],
+      "tags": [
+        "Nuclear",
+        "BARC",
+        "DAE",
+        "Strategic Security",
+        "Energy"
+      ]
+    },
+    {
+      "id": "defence-technology-command-center",
+      "title": "Defence Technology Command Center",
+      "file": "data/revision/general-awareness/defence-technology-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 96,
+      "wordCount": 1510,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 8,
+      "subtopics": [
+        "1. TECHNOLOGY DOMAINS",
+        "2. MISSILES",
+        "3. AIR DEFENCE",
+        "4. AIRCRAFT & DRONES",
+        "5. NAVAL TECHNOLOGY",
+        "6. EW & RADAR",
+        "7. QUICK REVISION",
+        "8. TRAPS"
+      ],
+      "subCategory": "Defence Technology",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "General Government Exams",
+        "CAPF"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "DRDO",
+        "MoD",
+        "Public defence procurement",
+        "Service public information"
+      ],
+      "tags": [
+        "Defence Technology",
+        "Missiles",
+        "Radar",
+        "EW",
+        "ISR"
+      ]
+    },
+    {
+      "id": "defence-exercises-command-center",
+      "title": "Defence Exercises Command Center",
+      "file": "data/revision/general-awareness/defence-exercises-command-center.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 82,
+      "wordCount": 1295,
+      "estimatedReadMin": 8,
+      "subtopicsCount": 7,
+      "subtopics": [
+        "1. EXERCISE MATRIX",
+        "2. TRI-SERVICE DRILLS",
+        "3. ARMY EXERCISES",
+        "4. NAVY EXERCISES",
+        "5. AIR EXERCISES",
+        "6. QUICK REVISION",
+        "7. TRAPS"
+      ],
+      "subCategory": "Exercises",
+      "exams": [
+        "CDS",
+        "AFCAT",
+        "CAPF",
+        "General Government Exams"
+      ],
+      "depth": "Deep",
+      "estimatedTime": "5 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "MoD",
+        "Service HQ releases",
+        "Public defence cooperation updates"
+      ],
+      "tags": [
+        "Exercises",
+        "Defence",
+        "Maritime",
+        "Indo-Pacific",
+        "Joint Operations"
+      ]
+    },
+    {
+      "id": "exam-revision-layer",
+      "title": "Exam Revision Layer",
+      "file": "data/revision/general-awareness/exam-revision-layer.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 72,
+      "wordCount": 1110,
+      "estimatedReadMin": 7,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. INDIA GK FACTS",
+        "2. DEFENCE FACTS",
+        "3. IR FACTS",
+        "4. POLICE FACTS",
+        "5. QUICK RECALL",
+        "6. FINAL EXAM FOCUS"
+      ],
+      "subCategory": "Exam Revision",
+      "exams": [
+        "CDS",
+        "CAPF",
+        "UP SI",
+        "General Government Exams"
+      ],
+      "depth": "Standard",
+      "estimatedTime": "10 sec",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "Compiled static modules",
+        "Official institutional references"
+      ],
+      "tags": [
+        "Exam Revision",
+        "GK",
+        "Defence",
+        "Security",
+        "IR"
+      ]
+    },
+    {
+      "id": "quick-revision-layer",
+      "title": "Quick Revision Layer",
+      "file": "data/revision/general-awareness/quick-revision-layer.md",
+      "category": "general-awareness-command-center",
+      "lineCount": 69,
+      "wordCount": 980,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. 5-MINUTE REVISION",
+        "2. 15-MINUTE REVISION",
+        "3. 30-MINUTE REVISION",
+        "4. 1-HOUR REVISION",
+        "5. ACRONYMS",
+        "6. MEMORY RULE"
+      ],
+      "subCategory": "Quick Revision",
+      "exams": [
+        "CDS",
+        "CAPF",
+        "UP SI",
+        "General Government Exams"
+      ],
+      "depth": "Quick",
+      "estimatedTime": "1 min",
+      "lastUpdated": "2026-11-15",
+      "sources": [
+        "Compiled command-center modules",
+        "Public official sources"
+      ],
+      "tags": [
+        "Quick Revision",
+        "GK",
+        "Defence",
+        "Security",
+        "IR"
       ]
     }
   ]

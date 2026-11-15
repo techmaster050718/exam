@@ -1,5 +1,16 @@
 # High-Frequency Number Tables & Speed Math Shortcuts
 > **Essential Mental Arithmetic | Government Exams (IBPS, SBI, RRB, SSC, Defence)**
+> Last Updated: 2026-11-15
+
+---
+
+## Speed-math command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Number tables | Powers of 2, 3, 10; squares; cubes; factorials; roots |
+| Quick conversion | Fractions, percentages, decimals, ratios |
+| Mental arithmetic | Shortcuts, memory hooks, rapid recall for exams |
+| Exam use | Speed boosts, approximation, risk-free quick checks |
 
 ---
 

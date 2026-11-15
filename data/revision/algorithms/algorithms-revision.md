@@ -1,5 +1,17 @@
 # Algorithms – Searching & Sorting Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Algorithms command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Search | Linear search, binary search, BFS, DFS, hash search |
+| Sort | Bubble, selection, insertion, merge, quick, heap, counting, radix, bucket |
+| Complexity | Best/average/worst time, stability, in-place, recursion space |
+| Design strategy | Divide-and-conquer, greedy intuition, comparison bounds |
+| Exam focus | Algorithm choice, time complexity, edge-case traps |
 
 ---
 

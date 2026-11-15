@@ -1,5 +1,18 @@
 # General Awareness & Static GK Revision Notes
 > **Exam-Ready Reference | Competitive Exams (IBPS, CDS, CAPF, UP Police SI, SSC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Static GK command map
+| Domain | Core recall points |
+| :--- | :--- |
+| International bodies | UN, IMF, World Bank, WHO, WTO, ASEAN, BRICS, SAARC, BIMSTEC, ASEAN, AIIB |
+| Awards & honours | Bharat Ratna, Param Vir Chakra, Ashoka Chakra, Jnanpith, Khel Ratna |
+| National days | Independence Day, Constitution Day, Army Day, Navy Day, Air Force Day |
+| Geography & national identity | Himalayas, rivers, states, UTs, borders, strategic locations |
+| Security & defence | Army, Navy, Air Force, CAPF, intelligence agencies, defence institutions |
+| Current-linked static facts | International organisations, institutions, dates, heritage, nodal bodies |
 
 ---
 

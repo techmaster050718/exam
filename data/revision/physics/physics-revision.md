@@ -1,5 +1,18 @@
 # General Science – Physics Revision Notes & Formula Cheat Sheet
 > **Exam-Ready Reference | Competitive Exams (RRB ALP, CDS, CAPF, SSC, State PSC)**
+> Last Updated: 2026-11-15
+
+---
+
+## Physics command map
+| Domain | Core recall points |
+| :--- | :--- |
+| Mechanics | Motion, force, work, energy, gravitation, momentum |
+| Optics | Reflection, refraction, lens formula, eye defects, TIR |
+| Electricity | Ohm’s law, resistance, heating, circuits |
+| Modern physics | Atoms, nuclei, radioactivity, photoelectric effect |
+| Waves & sound | SHM, wave motion, resonance, sound intensity |
+| Exam strategy | Formula recall, units, dimensional analysis, approximation |
 
 ---
 

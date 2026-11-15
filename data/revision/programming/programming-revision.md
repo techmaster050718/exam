@@ -1,5 +1,17 @@
 # Object-Oriented Programming (OOP) & Language Fundamentals
 > **Exam-Ready Reference | Competitive Exams (IBPS SO IT, GATE, ISRO, NIC, RRB)**
+> Last Updated: 2026-11-15
+
+---
+
+## Programming command map
+| Domain | Core recall points |
+| :--- | :--- |
+| OOP pillars | Encapsulation, abstraction, inheritance, polymorphism |
+| Design principles | SOLID, method dispatch, interfaces vs abstract classes |
+| JVM/runtime | Heap, metaspace, stack, GC basics |
+| Language concepts | Overloading, overriding, final, static, constructors |
+| Exam focus | Core OOP rules, runtime behavior, design-pattern recall |
 
 ---
 
