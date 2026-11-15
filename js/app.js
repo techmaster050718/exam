@@ -9,6 +9,9 @@
   /* ── Storage Key ────────────────────────────────────────── */
   const STORAGE_KEY = 'ibps_mocktest_v1';
   const THEME_KEY   = 'ibps_mocktest_theme';
+  const LANGUAGE_MODE_KEY = 'ibps_mocktest_language_mode';
+  const LANGUAGE_MODE_EVENT = 'app:language-mode-change';
+  const LANGUAGE_MODES = ['hi', 'en', 'both'];
 
   /* ── Storage Helpers ────────────────────────────────────── */
   function loadStore() {
@@ -48,6 +51,7 @@
   function resetAll() {
     localStorage.removeItem(STORAGE_KEY);
     localStorage.removeItem(THEME_KEY);
+    localStorage.removeItem(LANGUAGE_MODE_KEY);
   }
 
   /* ── Paper Loader ───────────────────────────────────────── */
@@ -129,6 +133,29 @@
       });
     });
     return flat;
+  }
+
+  function getQuestionSearchText(question, paperMeta = {}) {
+    const values = [
+      question.q,
+      question.options,
+      question.sectionName,
+      question.exam,
+      question.subject,
+      question.topic,
+      question.year,
+      question.shift,
+      question.sourceType,
+      question.sourceName,
+      paperMeta.title,
+      paperMeta.subtitle,
+      paperMeta.subject,
+    ];
+    return values.flat(Infinity).flatMap((value) => {
+      if (typeof value === 'string' || typeof value === 'number') return [String(value)];
+      if (value && typeof value === 'object') return Object.values(value).filter((entry) => typeof entry === 'string');
+      return [];
+    }).join(' ').toLocaleLowerCase();
   }
 
   /* ── Scoring ────────────────────────────────────────────── */
@@ -276,6 +303,57 @@
     return elem;
   }
 
+  function renderBilingualText(raw) {
+    const wrapper = el('span', { className: 'bilingual-text' });
+    if (typeof raw === 'string') {
+      const source = el('span', { className: 'bilingual-line' },
+        el('span', { className: 'bilingual-label' }, 'Source'),
+        el('span', { className: 'bilingual-value' })
+      );
+      source.querySelector('.bilingual-value').innerHTML = renderText(raw);
+      wrapper.classList.add('translation-pending');
+      wrapper.append(
+        source,
+        el('span', { className: 'translation-status', role: 'note' }, 'Hindi + English translation pending')
+      );
+      return wrapper;
+    }
+
+    const hindi = typeof raw?.hi === 'string' && raw.hi.trim() ? raw.hi : null;
+    const english = typeof raw?.en === 'string' && raw.en.trim() ? raw.en : null;
+    const mode = getLanguageMode();
+    const makeLine = (language, value, missing) => {
+      const label = language === 'hi' ? 'हिंदी' : language === 'en' ? 'English' : 'Source';
+      const line = el('span', { className: `bilingual-line${language === 'source' ? '' : ` language-${language}`}` },
+        el('span', { className: 'bilingual-label' }, label),
+        el('span', { className: value ? 'bilingual-value' : 'bilingual-value translation-missing' })
+      );
+      line.querySelector('.bilingual-value').innerHTML = renderText(value || missing);
+      return line;
+    };
+
+    if (mode !== 'both') {
+      const preferred = mode === 'hi' ? hindi : english;
+      const fallbackLanguage = mode === 'hi' ? 'en' : 'hi';
+      const fallback = fallbackLanguage === 'hi' ? hindi : english;
+      const language = preferred ? mode : fallback ? fallbackLanguage : mode;
+      const value = preferred || fallback;
+      wrapper.appendChild(
+        makeLine(language, value, mode === 'hi' ? 'हिंदी अनुवाद उपलब्ध नहीं' : 'English translation unavailable')
+      );
+      if (!preferred && value) wrapper.classList.add('language-fallback');
+      if (!value) wrapper.classList.add('translation-pending');
+      return wrapper;
+    }
+
+    [
+      ['hi', hindi, 'हिंदी अनुवाद उपलब्ध नहीं'],
+      ['en', english, 'English translation unavailable'],
+    ].forEach(([language, value, missing]) => wrapper.appendChild(makeLine(language, value, missing)));
+    if (!hindi || !english) wrapper.classList.add('translation-pending');
+    return wrapper;
+  }
+
   function showError(container, title, message, extra = '') {
     container.innerHTML = `
       <div class="error-screen">
@@ -334,6 +412,30 @@
 
   function getTheme() { return document.documentElement.dataset.theme || 'light'; }
 
+  function getLanguageMode() {
+    const saved = localStorage.getItem(LANGUAGE_MODE_KEY);
+    return LANGUAGE_MODES.includes(saved) ? saved : 'both';
+  }
+
+  function initLanguageMode() {
+    const mode = getLanguageMode();
+    document.documentElement.dataset.languageMode = mode;
+    const selector = qs('#language-mode');
+    if (!selector) return mode;
+    selector.value = mode;
+    selector.addEventListener('change', () => {
+      const next = selector.value;
+      if (!LANGUAGE_MODES.includes(next)) {
+        selector.value = getLanguageMode();
+        return;
+      }
+      localStorage.setItem(LANGUAGE_MODE_KEY, next);
+      document.documentElement.dataset.languageMode = next;
+      window.dispatchEvent(new CustomEvent(LANGUAGE_MODE_EVENT, { detail: { mode: next } }));
+    });
+    return mode;
+  }
+
   /* ── URL Helpers ────────────────────────────────────────── */
   function getParam(name) {
     return new URLSearchParams(window.location.search).get(name);
@@ -366,19 +468,20 @@
     loadStore, saveStore, getPaperState, savePaperState, clearPaperState,
     resetAll,
     // Data
-    loadPapersList, loadPaper, loadSubjects, loadSite, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions,
+    loadPapersList, loadPaper, loadSubjects, loadSite, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions, getQuestionSearchText,
     // Scoring
     computeScore, computeSectionStats,
     // Time
     formatTime, formatDuration, formatDate, pad,
     // Text
-    renderText,
+    renderText, renderBilingualText, getLanguageMode, initLanguageMode,
     // DOM
     qs, qsa, el, showError, showLoading,
     // Toast
     showToast,
     // Theme
     initTheme, toggleTheme, getTheme,
+    LANGUAGE_MODE_EVENT,
     // URL
     getParam,
     // Progress

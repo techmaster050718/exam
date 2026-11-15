@@ -6,12 +6,27 @@
       "name": "RRB ALP",
       "questions": [
         {
-          "q": "The list price of an article is ₹5,000 and a discount of 70% is offered on the list price. What additional discount per cent on the already discounted price must be offered to a customer to bring the net selling price to ₹1,275?",
+          "q": {
+            "hi": "एक वस्तु का सूची मूल्य ₹5,000 है और उस पर सूची मूल्य में 70% की छूट दी जाती है। शुद्ध विक्रय मूल्य ₹1,275 करने के लिए, छूट के बाद बचे मूल्य पर ग्राहक को कितने प्रतिशत की अतिरिक्त छूट देनी होगी?",
+            "en": "The list price of an article is ₹5,000 and a discount of 70% is offered on the list price. What additional discount per cent on the already discounted price must be offered to a customer to bring the net selling price to ₹1,275?"
+          },
           "options": [
-            "15%",
-            "18%",
-            "16%",
-            "10%"
+            {
+              "hi": "15%",
+              "en": "15%"
+            },
+            {
+              "hi": "18%",
+              "en": "18%"
+            },
+            {
+              "hi": "16%",
+              "en": "16%"
+            },
+            {
+              "hi": "10%",
+              "en": "10%"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -22,12 +37,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "What is the scientific notation for 55,60,000 km?",
+          "q": {
+            "hi": "55,60,000 km का वैज्ञानिक संकेतन क्या है?",
+            "en": "What is the scientific notation for 55,60,000 km?"
+          },
           "options": [
-            "556 × 106 km",
-            "55.6 × 104 km",
-            "5.56 × 104 km",
-            "5.56 × 106 km"
+            {
+              "hi": "556 × 106 km",
+              "en": "556 × 106 km"
+            },
+            {
+              "hi": "55.6 × 104 km",
+              "en": "55.6 × 104 km"
+            },
+            {
+              "hi": "5.56 × 104 km",
+              "en": "5.56 × 104 km"
+            },
+            {
+              "hi": "5.56 × 106 km",
+              "en": "5.56 × 106 km"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -38,12 +68,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "Match the following, according to lettering and numbering (uppercase lettering) as per BIS SP: 46-2003. Width (W) Capital letters (A) 5 (I) W (B) 6 (II) A, M, Q, V, X, Y (C) 7 (III) B, D, G, H, K, N, O, P, R, S, T, U and Z (D) 9 (IV) C, E, F, L",
+          "q": {
+            "hi": "BIS SP: 46-2003 के अनुसार अक्षरों और संख्याओं (बड़े अक्षरों) का मिलान कीजिए। चौड़ाई (W) — बड़े अक्षर: (A) 5 (I) W; (B) 6 (II) A, M, Q, V, X, Y; (C) 7 (III) B, D, G, H, K, N, O, P, R, S, T, U और Z; (D) 9 (IV) C, E, F, L",
+            "en": "Match the following, according to lettering and numbering (uppercase lettering) as per BIS SP: 46-2003. Width (W) Capital letters (A) 5 (I) W (B) 6 (II) A, M, Q, V, X, Y (C) 7 (III) B, D, G, H, K, N, O, P, R, S, T, U and Z (D) 9 (IV) C, E, F, L"
+          },
           "options": [
-            "A-(I), B-(III), C-(II), D-(IV)",
-            "A-(IV), B-(III), C-(II), D-(I)",
-            "A-(IV), B-(II), C-(III), D-(I)",
-            "A-(IV), B-(III), C-(I), D-(II)"
+            {
+              "hi": "A-(I), B-(III), C-(II), D-(IV)",
+              "en": "A-(I), B-(III), C-(II), D-(IV)"
+            },
+            {
+              "hi": "A-(IV), B-(III), C-(II), D-(I)",
+              "en": "A-(IV), B-(III), C-(II), D-(I)"
+            },
+            {
+              "hi": "A-(IV), B-(II), C-(III), D-(I)",
+              "en": "A-(IV), B-(II), C-(III), D-(I)"
+            },
+            {
+              "hi": "A-(IV), B-(III), C-(I), D-(II)",
+              "en": "A-(IV), B-(III), C-(I), D-(II)"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -70,12 +115,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "Which of the following options is correct when two objects at the same temperature are kept in contact with each other?",
+          "q": {
+            "hi": "जब समान तापमान वाली दो वस्तुओं को एक-दूसरे के संपर्क में रखा जाता है, तो निम्नलिखित में से कौन-सा विकल्प सही है?",
+            "en": "Which of the following options is correct when two objects at the same temperature are kept in contact with each other?"
+          },
           "options": [
-            "Heat is transferred from object 1 to object 2.",
-            "Both objects transfer heat to each other.",
-            "No heat is transferred.",
-            "Heat is transferred from object 2 to object 1."
+            {
+              "hi": "वस्तु 1 से वस्तु 2 में ऊष्मा स्थानांतरित होती है।",
+              "en": "Heat is transferred from object 1 to object 2."
+            },
+            {
+              "hi": "दोनों वस्तुएँ एक-दूसरे को ऊष्मा स्थानांतरित करती हैं।",
+              "en": "Both objects transfer heat to each other."
+            },
+            {
+              "hi": "ऊष्मा का स्थानांतरण नहीं होता।",
+              "en": "No heat is transferred."
+            },
+            {
+              "hi": "वस्तु 2 से वस्तु 1 में ऊष्मा स्थानांतरित होती है।",
+              "en": "Heat is transferred from object 2 to object 1."
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -86,12 +146,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "Which of the following is NOT one of the 5S principles?",
+          "q": {
+            "hi": "निम्नलिखित में से कौन-सा 5S सिद्धांतों में शामिल नहीं है?",
+            "en": "Which of the following is NOT one of the 5S principles?"
+          },
           "options": [
-            "Standardise",
-            "Sort",
-            "Sustain",
-            "Supervise"
+            {
+              "hi": "मानकीकरण (Standardise)",
+              "en": "Standardise"
+            },
+            {
+              "hi": "छँटाई (Sort)",
+              "en": "Sort"
+            },
+            {
+              "hi": "सतत बनाए रखना (Sustain)",
+              "en": "Sustain"
+            },
+            {
+              "hi": "पर्यवेक्षण (Supervise)",
+              "en": "Supervise"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -102,12 +177,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "What is the amount of work done in moving a charge of 6 C from a point with a potential of 120 V to a point with a potential of 140 V?",
+          "q": {
+            "hi": "6 C आवेश को 120 V विभव वाले बिंदु से 140 V विभव वाले बिंदु तक ले जाने में कितना कार्य होता है?",
+            "en": "What is the amount of work done in moving a charge of 6 C from a point with a potential of 120 V to a point with a potential of 140 V?"
+          },
           "options": [
-            "840 J",
-            "3.33 J",
-            "720 J",
-            "120 J"
+            {
+              "hi": "840 J",
+              "en": "840 J"
+            },
+            {
+              "hi": "3.33 J",
+              "en": "3.33 J"
+            },
+            {
+              "hi": "720 J",
+              "en": "720 J"
+            },
+            {
+              "hi": "120 J",
+              "en": "120 J"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -118,12 +208,27 @@
           "shift": "Shift 1"
         },
         {
-          "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statements: Some ships are boats. All boats are submarines. Some submarines are yachts Conclusions: (I) Some yachts are boats. (II) Some yachts are ships.",
+          "q": {
+            "hi": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत हो, तय कीजिए कि दिए गए निष्कर्षों में से कौन-सा/से निष्कर्ष तार्किक रूप से अनुसरण करता/करते है/हैं। कथन: कुछ जहाज़ नावें हैं। सभी नावें पनडुब्बियाँ हैं। कुछ पनडुब्बियाँ नौकाएँ हैं। निष्कर्ष: (I) कुछ नौकाएँ नावें हैं। (II) कुछ नौकाएँ जहाज़ हैं।",
+            "en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statements: Some ships are boats. All boats are submarines. Some submarines are yachts Conclusions: (I) Some yachts are boats. (II) Some yachts are ships."
+          },
           "options": [
-            "Only conclusion (II) follows.",
-            "Neither conclusion (I) nor (II) follows.",
-            "Both conclusions (I) and (II) follow.",
-            "Only conclusion (I) follows."
+            {
+              "hi": "केवल निष्कर्ष (II) अनुसरण करता है।",
+              "en": "Only conclusion (II) follows."
+            },
+            {
+              "hi": "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+              "en": "Neither conclusion (I) nor (II) follows."
+            },
+            {
+              "hi": "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।",
+              "en": "Both conclusions (I) and (II) follow."
+            },
+            {
+              "hi": "केवल निष्कर्ष (I) अनुसरण करता है।",
+              "en": "Only conclusion (I) follows."
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",

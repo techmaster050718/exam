@@ -4,6 +4,7 @@
   document.addEventListener('DOMContentLoaded', init);
   async function init() {
     App.initTheme();
+    App.initLanguageMode();
     const revisionLink = App.qs('#revision-link');
     revisionLink.addEventListener('click', (event) => {
       event.preventDefault();
@@ -15,9 +16,90 @@
       toggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙';
     });
     App.showLoading(root, 'Loading subject…');
-    try { const [site, papers, raw] = await Promise.all([App.applyBranding(), App.loadPapersList(), App.loadSubjects()]); const subjects = App.normaliseSubjects(raw, papers); const subject = subjects.find((s) => s.id === App.getParam('subject')); if (!subject) throw new Error('This subject does not exist.'); document.title = `${subject.title} – ${site.name}`; await render(subject, papers.filter((p) => App.subjectIdFor(p, subjects) === subject.id)); } catch (err) { App.showError(root, 'Could not load subject', err.message); }
+    try {
+      const [site, papers, raw] = await Promise.all([App.applyBranding(), App.loadPapersList(), App.loadSubjects()]);
+      const subjects = App.normaliseSubjects(raw, papers);
+      const subject = subjects.find((s) => s.id === App.getParam('subject'));
+      if (!subject) throw new Error('This subject does not exist.');
+      document.title = `${subject.title} – ${site.name}`;
+      const subjectPapers = papers.filter((p) => App.subjectIdFor(p, subjects) === subject.id);
+      await render(subject, subjectPapers);
+      if (['up-police-si', 'rrb-alp'].includes(subject.id)) await renderQuestionBankSearch(subject, subjectPapers);
+    } catch (err) { App.showError(root, 'Could not load subject', err.message); }
   }
   async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const stats = getStats(papers); root.appendChild(summary([[`${stats.completed}/${papers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (stats.completed) root.appendChild(await weakTopics(papers)); root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Practice papers'))); const grid = App.el('div', { className: 'papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
+
+  async function renderQuestionBankSearch(subject, papers) {
+    const indexedQuestions = (await Promise.all(papers.map(async (paper) => {
+      const data = await App.loadPaper(paper.file);
+      return App.flattenQuestions(data).map((question) => ({ paper, question }));
+    }))).flat();
+    const input = App.el('input', {
+      id: 'bank-question-search',
+      type: 'search',
+      placeholder: 'हिंदी / English, exam, subject, year, shift…',
+      autocomplete: 'off',
+      'aria-label': 'Search Hindi or English questions, options, exam, subject, year, or shift',
+    });
+    const status = App.el('p', { className: 'bank-search-status', role: 'status' }, 'Search questions and options in Hindi or English, or search by exam, subject, year, or shift.');
+    const results = App.el('div', { className: 'bank-search-results' });
+    const search = App.el('section', { className: 'bank-question-search glass', 'aria-labelledby': 'bank-search-title' },
+      App.el('h2', { id: 'bank-search-title', className: 'section-title' }, `Search ${subject.title} question bank`),
+      input,
+      status,
+      results
+    );
+    const paperHeader = root.querySelector('.section-header');
+    root.insertBefore(search, paperHeader || null);
+
+    input.addEventListener('input', () => {
+      const query = input.value.trim().toLocaleLowerCase();
+      results.innerHTML = '';
+      if (!query) {
+        status.textContent = 'Search questions and options in Hindi or English, or search by exam, subject, year, or shift.';
+        return;
+      }
+
+      const matches = indexedQuestions.filter(({ paper, question }) =>
+        App.getQuestionSearchText(question, paper).includes(query)
+      );
+      status.textContent = matches.length
+        ? `Showing ${Math.min(matches.length, 50)} of ${matches.length} matching questions.`
+        : 'No questions match this search.';
+      matches.slice(0, 50).forEach(({ paper, question }) => {
+        const card = App.el('article', { className: 'bank-search-result' });
+        const metadata = [
+          paper.title,
+          question.sectionName,
+          question.year,
+          question.shift,
+          question.sourceType,
+        ].filter(Boolean).join(' · ');
+        card.append(
+          App.el('div', { className: 'bank-search-metadata' }, metadata),
+          App.el('div', { className: 'bank-search-question' }, App.renderBilingualText(question.q))
+        );
+        const options = App.el('div', { className: 'bank-search-options' });
+        question.options.forEach((option, index) => {
+          options.appendChild(App.el('div', { className: 'bank-search-option' },
+            `${String.fromCharCode(65 + index)}. `,
+            App.renderBilingualText(option)
+          ));
+        });
+        card.append(
+          options,
+          App.el('a', {
+            className: 'btn btn-primary btn-sm',
+            href: `test.html?paper=${encodeURIComponent(paper.id)}&question=${question.globalIndex}`,
+          }, 'Open question')
+        );
+        results.appendChild(card);
+      });
+    });
+    window.addEventListener(App.LANGUAGE_MODE_EVENT, () => {
+      input.dispatchEvent(new Event('input'));
+    });
+  }
   function summary(stats) { const wrap = App.el('div', { className: 'summary-strip glass' }); stats.forEach(([v,l]) => wrap.appendChild(App.el('div', { className: 'summary-stat' }, App.el('span', { className: 'summary-stat-value' }, v), App.el('span', { className: 'summary-stat-label' }, l)))); return wrap; }
   function getStats(papers) { const states = papers.map((p) => App.getPaperState(p.id)).filter((s) => s?.status === 'submitted'); const values = states.map((s) => s.percentage || 0); return { completed: states.length, avg: values.length ? Math.round(values.reduce((a,b)=>a+b,0)/values.length*10)/10 : null, best: values.length ? Math.max(...values) : null }; }
   async function weakTopics(papers) { const all = {}; await Promise.all(papers.map(async (p) => { const state = App.getPaperState(p.id); if (state?.status !== 'submitted') return; const data = await App.loadPaper(p.file); (state.sectionStats || App.computeSectionStats(App.flattenQuestions(data), state.answers, p)).forEach((s) => { (all[s.name] ||= []).push(s.percentage); }); })); const topics = Object.entries(all).map(([name, vals]) => [name, Math.round(vals.reduce((a,b)=>a+b,0)/vals.length*10)/10]).sort((a,b)=>a[1]-b[1]).slice(0,3); const box = App.el('section', { className: 'weak-topics glass' }, App.el('h2', { className: 'section-title' }, 'Weak topics'), App.el('p', {}, 'Lowest average section scores across completed papers.')); const list = App.el('ul'); topics.forEach(([n,v]) => list.appendChild(App.el('li', {}, `${n}: ${v}%`))); box.appendChild(list); return box; }

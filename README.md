@@ -68,9 +68,21 @@ Each question file contains sections and questions:
   "sections":[{
     "name":"Arithmetic",
     "questions":[{
-      "q":"What is 2 + 2?",
-      "options":["2","3","4","5"],
+      "q":{
+        "hi":"दो और दो कितने होते हैं?",
+        "en":"What is two plus two?"
+      },
+      "options":[
+        {"hi":"एक","en":"One"},
+        {"hi":"तीन","en":"Three"},
+        {"hi":"चार","en":"Four"},
+        {"hi":"पाँच","en":"Five"}
+      ],
       "answer":2,
+      "explanation":{
+        "hi":"दो और दो का योग चार होता है।",
+        "en":"Two plus two equals four."
+      },
       "img":"images/my-paper/q1.png",
       "optionImgs":["images/my-paper/a.png",null,null,null]
     }]
@@ -78,7 +90,22 @@ Each question file contains sections and questions:
 }
 ```
 
-`answer` is the zero-based option index. `img` and `optionImgs` are optional; omit them for normal text questions. Image paths are relative to the site root.
+Use `{ "hi": "...", "en": "..." }` for bilingual question text, each option, and any explanation. Keep both languages on the same question; do not duplicate a question to represent another language. Existing string-valued questions and options remain readable and are marked as awaiting translation. `answer` is the zero-based option index. `img` and `optionImgs` are optional; omit them for normal text questions. Image paths are relative to the site root.
+
+## Import an authorized bilingual dataset
+
+The importer changes only `q` and `options`; it verifies question identity, option order/count, answer, provenance, and dataset order before writing. It does not generate or rewrite question content.
+
+```bash
+python3 scripts/import_bilingual_dataset.py audit
+python3 scripts/import_bilingual_dataset.py template --output /path/to/authorized-bilingual.json
+python3 scripts/import_bilingual_dataset.py import /path/to/authorized-bilingual.json
+python3 scripts/import_bilingual_dataset.py import /path/to/authorized-bilingual.json --apply
+```
+
+The template contains blank `hi`/`en` fields, stable IDs or section/question locations, fingerprints, answers, and provenance metadata; it does not duplicate original question wording. Fill only its language fields from an authorized source, retain the identifiers and metadata, and keep source statuses as `complete`, `needs-review`, `unmatched`, or `rejected`. Import runs are dry-run by default; `--apply` writes only when validation and integrity checks pass. Use `audit --inventory <file>` for a metadata-only inventory of existing records.
+
+The language selector on practice, test, and result pages supports Hindi, English, or Hindi + English. The preference is saved locally; records with only one language continue to display their available text.
 
 ## Add content
 

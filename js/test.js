@@ -9,6 +9,7 @@
   const { App } = window;
   const themeToggle = App.qs('#theme-toggle');
   App.initTheme();
+  App.initLanguageMode();
   if (themeToggle) {
     themeToggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
     themeToggle.addEventListener('click', () => {
@@ -64,12 +65,18 @@
 
       // If already submitted, redirect to result
       if (state.status === 'submitted') {
-        window.location.href = `result.html?paper=${paperId}`;
+        const questionParam = App.getParam('question');
+        const questionQuery = questionParam === null ? '' : `&question=${encodeURIComponent(questionParam)}`;
+        window.location.href = `result.html?paper=${paperId}${questionQuery}`;
         return;
       }
 
       isSubmitted = false;
-      currentIdx = state.currentQuestion || 0;
+      const requestedQuestion = App.getParam('question');
+      const requestedIndex = requestedQuestion === null ? NaN : Number(requestedQuestion);
+      currentIdx = Number.isInteger(requestedIndex) && requestedIndex >= 0 && requestedIndex < questions.length
+        ? requestedIndex
+        : state.currentQuestion || 0;
 
       // Ensure required state arrays exist (for older/migrated states)
       if (!state.visited) state.visited = [];
@@ -86,6 +93,7 @@
       renderQuestion(currentIdx);
       renderPalette();
       updateCounters();
+      window.addEventListener(App.LANGUAGE_MODE_EVENT, () => renderQuestion(currentIdx));
 
       // Keyboard shortcuts
       document.addEventListener('keydown', handleKeyDown);
@@ -142,6 +150,8 @@
     bindClick('#btn-next-sticky', () => navigate(1));
     bindClick('#btn-mark-sticky', toggleMark);
     bindClick('#btn-palette-open', openPalette);
+    const questionSearch = App.qs('#question-search');
+    if (questionSearch) questionSearch.addEventListener('input', renderPalette);
 
     // Submit buttons
     bindClick('#btn-submit', openSubmitModal);
@@ -213,7 +223,7 @@
     App.qs('#q-section').textContent = q.sectionName;
 
     // Question text (safe render)
-    App.qs('#q-text').innerHTML = App.renderText(q.q);
+    App.qs('#q-text').replaceChildren(App.renderBilingualText(q.q));
     const questionImage = App.qs('#q-image');
     if (q.img) {
       questionImage.src = q.img;
@@ -244,8 +254,7 @@
         App.el('span', { className: 'option-key' }, keys[oi]),
         App.el('span', { className: 'option-text' })
       );
-      // Safe set text
-      li.querySelector('.option-text').innerHTML = App.renderText(optText);
+      li.querySelector('.option-text').appendChild(App.renderBilingualText(optText));
       if (Array.isArray(q.optionImgs) && q.optionImgs[oi]) {
         const image = App.el('img', { className: 'option-image', src: q.optionImgs[oi], alt: `Option ${keys[oi]}` });
         li.querySelector('.option-text').appendChild(image);
@@ -361,7 +370,12 @@
   function renderPalette() {
     const grid = App.qs('#palette-grid');
     grid.innerHTML = '';
-    questions.forEach((q, idx) => {
+    const query = App.qs('#question-search')?.value.trim().toLocaleLowerCase() || '';
+    const matches = questions.filter((q) => !query || getSearchableText(q).includes(query));
+    const count = App.qs('#question-search-count');
+    if (count) count.textContent = `${matches.length} of ${questions.length} questions`;
+    matches.forEach((q) => {
+      const idx = q.globalIndex;
       const btn = App.el('button', {
         className: `palette-btn ${getPaletteState(idx)}`,
         dataset: { qIdx: idx },
@@ -372,6 +386,13 @@
       if (idx === currentIdx) btn.classList.add('current');
       grid.appendChild(btn);
     });
+    if (matches.length === 0) {
+      grid.appendChild(App.el('div', { className: 'palette-search-empty', role: 'status' }, 'No matching questions.'));
+    }
+  }
+
+  function getSearchableText(question) {
+    return App.getQuestionSearchText(question, paperMeta);
   }
 
   function updatePaletteBtn(idx) {

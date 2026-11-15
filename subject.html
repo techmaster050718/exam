@@ -8,13 +8,21 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=20261115-dark-colors">
 </head>
 <body data-page-title="Subject">
   <header class="topbar" role="banner">
     <a href="index.html" class="topbar-brand" aria-label="Home"><span data-site-name>Loading…</span></a>
     <div class="topbar-actions">
       <a href="revision.html" id="revision-link" class="btn btn-outline" style="font-size:0.85rem; padding:6px 12px; margin-right:8px; text-decoration:none; display:inline-flex; align-items:center; gap:4px;">📖 Revision Notes</a>
+      <div class="language-mode-control">
+        <label for="language-mode">Language</label>
+        <select id="language-mode" class="language-mode-select">
+          <option value="hi">हिंदी</option>
+          <option value="en">English</option>
+          <option value="both">हिंदी + English</option>
+        </select>
+      </div>
       <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
     </div>
   </header>

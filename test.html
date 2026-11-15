@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css?v=20261115-dark-colors">
 </head>
 <body data-page-title="Exam">
 
@@ -25,6 +25,14 @@
 
     <div id="timer" class="timer-display" role="timer" aria-live="off" aria-label="Time remaining">⏱ --:--</div>
 
+    <div class="language-mode-control">
+      <label for="language-mode">Language</label>
+      <select id="language-mode" class="language-mode-select">
+        <option value="hi">हिंदी</option>
+        <option value="en">English</option>
+        <option value="both">हिंदी + English</option>
+      </select>
+    </div>
     <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">🌙</button>
   </header>
 
@@ -69,6 +77,12 @@
       <div style="display:flex;align-items:center;justify-content:space-between">
         <div class="palette-title">Question Palette</div>
         <button class="palette-close-btn" id="palette-close-btn" aria-label="Close palette">✕</button>
+      </div>
+
+      <div class="palette-search">
+        <label for="question-search">Search questions</label>
+        <input id="question-search" type="search" placeholder="हिंदी / English, year, shift…" autocomplete="off">
+        <span id="question-search-count" aria-live="polite"></span>
       </div>
 
       <!-- Legend -->

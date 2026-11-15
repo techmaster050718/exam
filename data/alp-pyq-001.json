@@ -6,12 +6,27 @@
       "name": "RRB ALP",
       "questions": [
         {
-          "q": "How much venture capital fund would be set up for space economy in India as announced by the Finance Minister in the Annual Financial Statement 2024-25?",
+          "q": {
+            "hi": "वित्त मंत्री द्वारा वार्षिक वित्तीय विवरण 2024-25 में घोषित भारत की अंतरिक्ष अर्थव्यवस्था के लिए कितनी राशि का वेंचर कैपिटल फंड स्थापित किया जाना था?",
+            "en": "How much venture capital fund would be set up for space economy in India as announced by the Finance Minister in the Annual Financial Statement 2024-25?"
+          },
           "options": [
-            "₹500 crore",
-            "₹1,500 crore",
-            "₹1,000 crore",
-            "₹700 crore"
+            {
+              "hi": "₹500 करोड़",
+              "en": "₹500 crore"
+            },
+            {
+              "hi": "₹1,500 करोड़",
+              "en": "₹1,500 crore"
+            },
+            {
+              "hi": "₹1,000 करोड़",
+              "en": "₹1,000 crore"
+            },
+            {
+              "hi": "₹700 करोड़",
+              "en": "₹700 crore"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -22,12 +37,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "In 2024, what has been the main focus of the pavilions displayed at the India Art, Architecture, and Design Biennale?",
+          "q": {
+            "hi": "2024 में इंडिया आर्ट, आर्किटेक्चर एंड डिज़ाइन बिएनाले में प्रदर्शित मंडपों का मुख्य केंद्र क्या था?",
+            "en": "In 2024, what has been the main focus of the pavilions displayed at the India Art, Architecture, and Design Biennale?"
+          },
           "options": [
-            "Interactive technology exhibits",
-            "Indian film and photography",
-            "Contemporary art and innovative designs",
-            "Traditional crafts and modern architecture"
+            {
+              "hi": "इंटरैक्टिव प्रौद्योगिकी प्रदर्शनियाँ",
+              "en": "Interactive technology exhibits"
+            },
+            {
+              "hi": "भारतीय सिनेमा और फ़ोटोग्राफ़ी",
+              "en": "Indian film and photography"
+            },
+            {
+              "hi": "समकालीन कला और नवोन्मेषी डिज़ाइन",
+              "en": "Contemporary art and innovative designs"
+            },
+            {
+              "hi": "पारंपरिक शिल्प और आधुनिक वास्तुकला",
+              "en": "Traditional crafts and modern architecture"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -38,12 +68,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "Who among the following was appointed as Minister of Health and Family Welfare in June 2024?",
+          "q": {
+            "hi": "जून 2024 में निम्नलिखित में से किसे स्वास्थ्य एवं परिवार कल्याण मंत्री नियुक्त किया गया?",
+            "en": "Who among the following was appointed as Minister of Health and Family Welfare in June 2024?"
+          },
           "options": [
-            "Sarbananda Sonowal",
-            "Shivraj Singh Chouhan",
-            "Jagat Prakash Nadda",
-            "Manohar Lal"
+            {
+              "hi": "सर्बानंद सोनोवाल",
+              "en": "Sarbananda Sonowal"
+            },
+            {
+              "hi": "शिवराज सिंह चौहान",
+              "en": "Shivraj Singh Chouhan"
+            },
+            {
+              "hi": "जगत प्रकाश नड्डा",
+              "en": "Jagat Prakash Nadda"
+            },
+            {
+              "hi": "मनोहर लाल",
+              "en": "Manohar Lal"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -54,12 +99,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "According to the 2024-25 Indian Union Budget, the Government has allocated increased funding towards schemes like 'Sambal' from ₹462 crore in the previous fiscal year to _____.",
+          "q": {
+            "hi": "2024-25 के भारतीय केंद्रीय बजट के अनुसार, सरकार ने 'संबल' जैसी योजनाओं के लिए पिछले वित्त वर्ष के ₹462 करोड़ के आवंटन को बढ़ाकर _____ कर दिया है।",
+            "en": "According to the 2024-25 Indian Union Budget, the Government has allocated increased funding towards schemes like 'Sambal' from ₹462 crore in the previous fiscal year to _____."
+          },
           "options": [
-            "₹523 crore",
-            "₹453 crore",
-            "₹756 crore",
-            "₹629 crore"
+            {
+              "hi": "₹523 करोड़",
+              "en": "₹523 crore"
+            },
+            {
+              "hi": "₹453 करोड़",
+              "en": "₹453 crore"
+            },
+            {
+              "hi": "₹756 करोड़",
+              "en": "₹756 crore"
+            },
+            {
+              "hi": "₹629 करोड़",
+              "en": "₹629 crore"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -70,12 +130,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "Who among the following is the author of the book 'I Have the Streets - A Kutty Cricket Story'?",
+          "q": {
+            "hi": "'I Have the Streets - A Kutty Cricket Story' पुस्तक के लेखक निम्नलिखित में से कौन हैं?",
+            "en": "Who among the following is the author of the book 'I Have the Streets - A Kutty Cricket Story'?"
+          },
           "options": [
-            "Ravichandran Ashwin",
-            "Sachin Tendulkar",
-            "Sourav Ganguly",
-            "Kuldeep Yadav"
+            {
+              "hi": "रविचंद्रन अश्विन",
+              "en": "Ravichandran Ashwin"
+            },
+            {
+              "hi": "सचिन तेंदुलकर",
+              "en": "Sachin Tendulkar"
+            },
+            {
+              "hi": "सौरव गांगुली",
+              "en": "Sourav Ganguly"
+            },
+            {
+              "hi": "कुलदीप यादव",
+              "en": "Kuldeep Yadav"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -86,12 +161,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "What is the primary purpose of the Artara’24 Fine Arts Exhibition and Competition?",
+          "q": {
+            "hi": "Artara’24 ललित कला प्रदर्शनी और प्रतियोगिता का मुख्य उद्देश्य क्या है?",
+            "en": "What is the primary purpose of the Artara’24 Fine Arts Exhibition and Competition?"
+          },
           "options": [
-            "To promote art tourism",
-            "To conduct art workshops",
-            "To sell artworks",
-            "To discover and nurture emerging artistic talents"
+            {
+              "hi": "कला पर्यटन को बढ़ावा देना",
+              "en": "To promote art tourism"
+            },
+            {
+              "hi": "कला कार्यशालाएँ आयोजित करना",
+              "en": "To conduct art workshops"
+            },
+            {
+              "hi": "कलाकृतियाँ बेचना",
+              "en": "To sell artworks"
+            },
+            {
+              "hi": "उभरती हुई कलात्मक प्रतिभाओं को खोजना और विकसित करना",
+              "en": "To discover and nurture emerging artistic talents"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -102,12 +192,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "Which of the following teams was the winner of the 10th season of Pro Kabaddi League?",
+          "q": {
+            "hi": "प्रो कबड्डी लीग के 10वें सीज़न का विजेता निम्नलिखित में से कौन-सा दल था?",
+            "en": "Which of the following teams was the winner of the 10th season of Pro Kabaddi League?"
+          },
           "options": [
-            "Pink Panthers",
-            "Patna Pirates",
-            "Puneri Paltan",
-            "Haryana Steelers"
+            {
+              "hi": "पिंक पैंथर्स",
+              "en": "Pink Panthers"
+            },
+            {
+              "hi": "पटना पाइरेट्स",
+              "en": "Patna Pirates"
+            },
+            {
+              "hi": "पुनेरी पलटन",
+              "en": "Puneri Paltan"
+            },
+            {
+              "hi": "हरियाणा स्टीलर्स",
+              "en": "Haryana Steelers"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -118,12 +223,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "_____ has been awarded the title of India’s Fastest Growing Sustainable Brand for 2023-24.",
+          "q": {
+            "hi": "2023-24 के लिए भारत के सबसे तेज़ी से बढ़ते टिकाऊ ब्रांड का खिताब _____ को दिया गया है।",
+            "en": "_____ has been awarded the title of India’s Fastest Growing Sustainable Brand for 2023-24."
+          },
           "options": [
-            "Suzlon Energy",
-            "Adani Green Energy",
-            "Gruner Renewable Energy",
-            "Tata Renewable Energy"
+            {
+              "hi": "सुजलॉन एनर्जी",
+              "en": "Suzlon Energy"
+            },
+            {
+              "hi": "अदाणी ग्रीन एनर्जी",
+              "en": "Adani Green Energy"
+            },
+            {
+              "hi": "ग्रुनर रिन्यूएबल एनर्जी",
+              "en": "Gruner Renewable Energy"
+            },
+            {
+              "hi": "टाटा रिन्यूएबल एनर्जी",
+              "en": "Tata Renewable Energy"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -134,12 +254,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "Under the NPS Vatsalya scheme, subsequent contribution of what minimum amount is required per annum with no maximum limit?",
+          "q": {
+            "hi": "NPS वात्सल्य योजना के अंतर्गत, बिना किसी अधिकतम सीमा के प्रति वर्ष न्यूनतम कितनी राशि का अतिरिक्त अंशदान आवश्यक है?",
+            "en": "Under the NPS Vatsalya scheme, subsequent contribution of what minimum amount is required per annum with no maximum limit?"
+          },
           "options": [
-            "₹2,500",
-            "₹500",
-            "₹5,000",
-            "₹1,000"
+            {
+              "hi": "₹2,500",
+              "en": "₹2,500"
+            },
+            {
+              "hi": "₹500",
+              "en": "₹500"
+            },
+            {
+              "hi": "₹5,000",
+              "en": "₹5,000"
+            },
+            {
+              "hi": "₹1,000",
+              "en": "₹1,000"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",
@@ -150,12 +285,27 @@
           "shift": "Shift 3"
         },
         {
-          "q": "In 2024, the Royal Australian Air Force debuted its combat aircraft in India during Exercise Tarang Shakti at which location?",
+          "q": {
+            "hi": "2024 में, अभ्यास तरंग शक्ति के दौरान रॉयल ऑस्ट्रेलियन एयर फ़ोर्स ने भारत में किस स्थान पर अपने लड़ाकू विमान पहली बार प्रदर्शित किए?",
+            "en": "In 2024, the Royal Australian Air Force debuted its combat aircraft in India during Exercise Tarang Shakti at which location?"
+          },
           "options": [
-            "Air Force Station, Pune",
-            "Air Force Station, Gwalior",
-            "Air Force Station, Agra",
-            "Air Force Station, Jodhpur"
+            {
+              "hi": "वायु सेना स्टेशन, पुणे",
+              "en": "Air Force Station, Pune"
+            },
+            {
+              "hi": "वायु सेना स्टेशन, ग्वालियर",
+              "en": "Air Force Station, Gwalior"
+            },
+            {
+              "hi": "वायु सेना स्टेशन, आगरा",
+              "en": "Air Force Station, Agra"
+            },
+            {
+              "hi": "वायु सेना स्टेशन, जोधपुर",
+              "en": "Air Force Station, Jodhpur"
+            }
           ],
           "answer": null,
           "sourceType": "OFFICIAL_PYQ",

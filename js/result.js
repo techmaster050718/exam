@@ -16,6 +16,7 @@
   /* ── Boot ───────────────────────────────────────────────── */
   document.addEventListener('DOMContentLoaded', async () => {
     App.initTheme();
+    App.initLanguageMode();
     App.applyBranding().catch(() => {});
     App.qs('#theme-toggle').addEventListener('click', () => {
       const t = App.toggleTheme();
@@ -51,6 +52,12 @@
       const nextP = papers.find((p) => paperSubject(p) === subjectId && p.id !== paperId && App.getPaperState(p.id)?.status !== 'submitted') || null;
 
       render(root, nextP, papers);
+      window.addEventListener(App.LANGUAGE_MODE_EVENT, () => render(root, nextP, papers));
+      const questionParam = App.getParam('question');
+      const questionIndex = questionParam === null ? NaN : Number(questionParam);
+      if (Number.isInteger(questionIndex) && questionIndex >= 0 && questionIndex < questions.length) {
+        App.qs(`#review-question-${questionIndex}`)?.scrollIntoView({ block: 'center' });
+      }
 
     } catch (err) {
       App.showError(root, 'Failed to load result', err.message.replace(/\n/g, '<br>'));
@@ -284,7 +291,7 @@
 
       count++;
       const cardClass = correct ? 'card-correct' : wrong ? 'card-wrong' : 'card-unatt';
-      const card = App.el('div', { className: `review-card ${cardClass}` });
+      const card = App.el('div', { className: `review-card ${cardClass}`, id: `review-question-${globalIdx}` });
 
       // Header
       const header = App.el('div', { className: 'review-q-header' },
@@ -300,8 +307,17 @@
 
       // Question text
       const qText = App.el('div', { className: 'review-q-text' });
-      qText.innerHTML = App.renderText(q.q);
+      qText.appendChild(App.renderBilingualText(q.q));
       card.appendChild(qText);
+
+      if (q.explanation) {
+        const explanation = App.el('div', { className: 'review-explanation' });
+        explanation.append(
+          App.el('strong', {}, 'Explanation'),
+          App.renderBilingualText(q.explanation)
+        );
+        card.appendChild(explanation);
+      }
 
       // Options
       const optList = App.el('div', { className: 'review-options' });
@@ -320,7 +336,7 @@
           App.el('span', { className: 'opt-key-label' }, keys[oi]),
           App.el('span', {})
         );
-        optEl.querySelector('span:last-child').innerHTML = App.renderText(opt);
+        optEl.querySelector('span:last-child').appendChild(App.renderBilingualText(opt));
 
         // Show "Your answer" label
         if (isChosen) {

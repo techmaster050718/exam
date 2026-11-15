@@ -85,7 +85,7 @@
       } else if (line.startsWith('> ')) {
         html.push('<blockquote>' + formatInline(line.slice(2)) + '</blockquote>');
       } else if (line.startsWith('---')) {
-        html.push('<hr style="border:0; border-top:1px solid var(--border-color, rgba(0,0,0,0.1)); margin:24px 0;">');
+        html.push('<hr class="revision-divider">');
       } else if (line.trim().startsWith('* ') || line.trim().startsWith('- ')) {
         let content = line.trim().slice(2);
         html.push('<ul><li>' + formatInline(content) + '</li></ul>');
@@ -136,7 +136,7 @@
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.+?)\*/g, '<em>$1</em>')
       .replace(/`([^`]+)`/g, '<code>$1</code>')
-      .replace(/\$([^\$]+)\$/g, '<code style="color:#b45309; background:rgba(217,119,6,0.08); padding:1px 4px; border-radius:3px;">$1</code>');
+      .replace(/\$([^\$]+)\$/g, '<code class="math-inline">$1</code>');
   }
 
   function escapeHtml(str) {
@@ -165,7 +165,7 @@
     } catch (err) {
       console.error(err);
       document.getElementById('content-container').innerHTML = `
-        <div style="padding: 30px; text-align: center; color: #dc2626;">
+        <div class="revision-error" style="padding: 30px; text-align: center;">
           <h3>Failed to load revision materials</h3>
           <p>${err.message}</p>
           <p style="color:var(--text-muted); font-size:0.85rem;">Run with a local server (e.g. <code>python3 -m http.server</code>) to enable fetch.</p>
@@ -325,7 +325,7 @@
     window.history.replaceState({}, '', url);
 
     const mainContainer = document.getElementById('content-container');
-    mainContainer.innerHTML = `<div style="text-align:center; padding: 40px; color: var(--text-muted);">Loading ${mod.title}…</div>`;
+    mainContainer.innerHTML = `<div class="revision-load-state">Loading ${mod.title}…</div>`;
 
     try {
       const res = await fetch(mod.file);
@@ -337,8 +337,8 @@
         <div class="revision-meta-bar">
           <div>
             <span class="meta-badge">📖 ${mod.estimatedReadMin} min read</span>
-            <span class="meta-badge" style="background:rgba(59,130,246,0.1); color:#2563eb;">📑 ${mod.subtopicsCount} topics</span>
-            <span class="meta-badge" style="background:rgba(16,185,129,0.1); color:#059669;">📝 ${mod.wordCount} words</span>
+            <span class="meta-badge meta-badge--topics">📑 ${mod.subtopicsCount} topics</span>
+            <span class="meta-badge meta-badge--words">📝 ${mod.wordCount} words</span>
           </div>
           <a href="${mod.file}" download class="btn btn-outline" style="font-size:0.8rem; padding:4px 10px; text-decoration:none;">
             ⬇️ Download Raw Markdown
@@ -351,7 +351,7 @@
       // Scroll to top of content
       window.scrollTo({ top: 0, behavior: 'smooth' });
     } catch (err) {
-      mainContainer.innerHTML = `<div style="color:#dc2626; padding:20px;">Error: ${err.message}</div>`;
+      mainContainer.innerHTML = `<div class="revision-error">Error: ${err.message}</div>`;
     }
   }
 

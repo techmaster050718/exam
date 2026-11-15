@@ -8,142 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=20261106-reset">
-  <style>
-    .revision-layout {
-      display: grid;
-      grid-template-columns: 280px 1fr;
-      gap: 24px;
-      margin-top: 24px;
-      align-items: start;
-    }
-    .revision-sidebar {
-      background: var(--card-bg, rgba(255, 255, 255, 0.7));
-      backdrop-filter: blur(12px);
-      border: 1px solid var(--border-color, rgba(0, 0, 0, 0.08));
-      border-radius: 16px;
-      padding: 16px;
-      position: sticky;
-      top: 80px;
-      max-height: calc(100vh - 100px);
-      overflow-y: auto;
-    }
-    .filter-group {
-      margin-bottom: 12px;
-    }
-    .filter-label {
-      display: block;
-      font-size: 0.72rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: var(--text-muted, #666);
-      margin-bottom: 6px;
-    }
-    .filter-select {
-      width: 100%;
-      padding: 9px 12px;
-      border-radius: 10px;
-      border: 1px solid var(--border-color, rgba(0,0,0,0.15));
-      background: var(--input-bg, #fff);
-      color: var(--text-color, #111);
-      font-size: 0.85rem;
-      outline: none;
-    }
-    .filter-actions {
-      margin: 10px 0 14px;
-    }
-    .revision-search {
-      width: 100%;
-      padding: 10px 14px;
-      border-radius: 10px;
-      border: 1px solid var(--border-color, rgba(0,0,0,0.15));
-      background: var(--input-bg, #fff);
-      color: var(--text-color, #111);
-      font-size: 0.9rem;
-      margin-bottom: 16px;
-      outline: none;
-    }
-    .category-group {
-      margin-bottom: 16px;
-    }
-    .category-title {
-      font-size: 0.8rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--text-muted, #777);
-      margin-bottom: 8px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .module-item {
-      display: block;
-      padding: 8px 12px;
-      border-radius: 8px;
-      font-size: 0.85rem;
-      color: var(--text-color, #222);
-      text-decoration: none;
-      transition: all 0.2s;
-      margin-bottom: 4px;
-      cursor: pointer;
-    }
-    .module-item:hover, .module-item.active {
-      background: var(--accent-light, rgba(217, 119, 6, 0.12));
-      color: var(--accent-color, #d97706);
-      font-weight: 600;
-    }
-    .revision-content {
-      background: var(--card-bg, rgba(255, 255, 255, 0.8));
-      backdrop-filter: blur(16px);
-      border: 1px solid var(--border-color, rgba(0, 0, 0, 0.08));
-      border-radius: 20px;
-      padding: 32px;
-      min-height: 500px;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.04);
-    }
-    .revision-meta-bar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      padding-bottom: 20px;
-      margin-bottom: 24px;
-      border-bottom: 1px solid var(--border-color, rgba(0,0,0,0.08));
-    }
-    .meta-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 4px 10px;
-      border-radius: 20px;
-      background: rgba(217, 119, 6, 0.1);
-      color: #d97706;
-      font-size: 0.8rem;
-      font-weight: 600;
-    }
-    /* Markdown Typography within revision-content */
-    .rendered-markdown h1 { font-size: 1.8rem; margin-top: 0; margin-bottom: 16px; color: var(--text-color, #111); }
-    .rendered-markdown h2 { font-size: 1.35rem; margin-top: 28px; margin-bottom: 12px; border-bottom: 1px solid var(--border-color, rgba(0,0,0,0.08)); padding-bottom: 6px; color: var(--text-color, #111); }
-    .rendered-markdown h3 { font-size: 1.1rem; margin-top: 20px; margin-bottom: 8px; color: var(--text-color, #222); }
-    .rendered-markdown p { line-height: 1.65; margin-bottom: 14px; font-size: 0.95rem; }
-    .rendered-markdown ul, .rendered-markdown ol { padding-left: 24px; margin-bottom: 16px; font-size: 0.95rem; line-height: 1.6; }
-    .rendered-markdown li { margin-bottom: 6px; }
-    .rendered-markdown table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.88rem; overflow-x: auto; display: block; }
-    .rendered-markdown th, .rendered-markdown td { padding: 10px 14px; border: 1px solid var(--border-color, rgba(0,0,0,0.1)); text-align: left; }
-    .rendered-markdown th { background: rgba(0,0,0,0.04); font-weight: 700; }
-    .rendered-markdown pre { background: #1e1e24; color: #f8f8f2; padding: 16px; border-radius: 12px; overflow-x: auto; font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; line-height: 1.45; margin: 16px 0; }
-    .rendered-markdown code { font-family: 'JetBrains Mono', monospace; font-size: 0.88em; background: rgba(0,0,0,0.05); padding: 2px 6px; border-radius: 4px; }
-    .rendered-markdown pre code { background: transparent; padding: 0; }
-    .rendered-markdown blockquote { border-left: 4px solid #d97706; padding: 10px 16px; margin: 16px 0; background: rgba(217, 119, 6, 0.05); border-radius: 0 8px 8px 0; font-style: italic; }
-    
-    @media (max-width: 840px) {
-      .revision-layout { grid-template-columns: 1fr; }
-      .revision-sidebar { position: static; max-height: none; }
-    }
-  </style>
+  <link rel="stylesheet" href="css/style.css?v=20261115-dark-colors">
 </head>
 <body data-page-title="Revision Materials">
 
@@ -164,7 +29,7 @@
     <!-- Hero Header -->
     <section class="home-hero" style="text-align: left; padding: 24px 0 12px 0;">
       <h1 style="font-size: 2rem; margin-bottom: 8px;">📖 General Awareness Command Center</h1>
-      <p style="color: var(--text-muted, #666); font-size: 1rem; margin: 0;">
+      <p class="revision-intro">
         High-density revision for India GK, defence, intelligence, UP, Gorakhpur, technology, security, geopolitics, and current affairs.
       </p>
     </section>
@@ -262,7 +127,7 @@
   </footer>
 
   <script src="js/app.js?v=20261106-reset"></script>
-  <script src="js/revision.js?v=20261115-theme"></script>
+  <script src="js/revision.js?v=20261115-dark-colors"></script>
 </body>
 </html>
 
