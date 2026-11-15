@@ -2,7 +2,21 @@
 (function () {
   'use strict'; const { App } = window; const root = App.qs('#subject-root');
   document.addEventListener('DOMContentLoaded', init);
-  async function init() { App.initTheme(); const toggle = App.qs('#theme-toggle'); toggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙'; toggle.onclick = () => { toggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙'; }; App.showLoading(root, 'Loading subject…'); try { const [site, papers, raw] = await Promise.all([App.applyBranding(), App.loadPapersList(), App.loadSubjects()]); const subjects = App.normaliseSubjects(raw, papers); const subject = subjects.find((s) => s.id === App.getParam('subject')); if (!subject) throw new Error('This subject does not exist.'); document.title = `${subject.title} – ${site.name}`; await render(subject, papers.filter((p) => App.subjectIdFor(p, subjects) === subject.id)); } catch (err) { App.showError(root, 'Could not load subject', err.message); } }
+  async function init() {
+    App.initTheme();
+    const revisionLink = App.qs('#revision-link');
+    revisionLink.addEventListener('click', (event) => {
+      event.preventDefault();
+      window.location.assign(revisionLink.href);
+    });
+    const toggle = App.qs('#theme-toggle');
+    toggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
+    toggle.addEventListener('click', () => {
+      toggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙';
+    });
+    App.showLoading(root, 'Loading subject…');
+    try { const [site, papers, raw] = await Promise.all([App.applyBranding(), App.loadPapersList(), App.loadSubjects()]); const subjects = App.normaliseSubjects(raw, papers); const subject = subjects.find((s) => s.id === App.getParam('subject')); if (!subject) throw new Error('This subject does not exist.'); document.title = `${subject.title} – ${site.name}`; await render(subject, papers.filter((p) => App.subjectIdFor(p, subjects) === subject.id)); } catch (err) { App.showError(root, 'Could not load subject', err.message); }
+  }
   async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const stats = getStats(papers); root.appendChild(summary([[`${stats.completed}/${papers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (stats.completed) root.appendChild(await weakTopics(papers)); root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Practice papers'))); const grid = App.el('div', { className: 'papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
   function summary(stats) { const wrap = App.el('div', { className: 'summary-strip glass' }); stats.forEach(([v,l]) => wrap.appendChild(App.el('div', { className: 'summary-stat' }, App.el('span', { className: 'summary-stat-value' }, v), App.el('span', { className: 'summary-stat-label' }, l)))); return wrap; }
   function getStats(papers) { const states = papers.map((p) => App.getPaperState(p.id)).filter((s) => s?.status === 'submitted'); const values = states.map((s) => s.percentage || 0); return { completed: states.length, avg: values.length ? Math.round(values.reduce((a,b)=>a+b,0)/values.length*10)/10 : null, best: values.length ? Math.max(...values) : null }; }

@@ -7,6 +7,14 @@
   'use strict';
 
   const { App } = window;
+  const themeToggle = App.qs('#theme-toggle');
+  App.initTheme();
+  if (themeToggle) {
+    themeToggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
+    themeToggle.addEventListener('click', () => {
+      themeToggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙';
+    });
+  }
 
   /* ── State ──────────────────────────────────────────────── */
   let paperMeta    = null;
@@ -19,15 +27,7 @@
 
   /* ── Boot ───────────────────────────────────────────────── */
   document.addEventListener('DOMContentLoaded', async () => {
-    App.initTheme();
     App.applyBranding().catch(() => {});
-    bindClick('#theme-toggle', () => {
-      const t = App.toggleTheme();
-      const themeToggle = App.qs('#theme-toggle');
-      if (themeToggle) themeToggle.textContent = t === 'dark' ? '☀️' : '🌙';
-    });
-    const themeToggle = App.qs('#theme-toggle');
-    if (themeToggle) themeToggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
 
     const paperId = App.getParam('paper');
     if (!paperId) { window.location.href = 'index.html'; return; }

@@ -3,7 +3,17 @@
   'use strict'; const { App } = window; const root = App.qs('#app');
   document.addEventListener('DOMContentLoaded', init);
   async function init() {
-    App.initTheme(); const toggle = App.qs('#theme-toggle'); toggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙'; toggle.onclick = () => { toggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙'; };
+    App.initTheme();
+    const revisionLink = App.qs('#revision-link');
+    revisionLink.addEventListener('click', (event) => {
+      event.preventDefault();
+      window.location.assign(revisionLink.href);
+    });
+    const toggle = App.qs('#theme-toggle');
+    toggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
+    toggle.addEventListener('click', () => {
+      toggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙';
+    });
     App.showLoading(root, 'Loading subjects…');
     try { const [site, papers, raw] = await Promise.all([App.applyBranding(), App.loadPapersList(), App.loadSubjects()]); render(site, App.normaliseSubjects(raw, papers), papers); } catch (err) { App.showError(root, 'Could not load practice papers', err.message); }
   }

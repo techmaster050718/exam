@@ -8,6 +8,16 @@
   let revisionIndex = null;
   let activeModuleId = null;
 
+  const { App } = window;
+  const themeToggle = document.getElementById('theme-toggle');
+  App.initTheme();
+  if (themeToggle) {
+    themeToggle.textContent = App.getTheme() === 'dark' ? '☀️' : '🌙';
+    themeToggle.addEventListener('click', () => {
+      themeToggle.textContent = App.toggleTheme() === 'dark' ? '☀️' : '🌙';
+    });
+  }
+
   // Simple, robust vanilla Markdown-to-HTML parser (no external dependencies)
   function renderMarkdown(md) {
     if (!md) return '';
