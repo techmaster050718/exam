@@ -25,7 +25,20 @@
     root.appendChild(footer(site.footer));
   }
   function summary(stats) { const wrap = App.el('div', { className: 'summary-strip glass' }); stats.forEach(([v, l]) => wrap.appendChild(App.el('div', { className: 'summary-stat' }, App.el('span', { className: 'summary-stat-value' }, v), App.el('span', { className: 'summary-stat-label' }, l)))); return wrap; }
-  function subjectCard(s, papers) { const done = papers.filter((p) => App.getPaperState(p.id)?.status === 'submitted'); const avg = done.length ? Math.round(done.reduce((n,p) => n + (App.getPaperState(p.id).percentage || 0), 0) / done.length * 10) / 10 : null; const card = App.el(papers.length ? 'a' : 'div', { className: `subject-card glass${papers.length ? '' : ' is-empty'}`, ...(papers.length ? { href: `subject.html?subject=${encodeURIComponent(s.id)}` } : {}) }); card.append(App.el('div', { className: 'subject-icon' }, s.icon || '📚'), App.el('div', { className: 'card-title' }, s.title), App.el('p', { className: 'subject-description' }, s.description || 'Practice papers'), App.el('div', { className: 'subject-card-stats' }, papers.length ? `${papers.length} papers · ${done.length} completed${avg === null ? '' : ` · ${avg}% average`}` : 'Coming soon')); return card; }
+  function subjectCard(s, papers) {
+    const done = papers.filter((p) => App.getPaperState(p.id)?.status === 'submitted');
+    const avg = done.length ? Math.round(done.reduce((n,p) => n + (App.getPaperState(p.id).percentage || 0), 0) / done.length * 10) / 10 : null;
+    const cardHref = s.href || `subject.html?subject=${encodeURIComponent(s.id)}`;
+    const isStaticPage = Boolean(s.href);
+    const card = App.el((papers.length || isStaticPage) ? 'a' : 'div', { className: `subject-card glass${papers.length || isStaticPage ? '' : ' is-empty'}`, ...(papers.length || isStaticPage ? { href: cardHref } : {}) });
+    card.append(
+      App.el('div', { className: 'subject-icon' }, s.icon || '📚'),
+      App.el('div', { className: 'card-title' }, s.title),
+      App.el('p', { className: 'subject-description' }, s.description || 'Practice papers'),
+      App.el('div', { className: 'subject-card-stats' }, papers.length ? `${papers.length} papers · ${done.length} completed${avg === null ? '' : ` · ${avg}% average`}` : (isStaticPage ? 'Dedicated roadmap' : 'Coming soon'))
+    );
+    return card;
+  }
   function footer(message) {
     const f = App.el('footer', { className: 'home-footer' });
     const reset = App.el('button', { className: 'btn btn-danger btn-sm reset-data-btn' }, '🗑 Reset All Data');

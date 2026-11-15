@@ -12,6 +12,13 @@
     "icon": "🧮"
   },
   {
+    "id": "ssb-target",
+    "title": "SSB Target — Next 6 Months",
+    "description": "A dedicated 6-month SSB roadmap covering lecturette, GD, GTO, PI, psychology and final readiness",
+    "icon": "🎯",
+    "href": "ssb-target.html"
+  },
+  {
     "id": "ssb-oir",
     "title": "SSB / CDS - OIR Reasoning",
     "description": "Officer Intelligence Rating style verbal reasoning",
