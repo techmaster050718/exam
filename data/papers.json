@@ -40,6 +40,26 @@
     "subject": "ibps-so-it"
   },
   {
+    "id": "ibps-so-it-prelims-master-001",
+    "title": "IBPS SO IT Officer (Prelims) — Master Paper 1",
+    "subtitle": "150 Questions | 120 Mins | English, Reasoning & Quant",
+    "file": "data/ibps-so-it-prelims-master-001.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
+  },
+  {
+    "id": "ibps-so-it-mains-master-001",
+    "title": "IBPS SO IT Officer (Mains) — Master Paper 1",
+    "subtitle": "60 Questions | 45 Mins | IT Professional Knowledge",
+    "file": "data/ibps-so-it-mains-master-001.json",
+    "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25,
+    "subject": "ibps-so-it"
+  },
+  {
     "id": "oir-ssb-1",
     "subject": "ssb-oir",
     "title": "SSB OIR Reasoning - Set 1",

@@ -1,0 +1,598 @@
+{
+  "title": "Lakshya Question Bank — Master Revision Encyclopedia",
+  "description": "High-density exam revision materials covering all 79 papers and 21 exam subjects present in the question bank.",
+  "version": "1.0",
+  "lastUpdated": "2026-11-15",
+  "totalModules": 26,
+  "totalLines": 8965,
+  "totalWords": 56361,
+  "categories": [
+    {
+      "id": "computer-science",
+      "name": "Computer Science & IT (Mains / Specialist)",
+      "icon": "💻",
+      "description": "DSA, Algorithms, Complexity, OS, DBMS, Networks, Architecture, OOP, SE, Security, Cloud, AI/ML, Banking Tech",
+      "files": [
+        "data/revision/data-structures/data-structures-revision.md",
+        "data/revision/algorithms/algorithms-revision.md",
+        "data/revision/algorithms/complexity-revision.md",
+        "data/revision/os/os-revision.md",
+        "data/revision/dbms/dbms-revision.md",
+        "data/revision/computer-networks/networks-revision.md",
+        "data/revision/computer-architecture/architecture-revision.md",
+        "data/revision/programming/programming-revision.md",
+        "data/revision/software-engineering/se-revision.md",
+        "data/revision/cybersecurity/security-revision.md",
+        "data/revision/cloud-computing/cloud-revision.md",
+        "data/revision/ai-ml/ai-ml-revision.md",
+        "data/revision/banking-technology/banking-tech-revision.md"
+      ]
+    },
+    {
+      "id": "aptitude-reasoning",
+      "name": "Quantitative Aptitude & Reasoning Ability",
+      "icon": "🧮",
+      "description": "Arithmetic, Algebra, Geometry, Speed Math Tables, Verbal & Non-Verbal Reasoning, Puzzles",
+      "files": [
+        "data/revision/aptitude/aptitude-revision.md",
+        "data/revision/aptitude/number-tables.md",
+        "data/revision/reasoning/reasoning-revision.md"
+      ]
+    },
+    {
+      "id": "english-verbal",
+      "name": "English Language & Verbal Ability",
+      "icon": "📚",
+      "description": "Grammar Rules, Subject-Verb Agreement, Voice/Speech, Vocabulary, Idioms, Error Spotting",
+      "files": [
+        "data/revision/english/english-revision.md"
+      ]
+    },
+    {
+      "id": "general-science",
+      "name": "General Science (Physics, Chemistry, Biology)",
+      "icon": "🔬",
+      "description": "Physics Formulas & Laws, Chemistry Reactions & Compounds, Biology Human Systems & Cell",
+      "files": [
+        "data/revision/physics/physics-revision.md",
+        "data/revision/chemistry/chemistry-revision.md",
+        "data/revision/biology/biology-revision.md"
+      ]
+    },
+    {
+      "id": "general-studies",
+      "name": "General Studies & Humanities",
+      "icon": "🏛️",
+      "description": "Indian Polity & Constitution, Indian & Physical Geography, Indian History Timeline",
+      "files": [
+        "data/revision/polity/polity-revision.md",
+        "data/revision/geography/geography-revision.md",
+        "data/revision/history/history-revision.md"
+      ]
+    },
+    {
+      "id": "defence-gk-exam",
+      "name": "Defence, Static GK & Target Exam Modules",
+      "icon": "🎖️",
+      "description": "Armed Forces, Commands, Missiles, International Orgs, Exam-Specific Strategy (IBPS SO, UP SI, ALP, ISRO)",
+      "files": [
+        "data/revision/defence/defence-revision.md",
+        "data/revision/general-awareness/general-awareness-revision.md",
+        "data/revision/exam-specific/exam-specific-revision.md"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "ai-ml-revision",
+      "title": "Artificial Intelligence, Machine Learning & Big Data Revision Notes",
+      "file": "data/revision/ai-ml/ai-ml-revision.md",
+      "category": "computer-science",
+      "lineCount": 55,
+      "wordCount": 449,
+      "estimatedReadMin": 3,
+      "subtopicsCount": 5,
+      "subtopics": [
+        "1. MACHINE LEARNING PARADIGMS",
+        "2. MODEL EVALUATION & CONFUSION MATRIX",
+        "3. BIAS-VARIANCE TRADEOFF & REGULARIZATION",
+        "4. DEEP LEARNING ACTIVATION FUNCTIONS",
+        "5. APACHE HADOOP & BIG DATA ARCHITECTURE"
+      ]
+    },
+    {
+      "id": "algorithms-revision",
+      "title": "Algorithms – Searching & Sorting Revision Notes",
+      "file": "data/revision/algorithms/algorithms-revision.md",
+      "category": "computer-science",
+      "lineCount": 144,
+      "wordCount": 1420,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 5,
+      "subtopics": [
+        "MASTER COMPARISON TABLE: SORTING ALGORITHMS",
+        "1. SEARCHING ALGORITHMS",
+        "2. SORTING ALGORITHMS (STEP-BY-STEP EXAMPLES)",
+        "3. COMPARISON VS NON-COMPARISON BOUNDS",
+        "4. MUST REMEMBER & COMMON TRAPS"
+      ]
+    },
+    {
+      "id": "complexity-revision",
+      "title": "Algorithmic Complexity & Asymptotic Analysis",
+      "file": "data/revision/algorithms/complexity-revision.md",
+      "category": "computer-science",
+      "lineCount": 124,
+      "wordCount": 803,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. COMPLEXITY GROWTH HIERARCHY",
+        "2. ASYMPTOTIC NOTATIONS DEFINITIONS",
+        "3. LOOP COMPLEXITY PATTERNS",
+        "4. MASTER THEOREM FOR DIVIDE AND CONQUER",
+        "5. COMMON RECURRENCE RELATIONS QUICK CHEAT SHEET",
+        "6. 30-SECOND REVISION"
+      ]
+    },
+    {
+      "id": "aptitude-revision",
+      "title": "📐 Quantitative Aptitude — Complete Revision Guide",
+      "file": "data/revision/aptitude/aptitude-revision.md",
+      "category": "aptitude-reasoning",
+      "lineCount": 1356,
+      "wordCount": 6881,
+      "estimatedReadMin": 46,
+      "subtopicsCount": 25,
+      "subtopics": [
+        "📋 TABLE OF CONTENTS",
+        "1. Percentage",
+        "2. Profit & Loss",
+        "3. Discount",
+        "4. Simple Interest",
+        "5. Compound Interest",
+        "6. Ratio & Proportion",
+        "7. Partnership",
+        "8. Average & Ages",
+        "9. Mixture & Allegation",
+        "10. Time & Work",
+        "11. Pipes & Cisterns",
+        "12. Time, Speed & Distance",
+        "13. Boats & Streams",
+        "14. Trains"
+      ]
+    },
+    {
+      "id": "number-tables",
+      "title": "High-Frequency Number Tables & Speed Math Shortcuts",
+      "file": "data/revision/aptitude/number-tables.md",
+      "category": "aptitude-reasoning",
+      "lineCount": 135,
+      "wordCount": 1378,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. POWERS OF 2 (2⁰ to 2²⁰)",
+        "2. POWERS OF 3 AND 10",
+        "3. SQUARES (1² to 50²)",
+        "4. CUBES (1³ to 30³)",
+        "5. FRACTION ↔ PERCENTAGE CONVERSION TABLE",
+        "6. MENTAL CALCULATION SHORTCUTS"
+      ]
+    },
+    {
+      "id": "banking-tech-revision",
+      "title": "Banking Technology, Digital Payments & IT Governance Revision Notes",
+      "file": "data/revision/banking-technology/banking-tech-revision.md",
+      "category": "computer-science",
+      "lineCount": 40,
+      "wordCount": 374,
+      "estimatedReadMin": 3,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. PAYMENT SYSTEMS IN INDIA COMPARISON",
+        "2. CORE BANKING SOLUTION (CBS)",
+        "3. FINANCIAL MESSAGING STANDARDS",
+        "4. MUST REMEMBER & REGULATORY COMPLIANCE"
+      ]
+    },
+    {
+      "id": "biology-revision",
+      "title": "🧬 BIOLOGY REVISION — Government Exam Master Sheet",
+      "file": "data/revision/biology/biology-revision.md",
+      "category": "general-science",
+      "lineCount": 597,
+      "wordCount": 4399,
+      "estimatedReadMin": 29,
+      "subtopicsCount": 15,
+      "subtopics": [
+        "1. CELL BIOLOGY",
+        "2. HUMAN BODY SYSTEMS",
+        "3. BLOOD",
+        "4. VITAMINS",
+        "5. HORMONES",
+        "6. DNA & GENETICS",
+        "7. DISEASES",
+        "8. NUTRITION",
+        "9. PLANT BIOLOGY",
+        "10. ECOLOGY",
+        "11. BIOTECHNOLOGY",
+        "12. IMPORTANT SCIENTISTS & DISCOVERIES",
+        "✅ MUST REMEMBER — TOP 20 FACTS",
+        "⚠️ COMMON TRAPS",
+        "⚡ 30-SECOND REVISION CARD"
+      ]
+    },
+    {
+      "id": "chemistry-revision",
+      "title": "General Science – Chemistry Revision Notes",
+      "file": "data/revision/chemistry/chemistry-revision.md",
+      "category": "general-science",
+      "lineCount": 78,
+      "wordCount": 656,
+      "estimatedReadMin": 4,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. ATOMIC STRUCTURE & PERIODIC TABLE",
+        "2. COMMON CHEMICAL COMPOUNDS & NAMES (HIGH-FREQUENCY EXAM TABLE)",
+        "3. ACIDS, BASES & PH VALUES",
+        "4. METALS, NON-METALS & IMPORTANT ALLOYS"
+      ]
+    },
+    {
+      "id": "cloud-revision",
+      "title": "☁️ CLOUD COMPUTING — COMPLETE REVISION GUIDE",
+      "file": "data/revision/cloud-computing/cloud-revision.md",
+      "category": "computer-science",
+      "lineCount": 683,
+      "wordCount": 4404,
+      "estimatedReadMin": 29,
+      "subtopicsCount": 15,
+      "subtopics": [
+        "1. Cloud Service Models (IaaS / PaaS / SaaS / FaaS)",
+        "2. Cloud Deployment Models",
+        "3. Virtualization",
+        "4. Linux Containers (Docker & Kubernetes)",
+        "5. AWS Core Services",
+        "6. Azure Core Services",
+        "7. Cloud Storage Types",
+        "8. Cloud Networking",
+        "9. Cloud Security",
+        "10. Cloud Cost Optimization",
+        "11. High Availability & Disaster Recovery",
+        "12. DevOps on Cloud",
+        "📌 MUST REMEMBER — Cloud Computing",
+        "⚠️ COMMON TRAPS — Cloud Computing",
+        "⚡ 30-SECOND REVISION — Cloud Computing"
+      ]
+    },
+    {
+      "id": "architecture-revision",
+      "title": "Computer Architecture — Revision Notes",
+      "file": "data/revision/computer-architecture/architecture-revision.md",
+      "category": "computer-science",
+      "lineCount": 560,
+      "wordCount": 3172,
+      "estimatedReadMin": 21,
+      "subtopicsCount": 12,
+      "subtopics": [
+        "1. Basic Computer Organization",
+        "2. Instruction Cycle (Fetch–Decode–Execute–Store)",
+        "3. Registers — Detailed Reference",
+        "4. Memory Hierarchy",
+        "5. Cache Memory",
+        "6. Pipelining",
+        "7. Flynn's Taxonomy",
+        "8. Number Systems",
+        "9. Boolean Algebra",
+        "10. I/O Techniques",
+        "✅ MUST REMEMBER",
+        "⚡ 30-SECOND REVISION CARD"
+      ]
+    },
+    {
+      "id": "networks-revision",
+      "title": "Computer Networks – Complete Exam Revision Notes",
+      "file": "data/revision/computer-networks/networks-revision.md",
+      "category": "computer-science",
+      "lineCount": 124,
+      "wordCount": 872,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. OSI VS TCP/IP PROTOCOL SUITE",
+        "2. IP ADDRESSING & SUBNETTING CHEAT SHEET",
+        "3. TCP VS UDP COMPARISON",
+        "4. TCP HANDSHAKE & TEARDOWN",
+        "5. ROUTING & CORE PROTOCOLS",
+        "6. MUST REMEMBER & COMMON TRAPS"
+      ]
+    },
+    {
+      "id": "security-revision",
+      "title": "Information Security & Cryptography Revision Notes",
+      "file": "data/revision/cybersecurity/security-revision.md",
+      "category": "computer-science",
+      "lineCount": 60,
+      "wordCount": 467,
+      "estimatedReadMin": 3,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. CRYPTOGRAPHIC ALGORITHMS OVERVIEW",
+        "2. DIGITAL SIGNATURES & PKI",
+        "3. WEB APPLICATION SECURITY (OWASP TOP 10)",
+        "4. ZERO TRUST ARCHITECTURE & BANKING GOVERNANCE"
+      ]
+    },
+    {
+      "id": "data-structures-revision",
+      "title": "Data Structures – Complete Revision Notes",
+      "file": "data/revision/data-structures/data-structures-revision.md",
+      "category": "computer-science",
+      "lineCount": 1125,
+      "wordCount": 6103,
+      "estimatedReadMin": 41,
+      "subtopicsCount": 21,
+      "subtopics": [
+        "TABLE OF CONTENTS",
+        "1. ARRAY",
+        "2. SINGLY LINKED LIST",
+        "3. DOUBLY LINKED LIST",
+        "4. CIRCULAR LINKED LIST",
+        "5. STACK",
+        "6. QUEUE",
+        "7. CIRCULAR QUEUE",
+        "8. DEQUE",
+        "9. PRIORITY QUEUE",
+        "10. HASH TABLE",
+        "11. TREE",
+        "12. BINARY TREE",
+        "13. BINARY SEARCH TREE (BST)",
+        "14. AVL TREE"
+      ]
+    },
+    {
+      "id": "dbms-revision",
+      "title": "Database Management Systems (DBMS) & SQL Revision Notes",
+      "file": "data/revision/dbms/dbms-revision.md",
+      "category": "computer-science",
+      "lineCount": 113,
+      "wordCount": 823,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. ENTITY-RELATIONSHIP (ER) MODEL",
+        "2. RELATIONAL KEYS HIERARCHY",
+        "3. NORMALIZATION SUMMARY TABLE",
+        "4. SQL WINDOW FUNCTIONS & COMMON TABLES",
+        "5. TRANSACTIONS & ACID PROPERTIES",
+        "6. MUST REMEMBER & COMMON TRAPS"
+      ]
+    },
+    {
+      "id": "defence-revision",
+      "title": "Defence, Armed Forces & Security Revision Notes",
+      "file": "data/revision/defence/defence-revision.md",
+      "category": "defence-gk-exam",
+      "lineCount": 82,
+      "wordCount": 635,
+      "estimatedReadMin": 4,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. ARMED FORCES EQUIVALENT RANKS",
+        "2. COMMAND HEADQUARTERS",
+        "3. INDIAN MISSILE SYSTEMS (DRDO IGMDP PROGRAM)",
+        "4. CENTRAL ARMED POLICE FORCES (CAPF) UNDER MHA"
+      ]
+    },
+    {
+      "id": "english-revision",
+      "title": "English Language & Verbal Ability Revision Notes",
+      "file": "data/revision/english/english-revision.md",
+      "category": "english-verbal",
+      "lineCount": 71,
+      "wordCount": 749,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. SUBJECT-VERB AGREEMENT (10 GOLDEN RULES)",
+        "2. ACTIVE & PASSIVE VOICE CONVERSION SUMMARY",
+        "3. HIGH-FREQUENCY IDIOMS & PHRASES",
+        "4. COMMONLY CONFUSED WORDS"
+      ]
+    },
+    {
+      "id": "exam-specific-revision",
+      "title": "Exam-Specific Target Revision Modules",
+      "file": "data/revision/exam-specific/exam-specific-revision.md",
+      "category": "defence-gk-exam",
+      "lineCount": 82,
+      "wordCount": 868,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 5,
+      "subtopics": [
+        "1. IBPS SO IT OFFICER (SCALE-I) — PRELIMS & MAINS",
+        "2. UP POLICE SI (17 PAPERS IN BANK)",
+        "3. RRB ASSISTANT LOCO PILOT (ALP) — CBT-1 & CBT-2 (14 PAPERS IN BANK)",
+        "4. SCIENTIFIC & TECHNICAL CSE EXAMS (ISRO, DRDO, NIC, BARC, POWERGRID)",
+        "5. CDS & CAPF EXAM STRATEGY"
+      ]
+    },
+    {
+      "id": "general-awareness-revision",
+      "title": "General Awareness & Static GK Revision Notes",
+      "file": "data/revision/general-awareness/general-awareness-revision.md",
+      "category": "defence-gk-exam",
+      "lineCount": 55,
+      "wordCount": 792,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 3,
+      "subtopics": [
+        "1. MAJOR INTERNATIONAL ORGANIZATIONS & HEADQUARTERS",
+        "2. AWARDS & HONOURS SUMMARY TABLE",
+        "3. IMPORTANT NATIONAL & INTERNATIONAL DAYS"
+      ]
+    },
+    {
+      "id": "geography-revision",
+      "title": "Geography – Physical & Indian Geography Revision Notes",
+      "file": "data/revision/geography/geography-revision.md",
+      "category": "general-studies",
+      "lineCount": 56,
+      "wordCount": 585,
+      "estimatedReadMin": 4,
+      "subtopicsCount": 4,
+      "subtopics": [
+        "1. EARTH'S INTERIOR & CRUSTAL LAYERS",
+        "2. ATMOSPHERIC LAYERS",
+        "3. DRAINAGE SYSTEMS OF INDIA (RIVERS QUICK CHEAT SHEET)",
+        "4. MAJOR NATIONAL PARKS & BIOSPHERE RESERVES"
+      ]
+    },
+    {
+      "id": "history-revision",
+      "title": "📜 HISTORY REVISION — Government Exam Master File",
+      "file": "data/revision/history/history-revision.md",
+      "category": "general-studies",
+      "lineCount": 809,
+      "wordCount": 6126,
+      "estimatedReadMin": 41,
+      "subtopicsCount": 29,
+      "subtopics": [
+        "🗓️ MASTER TIMELINE AT A GLANCE",
+        "1. Prehistoric Period",
+        "2. Indus Valley Civilisation (IVC)",
+        "3. Vedic Age",
+        "4. Buddhism",
+        "5. Jainism",
+        "6. Mauryan Empire (321–185 BCE)",
+        "7. Post-Mauryan Period",
+        "8. Gupta Empire (319–550 CE)",
+        "9. Sangam Age (~300 BCE–300 CE)",
+        "10. Post-Gupta Period",
+        "11. Delhi Sultanate (1206–1526 CE)",
+        "12. Mughal Empire (1526–1857)",
+        "13. Bhakti Movement",
+        "14. Sufi Movement"
+      ]
+    },
+    {
+      "id": "os-revision",
+      "title": "Operating Systems — Exam Revision",
+      "file": "data/revision/os/os-revision.md",
+      "category": "computer-science",
+      "lineCount": 706,
+      "wordCount": 3741,
+      "estimatedReadMin": 25,
+      "subtopicsCount": 9,
+      "subtopics": [
+        "1. Process Management",
+        "2. CPU Scheduling",
+        "3. Synchronization",
+        "4. Memory Management",
+        "5. File Systems",
+        "6. I/O Management",
+        "7. Disk Scheduling",
+        "📌 MASTER MUST-REMEMBER BOX",
+        "⚡ 30-SECOND REVISION"
+      ]
+    },
+    {
+      "id": "physics-revision",
+      "title": "General Science – Physics Revision Notes & Formula Cheat Sheet",
+      "file": "data/revision/physics/physics-revision.md",
+      "category": "general-science",
+      "lineCount": 82,
+      "wordCount": 738,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. UNITS & DIMENSIONS CHEAT SHEET",
+        "2. MOTION & MECHANICS FORMULAS",
+        "3. GRAVITATION & SATELLITE DYNAMICS",
+        "4. WORK, ENERGY & POWER",
+        "5. OPTICS & LIGHT",
+        "6. ELECTRICITY & MAGNETISM"
+      ]
+    },
+    {
+      "id": "polity-revision",
+      "title": "Indian Polity & Constitution Revision Notes",
+      "file": "data/revision/polity/polity-revision.md",
+      "category": "general-studies",
+      "lineCount": 69,
+      "wordCount": 788,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 5,
+      "subtopics": [
+        "1. PREAMBLE & SALIENT FEATURES",
+        "2. FUNDAMENTAL RIGHTS (ARTICLES 12 – 35)",
+        "3. CONSTITUTIONAL BODIES COMPARISON TABLE",
+        "4. EMERGENCY PROVISIONS",
+        "5. SCHEDULES OF THE CONSTITUTION (1 TO 12)"
+      ]
+    },
+    {
+      "id": "programming-revision",
+      "title": "Object-Oriented Programming (OOP) & Language Fundamentals",
+      "file": "data/revision/programming/programming-revision.md",
+      "category": "computer-science",
+      "lineCount": 117,
+      "wordCount": 713,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 6,
+      "subtopics": [
+        "1. CORE OOP PILLARS",
+        "2. SOLID PRINCIPLES QUICK REFERENCE",
+        "3. JAVA INTERNALS & MEMORY ARCHITECTURE",
+        "4. C++ SPECIFICS & DIAMOND PROBLEM",
+        "5. DESIGN PATTERNS QUICK CLASSIFICATION",
+        "6. MUST REMEMBER & COMMON TRAPS"
+      ]
+    },
+    {
+      "id": "reasoning-revision",
+      "title": "REASONING ABILITY — COMPLETE REVISION GUIDE",
+      "file": "data/revision/reasoning/reasoning-revision.md",
+      "category": "aptitude-reasoning",
+      "lineCount": 1562,
+      "wordCount": 7817,
+      "estimatedReadMin": 52,
+      "subtopicsCount": 22,
+      "subtopics": [
+        "📌 MASTER REFERENCE TABLES (Read First)",
+        "1. SERIES (Number / Alphabet / Alphanumeric)",
+        "2. ANALOGY & CLASSIFICATION",
+        "3. CODING-DECODING",
+        "4. BLOOD RELATIONS",
+        "5. DIRECTION & DISTANCE",
+        "6. RANKING & ORDERING",
+        "7. INEQUALITY",
+        "8. SYLLOGISM (with Possibility Cases)",
+        "9. SEATING ARRANGEMENT (Linear, Circular)",
+        "10. FLOOR & BOX PUZZLES",
+        "11. SCHEDULING / MONTH / DAY PUZZLES",
+        "12. INPUT-OUTPUT MACHINE",
+        "13. DATA SUFFICIENCY",
+        "14. STATEMENT & ASSUMPTION"
+      ]
+    },
+    {
+      "id": "se-revision",
+      "title": "Software Engineering & SDLC Revision Notes",
+      "file": "data/revision/software-engineering/se-revision.md",
+      "category": "computer-science",
+      "lineCount": 80,
+      "wordCount": 608,
+      "estimatedReadMin": 4,
+      "subtopicsCount": 5,
+      "subtopics": [
+        "1. SDLC MODELS COMPARISON",
+        "2. AGILE & SCRUM CEREMONIES AND ARTIFACTS",
+        "3. SOFTWARE METRICS & COCOMO",
+        "4. SOFTWARE TESTING METHODOLOGIES",
+        "5. MUST REMEMBER & COMMON TRAPS"
+      ]
+    }
+  ]
+}

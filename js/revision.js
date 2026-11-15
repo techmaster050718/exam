@@ -1,0 +1,269 @@
+/**
+ * js/revision.js
+ * Revision Encyclopedia UI controller and vanilla markdown renderer.
+ */
+(function () {
+  'use strict';
+
+  let revisionIndex = null;
+  let activeModuleId = null;
+
+  // Simple, robust vanilla Markdown-to-HTML parser (no external dependencies)
+  function renderMarkdown(md) {
+    if (!md) return '';
+    let lines = md.split('\n');
+    let html = [];
+    let inTable = false;
+    let tableRows = [];
+    let inCode = false;
+    let codeBlock = [];
+
+    for (let i = 0; i < lines.length; i++) {
+      let line = lines[i];
+
+      // Code blocks
+      if (line.trim().startsWith('```')) {
+        if (inCode) {
+          html.push('<pre><code>' + escapeHtml(codeBlock.join('\n')) + '</code></pre>');
+          codeBlock = [];
+          inCode = false;
+        } else {
+          inCode = true;
+        }
+        continue;
+      }
+      if (inCode) {
+        codeBlock.push(line);
+        continue;
+      }
+
+      // Tables
+      if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+        if (!inTable) {
+          inTable = true;
+          tableRows = [];
+        }
+        // Check if delimiter row like | --- | --- |
+        if (line.replace(/[\s|:-]/g, '').length === 0) {
+          continue; // skip separator row
+        }
+        let cells = line.split('|').slice(1, -1).map(c => c.trim());
+        tableRows.push(cells);
+        continue;
+      } else if (inTable) {
+        // Flush table
+        html.push(renderTable(tableRows));
+        tableRows = [];
+        inTable = false;
+      }
+
+      // Headings
+      if (line.startsWith('# ')) {
+        html.push('<h1>' + formatInline(line.slice(2)) + '</h1>');
+      } else if (line.startsWith('## ')) {
+        html.push('<h2>' + formatInline(line.slice(3)) + '</h2>');
+      } else if (line.startsWith('### ')) {
+        html.push('<h3>' + formatInline(line.slice(4)) + '</h3>');
+      } else if (line.startsWith('#### ')) {
+        html.push('<h4>' + formatInline(line.slice(5)) + '</h4>');
+      } else if (line.startsWith('> ')) {
+        html.push('<blockquote>' + formatInline(line.slice(2)) + '</blockquote>');
+      } else if (line.startsWith('---')) {
+        html.push('<hr style="border:0; border-top:1px solid var(--border-color, rgba(0,0,0,0.1)); margin:24px 0;">');
+      } else if (line.trim().startsWith('* ') || line.trim().startsWith('- ')) {
+        let content = line.trim().slice(2);
+        html.push('<ul><li>' + formatInline(content) + '</li></ul>');
+      } else if (/^\d+\.\s/.test(line.trim())) {
+        let content = line.trim().replace(/^\d+\.\s/, '');
+        html.push('<ol><li>' + formatInline(content) + '</li></ol>');
+      } else if (line.trim().length > 0) {
+        html.push('<p>' + formatInline(line) + '</p>');
+      }
+    }
+
+    if (inTable) {
+      html.push(renderTable(tableRows));
+    }
+    if (inCode) {
+      html.push('<pre><code>' + escapeHtml(codeBlock.join('\n')) + '</code></pre>');
+    }
+
+    // Clean up adjacent identical lists (combine <ul><li>...</ul> <ul><li>...</ul>)
+    let output = html.join('\n')
+      .replace(/<\/ul>\s*<ul>/g, '')
+      .replace(/<\/ol>\s*<ol>/g, '');
+
+    return output;
+  }
+
+  function renderTable(rows) {
+    if (!rows || rows.length === 0) return '';
+    let out = '<table><thead><tr>';
+    let headers = rows[0];
+    for (let h of headers) {
+      out += '<th>' + formatInline(h) + '</th>';
+    }
+    out += '</tr></thead><tbody>';
+    for (let r = 1; r < rows.length; r++) {
+      out += '<tr>';
+      for (let c of rows[r]) {
+        out += '<td>' + formatInline(c) + '</td>';
+      }
+      out += '</tr>';
+    }
+    out += '</tbody></table>';
+    return out;
+  }
+
+  function formatInline(str) {
+    return str
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g, '<em>$1</em>')
+      .replace(/`([^`]+)`/g, '<code>$1</code>')
+      .replace(/\$([^\$]+)\$/g, '<code style="color:#b45309; background:rgba(217,119,6,0.08); padding:1px 4px; border-radius:3px;">$1</code>');
+  }
+
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+  }
+
+  async function init() {
+    try {
+      const res = await fetch('data/revision/revision-index.json');
+      if (!res.ok) throw new Error('Could not load revision index');
+      revisionIndex = await res.json();
+      renderSidebar();
+      setupSearch();
+
+      // Check URL query param
+      const urlParams = new URLSearchParams(window.location.search);
+      const modParam = urlParams.get('module');
+      if (modParam && revisionIndex.modules.some(m => m.id === modParam)) {
+        loadModule(modParam);
+      } else if (revisionIndex.modules.length > 0) {
+        loadModule(revisionIndex.modules[0].id);
+      }
+    } catch (err) {
+      console.error(err);
+      document.getElementById('content-container').innerHTML = `
+        <div style="padding: 30px; text-align: center; color: #dc2626;">
+          <h3>Failed to load revision materials</h3>
+          <p>${err.message}</p>
+          <p style="color:var(--text-muted); font-size:0.85rem;">Run with a local server (e.g. <code>python3 -m http.server</code>) to enable fetch.</p>
+        </div>
+      `;
+    }
+  }
+
+  function renderSidebar(filteredModules = null) {
+    const container = document.getElementById('sidebar-categories');
+    if (!container || !revisionIndex) return;
+
+    const modulesToRender = filteredModules || revisionIndex.modules;
+    let html = '';
+
+    for (let cat of revisionIndex.categories) {
+      let catMods = modulesToRender.filter(m => m.category === cat.id);
+      if (catMods.length === 0) continue;
+
+      html += `<div class="category-group">`;
+      html += `<div class="category-title">${cat.icon} ${cat.name}</div>`;
+      for (let mod of catMods) {
+        const isActive = mod.id === activeModuleId ? 'active' : '';
+        html += `<a class="module-item ${isActive}" data-id="${mod.id}" title="${mod.title}">
+          ${mod.title.replace(/^[^-]+–\s*/, '').replace(/Revision Notes.*$/, '').trim()}
+        </a>`;
+      }
+      html += `</div>`;
+    }
+
+    container.innerHTML = html;
+
+    // Attach click events
+    container.querySelectorAll('.module-item').forEach(el => {
+      el.addEventListener('click', () => {
+        const modId = el.getAttribute('data-id');
+        loadModule(modId);
+      });
+    });
+  }
+
+  function setupSearch() {
+    const searchInput = document.getElementById('revision-search');
+    if (!searchInput) return;
+
+    searchInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      if (!q) {
+        renderSidebar();
+        return;
+      }
+
+      const filtered = revisionIndex.modules.filter(m => {
+        if (m.title.toLowerCase().includes(q)) return true;
+        if (m.id.toLowerCase().includes(q)) return true;
+        if (m.subtopics && m.subtopics.some(s => s.toLowerCase().includes(q))) return true;
+        return false;
+      });
+
+      renderSidebar(filtered);
+    });
+  }
+
+  async function loadModule(modId) {
+    activeModuleId = modId;
+    const mod = revisionIndex.modules.find(m => m.id === modId);
+    if (!mod) return;
+
+    // Update active highlight in sidebar
+    document.querySelectorAll('.module-item').forEach(el => {
+      el.classList.toggle('active', el.getAttribute('data-id') === modId);
+    });
+
+    // Update browser URL query param without full reload
+    const url = new URL(window.location);
+    url.searchParams.set('module', modId);
+    window.history.replaceState({}, '', url);
+
+    const mainContainer = document.getElementById('content-container');
+    mainContainer.innerHTML = `<div style="text-align:center; padding: 40px; color: var(--text-muted);">Loading ${mod.title}…</div>`;
+
+    try {
+      const res = await fetch(mod.file);
+      if (!res.ok) throw new Error(`Could not load ${mod.file}`);
+      const markdown = await res.text();
+      const renderedHtml = renderMarkdown(markdown);
+
+      mainContainer.innerHTML = `
+        <div class="revision-meta-bar">
+          <div>
+            <span class="meta-badge">📖 ${mod.estimatedReadMin} min read</span>
+            <span class="meta-badge" style="background:rgba(59,130,246,0.1); color:#2563eb;">📑 ${mod.subtopicsCount} topics</span>
+            <span class="meta-badge" style="background:rgba(16,185,129,0.1); color:#059669;">📝 ${mod.wordCount} words</span>
+          </div>
+          <a href="${mod.file}" download class="btn btn-outline" style="font-size:0.8rem; padding:4px 10px; text-decoration:none;">
+            ⬇️ Download Raw Markdown
+          </a>
+        </div>
+        <div class="rendered-markdown">
+          ${renderedHtml}
+        </div>
+      `;
+      // Scroll to top of content
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } catch (err) {
+      mainContainer.innerHTML = `<div style="color:#dc2626; padding:20px;">Error: ${err.message}</div>`;
+    }
+  }
+
+  // Auto-init on DOM load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+
