@@ -1,9 +1,9 @@
 {
   "title": "Lakshya Question Bank — Master Revision Encyclopedia",
   "description": "High-density exam revision materials covering all 79 papers and 21 exam subjects present in the question bank.",
-  "version": "1.0",
-  "lastUpdated": "2026-11-15",
-  "totalModules": 43,
+  "version": "1.1",
+  "lastUpdated": "2026-11-18",
+  "totalModules": 59,
   "totalLines": 8965,
   "totalWords": 56361,
   "categories": [
@@ -105,6 +105,102 @@
         "data/revision/general-awareness/exam-revision-layer.md",
         "data/revision/general-awareness/quick-revision-layer.md"
       ]
+    },
+    {
+      "id": "backend-api",
+      "name": "01 — Backend",
+      "icon": "🔌",
+      "description": "APIs, authentication, caching, queues, uploads, validation, and backend testing"
+    },
+    {
+      "id": "cyber-security",
+      "name": "02 — Cyber Security",
+      "icon": "🛡️",
+      "description": "Web vulnerabilities, cryptography, secure sessions, IAM, headers, and prompt security"
+    },
+    {
+      "id": "lld",
+      "name": "03 — LLD / Low Level Design",
+      "icon": "🧩",
+      "description": "OOP, SOLID, design principles, UML, patterns, concurrency, and machine coding"
+    },
+    {
+      "id": "agentic-ai",
+      "name": "04 — AI / Agentic AI",
+      "icon": "🤖",
+      "description": "LLMs, embeddings, RAG, tool calling, agents, memory, guardrails, and evaluations"
+    },
+    {
+      "id": "devops",
+      "name": "05 — DevOps",
+      "icon": "⚙️",
+      "description": "Linux, Git, containers, Kubernetes, CI/CD, infrastructure, and observability"
+    },
+    {
+      "id": "hld",
+      "name": "06 — High Level Design",
+      "icon": "🏗️",
+      "description": "Scalability, caching, sharding, consistency, messaging, and system trade-offs"
+    },
+    {
+      "id": "dsa",
+      "name": "07 — DSA",
+      "icon": "🧮",
+      "description": "Core arrays, strings, trees, graphs, sorting, search, and dynamic programming"
+    },
+    {
+      "id": "cs-fundamentals",
+      "name": "08 — CS Fundamentals",
+      "icon": "💻",
+      "description": "Processes, scheduling, memory, file systems, networks, compilers, and garbage collection"
+    },
+    {
+      "id": "databases",
+      "name": "09 — Databases",
+      "icon": "🗄️",
+      "description": "SQL, indexing, transactions, MVCC, optimization, NoSQL, and recovery"
+    },
+    {
+      "id": "python-backend",
+      "name": "10 — Python / Backend Advanced",
+      "icon": "🐍",
+      "description": "Async Python, decorators, dependency injection, FastAPI, ORM, and task queues"
+    },
+    {
+      "id": "database-advanced",
+      "name": "11 — Database Advanced",
+      "icon": "🧠",
+      "description": "PostgreSQL, ER modeling, pgvector, migrations, CDC, and N+1 queries"
+    },
+    {
+      "id": "aws-cloud",
+      "name": "12 — AWS / Cloud",
+      "icon": "☁️",
+      "description": "AWS services and core IaaS, PaaS, SaaS, serverless, and cloud architecture concepts"
+    },
+    {
+      "id": "sre",
+      "name": "13 — DevOps Advanced / SRE",
+      "icon": "📈",
+      "description": "GitOps, ArgoCD, Docker security, zero-downtime delivery, IaC, SLI, SLO, and SLA"
+    },
+    {
+      "id": "advanced-system-design",
+      "name": "14 — Advanced System Design",
+      "icon": "🌐",
+      "description": "Distributed coordination, patterns, data consistency, and product case studies"
+    },
+    {
+      "id": "llm-advanced",
+      "name": "15 — AI / LLM Advanced",
+      "icon": "✨",
+      "description": "LangGraph, RAG evaluation, semantic caching, hybrid search, and streaming"
+    },
+    {
+      "id": "interview-preparation",
+      "name": "16 — Interview Preparation",
+      "icon": "🎯",
+      "description": "SQL practice, coding rounds, resume and project answers, STAR, and mock interviews"
     }
   ],
   "modules": [
@@ -1329,6 +1425,246 @@
         "Security",
         "IR"
       ]
+    },
+    {
+      "id": "backend-revision",
+      "title": "Backend Interview Revision",
+      "file": "data/revision/technical/backend-revision.md",
+      "category": "backend-api",
+      "lineCount": 85,
+      "wordCount": 2200,
+      "estimatedReadMin": 12,
+      "subtopicsCount": 20,
+      "subtopics": ["REST APIs","HTTP & Status Codes","GraphQL","gRPC","JWT Authentication","OAuth 2.0","Sessions & Cookies","Caching with Redis","Message Queues","Rate Limiting","WebSockets","Background Jobs","Webhooks","Idempotency","File Uploads to S3","Pagination","API Versioning","Input Validation","Logging & Monitoring","Unit & Integration Tests"],
+      "subCategory": "Backend",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Backend","REST","GraphQL","gRPC","JWT","OAuth","Redis","Redis Caching","Redis Data Types","Message Queue","WebSocket","API","S3","Pagination","Idempotency"]
+    },
+    {
+      "id": "cybersecurity-revision",
+      "title": "Cyber Security Interview Revision",
+      "file": "data/revision/technical/cybersecurity-revision.md",
+      "category": "cyber-security",
+      "lineCount": 85,
+      "wordCount": 2000,
+      "estimatedReadMin": 11,
+      "subtopicsCount": 20,
+      "subtopics": ["OWASP Top 10","SQL Injection","XSS","CSRF","CORS","SSRF","HTTPS & TLS","Hashing & Encryption","Password Hashing","Secure Sessions","JWT Security","OAuth Security","Secrets Management","IAM & Least Privilege","Security Headers & CSP","Rate Limiting & DDoS","Input Validation","Dependency Scanning","Penetration Testing","Prompt Injection"],
+      "subCategory": "Cyber Security",
+      "exams": ["IBPS","SBI SO","CDS","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Cyber Security","OWASP","SQLi","XSS","CSRF","CORS","SSRF","TLS","Encryption","IAM","CSP","DDoS","Prompt Injection"]
+    },
+    {
+      "id": "lld-revision",
+      "title": "LLD / Low Level Design Revision",
+      "file": "data/revision/technical/lld-revision.md",
+      "category": "lld",
+      "lineCount": 80,
+      "wordCount": 1700,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 21,
+      "subtopics": ["OOP Pillars","SOLID","DRY","KISS","YAGNI","Composition over Inheritance","UML Class Diagrams","Singleton","Factory","Abstract Factory","Builder","Prototype","Adapter","Decorator","Facade","Proxy","Observer","Strategy","Command","State","Thread Safety","Machine Coding"],
+      "subCategory": "LLD",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["LLD","OOP","SOLID","Design Patterns","Singleton","Factory","Adapter","Observer","Strategy","Thread Safety","Machine Coding"]
+    },
+    {
+      "id": "agentic-ai-revision",
+      "title": "AI / Agentic AI Interview Revision",
+      "file": "data/revision/technical/agentic-ai-revision.md",
+      "category": "agentic-ai",
+      "lineCount": 75,
+      "wordCount": 1800,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 20,
+      "subtopics": ["LLM Fundamentals","Tokens & Context Window","Prompt Engineering","Structured Outputs","Embeddings","Vector Databases","RAG Pipelines","Chunking Strategies","Reranking","Tool Calling","MCP Protocol","ReAct Agent Loop","Planning & Reflection","Agent Memory","Multi-Agent Systems","Agent Orchestration","Guardrails","Evals","Observability & Tracing","Fine-Tuning with LoRA"],
+      "subCategory": "AI & Agentic AI",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["AI","Agentic AI","LLM","RAG","RAGAS","Embeddings","Vector Database","MCP","ReAct","LoRA","MCP Protocol"]
+    },
+    {
+      "id": "devops-revision",
+      "title": "DevOps Interview Revision",
+      "file": "data/revision/technical/devops-revision.md",
+      "category": "devops",
+      "lineCount": 75,
+      "wordCount": 1800,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 20,
+      "subtopics": ["Linux & Bash","Networking Basics","Git & GitHub","Docker","Docker Compose","Kubernetes","Helm","CI/CD Pipelines","GitHub Actions","AWS Cloud","Terraform","Ansible","Nginx Reverse Proxy","Load Balancers","Prometheus","Grafana","ELK Logging","Blue-Green Deployments","Auto Scaling","Secrets Management"],
+      "subCategory": "DevOps",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["DevOps","Docker","Kubernetes","Terraform","CI/CD","GitHub Actions","Prometheus","Grafana","Load Balancing","Linux","AWS"]
+    },
+    {
+      "id": "hld-revision",
+      "title": "High Level Design Revision",
+      "file": "data/revision/technical/hld-revision.md",
+      "category": "hld",
+      "lineCount": 75,
+      "wordCount": 2000,
+      "estimatedReadMin": 11,
+      "subtopicsCount": 20,
+      "subtopics": ["Scalability","Load Balancing","Caching","CDN","Database Sharding","Replication","Consistent Hashing","CAP Theorem","PACELC","Consistency Models","Kafka & Pub/Sub","Event-Driven Architecture","Microservices","API Gateway","Rate Limiter Design","Bloom Filter","Circuit Breaker","Saga Pattern","Blob Storage","Back-of-the-Envelope Estimation"],
+      "subCategory": "System Design",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["HLD","System Design","Scalability","Load Balancer","CDN","Sharding","Kafka","CAP Theorem","Bloom Filter","Circuit Breaker","Saga"]
+    },
+    {
+      "id": "dsa-revision",
+      "title": "DSA Interview Revision",
+      "file": "data/revision/technical/dsa-revision.md",
+      "category": "dsa",
+      "lineCount": 70,
+      "wordCount": 1800,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 20,
+      "subtopics": ["Arrays & Strings","Hashing","Two Pointers","Sliding Window","Prefix Sum","Binary Search","Stack & Queue","Monotonic Stack","Linked List","Recursion","Backtracking","Trees & BST","Heap / Priority Queue","Tries","Graphs BFS/DFS","Topological Sort","Dijkstra","Union Find","Greedy","Dynamic Programming"],
+      "subCategory": "DSA",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["DSA","Arrays","Hashing","Two Pointers","Sliding Window","Binary Search","Graph","Dijkstra","Dynamic Programming","Trees"]
+    },
+    {
+      "id": "cs-fundamentals-revision",
+      "title": "CS Fundamentals Interview Revision",
+      "file": "data/revision/technical/cs-fundamentals-revision.md",
+      "category": "cs-fundamentals",
+      "lineCount": 75,
+      "wordCount": 1900,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 20,
+      "subtopics": ["Processes & Threads","Context Switching","CPU Scheduling","Concurrency & Locks","Deadlocks","Memory Management","Virtual Memory & Paging","File Systems","System Calls","OSI Model","TCP vs UDP","TCP Handshake","IP & Subnets","DNS","HTTP/1.1 vs HTTP/2","TLS Handshake","Sockets","Compilers vs Interpreters","Garbage Collection","Character Encoding"],
+      "subCategory": "CS Fundamentals",
+      "exams": ["IBPS","SBI SO","ISRO","DRDO","NIC","BARC","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["OS","CS Fundamentals","Processes","Threads","Scheduling","Deadlock","OSI","TCP","UDP","DNS","TLS","Sockets","Garbage Collection"]
+    },
+    {
+      "id": "databases-revision",
+      "title": "Databases Interview Revision",
+      "file": "data/revision/technical/databases-revision.md",
+      "category": "databases",
+      "lineCount": 75,
+      "wordCount": 1900,
+      "estimatedReadMin": 10,
+      "subtopicsCount": 20,
+      "subtopics": ["SQL Basics","Joins","Normalization","Indexing","B+ Tree Indexes","Transactions & ACID","Isolation Levels","Locks & MVCC","Query Optimization","EXPLAIN Plans","Stored Procedures","Views & Triggers","SQL vs NoSQL","MongoDB","Redis Data Types","Replication","Sharding","Partitioning","Connection Pooling","Backups & Recovery"],
+      "subCategory": "Databases",
+      "exams": ["IBPS","SBI SO","ISRO","DRDO","NIC","BARC","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Database","SQL","Joins","Normalization","Index","ACID","MVCC","MongoDB","Redis","Replication","Sharding","Partitioning"]
+    },
+    {
+      "id": "python-backend-revision",
+      "title": "Python / Backend Advanced Revision",
+      "file": "data/revision/technical/python-backend-revision.md",
+      "category": "python-backend",
+      "lineCount": 55,
+      "wordCount": 1200,
+      "estimatedReadMin": 7,
+      "subtopicsCount": 13,
+      "subtopics": ["Async/Await & asyncio","GIL","Decorators & Generators","Dependency Injection","FastAPI Dependency Injection","Middleware","ORM & Migrations","SQLAlchemy","Alembic","Celery","Pydantic","Server-Sent Events","Django ORM Internals"],
+      "subCategory": "Python Backend",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Python","Async","GIL","FastAPI","Pydantic","SQLAlchemy","Alembic","Celery","Django","Middleware","SSE"]
+    },
+    {
+      "id": "database-advanced-revision",
+      "title": "Database Advanced Revision",
+      "file": "data/revision/technical/database-advanced-revision.md",
+      "category": "database-advanced",
+      "lineCount": 35,
+      "wordCount": 800,
+      "estimatedReadMin": 5,
+      "subtopicsCount": 7,
+      "subtopics": ["PostgreSQL Internals","Data Modeling / ER Design","pgvector","Vector Search","Database Migrations","CDC / Change Data Capture","N+1 Query Problem"],
+      "subCategory": "Database Advanced",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["PostgreSQL","ER Model","pgvector","Vector Search","CDC","N+1","Database Migration"]
+    },
+    {
+      "id": "aws-cloud-revision",
+      "title": "AWS / Cloud Interview Revision",
+      "file": "data/revision/technical/aws-cloud-revision.md",
+      "category": "aws-cloud",
+      "lineCount": 75,
+      "wordCount": 1500,
+      "estimatedReadMin": 9,
+      "subtopicsCount": 16,
+      "subtopics": ["EC2","S3","IAM","VPC","RDS","Lambda","CloudWatch","Route 53","ECS","EKS","SQS","SNS","IaaS","PaaS","SaaS","Serverless","Scalability","Elasticity","Availability","Regions","Availability Zones","Object Storage","Cloud Networking","Cloud Security"],
+      "subCategory": "AWS & Cloud",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["AWS","Cloud","EC2","S3","IAM","VPC","RDS","Lambda","CloudWatch","Route 53","ECS","EKS","SQS","SNS","Serverless"]
+    },
+    {
+      "id": "sre-revision",
+      "title": "DevOps Advanced / SRE Revision",
+      "file": "data/revision/technical/sre-revision.md",
+      "category": "sre",
+      "lineCount": 45,
+      "wordCount": 900,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 10,
+      "subtopics": ["GitOps","ArgoCD","Docker Security","Multi-stage Docker Builds","Zero-Downtime Deployments","Infrastructure as Code Best Practices","SRE Basics","SLI","SLO","SLA"],
+      "subCategory": "SRE",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["SRE","GitOps","ArgoCD","Docker Security","Multi-stage","Zero Downtime","IaC","SLI","SLO","SLA"]
+    },
+    {
+      "id": "advanced-system-design-revision",
+      "title": "Advanced System Design Revision",
+      "file": "data/revision/technical/advanced-system-design-revision.md",
+      "category": "advanced-system-design",
+      "lineCount": 45,
+      "wordCount": 1200,
+      "estimatedReadMin": 7,
+      "subtopicsCount": 10,
+      "subtopics": ["Distributed Locks","Leader Election","Service Discovery","Outbox Pattern","CQRS","Event Sourcing","Two-Phase Commit","URL Shortener Design","Chat System Design","Notification System Design"],
+      "subCategory": "Advanced System Design",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Distributed Lock","Leader Election","Outbox","CQRS","Event Sourcing","2PC","URL Shortener","Chat System","Notification System"]
+    },
+    {
+      "id": "llm-advanced-revision",
+      "title": "AI / LLM Advanced Revision",
+      "file": "data/revision/technical/llm-advanced-revision.md",
+      "category": "llm-advanced",
+      "lineCount": 45,
+      "wordCount": 900,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 10,
+      "subtopics": ["LangGraph","RAG Evaluation","RAGAS","Semantic Caching","Hybrid Search","BM25","Vector Search","LLM Cost Optimization","LLM Latency Optimization","Streaming Responses"],
+      "subCategory": "AI LLM Advanced",
+      "exams": ["IBPS","SBI SO","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["LangGraph","RAG Evaluation","RAGAS","Semantic Cache","Hybrid Search","BM25","Vector Search","LLM Cost","LLM Latency","Streaming"]
+    },
+    {
+      "id": "interview-preparation-revision",
+      "title": "Interview Preparation Action Guide",
+      "file": "data/revision/technical/interview-preparation-revision.md",
+      "category": "interview-preparation",
+      "lineCount": 45,
+      "wordCount": 900,
+      "estimatedReadMin": 6,
+      "subtopicsCount": 9,
+      "subtopics": ["SQL Practice","Window Functions","CTEs","Python Coding Rounds","Resume Explanation","Project Explanation","Behavioral Questions","STAR Method","Mock Interviews"],
+      "subCategory": "Interview Preparation",
+      "exams": ["IBPS","SBI SO","CDS","General Government Exams"],
+      "depth": "Deep",
+      "tags": ["Interview","SQL Practice","Window Functions","CTEs","Python Coding","Resume","Project","Behavioral","STAR","Mock Interview"]
     }
   ]
 }

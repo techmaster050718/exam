@@ -225,6 +225,7 @@
         mod.id,
         mod.file,
         mod.subCategory,
+        mod.category,
         ...(mod.tags || []),
         ...(mod.exams || []),
         ...(mod.subtopics || [])
