@@ -44,6 +44,10 @@
       if (!paperMeta) throw new Error(`Paper "${paperId}" not found in papers.json`);
 
       paperData = await App.loadPaper(paperMeta.file);
+      if (paperMeta.answerKey) {
+        const answerKey = await App.loadAnswerKey(paperMeta.answerKey);
+        App.mergeAnswerKey(paperData, answerKey);
+      }
       questions = App.flattenQuestions(paperData);
 
       state = App.getPaperState(paperId);

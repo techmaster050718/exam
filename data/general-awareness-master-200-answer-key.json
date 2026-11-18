@@ -1,0 +1,4613 @@
+{
+  "id": "general-awareness-master-200-answer-key",
+  "paper_id": "general-awareness-master-200",
+  "total_questions": 200,
+  "maximum_marks": 200,
+  "marking": {
+    "correct": 1,
+    "wrong": -0.25,
+    "unattempted": 0
+  },
+  "answers": [
+    {
+      "id": "GA-MASTER-001",
+      "correct_answer": "B",
+      "correct_option": "Sepoy unrest and spread to wider political grievances",
+      "explanation": "Sepoy unrest and spread to wider political grievances is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only a student movement: does not match the concept tested.",
+        "C. A religious crusade in Europe: does not match the concept tested.",
+        "D. A factory workers' strike: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-002",
+      "correct_answer": "C",
+      "correct_option": "North",
+      "explanation": "North is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Direction Sense",
+      "difficulty": "Easy",
+      "topic": "Direction Sense",
+      "subtopic": "Direction Sense",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. East: does not match the concept tested.",
+        "B. South: does not match the concept tested.",
+        "D. West: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-003",
+      "correct_answer": "D",
+      "correct_option": "Data integration and cataloging",
+      "explanation": "Data integration and cataloging is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Data, Analytics & AI Services",
+      "difficulty": "Easy",
+      "topic": "Data, Analytics & AI Services",
+      "subtopic": "Data, Analytics & AI Services",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Physical server repair: does not match the concept tested.",
+        "B. Private certificate issuance: does not match the concept tested.",
+        "C. Domain registration: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-004",
+      "correct_answer": "A",
+      "correct_option": "Predictive or scheduled scaling",
+      "explanation": "Predictive or scheduled scaling is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Scaling & Performance",
+      "difficulty": "Easy",
+      "topic": "Cloud Scaling & Performance",
+      "subtopic": "Cloud Scaling & Performance",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. No capacity planning: does not match the concept tested.",
+        "C. Scale down randomly: does not match the concept tested.",
+        "D. Disable health checks: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-005",
+      "correct_answer": "D",
+      "correct_option": "Master endocrine gland",
+      "explanation": "Master endocrine gland is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Control & Coordination",
+      "difficulty": "Easy",
+      "topic": "Control & Coordination",
+      "subtopic": "Control & Coordination",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Master digestive gland: does not match the concept tested.",
+        "B. Master lymphatic organ: does not match the concept tested.",
+        "C. Master excretory organ: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-006",
+      "correct_answer": "C",
+      "correct_option": "West",
+      "explanation": "West is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Direction Sense",
+      "difficulty": "Easy",
+      "topic": "Direction Sense",
+      "subtopic": "Direction Sense",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. North: does not match the concept tested.",
+        "B. East: does not match the concept tested.",
+        "D. South: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-007",
+      "correct_answer": "A",
+      "correct_option": "23",
+      "explanation": "23 is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Genetics and Molecular Biology",
+      "difficulty": "Easy",
+      "topic": "Genetics and Molecular Biology",
+      "subtopic": "Genetics and Molecular Biology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 46: does not match the concept tested.",
+        "C. 44: does not match the concept tested.",
+        "D. 23 pairs: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-008",
+      "correct_answer": "B",
+      "correct_option": "The President",
+      "explanation": "The President is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Judiciary",
+      "difficulty": "Easy",
+      "topic": "Judiciary",
+      "subtopic": "Judiciary",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. The Prime Minister: does not match the concept tested.",
+        "C. The Speaker: does not match the concept tested.",
+        "D. The Governor: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-009",
+      "correct_answer": "A",
+      "correct_option": "Bandwidth is capacity; latency is delay",
+      "explanation": "Bandwidth is capacity; latency is delay is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Computer Networks",
+      "difficulty": "Easy",
+      "topic": "Computer Networks",
+      "subtopic": "Computer Networks",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Bandwidth is delay; latency is capacity: does not match the concept tested.",
+        "C. Both measure error rate: does not match the concept tested.",
+        "D. Bandwidth is physical distance only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-010",
+      "correct_answer": "B",
+      "correct_option": "140",
+      "explanation": "140 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Simplification & Number System",
+      "difficulty": "Easy",
+      "topic": "Simplification & Number System",
+      "subtopic": "Simplification & Number System",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 130: does not match the concept tested.",
+        "C. 160: does not match the concept tested.",
+        "D. 150: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-011",
+      "correct_answer": "A",
+      "correct_option": "The RBI",
+      "explanation": "The RBI is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. The Finance Commission: does not match the concept tested.",
+        "C. The Comptroller and Auditor-General: does not match the concept tested.",
+        "D. The Election Commission: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-012",
+      "correct_answer": "D",
+      "correct_option": "Photosynthesis—Plants convert light energy",
+      "explanation": "Photosynthesis—Plants convert light energy is correct because it matches the basic mixed revision / general awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Mixed Revision / General Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Evaporation—A solid becomes a crystal: does not match the concept tested.",
+        "B. Mitochondria—Plasma television: does not match the concept tested.",
+        "C. GDP—A skin cell: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-013",
+      "correct_answer": "B",
+      "correct_option": "Sister of father-in-law",
+      "explanation": "Sister of father-in-law is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Blood Relations",
+      "difficulty": "Easy",
+      "topic": "Blood Relations",
+      "subtopic": "Blood Relations",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Mother's sister: does not match the concept tested.",
+        "C. Mother-in-law: does not match the concept tested.",
+        "D. Wife's sister: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-014",
+      "correct_answer": "D",
+      "correct_option": "STaaS",
+      "explanation": "STaaS is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Service Models",
+      "difficulty": "Easy",
+      "topic": "Cloud Service Models",
+      "subtopic": "Cloud Service Models",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. IaaS: does not match the concept tested.",
+        "B. FaaS: does not match the concept tested.",
+        "C. CaaS: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-015",
+      "correct_answer": "C",
+      "correct_option": "Citizens owe allegiance to India rather than distinct State citizenships",
+      "explanation": "Citizens owe allegiance to India rather than distinct State citizenships is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Major Amendments",
+      "difficulty": "Easy",
+      "topic": "Major Amendments",
+      "subtopic": "Major Amendments",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Each State issues a separate passport: does not match the concept tested.",
+        "B. Citizens must live in their birth State: does not match the concept tested.",
+        "D. Only Union citizens can vote nationally: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-016",
+      "correct_answer": "B",
+      "correct_option": "A resource on the internet",
+      "explanation": "A resource on the internet is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only a Wi-Fi password: does not match the concept tested.",
+        "C. A computer's motherboard: does not match the concept tested.",
+        "D. A printer cable: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-017",
+      "correct_answer": "D",
+      "correct_option": "Changes the rate without being consumed overall",
+      "explanation": "Changes the rate without being consumed overall is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Chemical Reactions & Equations",
+      "difficulty": "Easy",
+      "topic": "Chemical Reactions & Equations",
+      "subtopic": "Chemical Reactions & Equations",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Raises every product yield permanently: does not match the concept tested.",
+        "B. Is always consumed completely: does not match the concept tested.",
+        "C. Changes equilibrium position: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-018",
+      "correct_answer": "B",
+      "correct_option": "Removal and dismissal without statutory and constitutional safeguards",
+      "explanation": "Removal and dismissal without statutory and constitutional safeguards is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Emergency Provisions",
+      "difficulty": "Easy",
+      "topic": "Emergency Provisions",
+      "subtopic": "Emergency Provisions",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Transfer between departments in all circumstances: does not match the concept tested.",
+        "C. Salary reduction by legislation: does not match the concept tested.",
+        "D. Taking an oath of office: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-019",
+      "correct_answer": "C",
+      "correct_option": "7",
+      "explanation": "7 is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Easy",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 1: does not match the concept tested.",
+        "B. 10: does not match the concept tested.",
+        "D. 14: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-020",
+      "correct_answer": "D",
+      "correct_option": "Declared desired configuration",
+      "explanation": "Declared desired configuration is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "DevOps & Delivery",
+      "difficulty": "Easy",
+      "topic": "DevOps & Delivery",
+      "subtopic": "DevOps & Delivery",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Application source code only: does not match the concept tested.",
+        "B. Current cloud invoice: does not match the concept tested.",
+        "C. Container image name: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-021",
+      "correct_answer": "B",
+      "correct_option": "Collagen formation and antioxidant function",
+      "explanation": "Collagen formation and antioxidant function is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only night vision: does not match the concept tested.",
+        "C. Only bone fluorosis: does not match the concept tested.",
+        "D. Only iron mining: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-022",
+      "correct_answer": "A",
+      "correct_option": "22 languages currently scheduled",
+      "explanation": "22 languages currently scheduled is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Citizenship and Rights",
+      "difficulty": "Easy",
+      "topic": "Citizenship and Rights",
+      "subtopic": "Citizenship and Rights",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 15 languages only: does not match the concept tested.",
+        "C. One national language only: does not match the concept tested.",
+        "D. All languages spoken in India: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-023",
+      "correct_answer": "D",
+      "correct_option": "26 January 1950",
+      "explanation": "26 January 1950 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. 15 August 1947: does not match the concept tested.",
+        "B. 2 October 1949: does not match the concept tested.",
+        "C. 26 November 1949: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-024",
+      "correct_answer": "B",
+      "correct_option": "Emulsifying fats into smaller droplets",
+      "explanation": "Emulsifying fats into smaller droplets is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Digestion, Nutrition and Metabolism",
+      "difficulty": "Easy",
+      "topic": "Digestion, Nutrition and Metabolism",
+      "subtopic": "Digestion, Nutrition and Metabolism",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Hydrolysing proteins to peptides: does not match the concept tested.",
+        "C. Converting starch into maltose: does not match the concept tested.",
+        "D. Digesting nucleic acids: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-025",
+      "correct_answer": "A",
+      "correct_option": "Alkaline earth metals",
+      "explanation": "Alkaline earth metals is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Periodic Table",
+      "difficulty": "Easy",
+      "topic": "Periodic Table",
+      "subtopic": "Periodic Table",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Halogens: does not match the concept tested.",
+        "C. Noble gases: does not match the concept tested.",
+        "D. Alkali metals only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-026",
+      "correct_answer": "C",
+      "correct_option": "Lowers its boiling point",
+      "explanation": "Lowers its boiling point is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "States of Matter",
+      "difficulty": "Easy",
+      "topic": "States of Matter",
+      "subtopic": "States of Matter",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Raises its boiling point above infinity: does not match the concept tested.",
+        "B. Stops evaporation only: does not match the concept tested.",
+        "D. Freezes it: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-027",
+      "correct_answer": "A",
+      "correct_option": "The rate at which RBI lends short-term funds to commercial banks",
+      "explanation": "The rate at which RBI lends short-term funds to commercial banks is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. The tax on exports: does not match the concept tested.",
+        "C. The rate of income growth: does not match the concept tested.",
+        "D. The minimum wage: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-028",
+      "correct_answer": "B",
+      "correct_option": "Copper and zinc",
+      "explanation": "Copper and zinc is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Metals & Non-Metals",
+      "difficulty": "Easy",
+      "topic": "Metals & Non-Metals",
+      "subtopic": "Metals & Non-Metals",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Copper and tin: does not match the concept tested.",
+        "C. Iron and carbon: does not match the concept tested.",
+        "D. Lead and tin: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-029",
+      "correct_answer": "B",
+      "correct_option": "Halogens",
+      "explanation": "Halogens is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Periodic Table",
+      "difficulty": "Easy",
+      "topic": "Periodic Table",
+      "subtopic": "Periodic Table",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Noble gases: does not match the concept tested.",
+        "C. Alkali metals: does not match the concept tested.",
+        "D. Alkaline earth metals: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-030",
+      "correct_answer": "D",
+      "correct_option": "Lion Capital at Sarnath",
+      "explanation": "Lion Capital at Sarnath is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "General Awareness / Static GK",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Ashoka's diamond throne: does not match the concept tested.",
+        "B. Red Fort: does not match the concept tested.",
+        "C. Ajanta caves: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-031",
+      "correct_answer": "B",
+      "correct_option": "Intertropical Convergence Zone",
+      "explanation": "Intertropical Convergence Zone is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Climate & Monsoon",
+      "difficulty": "Easy",
+      "topic": "Climate & Monsoon",
+      "subtopic": "Climate & Monsoon",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Polar high-pressure belt: does not match the concept tested.",
+        "C. Horse latitudes: does not match the concept tested.",
+        "D. Ferrel convergence: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-032",
+      "correct_answer": "D",
+      "correct_option": "Fast temporary memory close to the processor",
+      "explanation": "Fast temporary memory close to the processor is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only permanent disk storage: does not match the concept tested.",
+        "B. Printer memory: does not match the concept tested.",
+        "C. A network cable: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-033",
+      "correct_answer": "D",
+      "correct_option": "Anopheles mosquito",
+      "explanation": "Anopheles mosquito is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Diseases",
+      "difficulty": "Easy",
+      "topic": "Diseases",
+      "subtopic": "Diseases",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Aedes mosquito: does not match the concept tested.",
+        "B. Culex mosquito: does not match the concept tested.",
+        "C. Housefly: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-034",
+      "correct_answer": "A",
+      "correct_option": "It is a standard rule",
+      "explanation": "It is a standard rule is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. The field is always triangular: does not match the concept tested.",
+        "C. It is a requirement of football: does not match the concept tested.",
+        "D. Only captains may field: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-035",
+      "correct_answer": "D",
+      "correct_option": "Lactic acid",
+      "explanation": "Lactic acid is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Easy",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Sulfuric acid: does not match the concept tested.",
+        "B. Nitric acid: does not match the concept tested.",
+        "C. Hydrochloric acid: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-036",
+      "correct_answer": "C",
+      "correct_option": "Two daughter cells",
+      "explanation": "Two daughter cells is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Reproduction",
+      "difficulty": "Easy",
+      "topic": "Reproduction",
+      "subtopic": "Reproduction",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Two seeds: does not match the concept tested.",
+        "B. A spore capsule: does not match the concept tested.",
+        "D. Two permanent buds: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-037",
+      "correct_answer": "C",
+      "correct_option": "Increases pressure",
+      "explanation": "Increases pressure is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "States of Matter",
+      "difficulty": "Easy",
+      "topic": "States of Matter",
+      "subtopic": "States of Matter",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Decreases pressure: does not match the concept tested.",
+        "B. Leaves pressure unchanged only if temperature falls: does not match the concept tested.",
+        "D. Makes pressure negative: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-038",
+      "correct_answer": "A",
+      "correct_option": "Control network traffic according to security rules",
+      "explanation": "Control network traffic according to security rules is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Convert text to speech: does not match the concept tested.",
+        "C. Increase monitor brightness: does not match the concept tested.",
+        "D. Store processor instructions: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-039",
+      "correct_answer": "B",
+      "correct_option": "Solid-state storage",
+      "explanation": "Solid-state storage is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Optical tape: does not match the concept tested.",
+        "C. Input scanner: does not match the concept tested.",
+        "D. Cooling fan: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-040",
+      "correct_answer": "A",
+      "correct_option": "Drain cleaner",
+      "explanation": "Drain cleaner is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Easy",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Lemon juice: does not match the concept tested.",
+        "C. Vinegar: does not match the concept tested.",
+        "D. Pure water: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-041",
+      "correct_answer": "D",
+      "correct_option": "DNA contains deoxyribose and thymine; RNA contains ribose and uracil",
+      "explanation": "DNA contains deoxyribose and thymine; RNA contains ribose and uracil is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Genetics and Molecular Biology",
+      "difficulty": "Easy",
+      "topic": "Genetics and Molecular Biology",
+      "subtopic": "Genetics and Molecular Biology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. DNA is single-stranded and RNA is always double-stranded: does not match the concept tested.",
+        "B. RNA contains phosphate but DNA does not: does not match the concept tested.",
+        "C. DNA contains uracil instead of thymine: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-042",
+      "correct_answer": "B",
+      "correct_option": "Football",
+      "explanation": "Football is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Cricket: does not match the concept tested.",
+        "C. Hockey: does not match the concept tested.",
+        "D. Badminton: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-043",
+      "correct_answer": "D",
+      "correct_option": "Bose-Einstein condensate",
+      "explanation": "Bose-Einstein condensate is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "States of Matter",
+      "difficulty": "Easy",
+      "topic": "States of Matter",
+      "subtopic": "States of Matter",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Plasma: does not match the concept tested.",
+        "B. Superheated vapor: does not match the concept tested.",
+        "C. Ideal amorphous solid: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-044",
+      "correct_answer": "B",
+      "correct_option": "Weight and height",
+      "explanation": "Weight and height is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Age and shoe size: does not match the concept tested.",
+        "C. Income and education: does not match the concept tested.",
+        "D. Pulse and hair length: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-045",
+      "correct_answer": "D",
+      "correct_option": "A base plus an acid salt that react together",
+      "explanation": "A base plus an acid salt that react together is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Easy",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Only a neutral salt with no acidic component: does not match the concept tested.",
+        "B. A metallic oxide alone: does not match the concept tested.",
+        "C. A carbohydrate enzyme only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-046",
+      "correct_answer": "D",
+      "correct_option": "Both heterozygous",
+      "explanation": "Both heterozygous is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Genetics and Molecular Biology",
+      "difficulty": "Easy",
+      "topic": "Genetics and Molecular Biology",
+      "subtopic": "Genetics and Molecular Biology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Both homozygous dominant: does not match the concept tested.",
+        "B. One homozygous dominant and one recessive: does not match the concept tested.",
+        "C. Both homozygous recessive: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-047",
+      "correct_answer": "A",
+      "correct_option": "Recovery, cognition and health",
+      "explanation": "Recovery, cognition and health is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Only typing speed: does not match the concept tested.",
+        "C. Only height measurement: does not match the concept tested.",
+        "D. Only food storage: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-048",
+      "correct_answer": "B",
+      "correct_option": "Wireless local network communication",
+      "explanation": "Wireless local network communication is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Undersea cable manufacturing: does not match the concept tested.",
+        "C. Printing documents: does not match the concept tested.",
+        "D. Running an engine: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-049",
+      "correct_answer": "B",
+      "correct_option": "Different nutrient demands and root effects",
+      "explanation": "Different nutrient demands and root effects is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Indian Agriculture & Crops",
+      "difficulty": "Easy",
+      "topic": "Indian Agriculture & Crops",
+      "subtopic": "Indian Agriculture & Crops",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Identical rooting depth always: does not match the concept tested.",
+        "C. No effect on soil: does not match the concept tested.",
+        "D. The same pest cycle always: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-050",
+      "correct_answer": "C",
+      "correct_option": "Article 127",
+      "explanation": "Article 127 is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Special provisions",
+      "difficulty": "Easy",
+      "topic": "Special provisions",
+      "subtopic": "Special provisions",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Article 124A: does not match the concept tested.",
+        "B. Article 143: does not match the concept tested.",
+        "D. Article 145: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-051",
+      "correct_answer": "A",
+      "correct_option": "It was built during Humayun's royal period",
+      "explanation": "It was built during Humayun's royal period is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Akbar alone: does not match the concept tested.",
+        "C. Aurangzeb: does not match the concept tested.",
+        "D. Bahadur Shah Zafar: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-052",
+      "correct_answer": "D",
+      "correct_option": "100",
+      "explanation": "100 is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Alphanumeric Series",
+      "difficulty": "Easy",
+      "topic": "Alphanumeric Series",
+      "subtopic": "Alphanumeric Series",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 96: does not match the concept tested.",
+        "B. 98: does not match the concept tested.",
+        "C. 104: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-053",
+      "correct_answer": "C",
+      "correct_option": "6",
+      "explanation": "6 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Time & Work",
+      "difficulty": "Easy",
+      "topic": "Time & Work",
+      "subtopic": "Time & Work",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 5: does not match the concept tested.",
+        "B. 8: does not match the concept tested.",
+        "D. 7: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-054",
+      "correct_answer": "D",
+      "correct_option": "Encrypted remote state and access controls",
+      "explanation": "Encrypted remote state and access controls is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Infrastructure as Code",
+      "difficulty": "Easy",
+      "topic": "Infrastructure as Code",
+      "subtopic": "Infrastructure as Code",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Public state file: does not match the concept tested.",
+        "B. Hard-coded credentials: does not match the concept tested.",
+        "C. Emailing state backups: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-055",
+      "correct_answer": "C",
+      "correct_option": "Sodium hypochlorite",
+      "explanation": "Sodium hypochlorite is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Everyday Chemistry",
+      "difficulty": "Easy",
+      "topic": "Everyday Chemistry",
+      "subtopic": "Everyday Chemistry",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Sodium bicarbonate: does not match the concept tested.",
+        "B. Calcium carbonate: does not match the concept tested.",
+        "D. Sodium chloride: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-056",
+      "correct_answer": "C",
+      "correct_option": "Rishabhanatha",
+      "explanation": "Rishabhanatha is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Mahavira: does not match the concept tested.",
+        "B. Gautama Buddha: does not match the concept tested.",
+        "D. Ashoka: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-057",
+      "correct_answer": "A",
+      "correct_option": "Router",
+      "explanation": "Router is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Networking",
+      "difficulty": "Easy",
+      "topic": "Cloud Networking",
+      "subtopic": "Cloud Networking",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Repeater: does not match the concept tested.",
+        "C. Hub: does not match the concept tested.",
+        "D. Switch-only bridge: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-058",
+      "correct_answer": "C",
+      "correct_option": "Neurotransmitter molecules",
+      "explanation": "Neurotransmitter molecules is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Tissues",
+      "difficulty": "Easy",
+      "topic": "Tissues",
+      "subtopic": "Tissues",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Myelin only: does not match the concept tested.",
+        "B. Blood platelets: does not match the concept tested.",
+        "D. Meristem cells: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-059",
+      "correct_answer": "C",
+      "correct_option": "720°",
+      "explanation": "720° is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Mensuration & Geometry",
+      "difficulty": "Easy",
+      "topic": "Mensuration & Geometry",
+      "subtopic": "Mensuration & Geometry",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 620°: does not match the concept tested.",
+        "B. 540°: does not match the concept tested.",
+        "D. 900°: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-060",
+      "correct_answer": "D",
+      "correct_option": "CPU",
+      "explanation": "CPU is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Monitor: does not match the concept tested.",
+        "B. Keyboard: does not match the concept tested.",
+        "C. Printer: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-061",
+      "correct_answer": "B",
+      "correct_option": "The classical age in several fields of Indian culture",
+      "explanation": "The classical age in several fields of Indian culture is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. The stone age: does not match the concept tested.",
+        "C. The colonial period: does not match the concept tested.",
+        "D. The Mughal modernisation period: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-062",
+      "correct_answer": "B",
+      "correct_option": "Geotropism",
+      "explanation": "Geotropism is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Control & Coordination",
+      "difficulty": "Easy",
+      "topic": "Control & Coordination",
+      "subtopic": "Control & Coordination",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Phototropism: does not match the concept tested.",
+        "C. Thigmotropism: does not match the concept tested.",
+        "D. Hydrotropism: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-063",
+      "correct_answer": "B",
+      "correct_option": "65",
+      "explanation": "65 is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Alphanumeric Series",
+      "difficulty": "Easy",
+      "topic": "Alphanumeric Series",
+      "subtopic": "Alphanumeric Series",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 67: does not match the concept tested.",
+        "C. 63: does not match the concept tested.",
+        "D. 61: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-064",
+      "correct_answer": "C",
+      "correct_option": "A host or network interface",
+      "explanation": "A host or network interface is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. A document font: does not match the concept tested.",
+        "B. A keyboard layout: does not match the concept tested.",
+        "D. A hardware fan: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-065",
+      "correct_answer": "B",
+      "correct_option": "A small controlled user or traffic segment",
+      "explanation": "A small controlled user or traffic segment is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "DevOps & Delivery",
+      "difficulty": "Easy",
+      "topic": "DevOps & Delivery",
+      "subtopic": "DevOps & Delivery",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. All users at once: does not match the concept tested.",
+        "C. Only production admins: does not match the concept tested.",
+        "D. Only DNS servers: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-066",
+      "correct_answer": "B",
+      "correct_option": "1942",
+      "explanation": "1942 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. 1947: does not match the concept tested.",
+        "C. 1930: does not match the concept tested.",
+        "D. 1920: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-067",
+      "correct_answer": "B",
+      "correct_option": "ka",
+      "explanation": "ka is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Coding-Decoding",
+      "difficulty": "Easy",
+      "topic": "Coding-Decoding",
+      "subtopic": "Coding-Decoding",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. ta: does not match the concept tested.",
+        "C. ma: does not match the concept tested.",
+        "D. ra: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-068",
+      "correct_answer": "B",
+      "correct_option": "Excessive loss or lack of body water",
+      "explanation": "Excessive loss or lack of body water is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Excessive oxygen: does not match the concept tested.",
+        "C. Too much muscle fibre: does not match the concept tested.",
+        "D. A skin allergy only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-069",
+      "correct_answer": "C",
+      "correct_option": "Traction, saltation, suspension and solution",
+      "explanation": "Traction, saltation, suspension and solution is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Physical Geography",
+      "difficulty": "Easy",
+      "topic": "Physical Geography",
+      "subtopic": "Physical Geography",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Photosynthesis: does not match the concept tested.",
+        "B. Condensation: does not match the concept tested.",
+        "D. Sublimation: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-070",
+      "correct_answer": "A",
+      "correct_option": "Inter-State Council and GST Council",
+      "explanation": "Inter-State Council and GST Council is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Local Government and Schedules",
+      "difficulty": "Easy",
+      "topic": "Local Government and Schedules",
+      "subtopic": "Local Government and Schedules",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Election Commission and Comptroller only: does not match the concept tested.",
+        "C. Supreme Court and Attorney General alone: does not match the concept tested.",
+        "D. Only State Governors: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-071",
+      "correct_answer": "B",
+      "correct_option": "The location of a resource on the web",
+      "explanation": "The location of a resource on the web is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Full Forms & Terminology",
+      "difficulty": "Easy",
+      "topic": "Full Forms & Terminology",
+      "subtopic": "Full Forms & Terminology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. A network cable type: does not match the concept tested.",
+        "C. A database column: does not match the concept tested.",
+        "D. A processor instruction: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-072",
+      "correct_answer": "C",
+      "correct_option": "RBI—Monetary policy",
+      "explanation": "RBI—Monetary policy is correct because it matches the basic mixed revision / general awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Mixed Revision / General Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. UPSC—Village revenue only: does not match the concept tested.",
+        "B. ISRO—Football: does not match the concept tested.",
+        "D. WHO—Stock exchange: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-073",
+      "correct_answer": "D",
+      "correct_option": "Cooler-than-normal central and eastern tropical Pacific waters",
+      "explanation": "Cooler-than-normal central and eastern tropical Pacific waters is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Climate & Monsoon",
+      "difficulty": "Easy",
+      "topic": "Climate & Monsoon",
+      "subtopic": "Climate & Monsoon",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Warmer Mediterranean waters only: does not match the concept tested.",
+        "B. Permanent monsoon reversal in India: does not match the concept tested.",
+        "C. Melting of Antarctic ice exclusively: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-074",
+      "correct_answer": "D",
+      "correct_option": "Plasma",
+      "explanation": "Plasma is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "States of Matter",
+      "difficulty": "Easy",
+      "topic": "States of Matter",
+      "subtopic": "States of Matter",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Gel: does not match the concept tested.",
+        "B. Colloid: does not match the concept tested.",
+        "C. Glass: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-075",
+      "correct_answer": "D",
+      "correct_option": "Isotopes",
+      "explanation": "Isotopes is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Atoms & Molecules",
+      "difficulty": "Easy",
+      "topic": "Atoms & Molecules",
+      "subtopic": "Atoms & Molecules",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Isobars: does not match the concept tested.",
+        "B. Isotones: does not match the concept tested.",
+        "C. Allotropes: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-076",
+      "correct_answer": "B",
+      "correct_option": "Public performance monitoring",
+      "explanation": "Public performance monitoring is correct because it matches the basic mixed revision / general awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Mixed Revision / General Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Secret ballot counting: does not match the concept tested.",
+        "C. Climate change reversal only: does not match the concept tested.",
+        "D. Creating a private bank: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-077",
+      "correct_answer": "C",
+      "correct_option": "2.5 km on the ground",
+      "explanation": "2.5 km on the ground is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "World Geography & Maps",
+      "difficulty": "Easy",
+      "topic": "World Geography & Maps",
+      "subtopic": "World Geography & Maps",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 250 m on the ground: does not match the concept tested.",
+        "B. 25 km on the ground: does not match the concept tested.",
+        "D. 250 km on the ground: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-078",
+      "correct_answer": "A",
+      "correct_option": "26 January 1950",
+      "explanation": "26 January 1950 is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "General Awareness / Static GK",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. 15 August 1947: does not match the concept tested.",
+        "C. 26 November 1949: does not match the concept tested.",
+        "D. 24 January 1950: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-079",
+      "correct_answer": "A",
+      "correct_option": "Workers or consumer capacity",
+      "explanation": "Workers or consumer capacity is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Scaling & Performance",
+      "difficulty": "Easy",
+      "topic": "Cloud Scaling & Performance",
+      "subtopic": "Cloud Scaling & Performance",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. DNS authority: does not match the concept tested.",
+        "C. Log archive storage: does not match the concept tested.",
+        "D. Admin accounts: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-080",
+      "correct_answer": "D",
+      "correct_option": "1930",
+      "explanation": "1930 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. 1947: does not match the concept tested.",
+        "B. 1919: does not match the concept tested.",
+        "C. 1922: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-081",
+      "correct_answer": "D",
+      "correct_option": "Planned urban settlements",
+      "explanation": "Planned urban settlements is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Roman aqueducts: does not match the concept tested.",
+        "B. Medieval forts: does not match the concept tested.",
+        "C. Steam engines: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-082",
+      "correct_answer": "B",
+      "correct_option": "10%",
+      "explanation": "10% is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Simple & Compound Interest",
+      "difficulty": "Easy",
+      "topic": "Simple & Compound Interest",
+      "subtopic": "Simple & Compound Interest",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 12%: does not match the concept tested.",
+        "C. 8%: does not match the concept tested.",
+        "D. 5%: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-083",
+      "correct_answer": "B",
+      "correct_option": "Scurvy",
+      "explanation": "Scurvy is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Diseases",
+      "difficulty": "Easy",
+      "topic": "Diseases",
+      "subtopic": "Diseases",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Rickets: does not match the concept tested.",
+        "C. Beriberi: does not match the concept tested.",
+        "D. Pellagra: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-084",
+      "correct_answer": "C",
+      "correct_option": "Rock and pillar edicts",
+      "explanation": "Rock and pillar edicts is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. The Magna Carta: does not match the concept tested.",
+        "B. The French Revolution: does not match the concept tested.",
+        "D. The Industrial Revolution: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-085",
+      "correct_answer": "C",
+      "correct_option": "Appropriate combinations of nutrients",
+      "explanation": "Appropriate combinations of nutrients is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only sugar: does not match the concept tested.",
+        "B. Only fried food: does not match the concept tested.",
+        "D. Only supplements: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-086",
+      "correct_answer": "A",
+      "correct_option": "Diffusion across thin surfaces",
+      "explanation": "Diffusion across thin surfaces is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Tissues",
+      "difficulty": "Easy",
+      "topic": "Tissues",
+      "subtopic": "Tissues",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Voluntary contraction: does not match the concept tested.",
+        "C. Electrical insulation: does not match the concept tested.",
+        "D. Mineral storage: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-087",
+      "correct_answer": "A",
+      "correct_option": "A virus",
+      "explanation": "A virus is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. A compiler: does not match the concept tested.",
+        "C. A browser: does not match the concept tested.",
+        "D. A spreadsheet: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-088",
+      "correct_answer": "D",
+      "correct_option": "Acetic acid",
+      "explanation": "Acetic acid is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Carbon & its Compounds",
+      "difficulty": "Easy",
+      "topic": "Carbon & its Compounds",
+      "subtopic": "Carbon & its Compounds",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Formic acid: does not match the concept tested.",
+        "B. Oxalic acid: does not match the concept tested.",
+        "C. Citric acid: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-089",
+      "correct_answer": "B",
+      "correct_option": "66.5° N",
+      "explanation": "66.5° N is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Physical Geography",
+      "difficulty": "Easy",
+      "topic": "Physical Geography",
+      "subtopic": "Physical Geography",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 66.5° S: does not match the concept tested.",
+        "C. 23.5° N: does not match the concept tested.",
+        "D. 23.5° S: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-090",
+      "correct_answer": "A",
+      "correct_option": "Galvanization",
+      "explanation": "Galvanization is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Metals & Non-Metals",
+      "difficulty": "Easy",
+      "topic": "Metals & Non-Metals",
+      "subtopic": "Metals & Non-Metals",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Tempering: does not match the concept tested.",
+        "C. Annealing: does not match the concept tested.",
+        "D. Quenching: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-091",
+      "correct_answer": "A",
+      "correct_option": "Confidentiality of data",
+      "explanation": "Confidentiality of data is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Uncontrolled public access: does not match the concept tested.",
+        "C. More screen resolution: does not match the concept tested.",
+        "D. Faster printer movement: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-092",
+      "correct_answer": "C",
+      "correct_option": "9.8 m/s² downward",
+      "explanation": "9.8 m/s² downward is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Gravitation",
+      "difficulty": "Easy",
+      "topic": "Gravitation",
+      "subtopic": "Gravitation",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 9.8 m/s² upward: does not match the concept tested.",
+        "B. 0 m/s²: does not match the concept tested.",
+        "D. 980 m/s² horizontal: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-093",
+      "correct_answer": "C",
+      "correct_option": "28",
+      "explanation": "28 is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Coding-Decoding",
+      "difficulty": "Easy",
+      "topic": "Coding-Decoding",
+      "subtopic": "Coding-Decoding",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 26: does not match the concept tested.",
+        "B. 30: does not match the concept tested.",
+        "D. 32: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-094",
+      "correct_answer": "C",
+      "correct_option": "Uncle",
+      "explanation": "Uncle is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Blood Relations",
+      "difficulty": "Easy",
+      "topic": "Blood Relations",
+      "subtopic": "Blood Relations",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Cousin: does not match the concept tested.",
+        "B. Father: does not match the concept tested.",
+        "D. Grandfather: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-095",
+      "correct_answer": "D",
+      "correct_option": "2011",
+      "explanation": "2011 is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Constitutional Procedure",
+      "difficulty": "Easy",
+      "topic": "Constitutional Procedure",
+      "subtopic": "Constitutional Procedure",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 2002: does not match the concept tested.",
+        "B. 2008: does not match the concept tested.",
+        "C. 2014: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-096",
+      "correct_answer": "B",
+      "correct_option": "National income divided by population",
+      "explanation": "National income divided by population is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Total bank savings: does not match the concept tested.",
+        "C. Government revenue: does not match the concept tested.",
+        "D. Exports minus imports: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-097",
+      "correct_answer": "A",
+      "correct_option": "Concentric circles",
+      "explanation": "Concentric circles is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Magnetism",
+      "difficulty": "Easy",
+      "topic": "Magnetism",
+      "subtopic": "Magnetism",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Radial straight lines: does not match the concept tested.",
+        "C. Rectangular loops only: does not match the concept tested.",
+        "D. Random triangular paths: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-098",
+      "correct_answer": "D",
+      "correct_option": "Electrical energy into mechanical energy",
+      "explanation": "Electrical energy into mechanical energy is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Magnetism",
+      "difficulty": "Easy",
+      "topic": "Magnetism",
+      "subtopic": "Magnetism",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Mechanical into electrical energy: does not match the concept tested.",
+        "B. Heat directly into nuclear energy: does not match the concept tested.",
+        "C. Sound into light: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-099",
+      "correct_answer": "B",
+      "correct_option": "98 J",
+      "explanation": "98 J is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Work, Power & Energy",
+      "difficulty": "Easy",
+      "topic": "Work, Power & Energy",
+      "subtopic": "Work, Power & Energy",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 10 J: does not match the concept tested.",
+        "C. 50 J: does not match the concept tested.",
+        "D. 20 J: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-100",
+      "correct_answer": "C",
+      "correct_option": "The Union of India",
+      "explanation": "The Union of India is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "General Awareness / Static GK",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. A State Legislative Council only: does not match the concept tested.",
+        "B. The Reserve Bank of India: does not match the concept tested.",
+        "D. The Supreme Court: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-101",
+      "correct_answer": "D",
+      "correct_option": "Transfer of web resources",
+      "explanation": "Transfer of web resources is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Cable television: does not match the concept tested.",
+        "B. Audio equalisation: does not match the concept tested.",
+        "C. Database backup only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-102",
+      "correct_answer": "A",
+      "correct_option": "Prepared food from leaves",
+      "explanation": "Prepared food from leaves is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Tissues",
+      "difficulty": "Easy",
+      "topic": "Tissues",
+      "subtopic": "Tissues",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Water upward only: does not match the concept tested.",
+        "C. Minerals into roots only: does not match the concept tested.",
+        "D. Carbon dioxide to roots: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-103",
+      "correct_answer": "B",
+      "correct_option": "Queue",
+      "explanation": "Queue is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Data Structures & Algorithms",
+      "difficulty": "Easy",
+      "topic": "Data Structures & Algorithms",
+      "subtopic": "Data Structures & Algorithms",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Stack: does not match the concept tested.",
+        "C. Max-heap only: does not match the concept tested.",
+        "D. Set: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-104",
+      "correct_answer": "D",
+      "correct_option": "A larger proportion as income rises",
+      "explanation": "A larger proportion as income rises is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. The same fixed amount from everyone: does not match the concept tested.",
+        "B. Only from exporters: does not match the concept tested.",
+        "C. Only from children: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-105",
+      "correct_answer": "B",
+      "correct_option": "ii",
+      "explanation": "ii is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Genetics and Molecular Biology",
+      "difficulty": "Easy",
+      "topic": "Genetics and Molecular Biology",
+      "subtopic": "Genetics and Molecular Biology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. IAIB: does not match the concept tested.",
+        "C. IAi: does not match the concept tested.",
+        "D. IBi: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-106",
+      "correct_answer": "C",
+      "correct_option": "6 kWh",
+      "explanation": "6 kWh is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Electricity",
+      "difficulty": "Easy",
+      "topic": "Electricity",
+      "subtopic": "Electricity",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 0.6 kWh: does not match the concept tested.",
+        "B. 60 kWh: does not match the concept tested.",
+        "D. 2.3 kWh: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-107",
+      "correct_answer": "C",
+      "correct_option": "U",
+      "explanation": "U is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Alphanumeric Series",
+      "difficulty": "Easy",
+      "topic": "Alphanumeric Series",
+      "subtopic": "Alphanumeric Series",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. W: does not match the concept tested.",
+        "B. V: does not match the concept tested.",
+        "D. T: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-108",
+      "correct_answer": "B",
+      "correct_option": "Government expenditure exceeds its total receipts excluding borrowings",
+      "explanation": "Government expenditure exceeds its total receipts excluding borrowings is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Exports exceed imports: does not match the concept tested.",
+        "C. Tax revenue is zero: does not match the concept tested.",
+        "D. Banks hold excess reserves: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-109",
+      "correct_answer": "B",
+      "correct_option": "Read access to one storage bucket",
+      "explanation": "Read access to one storage bucket is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud IAM",
+      "difficulty": "Easy",
+      "topic": "Cloud IAM",
+      "subtopic": "Cloud IAM",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. All subscriptions: does not match the concept tested.",
+        "C. The ability to delete users: does not match the concept tested.",
+        "D. Billing ownership: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-110",
+      "correct_answer": "A",
+      "correct_option": "Oxaloacetate",
+      "explanation": "Oxaloacetate is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Plant Structure and Physiology",
+      "difficulty": "Easy",
+      "topic": "Plant Structure and Physiology",
+      "subtopic": "Plant Structure and Physiology",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 3-phosphoglycerate: does not match the concept tested.",
+        "C. Ribulose bisphosphate: does not match the concept tested.",
+        "D. Glucose: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-111",
+      "correct_answer": "B",
+      "correct_option": "1/f = 1/v + 1/u",
+      "explanation": "1/f = 1/v + 1/u is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Light",
+      "difficulty": "Easy",
+      "topic": "Light",
+      "subtopic": "Light",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. f=u+v: does not match the concept tested.",
+        "C. 1/f=u−v: does not match the concept tested.",
+        "D. f=uv: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-112",
+      "correct_answer": "B",
+      "correct_option": "Rain gauge",
+      "explanation": "Rain gauge is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Indian Climate & Soils",
+      "difficulty": "Easy",
+      "topic": "Indian Climate & Soils",
+      "subtopic": "Indian Climate & Soils",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Barometer: does not match the concept tested.",
+        "C. Anemometer: does not match the concept tested.",
+        "D. Seismograph: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-113",
+      "correct_answer": "C",
+      "correct_option": "Bay of Bengal",
+      "explanation": "Bay of Bengal is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Indian Rivers & Water",
+      "difficulty": "Easy",
+      "topic": "Indian Rivers & Water",
+      "subtopic": "Indian Rivers & Water",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Arabian Sea: does not match the concept tested.",
+        "B. Andaman Sea: does not match the concept tested.",
+        "D. Indian Ocean near Gujarat directly: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-114",
+      "correct_answer": "A",
+      "correct_option": "Cooling it safely with running clean water",
+      "explanation": "Cooling it safely with running clean water is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Applying ice directly for a long time: does not match the concept tested.",
+        "C. Opening blisters: does not match the concept tested.",
+        "D. Covering it in sugar: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-115",
+      "correct_answer": "D",
+      "correct_option": "No change",
+      "explanation": "No change is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Percentage, Profit & Loss",
+      "difficulty": "Easy",
+      "topic": "Percentage, Profit & Loss",
+      "subtopic": "Percentage, Profit & Loss",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 5% decrease: does not match the concept tested.",
+        "B. 10% increase: does not match the concept tested.",
+        "C. 5% increase: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-116",
+      "correct_answer": "B",
+      "correct_option": "Packaging an application with its dependencies and runtime isolation",
+      "explanation": "Packaging an application with its dependencies and runtime isolation is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Computing",
+      "difficulty": "Easy",
+      "topic": "Cloud Computing",
+      "subtopic": "Cloud Computing",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Replacing all network routers: does not match the concept tested.",
+        "C. Storing relational rows only: does not match the concept tested.",
+        "D. Encrypting DNS records: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-117",
+      "correct_answer": "D",
+      "correct_option": "It uses asymmetric cryptography to bind signed content to the signer",
+      "explanation": "It uses asymmetric cryptography to bind signed content to the signer is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cybersecurity",
+      "difficulty": "Easy",
+      "topic": "Cybersecurity",
+      "subtopic": "Cybersecurity",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. It encrypts every message with AES only: does not match the concept tested.",
+        "B. It stores passwords in plaintext: does not match the concept tested.",
+        "C. It guarantees availability: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-118",
+      "correct_answer": "D",
+      "correct_option": "1885",
+      "explanation": "1885 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Easy",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. 1947: does not match the concept tested.",
+        "B. 1857: does not match the concept tested.",
+        "C. 1925: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-119",
+      "correct_answer": "B",
+      "correct_option": "Washing soda",
+      "explanation": "Washing soda is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Easy",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Baking soda: does not match the concept tested.",
+        "C. Bleaching powder: does not match the concept tested.",
+        "D. Caustic soda: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-120",
+      "correct_answer": "C",
+      "correct_option": "Governor, subject to discretion in express constitutional circumstances",
+      "explanation": "Governor, subject to discretion in express constitutional circumstances is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Public Offices",
+      "difficulty": "Easy",
+      "topic": "Public Offices",
+      "subtopic": "Public Offices",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. President exclusively: does not match the concept tested.",
+        "B. High Court Chief Justice: does not match the concept tested.",
+        "D. Speaker of the Assembly: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-121",
+      "correct_answer": "A",
+      "correct_option": "Lambda from the object event",
+      "explanation": "Lambda from the object event is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "AWS/Azure Service Selection",
+      "difficulty": "Moderate",
+      "topic": "AWS/Azure Service Selection",
+      "subtopic": "AWS/Azure Service Selection",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. An oversized EC2 cron: does not match the concept tested.",
+        "C. Redshift: does not match the concept tested.",
+        "D. Route 53: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-122",
+      "correct_answer": "C",
+      "correct_option": "Entamoeba histolytica",
+      "explanation": "Entamoeba histolytica is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Microorganisms and Infectious Agents",
+      "difficulty": "Moderate",
+      "topic": "Microorganisms and Infectious Agents",
+      "subtopic": "Microorganisms and Infectious Agents",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Giardia lamblia: does not match the concept tested.",
+        "B. Paramecium caudatum: does not match the concept tested.",
+        "D. Plasmodium falciparum: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-123",
+      "correct_answer": "D",
+      "correct_option": "Leaf stomata",
+      "explanation": "Leaf stomata is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Life Processes",
+      "difficulty": "Moderate",
+      "topic": "Life Processes",
+      "subtopic": "Life Processes",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Root tips only: does not match the concept tested.",
+        "B. Xylem vessels alone: does not match the concept tested.",
+        "C. Root nodules: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-124",
+      "correct_answer": "C",
+      "correct_option": "Authenticity and integrity",
+      "explanation": "Authenticity and integrity is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Internet speed: does not match the concept tested.",
+        "B. Monitor brightness: does not match the concept tested.",
+        "D. Printer ink level: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-125",
+      "correct_answer": "A",
+      "correct_option": "Income tax",
+      "explanation": "Income tax is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. GST: does not match the concept tested.",
+        "C. Customs duty: does not match the concept tested.",
+        "D. Petroleum levy: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-126",
+      "correct_answer": "A",
+      "correct_option": "Thursday",
+      "explanation": "Thursday is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Seating Arrangement & Puzzles",
+      "difficulty": "Moderate",
+      "topic": "Seating Arrangement & Puzzles",
+      "subtopic": "Seating Arrangement & Puzzles",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Friday: does not match the concept tested.",
+        "C. Wednesday: does not match the concept tested.",
+        "D. Tuesday: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-127",
+      "correct_answer": "D",
+      "correct_option": "Query tuning",
+      "explanation": "Query tuning is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Scaling & Performance",
+      "difficulty": "Moderate",
+      "topic": "Cloud Scaling & Performance",
+      "subtopic": "Cloud Scaling & Performance",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Adding CDN cache for writes: does not match the concept tested.",
+        "B. Opening all ports: does not match the concept tested.",
+        "C. Removing replicas: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-128",
+      "correct_answer": "A",
+      "correct_option": "18 J",
+      "explanation": "18 J is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Work, Power & Energy",
+      "difficulty": "Moderate",
+      "topic": "Work, Power & Energy",
+      "subtopic": "Work, Power & Energy",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 12 J: does not match the concept tested.",
+        "C. 36 J: does not match the concept tested.",
+        "D. 6 J: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-129",
+      "correct_answer": "C",
+      "correct_option": "Price rises, other things remaining equal",
+      "explanation": "Price rises, other things remaining equal is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Income rises: does not match the concept tested.",
+        "B. Population rises: does not match the concept tested.",
+        "D. Advertising rises: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-130",
+      "correct_answer": "A",
+      "correct_option": "1757",
+      "explanation": "1757 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. 1857: does not match the concept tested.",
+        "C. 1947: does not match the concept tested.",
+        "D. 1526: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-131",
+      "correct_answer": "C",
+      "correct_option": "Release enzymes that assist penetration of the egg coverings",
+      "explanation": "Release enzymes that assist penetration of the egg coverings is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Human Reproduction and Development",
+      "difficulty": "Moderate",
+      "topic": "Human Reproduction and Development",
+      "subtopic": "Human Reproduction and Development",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Store the paternal chromosomes: does not match the concept tested.",
+        "B. Provide most ATP for swimming: does not match the concept tested.",
+        "D. Form the tail: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-132",
+      "correct_answer": "D",
+      "correct_option": "Government spending and taxation",
+      "explanation": "Government spending and taxation is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Central bank interest rates: does not match the concept tested.",
+        "B. Foreign exchange auctions: does not match the concept tested.",
+        "C. Stock-market regulation: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-133",
+      "correct_answer": "C",
+      "correct_option": "Container runtime CLI or API",
+      "explanation": "Container runtime CLI or API is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Containers",
+      "difficulty": "Moderate",
+      "topic": "Containers",
+      "subtopic": "Containers",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. DNS registrar: does not match the concept tested.",
+        "B. Billing console: does not match the concept tested.",
+        "D. Hypervisor BIOS only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-134",
+      "correct_answer": "C",
+      "correct_option": "Virtualized infrastructure such as compute and storage",
+      "explanation": "Virtualized infrastructure such as compute and storage is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cloud Computing",
+      "difficulty": "Moderate",
+      "topic": "Cloud Computing",
+      "subtopic": "Cloud Computing",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Only an email application: does not match the concept tested.",
+        "B. Source code for the provider's platform: does not match the concept tested.",
+        "D. A physical office network: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-135",
+      "correct_answer": "C",
+      "correct_option": "A court of record",
+      "explanation": "A court of record is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Constitutional Procedure",
+      "difficulty": "Moderate",
+      "topic": "Constitutional Procedure",
+      "subtopic": "Constitutional Procedure",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. A tribunal subordinate to the State Assembly: does not match the concept tested.",
+        "B. An executive commission: does not match the concept tested.",
+        "D. A revenue board: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-136",
+      "correct_answer": "D",
+      "correct_option": "Processes wait cyclically for resources held by each other",
+      "explanation": "Processes wait cyclically for resources held by each other is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "B.Tech CSE Fundamentals",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. A program compiles successfully: does not match the concept tested.",
+        "B. A file is opened read-only: does not match the concept tested.",
+        "C. A user logs out: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-137",
+      "correct_answer": "A",
+      "correct_option": "6.022 × 10^23 specified entities",
+      "explanation": "6.022 × 10^23 specified entities is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Atoms & Molecules",
+      "difficulty": "Moderate",
+      "topic": "Atoms & Molecules",
+      "subtopic": "Atoms & Molecules",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 6.022 × 10^23 grams: does not match the concept tested.",
+        "C. 1000 molecules: does not match the concept tested.",
+        "D. One nucleus: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-138",
+      "correct_answer": "A",
+      "correct_option": "Catenation",
+      "explanation": "Catenation is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Carbon & its Compounds",
+      "difficulty": "Moderate",
+      "topic": "Carbon & its Compounds",
+      "subtopic": "Carbon & its Compounds",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Allotropy: does not match the concept tested.",
+        "C. Electronegativity: does not match the concept tested.",
+        "D. Isomer selection: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-139",
+      "correct_answer": "C",
+      "correct_option": "Higher pitch",
+      "explanation": "Higher pitch is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Sound",
+      "difficulty": "Moderate",
+      "topic": "Sound",
+      "subtopic": "Sound",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Greater loudness: does not match the concept tested.",
+        "B. Lower speed automatically: does not match the concept tested.",
+        "D. Greater amplitude automatically: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-140",
+      "correct_answer": "D",
+      "correct_option": "The value of the next best alternative forgone",
+      "explanation": "The value of the next best alternative forgone is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only the purchase price: does not match the concept tested.",
+        "B. A fixed government tax: does not match the concept tested.",
+        "C. The profit of a firm: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-141",
+      "correct_answer": "C",
+      "correct_option": "A ligament",
+      "explanation": "A ligament is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. A tooth: does not match the concept tested.",
+        "B. A nail: does not match the concept tested.",
+        "D. A lung valve: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-142",
+      "correct_answer": "C",
+      "correct_option": "10 litres",
+      "explanation": "10 litres is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Ratio, Average & Mixture",
+      "difficulty": "Moderate",
+      "topic": "Ratio, Average & Mixture",
+      "subtopic": "Ratio, Average & Mixture",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 15 litres: does not match the concept tested.",
+        "B. 20 litres: does not match the concept tested.",
+        "D. 5 litres: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-143",
+      "correct_answer": "D",
+      "correct_option": "Pulmonary vein",
+      "explanation": "Pulmonary vein is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Life Processes",
+      "difficulty": "Moderate",
+      "topic": "Life Processes",
+      "subtopic": "Life Processes",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Pulmonary artery: does not match the concept tested.",
+        "B. Superior vena cava: does not match the concept tested.",
+        "C. Inferior vena cava: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-144",
+      "correct_answer": "A",
+      "correct_option": "Satpura region of Madhya Pradesh",
+      "explanation": "Satpura region of Madhya Pradesh is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Indian Rivers & Water",
+      "difficulty": "Moderate",
+      "topic": "Indian Rivers & Water",
+      "subtopic": "Indian Rivers & Water",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Himalayas: does not match the concept tested.",
+        "C. Western Ghats in Kerala: does not match the concept tested.",
+        "D. Aravalli Range in Rajasthan: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-145",
+      "correct_answer": "B",
+      "correct_option": "Panchayats",
+      "explanation": "Panchayats is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Constitutional Bodies",
+      "difficulty": "Moderate",
+      "topic": "Constitutional Bodies",
+      "subtopic": "Constitutional Bodies",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Municipalities: does not match the concept tested.",
+        "C. Union Territories: does not match the concept tested.",
+        "D. Tribunals: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-146",
+      "correct_answer": "D",
+      "correct_option": "Goods and services produced within a country",
+      "explanation": "Goods and services produced within a country is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only exports: does not match the concept tested.",
+        "B. Only government spending: does not match the concept tested.",
+        "C. Only bank deposits: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-147",
+      "correct_answer": "A",
+      "correct_option": "Event bus and integration service",
+      "explanation": "Event bus and integration service is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Serverless & Integration",
+      "difficulty": "Moderate",
+      "topic": "Serverless & Integration",
+      "subtopic": "Serverless & Integration",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Virtual desktop: does not match the concept tested.",
+        "C. Database engine: does not match the concept tested.",
+        "D. DNS registrar: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-148",
+      "correct_answer": "B",
+      "correct_option": "Cross-Site Scripting",
+      "explanation": "Cross-Site Scripting is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cybersecurity",
+      "difficulty": "Moderate",
+      "topic": "Cybersecurity",
+      "subtopic": "Cybersecurity",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. SQL injection only: does not match the concept tested.",
+        "C. DNS spoofing only: does not match the concept tested.",
+        "D. Buffer overread: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-149",
+      "correct_answer": "B",
+      "correct_option": "Verify and prefer the authoritative official source",
+      "explanation": "Verify and prefer the authoritative official source is correct because it matches the basic mixed revision / general awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Mixed Revision / General Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Choose the more surprising claim: does not match the concept tested.",
+        "C. Ignore all evidence: does not match the concept tested.",
+        "D. Repeat the first claim: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-150",
+      "correct_answer": "C",
+      "correct_option": "Chandragupta Maurya",
+      "explanation": "Chandragupta Maurya is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Akbar: does not match the concept tested.",
+        "B. Harsha: does not match the concept tested.",
+        "D. Ashoka only: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-151",
+      "correct_answer": "A",
+      "correct_option": "Smaller than one resistor",
+      "explanation": "Smaller than one resistor is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Electricity",
+      "difficulty": "Moderate",
+      "topic": "Electricity",
+      "subtopic": "Electricity",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Larger than one resistor: does not match the concept tested.",
+        "C. Always equal to their sum: does not match the concept tested.",
+        "D. Infinite: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-152",
+      "correct_answer": "D",
+      "correct_option": "75%",
+      "explanation": "75% is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Work, Power & Energy",
+      "difficulty": "Moderate",
+      "topic": "Work, Power & Energy",
+      "subtopic": "Work, Power & Energy",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 25%: does not match the concept tested.",
+        "B. 100%: does not match the concept tested.",
+        "C. 175%: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-153",
+      "correct_answer": "D",
+      "correct_option": "Cardiorespiratory fitness",
+      "explanation": "Cardiorespiratory fitness is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Only spelling ability: does not match the concept tested.",
+        "B. Only eyesight: does not match the concept tested.",
+        "C. Only memory cards: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-154",
+      "correct_answer": "B",
+      "correct_option": "Equator",
+      "explanation": "Equator is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Physical Geography",
+      "difficulty": "Moderate",
+      "topic": "Physical Geography",
+      "subtopic": "Physical Geography",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Prime Meridian: does not match the concept tested.",
+        "C. Tropic of Cancer: does not match the concept tested.",
+        "D. Arctic Circle: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-155",
+      "correct_answer": "C",
+      "correct_option": "Reserve Bank of India",
+      "explanation": "Reserve Bank of India is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Securities and Exchange Board of India: does not match the concept tested.",
+        "B. State Bank of India: does not match the concept tested.",
+        "D. NITI Aayog: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-156",
+      "correct_answer": "D",
+      "correct_option": "It is acidic and can contribute to environmental damage",
+      "explanation": "It is acidic and can contribute to environmental damage is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Acids, Bases & Salts",
+      "difficulty": "Moderate",
+      "topic": "Acids, Bases & Salts",
+      "subtopic": "Acids, Bases & Salts",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. It is neutral: does not match the concept tested.",
+        "B. It is alkaline: does not match the concept tested.",
+        "C. It contains no dissolved ions: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-157",
+      "correct_answer": "A",
+      "correct_option": "Ten",
+      "explanation": "Ten is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Emergency and Federalism",
+      "difficulty": "Moderate",
+      "topic": "Emergency and Federalism",
+      "subtopic": "Emergency and Federalism",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Five: does not match the concept tested.",
+        "C. Six: does not match the concept tested.",
+        "D. Twelve: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-158",
+      "correct_answer": "D",
+      "correct_option": "Primary key",
+      "explanation": "Primary key is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "DBMS & SQL",
+      "difficulty": "Moderate",
+      "topic": "DBMS & SQL",
+      "subtopic": "DBMS & SQL",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Foreign key: does not match the concept tested.",
+        "B. Check constraint: does not match the concept tested.",
+        "C. Index key: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-159",
+      "correct_answer": "C",
+      "correct_option": "144 cm^2",
+      "explanation": "144 cm^2 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Mensuration & Geometry",
+      "difficulty": "Moderate",
+      "topic": "Mensuration & Geometry",
+      "subtopic": "Mensuration & Geometry",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 169 cm^2: does not match the concept tested.",
+        "B. 121 cm^2: does not match the concept tested.",
+        "D. 196 cm^2: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-160",
+      "correct_answer": "B",
+      "correct_option": "Arrives after a detectable delay",
+      "explanation": "Arrives after a detectable delay is correct because it matches the basic general awareness / static gk concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Sound",
+      "difficulty": "Moderate",
+      "topic": "Sound",
+      "subtopic": "Sound",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Arrives before the direct sound: does not match the concept tested.",
+        "C. Carries no energy: does not match the concept tested.",
+        "D. Travels in vacuum: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-161",
+      "correct_answer": "C",
+      "correct_option": "Neither I nor II is sufficient",
+      "explanation": "Neither I nor II is sufficient is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Data Sufficiency",
+      "difficulty": "Moderate",
+      "topic": "Data Sufficiency",
+      "subtopic": "Data Sufficiency",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. I alone is sufficient: does not match the concept tested.",
+        "B. II alone is sufficient: does not match the concept tested.",
+        "D. Both I and II together are sufficient: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-162",
+      "correct_answer": "C",
+      "correct_option": "Both follow",
+      "explanation": "Both follow is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Inequality",
+      "difficulty": "Moderate",
+      "topic": "Inequality",
+      "subtopic": "Inequality",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Only II follows: does not match the concept tested.",
+        "B. Neither follows: does not match the concept tested.",
+        "D. Only I follows: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-163",
+      "correct_answer": "B",
+      "correct_option": "A government-owned enterprise",
+      "explanation": "A government-owned enterprise is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. An individual household: does not match the concept tested.",
+        "C. An unregistered market vendor: does not match the concept tested.",
+        "D. A foreign private firm: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-164",
+      "correct_answer": "A",
+      "correct_option": "Only I follows",
+      "explanation": "Only I follows is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Inequality",
+      "difficulty": "Moderate",
+      "topic": "Inequality",
+      "subtopic": "Inequality",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Neither follows: does not match the concept tested.",
+        "C. Both follow: does not match the concept tested.",
+        "D. Only II follows: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-165",
+      "correct_answer": "B",
+      "correct_option": "[M L−1 T−2]",
+      "explanation": "[M L−1 T−2] is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Units & Dimensions",
+      "difficulty": "Moderate",
+      "topic": "Units & Dimensions",
+      "subtopic": "Units & Dimensions",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. [M L T−2]: does not match the concept tested.",
+        "C. [M L² T−2]: does not match the concept tested.",
+        "D. [M L² T−3]: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-166",
+      "correct_answer": "C",
+      "correct_option": "Members to seek information and hold Ministers accountable",
+      "explanation": "Members to seek information and hold Ministers accountable is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Fundamental Rights",
+      "difficulty": "Moderate",
+      "topic": "Fundamental Rights",
+      "subtopic": "Fundamental Rights",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Judges to question witnesses: does not match the concept tested.",
+        "B. State Assemblies to amend Bills: does not match the concept tested.",
+        "D. The President to appoint Governors: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-167",
+      "correct_answer": "D",
+      "correct_option": "TLS",
+      "explanation": "TLS is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Cybersecurity",
+      "difficulty": "Moderate",
+      "topic": "Cybersecurity",
+      "subtopic": "Cybersecurity",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. SMTP: does not match the concept tested.",
+        "B. FTP: does not match the concept tested.",
+        "C. DHCP: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-168",
+      "correct_answer": "D",
+      "correct_option": "60 minutes",
+      "explanation": "60 minutes is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Time & Work",
+      "difficulty": "Moderate",
+      "topic": "Time & Work",
+      "subtopic": "Time & Work",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 40 minutes: does not match the concept tested.",
+        "B. 80 minutes: does not match the concept tested.",
+        "C. 50 minutes: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-169",
+      "correct_answer": "C",
+      "correct_option": "Increase",
+      "explanation": "Increase is correct because it matches the basic chemistry concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Periodic Table",
+      "difficulty": "Moderate",
+      "topic": "Periodic Table",
+      "subtopic": "Periodic Table",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Decrease: does not match the concept tested.",
+        "B. Both remain constant: does not match the concept tested.",
+        "D. Atomic size decreases while metallic character increases: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-170",
+      "correct_answer": "A",
+      "correct_option": "A general increase in prices",
+      "explanation": "A general increase in prices is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. A rise in unemployment only: does not match the concept tested.",
+        "C. A fall in population: does not match the concept tested.",
+        "D. An increase in rainfall: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-171",
+      "correct_answer": "B",
+      "correct_option": "Five interlocking rings",
+      "explanation": "Five interlocking rings is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Five separate planets: does not match the concept tested.",
+        "C. Five mountains: does not match the concept tested.",
+        "D. Five coloured medals: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-172",
+      "correct_answer": "C",
+      "correct_option": "Store recoverable copies on remote infrastructure",
+      "explanation": "Store recoverable copies on remote infrastructure is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Delete all old data: does not match the concept tested.",
+        "B. Disable a network: does not match the concept tested.",
+        "D. Upgrade a monitor: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-173",
+      "correct_answer": "A",
+      "correct_option": "Uniquely identify a row",
+      "explanation": "Uniquely identify a row is correct because it matches the basic b.tech cse fundamentals concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "B.Tech CSE Fundamentals",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Sort only text: does not match the concept tested.",
+        "C. Encrypt every row: does not match the concept tested.",
+        "D. Store all passwords: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-174",
+      "correct_answer": "A",
+      "correct_option": "Magnitude and direction",
+      "explanation": "Magnitude and direction is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Motion",
+      "difficulty": "Moderate",
+      "topic": "Motion",
+      "subtopic": "Motion",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Magnitude only without direction: does not match the concept tested.",
+        "C. No unit: does not match the concept tested.",
+        "D. No initial position dependence: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-175",
+      "correct_answer": "A",
+      "correct_option": "Red Sea",
+      "explanation": "Red Sea is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "World Geography & Maps",
+      "difficulty": "Moderate",
+      "topic": "World Geography & Maps",
+      "subtopic": "World Geography & Maps",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Black Sea: does not match the concept tested.",
+        "C. Caspian Sea: does not match the concept tested.",
+        "D. Persian Gulf: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-176",
+      "correct_answer": "D",
+      "correct_option": "26 November 1949",
+      "explanation": "26 November 1949 is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. 15 August 1947: does not match the concept tested.",
+        "B. 26 January 1950: does not match the concept tested.",
+        "C. 24 January 1950: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-177",
+      "correct_answer": "C",
+      "correct_option": "1:1",
+      "explanation": "1:1 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Atoms & Molecules",
+      "difficulty": "Moderate",
+      "topic": "Atoms & Molecules",
+      "subtopic": "Atoms & Molecules",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 2:1: does not match the concept tested.",
+        "B. 1:2: does not match the concept tested.",
+        "D. 2:3: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-178",
+      "correct_answer": "A",
+      "correct_option": "Hydra — Cnidaria",
+      "explanation": "Hydra — Cnidaria is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Animal Classification and Evolution",
+      "difficulty": "Moderate",
+      "topic": "Animal Classification and Evolution",
+      "subtopic": "Animal Classification and Evolution",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Earthworm — Mollusca: does not match the concept tested.",
+        "C. Starfish — Annelida: does not match the concept tested.",
+        "D. Octopus — Arthropoda: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-179",
+      "correct_answer": "A",
+      "correct_option": "Canada",
+      "explanation": "Canada is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Resources, Transport & World Geography",
+      "difficulty": "Moderate",
+      "topic": "Resources, Transport & World Geography",
+      "subtopic": "Resources, Transport & World Geography",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Mexico: does not match the concept tested.",
+        "C. Brazil: does not match the concept tested.",
+        "D. Cuba: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-180",
+      "correct_answer": "A",
+      "correct_option": "James Watson and Francis Crick",
+      "explanation": "James Watson and Francis Crick is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Biotechnology, Applied Biology and Discoveries",
+      "difficulty": "Moderate",
+      "topic": "Biotechnology, Applied Biology and Discoveries",
+      "subtopic": "Biotechnology, Applied Biology and Discoveries",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Meselson and Stahl: does not match the concept tested.",
+        "C. Hershey and Chase: does not match the concept tested.",
+        "D. Franklin and Wilkins jointly in a model paper: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-181",
+      "correct_answer": "B",
+      "correct_option": "Request and display web content",
+      "explanation": "Request and display web content is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Cook food: does not match the concept tested.",
+        "C. Operate a mechanical latchet: does not match the concept tested.",
+        "D. Measure rainfall: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-182",
+      "correct_answer": "C",
+      "correct_option": "Two months from the proclamation",
+      "explanation": "Two months from the proclamation is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Local Government and Schedules",
+      "difficulty": "Moderate",
+      "topic": "Local Government and Schedules",
+      "subtopic": "Local Government and Schedules",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. One month after dissolution: does not match the concept tested.",
+        "B. Six months automatically: does not match the concept tested.",
+        "D. Until the State budget is passed: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-183",
+      "correct_answer": "A",
+      "correct_option": "Pressure waves in an artery following ventricular contraction",
+      "explanation": "Pressure waves in an artery following ventricular contraction is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Respiration, Circulation and Blood",
+      "difficulty": "Moderate",
+      "topic": "Respiration, Circulation and Blood",
+      "subtopic": "Respiration, Circulation and Blood",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Valves closing in the veins: does not match the concept tested.",
+        "C. Expansion of lymphatic vessels: does not match the concept tested.",
+        "D. Atrial filling during diastole: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-184",
+      "correct_answer": "A",
+      "correct_option": "A batter scores 100 or more runs in an innings",
+      "explanation": "A batter scores 100 or more runs in an innings is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. A 100-second over: does not match the concept tested.",
+        "C. A 100-player team: does not match the concept tested.",
+        "D. A 100-run penalty: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-185",
+      "correct_answer": "A",
+      "correct_option": "2",
+      "explanation": "2 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Simplification & Number System",
+      "difficulty": "Moderate",
+      "topic": "Simplification & Number System",
+      "subtopic": "Simplification & Number System",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. 20: does not match the concept tested.",
+        "C. 0.2: does not match the concept tested.",
+        "D. 0.02: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-186",
+      "correct_answer": "D",
+      "correct_option": "150",
+      "explanation": "150 is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "Moderate",
+      "topic": "Data Interpretation",
+      "subtopic": "Data Interpretation",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 170: does not match the concept tested.",
+        "B. 160: does not match the concept tested.",
+        "C. 140: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-187",
+      "correct_answer": "C",
+      "correct_option": "Heart",
+      "explanation": "Heart is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Liver: does not match the concept tested.",
+        "B. Stomach: does not match the concept tested.",
+        "D. Lung: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-188",
+      "correct_answer": "D",
+      "correct_option": "Goods or services are sold to a foreign country",
+      "explanation": "Goods or services are sold to a foreign country is correct because it matches the basic economy concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Economy",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Goods move within a State: does not match the concept tested.",
+        "B. A bank lends locally: does not match the concept tested.",
+        "C. A factory pays wages: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-189",
+      "correct_answer": "A",
+      "correct_option": "Prepare muscles and reduce injury risk",
+      "explanation": "Prepare muscles and reduce injury risk is correct because it matches the basic fitness / sports / health awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Fitness / Sports / Health Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Guarantee immediate sleep: does not match the concept tested.",
+        "C. Stop breathing: does not match the concept tested.",
+        "D. Replace hydration: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-190",
+      "correct_answer": "A",
+      "correct_option": "Two independent verification factors",
+      "explanation": "Two independent verification factors is correct because it matches the basic technology / computer awareness concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "Technology / Computer Awareness",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "B. Two passwords of the same factor: does not match the concept tested.",
+        "C. Only a username: does not match the concept tested.",
+        "D. An email address twice: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-191",
+      "correct_answer": "D",
+      "correct_option": "Gautama Buddha",
+      "explanation": "Gautama Buddha is correct because it matches the basic history concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Static/application knowledge",
+      "difficulty": "Moderate",
+      "topic": "History",
+      "subtopic": "Static/application knowledge",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "CONCEPTUAL",
+      "why_other_options_are_wrong": [
+        "A. Mahavira: does not match the concept tested.",
+        "B. Ashoka: does not match the concept tested.",
+        "C. Chanakya: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-192",
+      "correct_answer": "B",
+      "correct_option": "Bhagirathi River",
+      "explanation": "Bhagirathi River is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Indian Rivers & Water",
+      "difficulty": "Moderate",
+      "topic": "Indian Rivers & Water",
+      "subtopic": "Indian Rivers & Water",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Sutlej River: does not match the concept tested.",
+        "C. Narmada River: does not match the concept tested.",
+        "D. Mahanadi River: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-193",
+      "correct_answer": "B",
+      "correct_option": "Article 198 and the State constitutional scheme",
+      "explanation": "Article 198 and the State constitutional scheme is correct because it matches the basic polity concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Citizenship and Rights",
+      "difficulty": "Moderate",
+      "topic": "Citizenship and Rights",
+      "subtopic": "Citizenship and Rights",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Article 61: does not match the concept tested.",
+        "C. Article 280: does not match the concept tested.",
+        "D. Article 324: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-194",
+      "correct_answer": "D",
+      "correct_option": "Robert Hooke",
+      "explanation": "Robert Hooke is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Biotechnology, Applied Biology and Discoveries",
+      "difficulty": "Moderate",
+      "topic": "Biotechnology, Applied Biology and Discoveries",
+      "subtopic": "Biotechnology, Applied Biology and Discoveries",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Antonie van Leeuwenhoek: does not match the concept tested.",
+        "B. Matthias Schleiden: does not match the concept tested.",
+        "C. Rudolf Virchow: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-195",
+      "correct_answer": "C",
+      "correct_option": "Only I follows",
+      "explanation": "Only I follows is correct because it matches the basic aptitude + reasoning + scenario-based concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Inequality",
+      "difficulty": "Moderate",
+      "topic": "Inequality",
+      "subtopic": "Inequality",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Only II follows: does not match the concept tested.",
+        "B. Neither follows: does not match the concept tested.",
+        "D. Both follow: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-196",
+      "correct_answer": "C",
+      "correct_option": "Left ventricle",
+      "explanation": "Left ventricle is correct because it matches the basic biology concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Respiration, Circulation and Blood",
+      "difficulty": "Moderate",
+      "topic": "Respiration, Circulation and Blood",
+      "subtopic": "Respiration, Circulation and Blood",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Right atrium: does not match the concept tested.",
+        "B. Right ventricle: does not match the concept tested.",
+        "D. Left atrium: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-197",
+      "correct_answer": "D",
+      "correct_option": "Converge at the image point",
+      "explanation": "Converge at the image point is correct because it matches the basic physics concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Light",
+      "difficulty": "Moderate",
+      "topic": "Light",
+      "subtopic": "Light",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. Always diverge: does not match the concept tested.",
+        "B. Remain parallel at every object position: does not match the concept tested.",
+        "C. Never meet: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-198",
+      "correct_answer": "A",
+      "correct_option": "Divergent plate boundary and mid-ocean ridge",
+      "explanation": "Divergent plate boundary and mid-ocean ridge is correct because it matches the basic geography concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Oceanography & Resources",
+      "difficulty": "Moderate",
+      "topic": "Oceanography & Resources",
+      "subtopic": "Oceanography & Resources",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Convergent trench: does not match the concept tested.",
+        "C. Transform fault only: does not match the concept tested.",
+        "D. Continental fold belt: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-199",
+      "correct_answer": "B",
+      "correct_option": "3 hours",
+      "explanation": "3 hours is correct because it matches the basic mathematics / basic maths concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Time, Speed & Distance",
+      "difficulty": "Moderate",
+      "topic": "Time, Speed & Distance",
+      "subtopic": "Time, Speed & Distance",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "A. 2 hours: does not match the concept tested.",
+        "C. 4 hours: does not match the concept tested.",
+        "D. 5 hours: does not match the concept tested."
+      ]
+    },
+    {
+      "id": "GA-MASTER-200",
+      "correct_answer": "A",
+      "correct_option": "Block storage volumes",
+      "explanation": "Block storage volumes is correct because it matches the basic cloud computing concept tested by this question. The other choices are less accurate or describe a different concept. This is an easy-to-moderate screening-level question.",
+      "concept_tested": "Storage Services & Selection",
+      "difficulty": "Moderate",
+      "topic": "Storage Services & Selection",
+      "subtopic": "Storage Services & Selection",
+      "exam_relevance": [
+        "Government Exams",
+        "Defence",
+        "Banking",
+        "Railway",
+        "UP SI"
+      ],
+      "pattern": "TREND_BASED",
+      "why_other_options_are_wrong": [
+        "B. Identity federation: does not match the concept tested.",
+        "C. Virtual machine scheduling: does not match the concept tested.",
+        "D. DNS failover: does not match the concept tested."
+      ]
+    }
+  ]
+}

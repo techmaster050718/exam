@@ -1,0 +1,5255 @@
+{
+  "id": "english-master-200",
+  "title": "English Master Paper",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
+  "exam": "CDS + CAPF AC + IBPS/SO + AFCAT/SSC",
+  "discipline": "English",
+  "source": "Original and syllabus-based practice questions informed by competitive-exam patterns; not an authentic PYQ paper",
+  "verificationStatus": "Practice dataset; not an official UPSC or IBPS previous-year paper",
+  "maximum_marks": 166,
+  "correct_mark": 0.83,
+  "negative_mark": 0.33,
+  "unattempted_mark": 0,
+  "sections": [
+    {
+      "name": "Grammar",
+      "questions": [
+        {
+          "id": "ENG-MASTER-001",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 11: Choose the correct completion: Hardly had the meeting begun ___ lights went out. [003-9-1]",
+          "options": [
+            "then",
+            "when",
+            "than",
+            "while"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-002",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 12: Choose the correct completion: Every employee should submit ___ report. [003-9-2]",
+          "options": [
+            "his",
+            "their employees",
+            "they",
+            "his or her"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-003",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 13: Choose the correct completion: The team ___ preparing for the final match. [003-9-3]",
+          "options": [
+            "are",
+            "were",
+            "be",
+            "is"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-004",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 14: Choose the correct completion: If it rains tomorrow, the match ___ postponed. [003-9-4]",
+          "options": [
+            "would be",
+            "is being",
+            "was",
+            "will be"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-005",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 15: Choose the correct completion: She asked me ___ I had finished the work. [003-9-5]",
+          "options": [
+            "that",
+            "what if",
+            "whether",
+            "to"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-006",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 16: Choose the correct completion: The proposal has ___ approved by committee.",
+          "options": [
+            "be",
+            "being",
+            "become",
+            "been"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-007",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 17: Choose the correct completion: Five kilometres ___ a reasonable walking distance.",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-008",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 18: Choose the correct completion: The jury ___ reached a unanimous decision.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "were"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-009",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 19: Choose the correct completion: The student who missed briefing ___ later.",
+          "options": [
+            "submit",
+            "submits",
+            "is submit",
+            "submitted"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-010",
+          "section": "Grammar",
+          "topic": "Advanced Grammar Traps",
+          "subtopic": "Advanced Grammar Traps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 20: Choose the correct completion: He should have ___ the team earlier.",
+          "options": [
+            "informed",
+            "informing",
+            "inform",
+            "informs"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced grammar traps. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-011",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 1: Choose the correct completion: Each of the students ___ submitted the form.",
+          "options": [
+            "have",
+            "are",
+            "has",
+            "submit"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-012",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 2: Choose the correct completion: Neither the manager nor the workers ___ available.",
+          "options": [
+            "is",
+            "was",
+            "be",
+            "are"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-013",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 3: Choose the correct completion: She is taller than ___ player in the team.",
+          "options": [
+            "the most",
+            "any",
+            "all",
+            "any other"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-014",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 4: Choose the correct completion: The train ___ before we reached the platform.",
+          "options": [
+            "has left",
+            "leaves",
+            "is left",
+            "had left"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-015",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 5: Choose the correct completion: The report is consistent ___ the evidence.",
+          "options": [
+            "to",
+            "with",
+            "for",
+            "of"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-016",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 6: Choose the correct completion: I prefer reading ___ watching television.",
+          "options": [
+            "than",
+            "over",
+            "to",
+            "from"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-017",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 7: Choose the correct completion: The committee approved ___ proposal.",
+          "options": [
+            "the",
+            "a",
+            "an",
+            "this proposal a"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-018",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 8: Choose the correct completion: The policy aims ___ reduce waste.",
+          "options": [
+            "for",
+            "to",
+            "at",
+            "into"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-019",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 9: Choose the correct completion: The officer said that he ___ unavailable.",
+          "options": [
+            "was",
+            "is",
+            "will",
+            "be"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-020",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 10: Choose the correct completion: No sooner did the alarm sound ___ evacuation began.",
+          "options": [
+            "then",
+            "when",
+            "as",
+            "than"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-021",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 11: Choose the correct completion: Hardly had the meeting begun ___ lights went out. [001-1-11]",
+          "options": [
+            "then",
+            "than",
+            "while",
+            "when"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-022",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 12: Choose the correct completion: Every employee should submit ___ report. [001-1-12]",
+          "options": [
+            "his",
+            "his or her",
+            "their employees",
+            "they"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-023",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 13: Choose the correct completion: The team ___ preparing for the final match. [001-1-13]",
+          "options": [
+            "are",
+            "is",
+            "were",
+            "be"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-024",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 14: Choose the correct completion: If it rains tomorrow, the match ___ postponed. [001-1-14]",
+          "options": [
+            "will be",
+            "would be",
+            "is being",
+            "was"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-025",
+          "section": "Grammar",
+          "topic": "Grammar Fundamentals",
+          "subtopic": "Grammar Fundamentals",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 15: Choose the correct completion: She asked me ___ I had finished the work. [001-1-15]",
+          "options": [
+            "whether",
+            "that",
+            "what if",
+            "to"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar fundamentals. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-026",
+          "section": "Grammar",
+          "topic": "Parts of Speech & Word Usage",
+          "subtopic": "Parts of Speech & Word Usage",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 31: Choose the correct completion: There ___ no evidence to support the allegation. [001-9-1]",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of parts of speech & word usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-027",
+          "section": "Grammar",
+          "topic": "Parts of Speech & Word Usage",
+          "subtopic": "Parts of Speech & Word Usage",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 32: Choose the correct completion: You have completed the assessment, ___ you. [001-9-2]",
+          "options": [
+            "have",
+            "haven’t",
+            "did",
+            "do"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of parts of speech & word usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-028",
+          "section": "Grammar",
+          "topic": "Parts of Speech & Word Usage",
+          "subtopic": "Parts of Speech & Word Usage",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 33: Choose the correct completion: The candidates selected by the panel ___ notified today. [001-9-3]",
+          "options": [
+            "are been",
+            "were be",
+            "will be",
+            "will being"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of parts of speech & word usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-029",
+          "section": "Grammar",
+          "topic": "Parts of Speech & Word Usage",
+          "subtopic": "Parts of Speech & Word Usage",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 34: Choose the correct completion: The alternatives secured first and second places, ___. [001-9-4]",
+          "options": [
+            "respectively",
+            "respectful",
+            "respective",
+            "respectivelyly"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of parts of speech & word usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-030",
+          "section": "Grammar",
+          "topic": "Parts of Speech & Word Usage",
+          "subtopic": "Parts of Speech & Word Usage",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question 35: Choose the correct completion: The committee decided ___ postpone the discussion. [001-9-5]",
+          "options": [
+            "for",
+            "at",
+            "to",
+            "about"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of parts of speech & word usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-171",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "No sooner had the committee concluded the hearing ___ the chairman requested a written revision.",
+          "options": [
+            "then",
+            "when",
+            "as",
+            "than"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "No sooner is followed by than in this correlative construction."
+        },
+        {
+          "id": "ENG-MASTER-172",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The captain, together with two newly appointed officers, ___ the post at dawn.",
+          "options": [
+            "inspect",
+            "are inspecting",
+            "inspects",
+            "have inspect"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The head noun 'captain' is singular; the intervening phrase does not change subject-verb agreement."
+        },
+        {
+          "id": "ENG-MASTER-173",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Had I known that the route would be closed, I ___ an alternative before departure.",
+          "options": [
+            "will arrange",
+            "would arrange",
+            "would have arranged",
+            "had arranged"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "In an inverted unreal past conditional, the main clause uses would have plus the past participle."
+        },
+        {
+          "id": "ENG-MASTER-174",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The minister was determined ___ neither an official reprimand nor public criticism ___ her resolve.",
+          "options": [
+            "to; would weaken",
+            "that; weaken",
+            "for; to weaken",
+            "that; would weaken"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The construction requires the infinitive 'to weaken', with 'neither…nor' linking the prepositional objects."
+        },
+        {
+          "id": "ENG-MASTER-175",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The board is reluctant to endorse a policy unless it ___ objectively verifiable safeguards.",
+          "options": [
+            "shall include",
+            "includes",
+            "has included",
+            "including"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "After the singular subject 'it', the present tense 'includes' is appropriate in an unless clause."
+        },
+        {
+          "id": "ENG-MASTER-176",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "The fewer restrictions there are on legitimate research, ___ the likelihood of a transparent conclusion.",
+          "options": [
+            "greater",
+            "the greater",
+            "the greatest",
+            "greatly"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The correlative comparative 'the fewer… the greater' is required."
+        },
+        {
+          "id": "ENG-MASTER-177",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Scarcely ___ the briefing begun when the signal failed.",
+          "options": [
+            "has",
+            "had",
+            "did",
+            "was"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Scarcely requires inversion: 'had' precedes the subject 'the briefing'."
+        },
+        {
+          "id": "ENG-MASTER-178",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Choose the sentence that uses a participial phrase correctly:",
+          "options": [
+            "Having exhausted the supply, the officer revised the ration schedule.",
+            "Having exhausted the supply, the ration schedule was revised by the officer.",
+            "Having exhausted, the ration schedule was revised.",
+            "The ration schedule, having exhausted the supply, was revised."
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The subject 'officer' logically performed both the action of exhausting and the later revision."
+        },
+        {
+          "id": "ENG-MASTER-179",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "The order applies to ___ personnel posted beyond the perimeter.",
+          "options": [
+            "every",
+            "all",
+            "each",
+            "each of"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "'All' is the determiner appropriate before a plural noun referring collectively to personnel."
+        },
+        {
+          "id": "ENG-MASTER-180",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Neither the pilots nor the flight commander ___ authority to cancel the exercise.",
+          "options": [
+            "has",
+            "have",
+            "is having",
+            "are"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "With neither/nor, the verb agrees with the nearer subject 'flight commander', which is singular."
+        },
+        {
+          "id": "ENG-MASTER-181",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Not until the reports were cross-checked ___ the incident.",
+          "options": [
+            "the cause was established",
+            "did established the cause",
+            "was the cause established",
+            "the cause established"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Negative adverbial 'Not until…' triggers subject-auxiliary inversion in the following clause."
+        },
+        {
+          "id": "ENG-MASTER-182",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "The evidence is too inconclusive ___ any definite charge.",
+          "options": [
+            "for sustaining",
+            "to sustain",
+            "that sustain",
+            "of sustaining"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "'Too inconclusive to sustain' is the standard too…to construction."
+        },
+        {
+          "id": "ENG-MASTER-183",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "A competent analyst should distinguish mere correlation ___ demonstrable causation.",
+          "options": [
+            "from",
+            "with",
+            "by",
+            "against"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "'Distinguish…from' is the standard dependent preposition pairing."
+        },
+        {
+          "id": "ENG-MASTER-184",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "The proposal, which has been revised twice, ___ to the cabinet next week.",
+          "options": [
+            "was submitted",
+            "submits",
+            "has submit",
+            "is to be submitted"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The present progressive passive construction 'is to be submitted' can express a future plan."
+        },
+        {
+          "id": "ENG-MASTER-185",
+          "section": "Grammar",
+          "topic": "Grammar",
+          "subtopic": "Advanced application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Each of the new manuals ___ an appendix explaining the emergency procedure.",
+          "options": [
+            "contain",
+            "contains",
+            "are containing",
+            "have contained"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The distributive determiner 'Each' takes a singular verb, 'contains'."
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "questions": [
+        {
+          "id": "ENG-MASTER-031",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Synonym 16: Choose the synonym of “sporadic”.",
+          "options": [
+            "limited in meaning",
+            "occasional",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-032",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Synonym 17: Choose the synonym of “tenacious”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "persistent",
+            "opposite in meaning"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-033",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Synonym 18: Choose the synonym of “ubiquitous”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "present everywhere",
+            "opposite in meaning"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-034",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Synonym 19: Choose the synonym of “venerate”.",
+          "options": [
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning",
+            "revere"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-035",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Synonym 20: Choose the synonym of “zealous”.",
+          "options": [
+            "fervent",
+            "limited in meaning",
+            "unrelated in meaning",
+            "opposite in meaning"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-036",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Antonym 16: Choose the antonym of “quiescent”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "active",
+            "moderate"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-037",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Antonym 17: Choose the antonym of “scarce”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "plentiful",
+            "moderate"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-038",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Antonym 18: Choose the antonym of “transient”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "permanent",
+            "moderate"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-039",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Antonym 19: Choose the antonym of “volatile”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "stable",
+            "moderate"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-040",
+          "section": "Vocabulary",
+          "topic": "Advanced Synonyms & Antonyms",
+          "subtopic": "Advanced Synonyms & Antonyms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Antonym 20: Choose the antonym of “wary”.",
+          "options": [
+            "similar",
+            "uncertain",
+            "trusting",
+            "moderate"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced synonyms & antonyms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-041",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 21: What does “a fish out of water” mean?",
+          "options": [
+            "uncomfortable in an unfamiliar setting",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-042",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 22: What does “add fuel to the fire” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "make an argument worse"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-043",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 23: What does “break the ice” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "ease social tension"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-044",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 24: What does “cut corners” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "do work less thoroughly to save effort"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-045",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 25: What does “go the extra mile” mean?",
+          "options": [
+            "make an exceptional effort",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-046",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 26: What does “lose ground” mean?",
+          "options": [
+            "lose an advantage",
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-047",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 27: What does “move the goalposts” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "the opposite expression",
+            "change the rules unfairly"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-048",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 28: What does “nip in the bud” mean?",
+          "options": [
+            "physical action only",
+            "an unrelated historical event",
+            "stop a problem early",
+            "the opposite expression"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-049",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 29: What does “on the spur of the moment” mean?",
+          "options": [
+            "physical action only",
+            "suddenly without planning",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-050",
+          "section": "Vocabulary",
+          "topic": "Difficult Idioms",
+          "subtopic": "Difficult Idioms",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Idiom 30: What does “the tip of the iceberg” mean?",
+          "options": [
+            "physical action only",
+            "a small visible part of a larger problem",
+            "an unrelated historical event",
+            "the opposite expression"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of difficult idioms. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-051",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 6: What does “ad hoc” mean?",
+          "options": [
+            "a written punishment",
+            "created for a particular purpose",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-052",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 7: What does “alma mater” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure",
+            "a school or university attended by a person"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-053",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 8: What does “carte blanche” mean?",
+          "options": [
+            "complete freedom to act",
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-054",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 9: What does “faux pas” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure",
+            "a social mistake"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-055",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 10: What does “genre” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a category of artistic work",
+            "a medical procedure"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-056",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 11: What does “rendezvous” mean?",
+          "options": [
+            "a written punishment",
+            "a prearranged meeting",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-057",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 12: What does “cul-de-sac” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure",
+            "a road closed at one end"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-058",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 13: What does “en route” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "on the way",
+            "a medical procedure"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-059",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 14: What does “pro bono” mean?",
+          "options": [
+            "professional work without fee for public good",
+            "a written punishment",
+            "a technical machine part",
+            "a medical procedure"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-060",
+          "section": "Vocabulary",
+          "topic": "Foreign Words & Phrases",
+          "subtopic": "Foreign Words & Phrases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Foreign expression 15: What does “modus operandi” mean?",
+          "options": [
+            "a written punishment",
+            "a technical machine part",
+            "a particular method of operation",
+            "a medical procedure"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of foreign words & phrases. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-061",
+          "section": "Vocabulary",
+          "topic": "Paired Words",
+          "subtopic": "Paired Words",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Paired words 1: Which pair is used correctly in a sentence? Correct pairing for this item: adopt and adapt.",
+          "options": [
+            "mistaking one for the other",
+            "adopt and adapt",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of paired words. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-062",
+          "section": "Vocabulary",
+          "topic": "Paired Words",
+          "subtopic": "Paired Words",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Paired words 2: Which pair is used correctly in a sentence? Correct pairing for this item: accept and except.",
+          "options": [
+            "accept and except",
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of paired words. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-063",
+          "section": "Vocabulary",
+          "topic": "Paired Words",
+          "subtopic": "Paired Words",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Paired words 3: Which pair is used correctly in a sentence? Correct pairing for this item: affect and effect.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns",
+            "affect and effect"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of paired words. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-064",
+          "section": "Vocabulary",
+          "topic": "Paired Words",
+          "subtopic": "Paired Words",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Paired words 4: Which pair is used correctly in a sentence? Correct pairing for this item: principal and principle.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "principal and principle",
+            "using both as nouns"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of paired words. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-065",
+          "section": "Vocabulary",
+          "topic": "Paired Words",
+          "subtopic": "Paired Words",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Paired words 5: Which pair is used correctly in a sentence? Correct pairing for this item: stationary and stationery.",
+          "options": [
+            "mistaking one for the other",
+            "using either at random",
+            "using both as nouns",
+            "stationary and stationery"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of paired words. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Error Detection",
+      "questions": [
+        {
+          "id": "ENG-MASTER-066",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 21: Choose the correct completion: Despite being tired, he ___ the review. [003-2-1]",
+          "options": [
+            "completing",
+            "completed",
+            "complete",
+            "completes"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-067",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 22: Choose the correct completion: Walking briskly, the student ___ the library. [003-2-2]",
+          "options": [
+            "was reached",
+            "reaches",
+            "reach",
+            "reached"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-068",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 23: Choose the correct completion: Both the principal and teachers ___ the proposal. [003-2-3]",
+          "options": [
+            "supporting",
+            "support",
+            "supports",
+            "supported"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-069",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 24: Choose the correct completion: The data ___ that the scheme is effective. [003-2-4]",
+          "options": [
+            "indicates",
+            "indicate",
+            "is indicating",
+            "has indicated"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-070",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 25: Choose the correct completion: I would rather discuss the proposal ___ delay it. [003-2-5]",
+          "options": [
+            "over",
+            "than",
+            "from",
+            "then"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-071",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 26: Choose the correct completion: One of the books in the collection ___ missing. [003-2-6]",
+          "options": [
+            "are",
+            "were",
+            "is",
+            "be"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-072",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 27: Choose the correct completion: The minister is responsible ___ public safety. [003-2-7]",
+          "options": [
+            "to",
+            "of",
+            "with",
+            "for"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-073",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 28: Choose the correct completion: She said that she ___ available that evening. [003-2-8]",
+          "options": [
+            "is",
+            "was",
+            "will be",
+            "has"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-074",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 29: Choose the correct completion: This method is as efficient ___ the previous one. [003-2-9]",
+          "options": [
+            "as",
+            "than",
+            "like",
+            "so"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-075",
+          "section": "Error Detection",
+          "topic": "Advanced Error Spotting",
+          "subtopic": "Advanced Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 30: Choose the correct completion: The candidate is capable ___ handling the crisis. [003-2-10]",
+          "options": [
+            "of",
+            "for",
+            "about",
+            "to"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-076",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 31: Choose the correct completion: There ___ no evidence to support the allegation.",
+          "options": [
+            "are",
+            "were",
+            "be",
+            "is"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-077",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 32: Choose the correct completion: You have completed the assessment, ___ you.",
+          "options": [
+            "have",
+            "haven’t",
+            "did",
+            "do"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-078",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 33: Choose the correct completion: The candidates selected by the panel ___ notified today.",
+          "options": [
+            "are been",
+            "were be",
+            "will be",
+            "will being"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-079",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 34: Choose the correct completion: The alternatives secured first and second places, ___.",
+          "options": [
+            "respectful",
+            "respective",
+            "respectivelyly",
+            "respectively"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-080",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 35: Choose the correct completion: The committee decided ___ postpone the discussion.",
+          "options": [
+            "for",
+            "to",
+            "at",
+            "about"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-081",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 36: Choose the correct completion: The paper made its argument ___ clear examples.",
+          "options": [
+            "by through",
+            "through",
+            "with of",
+            "because"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-082",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 37: Choose the correct completion: Not only did the minister explain policy, ___ questions.",
+          "options": [
+            "but also",
+            "also but",
+            "and",
+            "but rather"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-083",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 38: Choose the correct completion: The principal as well as teachers ___ agreed.",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "were"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-084",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 39: Choose the correct completion: An honest official must resist ___.",
+          "options": [
+            "pressures",
+            "pressure",
+            "a pressure",
+            "pressuring"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-085",
+          "section": "Error Detection",
+          "topic": "Mixed Error Spotting",
+          "subtopic": "Mixed Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 40: Choose the correct completion: The new policy aims ___ reducing waste.",
+          "options": [
+            "for",
+            "to",
+            "into",
+            "at"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of mixed error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-086",
+          "section": "Error Detection",
+          "topic": "Error Spotting",
+          "subtopic": "Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 1: Choose the correct completion: Each of the students ___ submitted the form.",
+          "options": [
+            "have",
+            "are",
+            "has",
+            "submit"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-087",
+          "section": "Error Detection",
+          "topic": "Error Spotting",
+          "subtopic": "Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 2: Choose the correct completion: Neither the manager nor the workers ___ available.",
+          "options": [
+            "is",
+            "was",
+            "are",
+            "be"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-088",
+          "section": "Error Detection",
+          "topic": "Error Spotting",
+          "subtopic": "Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 3: Choose the correct completion: She is taller than ___ player in the team.",
+          "options": [
+            "any other",
+            "the most",
+            "any",
+            "all"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-089",
+          "section": "Error Detection",
+          "topic": "Error Spotting",
+          "subtopic": "Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 4: Choose the correct completion: The train ___ before we reached the platform.",
+          "options": [
+            "has left",
+            "had left",
+            "leaves",
+            "is left"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-090",
+          "section": "Error Detection",
+          "topic": "Error Spotting",
+          "subtopic": "Error Spotting",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Error spotting 5: Choose the correct completion: The report is consistent ___ the evidence.",
+          "options": [
+            "to",
+            "for",
+            "with",
+            "of"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of error spotting. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Fillers & Cloze",
+      "questions": [
+        {
+          "id": "ENG-MASTER-091",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 21: Complete the context: “The report must provide ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "capacity",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-092",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 22: Complete the context: “The institution should remain ___.”",
+          "options": [
+            "impossible",
+            "legitimate",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-093",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 23: Complete the context: “Teams need ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "accessible"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-094",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 24: Complete the context: “The decision should be ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "consistent"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-095",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 25: Complete the context: “The plan must ___.”",
+          "options": [
+            "impossible",
+            "timely",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-096",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 26: Complete the context: “The result appears ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "diverse",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-097",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 27: Complete the context: “A system can ___.”",
+          "options": [
+            "robust",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-098",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 28: Complete the context: “Leadership requires ___.”",
+          "options": [
+            "reasonable",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-099",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 29: Complete the context: “Research needs ___.”",
+          "options": [
+            "essential",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-100",
+          "section": "Fillers & Cloze",
+          "topic": "Advanced Cloze & Context",
+          "subtopic": "Advanced Cloze & Context",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 30: Complete the context: “Policy should be ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "optional",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of advanced cloze & context. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-101",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 31: Complete the context: “The report must provide ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "confidence",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-102",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 32: Complete the context: “The institution should remain ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "evidence",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-103",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 33: Complete the context: “Teams need ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "attention",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-104",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 34: Complete the context: “The decision should be ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "justify",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-105",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 35: Complete the context: “The plan must ___.”",
+          "options": [
+            "recover",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-106",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 36: Complete the context: “The result appears ___.”",
+          "options": [
+            "verified",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-107",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 37: Complete the context: “A system can ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "without"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-108",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 38: Complete the context: “Leadership requires ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "findings",
+            "irrelevant"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-109",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 39: Complete the context: “Research needs ___.”",
+          "options": [
+            "impossible",
+            "random",
+            "irrelevant",
+            "adapt"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-110",
+          "section": "Fillers & Cloze",
+          "topic": "Cloze & Fillers",
+          "subtopic": "Cloze & Fillers",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cloze test 40: Complete the context: “Policy should be ___.”",
+          "options": [
+            "resilient",
+            "impossible",
+            "random",
+            "irrelevant"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of cloze & fillers. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Sentence Arrangement",
+      "questions": [
+        {
+          "id": "ENG-MASTER-111",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 16: Arrange the sentences: P: A clinic monitoring project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-112",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 17: Arrange the sentences: P: A software interface project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-113",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 18: Arrange the sentences: P: A solar village project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-114",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 19: Arrange the sentences: P: A subsidy review project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-115",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 20: Arrange the sentences: P: A research method project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-116",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 21: Arrange the sentences: P: A digital library project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-117",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 22: Arrange the sentences: P: A new school schedule project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-118",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 23: Arrange the sentences: P: A bank verification project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-119",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 24: Arrange the sentences: P: A urban traffic project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-120",
+          "section": "Sentence Arrangement",
+          "topic": "S1-S6 & Paragraph Ordering",
+          "subtopic": "S1-S6 & Paragraph Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 25: Arrange the sentences: P: A project delay project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "P-Q-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of s1-s6 & paragraph ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-121",
+          "section": "Sentence Arrangement",
+          "topic": "Para Jumbles & Ordering",
+          "subtopic": "Para Jumbles & Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 26: Arrange the sentences: P: A clinic monitoring project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P",
+            "P-Q-R-S"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of para jumbles & ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-122",
+          "section": "Sentence Arrangement",
+          "topic": "Para Jumbles & Ordering",
+          "subtopic": "Para Jumbles & Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 27: Arrange the sentences: P: A software interface project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of para jumbles & ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-123",
+          "section": "Sentence Arrangement",
+          "topic": "Para Jumbles & Ordering",
+          "subtopic": "Para Jumbles & Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 28: Arrange the sentences: P: A solar village project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "P-Q-R-S",
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "S-R-Q-P"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of para jumbles & ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-124",
+          "section": "Sentence Arrangement",
+          "topic": "Para Jumbles & Ordering",
+          "subtopic": "Para Jumbles & Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 29: Arrange the sentences: P: A subsidy review project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of para jumbles & ordering. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-125",
+          "section": "Sentence Arrangement",
+          "topic": "Para Jumbles & Ordering",
+          "subtopic": "Para Jumbles & Ordering",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "PQRS 30: Arrange the sentences: P: A research method project began. Q: Staff identified implementation problems. R: The team revised the process. S: Outcomes improved after review.",
+          "options": [
+            "Q-P-R-S",
+            "R-S-P-Q",
+            "P-Q-R-S",
+            "S-R-Q-P"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of para jumbles & ordering. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Reading Comprehension",
+      "questions": [
+        {
+          "id": "ENG-MASTER-126",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Digital Transformation creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Benefits should be evaluated through evidence and implementation"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-127",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Cybersecurity creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Policy must balance opportunities, risks, and public legitimacy"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-128",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Climate Change creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Use multiple indicators and review outcomes",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-129",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: History creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Benefits should be evaluated through evidence and implementation",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-130",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Governance creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-131",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Entrepreneurship creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Use multiple indicators and review outcomes",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-132",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Urban Planning creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Benefits should be evaluated through evidence and implementation",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-133",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Rural Development creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Policy must balance opportunities, risks, and public legitimacy"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-134",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Innovation creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Use multiple indicators and review outcomes",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-135",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Passage: Public Administration creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Benefits should be evaluated through evidence and implementation",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-136",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Passage: Research Integrity creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs",
+            "Policy must balance opportunities, risks, and public legitimacy"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-137",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Passage: Media Literacy creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Use multiple indicators and review outcomes",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-138",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Passage: Energy Transition creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What is the central argument?",
+          "options": [
+            "Benefits should be evaluated through evidence and implementation",
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-139",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Passage: Disaster Management creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. What follows from the passage?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Policy must balance opportunities, risks, and public legitimacy",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-140",
+          "section": "Reading Comprehension",
+          "topic": "Difficult Reading Comprehension",
+          "subtopic": "Difficult Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Passage: Demographic Change creates visible opportunities and less visible risks. Effective action therefore needs reliable evidence, implementation capacity, public trust, fairness, and review of trade-offs. No single indicator is sufficient by itself. Which approach would best reflect the author’s view?",
+          "options": [
+            "Focus only on one visible benefit",
+            "Assume policy works without evidence",
+            "Use multiple indicators and review outcomes",
+            "Ignore public trust and trade-offs"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of difficult reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-141",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 1: A passage on data privacy argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes",
+            "Long-term implementation and hidden risks must be examined"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-142",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 2: A passage on supply chains argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Long-term implementation and hidden risks must be examined",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-143",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 3: A passage on financial literacy argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Long-term implementation and hidden risks must be examined",
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-144",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 4: A passage on democracy argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Long-term implementation and hidden risks must be examined",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-145",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 5: A passage on public health argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Long-term implementation and hidden risks must be examined",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-146",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 6: A passage on water policy argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "Long-term implementation and hidden risks must be examined",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-147",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 7: A passage on space research argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes",
+            "Long-term implementation and hidden risks must be examined"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-148",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 8: A passage on professional ethics argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes",
+            "Long-term implementation and hidden risks must be examined"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-149",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 9: A passage on transportation argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes",
+            "Long-term implementation and hidden risks must be examined"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-150",
+          "section": "Reading Comprehension",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Advanced RC 10: A passage on workplace culture argues that short-term measures may look effective yet create hidden costs. Which is the strongest inference?",
+          "options": [
+            "Short-term success is sufficient",
+            "Long-term implementation and hidden risks must be examined",
+            "Hidden costs can be ignored",
+            "One indicator always explains outcomes"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of reading comprehension. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Sentence-Based English",
+      "questions": [
+        {
+          "id": "ENG-MASTER-151",
+          "section": "Sentence-Based English",
+          "topic": "Sentence Connectors",
+          "subtopic": "Sentence Connectors",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 1: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "however",
+            "because",
+            "although",
+            "unless"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of sentence connectors. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-152",
+          "section": "Sentence-Based English",
+          "topic": "Sentence Connectors",
+          "subtopic": "Sentence Connectors",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 2: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "therefore",
+            "because",
+            "although",
+            "unless"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of sentence connectors. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-153",
+          "section": "Sentence-Based English",
+          "topic": "Sentence Connectors",
+          "subtopic": "Sentence Connectors",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 3: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "unless",
+            "nevertheless"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of sentence connectors. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-154",
+          "section": "Sentence-Based English",
+          "topic": "Sentence Connectors",
+          "subtopic": "Sentence Connectors",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 4: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "accordingly",
+            "although",
+            "unless"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of sentence connectors. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-155",
+          "section": "Sentence-Based English",
+          "topic": "Sentence Connectors",
+          "subtopic": "Sentence Connectors",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 5: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "however",
+            "unless"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of sentence connectors. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-156",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 31: Choose the correct completion: There ___ no evidence to support the allegation. [004-1-1]",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "be"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-157",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 32: Choose the correct completion: You have completed the assessment, ___ you. [004-1-2]",
+          "options": [
+            "have",
+            "haven’t",
+            "did",
+            "do"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-158",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 33: Choose the correct completion: The candidates selected by the panel ___ notified today. [004-1-3]",
+          "options": [
+            "are been",
+            "were be",
+            "will be",
+            "will being"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-159",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 34: Choose the correct completion: The alternatives secured first and second places, ___. [004-1-4]",
+          "options": [
+            "respectively",
+            "respectful",
+            "respective",
+            "respectivelyly"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-160",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 35: Choose the correct completion: The committee decided ___ postpone the discussion. [004-1-5]",
+          "options": [
+            "for",
+            "at",
+            "to",
+            "about"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-161",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 36: Choose the correct completion: The paper made its argument ___ clear examples. [004-1-6]",
+          "options": [
+            "by through",
+            "with of",
+            "because",
+            "through"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-162",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 37: Choose the correct completion: Not only did the minister explain policy, ___ questions. [004-1-7]",
+          "options": [
+            "also but",
+            "and",
+            "but rather",
+            "but also"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-163",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 38: Choose the correct completion: The principal as well as teachers ___ agreed. [004-1-8]",
+          "options": [
+            "have",
+            "are",
+            "has",
+            "were"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-164",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 39: Choose the correct completion: An honest official must resist ___. [004-1-9]",
+          "options": [
+            "pressures",
+            "a pressure",
+            "pressuring",
+            "pressure"
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option D is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-165",
+          "section": "Sentence-Based English",
+          "topic": "Grammar & Sentence Correction",
+          "subtopic": "Grammar & Sentence Correction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question 40: Choose the correct completion: The new policy aims ___ reducing waste. [004-1-10]",
+          "options": [
+            "at",
+            "for",
+            "to",
+            "into"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of grammar & sentence correction. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-166",
+          "section": "Sentence-Based English",
+          "topic": "Connectors & Phrasal Usage",
+          "subtopic": "Connectors & Phrasal Usage",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 11: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "nevertheless",
+            "although",
+            "unless"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of connectors & phrasal usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-167",
+          "section": "Sentence-Based English",
+          "topic": "Connectors & Phrasal Usage",
+          "subtopic": "Connectors & Phrasal Usage",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 12: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "although",
+            "accordingly",
+            "unless"
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option C is correct in the context of connectors & phrasal usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-168",
+          "section": "Sentence-Based English",
+          "topic": "Connectors & Phrasal Usage",
+          "subtopic": "Connectors & Phrasal Usage",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 13: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "however",
+            "although",
+            "unless"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of connectors & phrasal usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-169",
+          "section": "Sentence-Based English",
+          "topic": "Connectors & Phrasal Usage",
+          "subtopic": "Connectors & Phrasal Usage",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 14: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "therefore",
+            "because",
+            "although",
+            "unless"
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option A is correct in the context of connectors & phrasal usage. It is the choice that is grammatically and semantically consistent with the question."
+        },
+        {
+          "id": "ENG-MASTER-170",
+          "section": "Sentence-Based English",
+          "topic": "Connectors & Phrasal Usage",
+          "subtopic": "Connectors & Phrasal Usage",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Connector 15: Choose the connector: “The evidence was limited; ___, a preliminary judgment was recorded.”",
+          "options": [
+            "because",
+            "nevertheless",
+            "although",
+            "unless"
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "Option B is correct in the context of connectors & phrasal usage. It is the choice that is grammatically and semantically consistent with the question."
+        }
+      ]
+    },
+    {
+      "name": "Advanced / Descriptive Language",
+      "questions": [
+        {
+          "id": "ENG-MASTER-186",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Choose the most appropriate opening for an essay on responsible artificial intelligence.",
+          "options": [
+            "AI promises progress, but its benefits must be secured through accountable governance.",
+            "AI is a popular topic that many people discuss in modern times.",
+            "This essay discusses several things about AI and its uses.",
+            "Artificial intelligence has become better and faster in every year."
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The first option establishes a specific evaluative theme and anticipates a balanced discussion."
+        },
+        {
+          "id": "ENG-MASTER-187",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence would provide the strongest concluding sentence for an essay about climate resilience?",
+          "options": [
+            "Climate has always been changing in human history.",
+            "Many people can speak about climate at school.",
+            "The problem was discussed in detail in the previous paragraph.",
+            "Climate resilience therefore requires adaptation, mitigation, and cooperation across institutions and communities."
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It synthesises the issue and offers a clear, forward-looking conclusion."
+        },
+        {
+          "id": "ENG-MASTER-188",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Select the most effective précis of: 'Experts agree that cities should expand public transport, but expansion will succeed only if fares are affordable, routes are dependable, and authorities coordinate land-use policy.'",
+          "options": [
+            "Experts enjoy travelling around modern cities.",
+            "Public transport expansion is always expensive and should be avoided.",
+            "Affordable, reliable public transport needs integrated planning and coordination.",
+            "Land-use policy has no relationship with transport."
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It preserves the key conditions and compresses the argument without adding unsupported claims."
+        },
+        {
+          "id": "ENG-MASTER-189",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence is the most concise while preserving the intended meaning?",
+          "options": [
+            "On account of the fact that heavy rain occurred, the match was postponed.",
+            "The match was postponed because of the occurrence of heavy rainfall.",
+            "The heavy rain being what it was, this was why the match was postponed.",
+            "Due to the heavy rain, the match was postponed."
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "'Due to the heavy rain' directly expresses the cause and avoids redundant nominal constructions."
+        },
+        {
+          "id": "ENG-MASTER-190",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which opening best maintains formal official tone in a report about a failed relief operation?",
+          "options": [
+            "The whole operation was a mess and should never have happened.",
+            "Honestly, nobody did the right thing during the relief work.",
+            "The operation encountered delays that require institutional review and corrective measures.",
+            "One may feel quite sad because the operation did not succeed."
+          ],
+          "answer": 2,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The option is factual, impersonal, and appropriately formal for an official report."
+        },
+        {
+          "id": "ENG-MASTER-191",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Choose the sentence that maintains the strongest logical continuity after: 'The expedition was adequately funded and scientifically prepared.'",
+          "options": [
+            "Funding and preparation are also possible in ordinary situations.",
+            "Yet poor coordination between the teams delayed the first field survey.",
+            "The teams later bought some new maps.",
+            "Science is a useful and interesting subject."
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The contrast signalled by 'Yet' follows naturally from the implication that preparation should have prevented delays."
+        },
+        {
+          "id": "ENG-MASTER-192",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence presents the strongest counter-argument to: 'All public services should be fully automated to eliminate human error.'",
+          "options": [
+            "Automation is expensive because computers require electricity.",
+            "Automation can improve consistency, but vulnerable users may need human judgment and an appeal process.",
+            "Public services should never use any kind of technology.",
+            "Human beings make mistakes and therefore must be removed from every process."
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It accepts a limited benefit while exposing why the absolute proposal is inadequate."
+        },
+        {
+          "id": "ENG-MASTER-193",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence best preserves logical coherence in a paragraph on journalistic ethics?",
+          "options": [
+            "A newspaper uses many pages and several printing machines.",
+            "Accuracy, independence, and correction of demonstrable errors are essential to public trust.",
+            "Journalism is one among several forms of entertainment.",
+            "Headlines are usually written in a large and attractive size."
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The option addresses ethical principles relevant to the stated topic and maintains conceptual continuity."
+        },
+        {
+          "id": "ENG-MASTER-194",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Choose the most appropriate formal expression for declining a request.",
+          "options": [
+            "We are unable to approve the request under the present guidelines.",
+            "Sorry, we cannot do it because the rules say no.",
+            "You should have known before asking us.",
+            "The request is rejected and that ends the matter."
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It states the decision politely, impersonally, and without unnecessary hostility."
+        },
+        {
+          "id": "ENG-MASTER-195",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence would be the best topic sentence for a paragraph on institutional accountability?",
+          "options": [
+            "Institutions are found in every city and village.",
+            "A building may contain several offices and meeting rooms.",
+            "People often work for many years before retirement.",
+            "Public institutions earn legitimacy by explaining decisions and accepting review."
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It directly defines accountability and gives the paragraph a clear controlling idea."
+        },
+        {
+          "id": "ENG-MASTER-196",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Select the best summary of: 'A research finding is persuasive only when its evidence is reproducible, its assumptions are explicit, and its limitations are honestly acknowledged.'",
+          "options": [
+            "Credible research combines reproducibility, transparent assumptions, and honest limits.",
+            "All research is persuasive regardless of its evidence.",
+            "Scientific findings should never mention limitations.",
+            "Reproducibility makes every assumption unnecessary."
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "The summary captures all three conditions as jointly necessary for credibility."
+        },
+        {
+          "id": "ENG-MASTER-197",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which closing is most suitable for a formal email requesting a meeting?",
+          "options": [
+            "I would appreciate the opportunity to meet and discuss this matter at a convenient time.",
+            "Come for a meeting whenever you feel like it.",
+            "If you do not reply, I will understand that you are wrong.",
+            "Please attend because this is very important for me."
+          ],
+          "answer": 0,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It makes a courteous request while leaving the time and recipient's convenience unresolved."
+        },
+        {
+          "id": "ENG-MASTER-198",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which sentence has the most appropriate tone for an official précis?",
+          "options": [
+            "The report wants people to try the plan and see what happens.",
+            "The report recommends a phased implementation supported by measurable review indicators.",
+            "The report has some ideas that sound quite exciting.",
+            "The report tells everyone to hurry up and finish everything."
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It is neutral, precise, and suitable for condensed official language."
+        },
+        {
+          "id": "ENG-MASTER-199",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Choose the sentence that most clearly distinguishes evidence from opinion.",
+          "options": [
+            "The audit seems to show a lot of growth, and growth is always good.",
+            "The audit records show a 12% increase, whereas the committee believes the increase is desirable.",
+            "A 12% increase is popular, so it must be desirable.",
+            "The committee believes everything in the audit is correct."
+          ],
+          "answer": 1,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It separates the factual measure ('audit records show') from the evaluative belief ('committee believes')."
+        },
+        {
+          "id": "ENG-MASTER-200",
+          "section": "Advanced / Descriptive Language",
+          "topic": "Advanced Language",
+          "subtopic": "Formal and coherent expression",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "IBPS",
+            "AFCAT",
+            "SSC"
+          ],
+          "pattern": "HIGH_DIFFICULTY",
+          "q": "Which conclusion follows logically from the facts: 'The census found that literacy rose; it did not measure whether graduates found work.'",
+          "options": [
+            "Literacy rose and therefore unemployment disappeared.",
+            "No conclusion can be drawn about literacy.",
+            "Employment rates must have fallen after the census.",
+            "Literacy improved, but employment outcomes remain unknown."
+          ],
+          "answer": 3,
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33,
+          "explanation": "It states what the census established and refrains from inferring an unmeasured employment outcome."
+        }
+      ]
+    }
+  ]
+}

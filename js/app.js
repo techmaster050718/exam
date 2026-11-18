@@ -60,6 +60,21 @@
   }
 
   async function loadSubjects() { return await fetchJSON('data/subjects.json'); }
+  async function loadAnswerKey(filePath) { return await fetchJSON(filePath); }
+
+  function mergeAnswerKey(paperData, answerKey) {
+    if (!answerKey || !Array.isArray(answerKey.answers) || !paperData?.sections) return;
+    const byId = new Map(answerKey.answers.map((entry) => [entry.id, entry]));
+    paperData.sections.forEach((section) => {
+      section.questions.forEach((question) => {
+        const entry = byId.get(question.id);
+        if (!entry) return;
+        const optionIndex = { A: 0, B: 1, C: 2, D: 3 }[entry.correct_answer];
+        question.answer = optionIndex;
+        question.explanation = entry.explanation;
+      });
+    });
+  }
   async function loadSite() { return await fetchJSON('data/site.json'); }
 
   async function applyBranding() {
@@ -468,7 +483,7 @@
     loadStore, saveStore, getPaperState, savePaperState, clearPaperState,
     resetAll,
     // Data
-    loadPapersList, loadPaper, loadSubjects, loadSite, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions, getQuestionSearchText,
+    loadPapersList, loadPaper, loadSubjects, loadSite, loadAnswerKey, mergeAnswerKey, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions, getQuestionSearchText,
     // Scoring
     computeScore, computeSectionStats,
     // Time

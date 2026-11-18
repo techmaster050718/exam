@@ -1,0 +1,5487 @@
+{
+  "id": "geography-master-200",
+  "title": "Geography Master Paper",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
+  "exam": "CDS + CAPF AC + SSC CGL + UP SI + AFCAT + RRB + IBPS",
+  "discipline": "Geography",
+  "source": "Syllabus-based competitive Geography practice; not an official previous-year paper",
+  "verificationStatus": "Practice dataset; not an official UPSC, SSC, UP SI, AFCAT or IBPS previous-year paper",
+  "maximum_marks": 166,
+  "correct_mark": 0.83,
+  "negative_mark": 0.33,
+  "unattempted_mark": 0,
+  "answerKey": "data/geography-master-200-answer-key.json",
+  "instructions": [
+    "Correct answer: +0.83",
+    "Incorrect answer: -0.33",
+    "Unattempted: 0",
+    "Choose exactly one most accurate geographical answer."
+  ],
+  "sections": [
+    {
+      "name": "A. Earth & Geographical Fundamentals",
+      "questions": [
+        {
+          "id": "GEO-MASTER-007",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Golden Revolution in India is associated especially with:",
+          "options": [
+            "Horticulture and allied sectors",
+            "Nuclear energy",
+            "Oilseeds alone",
+            "Textile exports only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-024",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Prime Meridian passes through Greenwich near:",
+          "options": [
+            "Paris",
+            "London",
+            "Berlin",
+            "Rome"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-041",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Cyclonic winds in the Northern Hemisphere circulate:",
+          "options": [
+            "Clockwise toward a high-pressure center",
+            "Outward from a low",
+            "Parallel only to latitude",
+            "Counterclockwise toward a low-pressure center"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-046",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Trade winds in the Northern Hemisphere blow generally from the:",
+          "options": [
+            "Northwest",
+            "Southeast",
+            "Southwest",
+            "Northeast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-083",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Green Revolution led to major gains in food grain production through high-yielding varieties, irrigation, fertilizers and:",
+          "options": [
+            "Complete mechanization of all farms",
+            "Improved management practices",
+            "Elimination of soil testing",
+            "Replacement of all crops by rice"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-105",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The angular distance of a place north or south of the Equator is its:",
+          "options": [
+            "Longitude",
+            "Latitude",
+            "Altitude",
+            "Declination"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-122",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Ocean currents are deflected by Earth’s rotation due to the:",
+          "options": [
+            "Greenhouse effect",
+            "Doppler effect",
+            "Coriolis effect",
+            "Photoelectric effect"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-131",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which imaginary line divides Earth into Northern and Southern Hemispheres?",
+          "options": [
+            "Prime Meridian",
+            "Tropic of Cancer",
+            "Equator",
+            "Arctic Circle"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-178",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A belt of low pressure near the Equator is the:",
+          "options": [
+            "Intertropical Convergence Zone",
+            "Polar high-pressure belt",
+            "Horse latitudes",
+            "Ferrel convergence"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-183",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Longitude values range from 0° to:",
+          "options": [
+            "180° east or west",
+            "90° north or south",
+            "360° east or west",
+            "45° east or west"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-194",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Crop rotation helps reduce pest buildup and maintain fertility because different crops have:",
+          "options": [
+            "Identical rooting depth always",
+            "No effect on soil",
+            "The same pest cycle always",
+            "Different nutrient demands and root effects"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-196",
+          "section": "A. Earth & Geographical Fundamentals",
+          "topic": "A. Earth & Geographical Fundamentals",
+          "subtopic": "Original high-level application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "At a given latitude, which line provides the basis for one standard meridian in a time-zone system?",
+          "options": [
+            "An arbitrarily selected latitude",
+            "The Equator only",
+            "A selected longitude",
+            "The Tropic of Cancer"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "B. Physical Geography — Geomorphology",
+      "questions": [
+        {
+          "id": "GEO-MASTER-009",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The International Date Line broadly follows:",
+          "options": [
+            "180° longitude",
+            "0° longitude",
+            "90° longitude",
+            "23.5° latitude"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-026",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A stack is a coastal erosional feature isolated from the:",
+          "options": [
+            "River mouth by deposition",
+            "Glacier by moraine",
+            "Cliff by wave action",
+            "Dune by wind"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-074",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which mountain range forms the northern boundary of the Indian subcontinent and lies largely along India’s northern border?",
+          "options": [
+            "Aravalli",
+            "Vindhya",
+            "Eastern Ghats",
+            "Himalayas"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-097",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which rock type forms from cooling and solidification of magma or lava?",
+          "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Organic"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-098",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The grinding action of rock fragments in a glacier is called:",
+          "options": [
+            "Carbonation",
+            "Oxidation",
+            "Hydration",
+            "Abrasion"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-099",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Andes mountains extend along the western margin of:",
+          "options": [
+            "North America",
+            "South America",
+            "Africa",
+            "Europe"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-106",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A sand dune migrating across a desert is primarily shaped by:",
+          "options": [
+            "Glacial ice",
+            "Tides",
+            "Wind",
+            "Earthquakes"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-109",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The term food security includes availability, access, utilization and:",
+          "options": [
+            "Maximum export only",
+            "Stability over time",
+            "Complete crop monoculture",
+            "Urban population alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-110",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The instrument used to record earthquake waves is a:",
+          "options": [
+            "Seismograph",
+            "Barometer",
+            "Anemometer",
+            "Hygrometer"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-128",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A fold mountain is commonly formed by:",
+          "options": [
+            "Compression of crustal rocks",
+            "Volcanic eruption only",
+            "Wind deposition",
+            "Marine erosion"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-148",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which range separates the Malwa Plateau from the Bundelkhand upland?",
+          "options": [
+            "Satpura Range",
+            "Vindhya Range",
+            "Aravalli Range",
+            "Kaimur Range"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-151",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The point directly above an earthquake focus on Earth’s surface is the:",
+          "options": [
+            "Epicenter",
+            "Seismic zone",
+            "Focus",
+            "Fault plane"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-152",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "B. Physical Geography — Geomorphology",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A V-shaped valley is most commonly associated with:",
+          "options": [
+            "Glacial deposition",
+            "Wind deflation",
+            "Marine abrasion",
+            "Riverine vertical erosion in youth"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-174",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Nilgiri Hills form a junction among the Western Ghats and:",
+          "options": [
+            "Eastern Ghats and other Peninsular ranges",
+            "Himalayan foothills",
+            "Vindhya Range",
+            "Aravalli Range"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-180",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "B. Physical Geography — Geomorphology",
+          "subtopic": "Original high-level application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A river depositing coarser material on the inner bank of a meander most directly produces:",
+          "options": [
+            "A point bar",
+            "A cirque",
+            "A sea stack",
+            "A drumlin"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-197",
+          "section": "B. Physical Geography — Geomorphology",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mount K2, the second-highest mountain in the world, is situated in the:",
+          "options": [
+            "Aravalli Range",
+            "Satpura Range",
+            "Western Ghats",
+            "Karakoram Range"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "C. Climatology & Atmosphere",
+      "questions": [
+        {
+          "id": "GEO-MASTER-004",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The minimum support price system in India aims to provide farmers a government-backed price floor for selected:",
+          "options": [
+            "Agricultural commodities",
+            "Industrial patents",
+            "Imported cars",
+            "Financial bonds only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-019",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A U-shaped valley is characteristically produced by:",
+          "options": [
+            "River deposition",
+            "Wind erosion",
+            "Glacial erosion",
+            "Tidal deposition"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-020",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Rhine River empties into the:",
+          "options": [
+            "Mediterranean Sea",
+            "Black Sea",
+            "Baltic Sea",
+            "North Sea"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-025",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Tropic of Cancer lies approximately at:",
+          "options": [
+            "23.5° N",
+            "23.5° S",
+            "66.5° N",
+            "66.5° S"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-045",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Ox-bow lakes commonly form from abandoned:",
+          "options": [
+            "Glacial cirques",
+            "Desert dunes",
+            "Coastal lagoons",
+            "River meanders"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-057",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A resource’s economic value depends on demand, technology and:",
+          "options": [
+            "Availability and accessibility",
+            "Map color",
+            "Population density only",
+            "Ocean depth alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-062",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Basalt is typically:",
+          "options": [
+            "A sedimentary rock",
+            "An extrusive igneous rock",
+            "A metamorphic rock",
+            "A fossil fuel"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-065",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Sugarcane is a tropical and subtropical crop needing a long growing season with:",
+          "options": [
+            "Permanent frost",
+            "Warm temperatures and adequate water",
+            "Tidal flooding",
+            "Arctic daylight only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-075",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Marble is formed chiefly by metamorphism of:",
+          "options": [
+            "Granite",
+            "Shale",
+            "Sandstone",
+            "Limestone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-111",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "C. Climatology & Atmosphere",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which process is primarily responsible for nocturnal temperature inversion in calm, clear conditions?",
+          "options": [
+            "Strong upper-air subsidence",
+            "Rapid radiational cooling near the ground",
+            "Latent heating of condensation",
+            "Solar heating of clouds"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-121",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Mahanadi forms a large delta in:",
+          "options": [
+            "Odisha",
+            "Gujarat",
+            "Andhra Pradesh",
+            "West Bengal"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-127",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The southwest monsoon first reaches which Indian state or coastal region around June?",
+          "options": [
+            "Rajasthan desert",
+            "Bihar plains",
+            "Assam hills last only",
+            "Kerala coast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-133",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Contour farming helps reduce soil erosion chiefly by:",
+          "options": [
+            "Removing all vegetation",
+            "Ploughing straight downhill",
+            "Ploughing along slope contours",
+            "Burning crop residues"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-143",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "C. Climatology & Atmosphere",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A land breeze generally occurs at night because:",
+          "options": [
+            "The sea becomes colder than the land",
+            "The Coriolis force reverses direction",
+            "Evaporation stops over oceans",
+            "The land cools faster than the adjoining sea"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-147",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Neyveli lignite deposits are located in:",
+          "options": [
+            "Tamil Nadu",
+            "Assam",
+            "Rajasthan",
+            "Kerala"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-165",
+          "section": "C. Climatology & Atmosphere",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Lines joining places of equal atmospheric pressure are called:",
+          "options": [
+            "Isotherms",
+            "Isobars",
+            "Isohyets",
+            "Contours"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "D. Oceanography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-017",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Upwelling brings nutrient-rich deep water to the surface and often supports:",
+          "options": [
+            "Desert dunes",
+            "Glacier growth",
+            "Coal formation",
+            "Rich fisheries"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-029",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A watershed is an area that:",
+          "options": [
+            "Separates atmospheric layers",
+            "Drains into a common river system",
+            "Contains only groundwater",
+            "Has no drainage outlet"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-035",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The highest tidal range typically occurs during:",
+          "options": [
+            "Neap tides at quarter moon",
+            "Equinoxes only",
+            "Solar eclipses only",
+            "Spring tides at new or full moon"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-082",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The continental shelf is the gently sloping submerged extension of a:",
+          "options": [
+            "Oceanic trench",
+            "Continent",
+            "Mid-ocean ridge",
+            "Volcanic island arc"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-088",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Terracing is most useful for farming on:",
+          "options": [
+            "Flat ocean floors",
+            "Ice shelves",
+            "Sand dunes without moisture",
+            "Steep slopes"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-119",
+          "section": "D. Oceanography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Caspian Sea is best classified geographically as:",
+          "options": [
+            "An arm of the Atlantic",
+            "A landlocked saltwater lake",
+            "A freshwater river estuary",
+            "An oceanic trench"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-137",
+          "section": "D. Oceanography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Dead Sea is located between Israel and:",
+          "options": [
+            "Jordan",
+            "Egypt",
+            "Lebanon",
+            "Syria"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-138",
+          "section": "D. Oceanography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Humboldt Current is a cold current along the coast of:",
+          "options": [
+            "Peru and Chile",
+            "India and Pakistan",
+            "Australia and Indonesia",
+            "Norway and Sweden"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-156",
+          "section": "D. Oceanography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Strait of Gibraltar connects the Atlantic Ocean with the:",
+          "options": [
+            "Black Sea",
+            "Red Sea",
+            "Baltic Sea",
+            "Mediterranean Sea"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-169",
+          "section": "D. Oceanography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which is the largest ocean?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Pacific Ocean",
+            "Arctic Ocean"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-186",
+          "section": "D. Oceanography",
+          "topic": "D. Oceanography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which condition favours coastal upwelling?",
+          "options": [
+            "A warm land breeze",
+            "A converging ocean gyre",
+            "A spring tide only",
+            "Offshore wind movement away from a coast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "E. Indian Physical Geography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-003",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Krishna River empties into the:",
+          "options": [
+            "Arabian Sea",
+            "Andaman Sea",
+            "Indian Ocean near Gujarat directly",
+            "Bay of Bengal"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-010",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Eastern Ghats are:",
+          "options": [
+            "A continuous unbroken wall",
+            "Discontinuous and heavily eroded by rivers",
+            "Volcanic islands only",
+            "Younger than the Himalayas throughout"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-014",
+          "section": "E. Indian Physical Geography",
+          "topic": "D. Oceanography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "An ocean current moving poleward along a western continental boundary is most likely to:",
+          "options": [
+            "Transport dense deep water to the surface",
+            "Reduce salinity through glacial melt everywhere",
+            "Reverse the prevailing trade winds",
+            "Transport relatively warm water"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-021",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Tea cultivation thrives especially on well-drained slopes in humid climates such as those found in:",
+          "options": [
+            "Thar Desert",
+            "Assam and Darjeeling",
+            "Rann of Kutch",
+            "Western Rajasthan plains"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-034",
+          "section": "E. Indian Physical Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Deep, narrow depressions on the ocean floor are called:",
+          "options": [
+            "Ocean trenches",
+            "Guyots",
+            "Seamounts",
+            "Continental shelves"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-042",
+          "section": "E. Indian Physical Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A flat-topped underwater volcanic mountain is called a:",
+          "options": [
+            "Atoll",
+            "Guyot",
+            "Estuary",
+            "Lagoon"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-053",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The highest peak in South India is generally identified as:",
+          "options": [
+            "Doddabetta",
+            "Mahendragiri",
+            "Anamudi",
+            "Kalsubai"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-054",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A west-flowing river of the Western Ghats in Kerala is the:",
+          "options": [
+            "Godavari",
+            "Mahanadi",
+            "Subarnarekha",
+            "Periyar"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-059",
+          "section": "E. Indian Physical Geography",
+          "topic": "E. Indian Physical Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Konkan and Malabar coasts lie along which side of the Western Ghats?",
+          "options": [
+            "Eastern flank",
+            "Northern flank",
+            "Western flank",
+            "Central crest"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-068",
+          "section": "E. Indian Physical Geography",
+          "topic": "K. Economic & Human Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A primate city is best described as:",
+          "options": [
+            "A city with no secondary sector",
+            "Disproportionately larger than the second-largest city",
+            "A rural market centre",
+            "A boundary settlement"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-079",
+          "section": "E. Indian Physical Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Mid-Atlantic Ridge is an example of a:",
+          "options": [
+            "Divergent plate boundary and mid-ocean ridge",
+            "Convergent trench",
+            "Transform fault only",
+            "Continental fold belt"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-085",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Nor’westers called Kalbaisakhi affect mainly:",
+          "options": [
+            "Rajasthan and Gujarat",
+            "Kerala and Karnataka",
+            "West Bengal and adjoining eastern India",
+            "Punjab and Kashmir only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-092",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Western Ghats form a highland boundary along India’s:",
+          "options": [
+            "Eastern coastal plain",
+            "Northern Himalayan border",
+            "Western Peninsular coast",
+            "Andaman trench"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-115",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which lake is famous for floating islands and is in Manipur?",
+          "options": [
+            "Sambhar Lake",
+            "Pulicat Lake",
+            "Pangong Lake",
+            "Loktak Lake"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-123",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Aravalli Range is geologically among the:",
+          "options": [
+            "Newest volcanic chains in India",
+            "Coastal delta formations",
+            "Glacial moraines",
+            "Oldest fold mountain systems in India"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-141",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which river forms the famous Dhuandhar Falls near Jabalpur?",
+          "options": [
+            "Tapti",
+            "Betwa",
+            "Narmada",
+            "Mahanadi"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-142",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Lakshadweep Islands are chiefly:",
+          "options": [
+            "Volcanic islands",
+            "Folded mountain islands",
+            "Coral islands",
+            "Glacial islands"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-153",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Pulses are important sources of dietary protein and also improve soil fertility through:",
+          "options": [
+            "Salt accumulation",
+            "Carbon dioxide absorption only at night",
+            "Permanent waterlogging",
+            "Nitrogen fixation by associated bacteria"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-159",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Rann of Kutch is noted for its:",
+          "options": [
+            "Dense evergreen forest",
+            "Perennial alpine lake",
+            "Salt marsh and seasonal inundation",
+            "Active volcanic crater"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-168",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Malabar Coast lies along:",
+          "options": [
+            "Northeastern India",
+            "Northern Gujarat",
+            "Eastern Odisha",
+            "Southwestern India"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-177",
+          "section": "E. Indian Physical Geography",
+          "topic": "E. Indian Physical Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Shillong Plateau lies mainly in:",
+          "options": [
+            "Sikkim",
+            "Kerala",
+            "Meghalaya",
+            "Gujarat"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-184",
+          "section": "E. Indian Physical Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Panama Canal links the Atlantic Ocean with the:",
+          "options": [
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Southern Ocean"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-185",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Coromandel Coast lies mainly along:",
+          "options": [
+            "Southeastern India",
+            "Southwestern India",
+            "Western Rajasthan",
+            "Himalayan foothills"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-199",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The largest lagoon on India’s east coast is:",
+          "options": [
+            "Dal Lake",
+            "Chilika Lake",
+            "Wular Lake",
+            "Loktak Lake"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-200",
+          "section": "E. Indian Physical Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Alluvial soils are most extensive in the:",
+          "options": [
+            "Indus-Ganga-Brahmaputra plains",
+            "Aravalli core",
+            "Thar Desert dunes",
+            "Western coastal cliffs only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "F. Indian Climate & Monsoon",
+      "questions": [
+        {
+          "id": "GEO-MASTER-008",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mediterranean climates typically have:",
+          "options": [
+            "Wet summers and dry winters",
+            "Dry summers and wet winters",
+            "Rainfall only in spring",
+            "No seasonal rainfall contrast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-015",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A cold front forms when colder air displaces warmer air along the surface and typically brings:",
+          "options": [
+            "Permanent calm weather",
+            "A permanent rise in pressure only",
+            "Steep uplift and showery precipitation",
+            "Desertification"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-018",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Indian summer monsoon generally withdraws first from:",
+          "options": [
+            "Kerala coast",
+            "Northwestern India",
+            "Northeast India",
+            "Lakshadweep"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-022",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The normal lapse rate is the average decrease of temperature with:",
+          "options": [
+            "Altitude in the troposphere",
+            "Latitude toward the Equator",
+            "Longitude eastward",
+            "Pressure below sea level"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-050",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The instrument used to measure atmospheric pressure is a:",
+          "options": [
+            "Hygrometer",
+            "Pyranometer",
+            "Barometer",
+            "Psychrometer"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-061",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Orographic rainfall occurs when moist air is forced to rise over:",
+          "options": [
+            "Plains",
+            "Mountains",
+            "Ocean ridges only",
+            "Valleys below sea level"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-070",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Most weather phenomena occur in the:",
+          "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Thermosphere"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-080",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Köppen climate type “Af” denotes:",
+          "options": [
+            "Hot desert climate",
+            "Mediterranean climate",
+            "Polar tundra climate",
+            "Tropical rainforest climate"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-084",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A monsoon is primarily driven by seasonal reversal of:",
+          "options": [
+            "Earth’s rotation alone",
+            "Tidal currents",
+            "Wind and pressure systems",
+            "Ocean salinity"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-095",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The fraction of incoming solar radiation reflected by a surface is its:",
+          "options": [
+            "Humidity",
+            "Lapse rate",
+            "Pressure gradient",
+            "Albedo"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-120",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "La Niña is associated with:",
+          "options": [
+            "Warmer Mediterranean waters only",
+            "Permanent monsoon reversal in India",
+            "Cooler-than-normal central and eastern tropical Pacific waters",
+            "Melting of Antarctic ice exclusively"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-130",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "F. Indian Climate & Monsoon",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A delayed southwest monsoon onset with excess pre-monsoon thunderstorms may indicate:",
+          "options": [
+            "A weaker or delayed transition of the monsoon circulation",
+            "Permanent weakening of the Himalayas",
+            "An end to seasonal pressure gradients",
+            "A change in Earth's rotation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-135",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Solar radiation received at the top of the atmosphere is termed:",
+          "options": [
+            "Albedo",
+            "Advection",
+            "Insolation",
+            "Latent heat"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-145",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Convectional rainfall is especially characteristic of warm, humid areas because air is heated:",
+          "options": [
+            "Only at night by mountains",
+            "At the surface and rises",
+            "By ocean currents without uplift",
+            "Along cold fronts exclusively"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-157",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The southwest monsoon usually reaches Kerala around:",
+          "options": [
+            "1 June",
+            "1 January",
+            "1 September",
+            "15 December"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-166",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Relative humidity expresses the water-vapor content as a percentage of:",
+          "options": [
+            "The total dry-air mass",
+            "Sea-surface salinity",
+            "The amount possible at that temperature",
+            "Cloud-base pressure"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-176",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The westerlies are prevailing winds between roughly:",
+          "options": [
+            "0° and 10° latitudes",
+            "60° and 90° latitudes only",
+            "The Equator and poles uniformly",
+            "30° and 60° latitudes"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-182",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Temperature generally decreases with height through the:",
+          "options": [
+            "Stratosphere",
+            "Thermosphere",
+            "Troposphere",
+            "Exosphere"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-193",
+          "section": "F. Indian Climate & Monsoon",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "El Niño refers to anomalous warming of the:",
+          "options": [
+            "North Atlantic gyre",
+            "Central and eastern tropical Pacific Ocean",
+            "Southern Indian Ocean coast",
+            "Arctic Ocean only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "G. Indian Rivers & Drainage",
+      "questions": [
+        {
+          "id": "GEO-MASTER-001",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The river Luni terminates in or drains toward the:",
+          "options": [
+            "Bay of Bengal",
+            "Rann of Kutch",
+            "Arabian Sea near Mumbai",
+            "Sundarbans"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-023",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Amazon Basin is situated mainly in:",
+          "options": [
+            "Africa",
+            "Southeast Asia",
+            "North America",
+            "South America"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-031",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Indo-Gangetic Plain is predominantly formed by deposits from rivers originating in the Himalayas and the:",
+          "options": [
+            "Western Ghats only",
+            "Peninsular uplands",
+            "Deccan lava flows only",
+            "Coastal islands"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-051",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A delta generally develops where a river enters:",
+          "options": [
+            "A standing body of water",
+            "A steep mountain ridge",
+            "An active glacier",
+            "A desert basin with no outlet"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-056",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Wular Lake, an important natural freshwater lake, is located in:",
+          "options": [
+            "Manipur",
+            "Odisha",
+            "Jammu and Kashmir",
+            "Rajasthan"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-066",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Amazon River is primarily located in:",
+          "options": [
+            "Africa",
+            "South America",
+            "Europe",
+            "South Asia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-069",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Nile River empties into the:",
+          "options": [
+            "Red Sea",
+            "Indian Ocean",
+            "Mediterranean Sea",
+            "Atlantic Ocean near Gibraltar"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-077",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Brahmaputra enters India through Arunachal Pradesh after flowing through:",
+          "options": [
+            "Nepal and Bhutan",
+            "Afghanistan and Pakistan",
+            "Tibet and China",
+            "Bangladesh only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-081",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Bhakra Nangal Project is built on the:",
+          "options": [
+            "Ganga River",
+            "Godavari River",
+            "Cauvery River",
+            "Sutlej River"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-089",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Lake Victoria is in the drainage basin of the:",
+          "options": [
+            "Amazon",
+            "Nile",
+            "Congo",
+            "Niger"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-113",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which process transports rock fragments by a river?",
+          "options": [
+            "Photosynthesis",
+            "Condensation",
+            "Traction, saltation, suspension and solution",
+            "Sublimation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-118",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Yangtze is the longest river in:",
+          "options": [
+            "Africa",
+            "Europe",
+            "South America",
+            "Asia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-144",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Cauvery River has its source near:",
+          "options": [
+            "Talakaveri in the Western Ghats",
+            "Amarkantak Plateau",
+            "Mount Abu",
+            "Mahabaleshwar Plateau"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-150",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "G. Indian Rivers & Drainage",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which river is correctly described as an east-flowing peninsular river that forms a major delta?",
+          "options": [
+            "Narmada",
+            "Tapi",
+            "Godavari",
+            "Sabarmati"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-191",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which river forms part of the border between India and Pakistan in its early course?",
+          "options": [
+            "Ganga",
+            "Brahmaputra",
+            "Narmada",
+            "Indus and some tributary reaches"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-198",
+          "section": "G. Indian Rivers & Drainage",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Satpura Range lies between the Narmada Valley and the:",
+          "options": [
+            "Tapti Valley",
+            "Indus Valley",
+            "Ganga Valley",
+            "Kosi Valley"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "H. Indian Soils, Vegetation & Agriculture",
+      "questions": [
+        {
+          "id": "GEO-MASTER-011",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "H. Indian Soils, Vegetation & Agriculture",
+          "subtopic": "Original high-level application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which soil is especially associated with the Deccan trap region and cotton cultivation?",
+          "options": [
+            "Black soil",
+            "Laterite soil",
+            "Red soil",
+            "Alpine soil"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-027",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Black soil in the Deccan is also known by its moisture-retaining clay content as:",
+          "options": [
+            "Regur soil",
+            "Alluvial soil",
+            "Laterite soil",
+            "Peaty soil"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-049",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Congo Basin rainforest is centered in:",
+          "options": [
+            "South America",
+            "Africa",
+            "Europe",
+            "Australia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-073",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mango showers are pre-monsoon rains associated especially with:",
+          "options": [
+            "Himalayan Kashmir",
+            "Western Rajasthan",
+            "Rann of Kutch",
+            "South Indian states such as Kerala and Karnataka"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-096",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Groundnut is an oilseed crop whose seed develops in the soil because of:",
+          "options": [
+            "Aerial roots in water",
+            "Peanut peg growth below the ground",
+            "Wind pollination underground",
+            "Tuber formation of stems"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-104",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A hot desert climate in Köppen classification is generally:",
+          "options": [
+            "Af",
+            "Cfa",
+            "ET",
+            "BWh"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-108",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Köppen climate type for most tropical wet areas is identified by warm temperatures and:",
+          "options": [
+            "Permanent winter snow in E climates",
+            "Heavy year-round rainfall in Af climates",
+            "Dry summers in Mediterranean C climates",
+            "No rain in BWh climates"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-112",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Desert soils in Rajasthan are generally:",
+          "options": [
+            "Heavy black clay",
+            "Sandy and low in organic matter",
+            "Lateritic and deep red",
+            "Alluvial peaty soil"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-129",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mixed cropping means growing more than one crop:",
+          "options": [
+            "Only after crop failure",
+            "In separate countries",
+            "Together in a single field during a season",
+            "In successive years without rotation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-132",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Western disturbances chiefly affect which season in northwestern India?",
+          "options": [
+            "Southwest monsoon",
+            "Hot season only",
+            "Post-monsoon only",
+            "Winter"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-146",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Contour bunding is designed chiefly to:",
+          "options": [
+            "Increase desert salinity",
+            "Clear forests",
+            "Straighten rivers",
+            "Control runoff and soil erosion on slopes"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-154",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "India is the leading producer of which beverage crop in many global comparisons?",
+          "options": [
+            "Olive oil",
+            "Tea is one of the major producers",
+            "Maple syrup",
+            "Cocoa globally in all classifications"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-155",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "An active southwest monsoon is marked by moisture-laden winds from the:",
+          "options": [
+            "Siberian plateau in July",
+            "Mediterranean Sea in July only",
+            "Arabian Sea and Bay of Bengal branches",
+            "Pacific Ocean through Kashmir"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-163",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Rainfall in India is measured with a:",
+          "options": [
+            "Barometer",
+            "Rain gauge",
+            "Anemometer",
+            "Seismograph"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-170",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Peninsular Plateau of India is generally composed of:",
+          "options": [
+            "Old crystalline and metamorphic rocks",
+            "Only unconsolidated coastal sand",
+            "Recent Himalayan sediments",
+            "Ocean-floor basalt"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-175",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Forest soils in the Himalayan region vary strongly with altitude and are often affected by:",
+          "options": [
+            "Slope erosion and parent rock differences",
+            "Uniform year-round submergence",
+            "Complete absence of organic matter",
+            "Ocean salinity"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-179",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The major jute-growing region in India is concentrated in the fertile deltaic plains of:",
+          "options": [
+            "West Bengal",
+            "Rajasthan",
+            "Maharashtra",
+            "Kerala"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-188",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The highest rainfall region in India is associated with:",
+          "options": [
+            "Thar Desert",
+            "Leh plateau",
+            "Rajasthan plains",
+            "Mawsynram area in Meghalaya"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-192",
+          "section": "H. Indian Soils, Vegetation & Agriculture",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Coffee cultivation in India is strongly associated with the southern hills, especially parts of:",
+          "options": [
+            "Punjab, Haryana and Rajasthan",
+            "Karnataka, Kerala and Tamil Nadu",
+            "Bihar, Odisha and Jharkhand",
+            "Gujarat, Goa and Delhi"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "I. Minerals, Energy & Industries",
+      "questions": [
+        {
+          "id": "GEO-MASTER-005",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Coal, petroleum and natural gas are classified as:",
+          "options": [
+            "Mineral fertilizers",
+            "Renewable energy sources",
+            "Atmospheric resources",
+            "Fossil fuels"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-028",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Tropical cyclones derive their energy principally from:",
+          "options": [
+            "Glacial meltwater",
+            "Latent heat released by condensation over warm oceans",
+            "Desert dust storms",
+            "Tidal friction alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-030",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Bauxite is a primary raw material for producing:",
+          "options": [
+            "Steel from iron ore only",
+            "Copper wire exclusively",
+            "Coal gas",
+            "Aluminium"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-036",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The largest coalfield belt in eastern India is associated especially with:",
+          "options": [
+            "Rajasthan desert",
+            "Gujarat coast",
+            "Jharkhand and West Bengal regions",
+            "Kerala backwaters"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-037",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Haematite is an important ore of:",
+          "options": [
+            "Tin",
+            "Gold",
+            "Iron",
+            "Zinc"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-047",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Krishna Raja Sagara reservoir is built across the:",
+          "options": [
+            "Cauvery",
+            "Godavari",
+            "Periyar",
+            "Narmada"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-055",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The most abundant permanent gas in Earth’s dry atmosphere is:",
+          "options": [
+            "Oxygen",
+            "Argon",
+            "Nitrogen",
+            "Carbon dioxide"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-086",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Great Rift Valley is most prominently associated with:",
+          "options": [
+            "East Africa",
+            "Western Europe",
+            "Central Asia",
+            "Southern Australia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-090",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Geothermal energy is derived from heat stored in:",
+          "options": [
+            "Earth’s interior",
+            "Forest biomass only",
+            "Ocean tides alone",
+            "Wind friction"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-100",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "I. Minerals, Energy & Industries",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which pairing correctly associates an Indian mineral belt with a common ore association?",
+          "options": [
+            "Rajasthan: petroleum only",
+            "Kerala: anthracite exclusively",
+            "Odisha–Jharkhand: iron ore and manganese",
+            "Punjab: bauxite only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-102",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "India has major offshore oil and gas production associated with the Mumbai High region in the:",
+          "options": [
+            "Arabian Sea",
+            "Bay of Bengal off Chennai only",
+            "Andaman trench",
+            "Gulf of Mannar only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-125",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "India is rich in reserves of iron ore, with major deposits found notably in Odisha, Jharkhand and:",
+          "options": [
+            "Chhattisgarh and Karnataka",
+            "Kerala coast alone",
+            "Delhi region",
+            "Lakshadweep"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-139",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "I. Minerals, Energy & Industries",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which state is a major producer of high-grade iron ore in the Bailadila region?",
+          "options": [
+            "Goa",
+            "Punjab",
+            "Chhattisgarh",
+            "Haryana"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-140",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Bauxite is the principal ore of:",
+          "options": [
+            "Iron",
+            "Copper",
+            "Lead",
+            "Aluminium"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-160",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mica has major industrial uses because of its:",
+          "options": [
+            "High sugar content",
+            "Electrical insulation and heat resistance",
+            "Magnetic separation from water",
+            "Ability to dissolve in acid only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-171",
+          "section": "I. Minerals, Energy & Industries",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Red soils derive much of their color from:",
+          "options": [
+            "Excess sodium chloride",
+            "Iron compounds",
+            "Volcanic glass only",
+            "Organic peat"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "J. World Geography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-016",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The highest peak in Africa is:",
+          "options": [
+            "Mount Kenya",
+            "Mount Kilimanjaro",
+            "Mount Elbrus",
+            "Mount Everest"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-032",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Alps are chiefly in:",
+          "options": [
+            "South America",
+            "Africa",
+            "North America",
+            "Europe"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-033",
+          "section": "J. World Geography",
+          "topic": "J. World Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Great Victoria Desert is located in:",
+          "options": [
+            "South Africa",
+            "Mongolia",
+            "Argentina",
+            "Australia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-044",
+          "section": "J. World Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Indian Meteorological Department is the agency responsible for weather forecasting in:",
+          "options": [
+            "Nepal only",
+            "India",
+            "Bangladesh only",
+            "All SAARC countries as one department"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-048",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Sahara Desert is mainly located in:",
+          "options": [
+            "Southern Africa",
+            "North Africa",
+            "Central Asia",
+            "Western Europe"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-060",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which map projection preserves local angles and shapes but distorts area?",
+          "options": [
+            "Equal-area projection only",
+            "Orthographic globe view only",
+            "Cartogram",
+            "Mercator projection"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-064",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which continent has the Antarctic Circle passing through it?",
+          "options": [
+            "Australia",
+            "South America",
+            "Antarctica",
+            "Africa"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-078",
+          "section": "J. World Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Arctic Circle is located approximately at:",
+          "options": [
+            "66.5° N",
+            "66.5° S",
+            "23.5° N",
+            "23.5° S"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-087",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Mount Everest is part of the:",
+          "options": [
+            "Himalayas",
+            "Andes",
+            "Alps",
+            "Rockies"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-101",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The largest continent by area is:",
+          "options": [
+            "Africa",
+            "North America",
+            "Europe",
+            "Asia"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-114",
+          "section": "J. World Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Jawaharlal Nehru Port is a major container port located near:",
+          "options": [
+            "Mumbai",
+            "Kolkata",
+            "Chennai",
+            "Kochi"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-124",
+          "section": "J. World Geography",
+          "topic": "Indian Physical Geography",
+          "subtopic": "Indian Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Thar Desert is located mainly in:",
+          "options": [
+            "Punjab plain of India",
+            "Bihar plains",
+            "Rajasthan",
+            "Tamil Nadu coast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-172",
+          "section": "J. World Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A map scale of 1:250,000 indicates that 1 cm represents:",
+          "options": [
+            "250 m on the ground",
+            "25 km on the ground",
+            "2.5 km on the ground",
+            "250 km on the ground"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-187",
+          "section": "J. World Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which Himalayan river is known as the Tsangpo in Tibet?",
+          "options": [
+            "Ganga",
+            "Indus",
+            "Brahmaputra",
+            "Beas"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-189",
+          "section": "J. World Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Tehri Dam is constructed on the:",
+          "options": [
+            "Bhagirathi River",
+            "Sutlej River",
+            "Narmada River",
+            "Mahanadi River"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-190",
+          "section": "J. World Geography",
+          "topic": "J. World Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Pampas grasslands are associated mainly with which country?",
+          "options": [
+            "Argentina",
+            "Norway",
+            "Japan",
+            "South Africa"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "K. Economic & Human Geography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-038",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Great Lakes are shared mainly by the United States and:",
+          "options": [
+            "Canada",
+            "Mexico",
+            "Brazil",
+            "Cuba"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-039",
+          "section": "K. Economic & Human Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A thematic map showing country population is most likely a:",
+          "options": [
+            "Topographic map only",
+            "Choropleth or proportional-symbol map",
+            "Navigation chart only",
+            "Weather satellite image"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-040",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Suez Canal is located in:",
+          "options": [
+            "Egypt",
+            "Saudi Arabia",
+            "South Africa",
+            "Iran"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-058",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Strait of Malacca separates:",
+          "options": [
+            "Africa and Madagascar",
+            "India and Sri Lanka only",
+            "Malaysia/Sumatra and provides a major route into Southeast Asia",
+            "Japan and Korea"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-091",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "India’s longest national highway corridor is often marketed as NH 44, running broadly from Kashmir to:",
+          "options": [
+            "Kanyakumari",
+            "Mumbai",
+            "Kolkata",
+            "Dibrugarh"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-103",
+          "section": "K. Economic & Human Geography",
+          "topic": "K. Economic & Human Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which term denotes the movement of people from rural areas to urban areas?",
+          "options": [
+            "Transhumance",
+            "Rural-to-urban migration",
+            "Circulation",
+            "Counterurbanisation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-116",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Kandla Port is on India’s:",
+          "options": [
+            "Tamil Nadu coast",
+            "Gujarat coast",
+            "West Bengal coast",
+            "Odisha coast"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-117",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Konkan Railway connects the west coast through rugged terrain mainly in:",
+          "options": [
+            "Punjab and Haryana",
+            "Assam and Arunachal Pradesh",
+            "Odisha and Chhattisgarh only",
+            "Western Maharashtra and neighboring states"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-158",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Golden Quadrilateral is a major highway network linking Delhi, Mumbai, Chennai and:",
+          "options": [
+            "Hyderabad",
+            "Bengaluru only",
+            "Chandigarh only",
+            "Kolkata"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-173",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which city is the headquarters of South Western Railway zone?",
+          "options": [
+            "Hubballi",
+            "Chennai",
+            "Mumbai",
+            "Delhi"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-181",
+          "section": "K. Economic & Human Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A scale bar on a map allows the reader to measure:",
+          "options": [
+            "Elevation of clouds only",
+            "Ground distance represented by the map",
+            "Time zones",
+            "Population density directly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "L. Environment & Ecology-linked Geography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-013",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Ganga’s major Himalayan tributary that joins at Prayagraj is the:",
+          "options": [
+            "Kosi",
+            "Yamuna",
+            "Son",
+            "Damodar"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-052",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Renewable resources are resources that can:",
+          "options": [
+            "Never be used",
+            "Be created only by mining",
+            "Always remain unlimited without management",
+            "Be replenished on a human or natural time scale"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-063",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Hirakud Dam is across the:",
+          "options": [
+            "Narmada",
+            "Mahanadi",
+            "Tapti",
+            "Ganga"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-067",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Cotton is usually harvested from the boll after the plant produces fiber on the:",
+          "options": [
+            "Roots",
+            "Seeds",
+            "Leaves",
+            "Bark"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-071",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The ozone layer is concentrated mainly in the:",
+          "options": [
+            "Troposphere",
+            "Stratosphere",
+            "Mesosphere",
+            "Exosphere"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-093",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "On a topographic map, contour spacing that is close together indicates:",
+          "options": [
+            "A flat plain",
+            "Deep ocean water only",
+            "A steep slope",
+            "Uniform vegetation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-094",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Black soils are particularly suitable for:",
+          "options": [
+            "Tea on poor drainage",
+            "Pineapple on desert sand",
+            "Cotton",
+            "Lichen farming"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-126",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The primary factor that generally increases seawater density is:",
+          "options": [
+            "Lower temperature and higher salinity",
+            "Higher temperature and lower salinity",
+            "Less pressure and less salinity",
+            "More sunlight and oxygen"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-134",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "L. Environment & Ecology-linked Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which conservation category permits limited human use under a zoned management plan?",
+          "options": [
+            "Tectonic reserve",
+            "Mineral sanctuary",
+            "Biosphere reserve",
+            "River interlinking zone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-161",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Tides are produced principally by the gravitational pull of the:",
+          "options": [
+            "Earth’s core",
+            "Ocean floor",
+            "Moon and Sun",
+            "Atmospheric pressure alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-162",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The dryland farming technique of mulching helps conserve:",
+          "options": [
+            "Ocean salinity",
+            "Atmospheric oxygen",
+            "Soil moisture",
+            "River discharge"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-164",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A meander is a feature commonly found in a river’s:",
+          "options": [
+            "Middle or lower course",
+            "Upper course glacier",
+            "River source spring",
+            "Ocean trench"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-195",
+          "section": "L. Environment & Ecology-linked Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Precision farming uses satellite or sensor data to manage inputs according to:",
+          "options": [
+            "National rainfall averages only",
+            "Political boundaries",
+            "Within-field variation",
+            "Ocean tides"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "M. Map-Based & Location Geography",
+      "questions": [
+        {
+          "id": "GEO-MASTER-002",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Tapti rises in the:",
+          "options": [
+            "Himalayas",
+            "Western Ghats in Kerala",
+            "Satpura region of Madhya Pradesh",
+            "Aravalli Range in Rajasthan"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-006",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The retreating southwest monsoon brings substantial post-monsoon rainfall to:",
+          "options": [
+            "Rajasthan desert",
+            "Gujarat coast",
+            "Tamil Nadu coast",
+            "Haryana plains"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-012",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Warm ocean currents generally move from:",
+          "options": [
+            "High latitudes toward the Equator only",
+            "Poles to poles on one path",
+            "Rivers into desert lakes",
+            "Low latitudes toward higher latitudes"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-043",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "M. Map-Based & Location Geography",
+          "subtopic": "Original high-level application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Which of these is correctly matched: pass — state?",
+          "options": [
+            "Nathu La — Odisha",
+            "Bomdila — Rajasthan",
+            "Zoji La — Kerala",
+            "Shipki La — Himachal Pradesh"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-072",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "An atoll is characteristically a ring-shaped:",
+          "options": [
+            "Sandbar across a river mouth",
+            "Delta in an estuary",
+            "Coral reef around a lagoon",
+            "Iceberg in polar seas"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-076",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Average ocean water salinity is about:",
+          "options": [
+            "35 percent",
+            "35 parts per thousand",
+            "35 grams per liter exactly everywhere",
+            "350 parts per million"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-107",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "Rain shadow deserts commonly occur on the:",
+          "options": [
+            "Windward coast",
+            "Equator",
+            "Leeward side of mountains",
+            "Ice-covered summit"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-136",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A map showing contour lines primarily represents:",
+          "options": [
+            "Population",
+            "Rainfall",
+            "Languages",
+            "Surface relief"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-149",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "The Suez Canal connects the Mediterranean Sea with the:",
+          "options": [
+            "Black Sea",
+            "Red Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "GEO-MASTER-167",
+          "section": "M. Map-Based & Location Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "question_type": "Standard/Conceptual MCQ",
+          "q": "A large-scale map depicts:",
+          "options": [
+            "A large area with little detail",
+            "Only oceans",
+            "Only political boundaries",
+            "A small area in greater detail"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    }
+  ]
+}

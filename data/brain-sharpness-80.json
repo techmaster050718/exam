@@ -1,0 +1,1621 @@
+{
+  "id": "brain-sharpness-80",
+  "title": "Brain Sharpness & Cognitive Skills Practice",
+  "sourceType": "SKILLS_PRACTICE",
+  "exam": "General cognitive-skills practice",
+  "discipline": "Cognitive Skills",
+  "source": "Original practice questions for specific cognitive tasks; not an IQ or clinical assessment",
+  "verificationStatus": "Practice module; performance is limited to the tasks included and does not establish IQ or overall intelligence",
+  "maximum_marks": 80,
+  "correct_mark": 1,
+  "negative_mark": 0.25,
+  "unattempted_mark": 0,
+  "answerKey": "data/brain-sharpness-80-answer-key.json",
+  "instructions": [
+    "Correct answer: +1; incorrect answer: -0.25; unattempted: 0.",
+    "This practice module measures performance only on the presented tasks.",
+    "The reaction section tests concepts and response choices; it does not measure actual reaction time."
+  ],
+  "sections": [
+    {
+      "name": "Memory & Recall",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-019",
+          "q": "A short sequence is 7, 2, 9, 4, 1. Which number appeared immediately before 4?",
+          "options": [
+            "2",
+            "7",
+            "9",
+            "1"
+          ],
+          "topic": "Memory & Recall",
+          "subtopic": "Memory & Recall",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-031",
+          "q": "A person hears the room number 4-1-7 and then the floor number 2. What was the room number?",
+          "options": [
+            "4-2-7",
+            "4-1-7",
+            "1-7-2",
+            "2-4-1"
+          ],
+          "topic": "Memory & Recall",
+          "subtopic": "Memory & Recall",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-040",
+          "q": "Remember the words: river, candle, garden, silver. Which was the third word?",
+          "options": [
+            "Candle",
+            "Silver",
+            "Garden",
+            "River"
+          ],
+          "topic": "Memory & Recall",
+          "subtopic": "Memory & Recall",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-059",
+          "q": "A list contains red, blue, green, yellow. Which colour came directly after blue?",
+          "options": [
+            "Yellow",
+            "Red",
+            "Blue",
+            "Green"
+          ],
+          "topic": "Memory & Recall",
+          "subtopic": "Memory & Recall",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-064",
+          "q": "A code is 5-8-3-6. Which digit is at the second position from the left?",
+          "options": [
+            "6",
+            "3",
+            "5",
+            "8"
+          ],
+          "topic": "Memory & Recall",
+          "subtopic": "Memory & Recall",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Attention & Concentration",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-014",
+          "q": "Which word contains the letter 'p' exactly twice?",
+          "options": [
+            "paperclip",
+            "pepper",
+            "planet",
+            "pupil"
+          ],
+          "topic": "Attention & Concentration",
+          "subtopic": "Attention & Concentration",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-028",
+          "q": "In the word CONCENTRATION, which letter appears most often?",
+          "options": [
+            "N",
+            "C",
+            "O",
+            "T"
+          ],
+          "topic": "Attention & Concentration",
+          "subtopic": "Attention & Concentration",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-056",
+          "q": "Which number is not in increasing order?",
+          "options": [
+            "2, 5, 8, 11",
+            "1, 4, 7, 10",
+            "3, 6, 9, 12",
+            "4, 7, 6, 10"
+          ],
+          "topic": "Attention & Concentration",
+          "subtopic": "Attention & Concentration",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-075",
+          "q": "Which option exactly matches the target string 40918?",
+          "options": [
+            "40981",
+            "40918",
+            "49018",
+            "40917"
+          ],
+          "topic": "Attention & Concentration",
+          "subtopic": "Attention & Concentration",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-077",
+          "q": "Which pair is identical?",
+          "options": [
+            "B4D9 / B4D9",
+            "M7Q2 / M7O2",
+            "K3P8 / K8P3",
+            "T6R1 / T6R7"
+          ],
+          "topic": "Attention & Concentration",
+          "subtopic": "Attention & Concentration",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Pattern Recognition",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-032",
+          "q": "What comes next: 1, 4, 9, 16, __?",
+          "options": [
+            "20",
+            "24",
+            "25",
+            "36"
+          ],
+          "topic": "Pattern Recognition",
+          "subtopic": "Pattern Recognition",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-057",
+          "q": "What comes next: 2, 6, 12, 20, 30, __?",
+          "options": [
+            "40",
+            "42",
+            "38",
+            "44"
+          ],
+          "topic": "Pattern Recognition",
+          "subtopic": "Pattern Recognition",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-067",
+          "q": "Find the missing number: 5, 10, 20, 40, __.",
+          "options": [
+            "60",
+            "80",
+            "75",
+            "100"
+          ],
+          "topic": "Pattern Recognition",
+          "subtopic": "Pattern Recognition",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-074",
+          "q": "Which shape completes the sequence: circle, square, circle, square, __?",
+          "options": [
+            "Triangle",
+            "Square",
+            "Circle",
+            "Rectangle"
+          ],
+          "topic": "Pattern Recognition",
+          "subtopic": "Pattern Recognition",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-080",
+          "q": "What letter comes next: A, C, F, J, O, __?",
+          "options": [
+            "T",
+            "U",
+            "V",
+            "S"
+          ],
+          "topic": "Pattern Recognition",
+          "subtopic": "Pattern Recognition",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Observation",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-004",
+          "q": "A receipt lists 2 notebooks at $3 each and 1 pen at $2. What is the total?",
+          "options": [
+            "$5",
+            "$6",
+            "$9",
+            "$8"
+          ],
+          "topic": "Observation",
+          "subtopic": "Observation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-020",
+          "q": "Which option exactly matches the target: R8K-31Q?",
+          "options": [
+            "R8K-31O",
+            "R8K-13Q",
+            "R8K-31Q",
+            "R8X-31Q"
+          ],
+          "topic": "Observation",
+          "subtopic": "Observation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-024",
+          "q": "A meeting begins at 14:25 and ends at 15:10. How long does it last?",
+          "options": [
+            "35 minutes",
+            "40 minutes",
+            "45 minutes",
+            "55 minutes"
+          ],
+          "topic": "Observation",
+          "subtopic": "Observation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-045",
+          "q": "A shelf has a blue book between a red book and a green book. The red book is left of blue. What is the order from left to right?",
+          "options": [
+            "Green, blue, red",
+            "Blue, red, green",
+            "Red, green, blue",
+            "Red, blue, green"
+          ],
+          "topic": "Observation",
+          "subtopic": "Observation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-048",
+          "q": "Which item is missing from this set of labels: A1, A2, A3, A5?",
+          "options": [
+            "A0",
+            "A6",
+            "B4",
+            "A4"
+          ],
+          "topic": "Observation",
+          "subtopic": "Observation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Logical Reasoning",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-008",
+          "q": "A bus leaves every 20 minutes. One leaves at 10:00. When is the next one?",
+          "options": [
+            "10:20",
+            "10:10",
+            "10:15",
+            "10:30"
+          ],
+          "topic": "Logical Reasoning",
+          "subtopic": "Logical Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-023",
+          "q": "All sparrows are birds. All birds are animals. Which conclusion must follow?",
+          "options": [
+            "All sparrows are animals",
+            "All animals are sparrows",
+            "No birds are animals",
+            "Some animals are not birds"
+          ],
+          "topic": "Logical Reasoning",
+          "subtopic": "Logical Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-043",
+          "q": "Glove is to hand as sock is to:",
+          "options": [
+            "Head",
+            "Foot",
+            "Arm",
+            "Shoulder"
+          ],
+          "topic": "Logical Reasoning",
+          "subtopic": "Logical Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-065",
+          "q": "Mira is taller than Dev. Dev is taller than Lee. Who is the shortest?",
+          "options": [
+            "Mira",
+            "Dev",
+            "Lee",
+            "Cannot be determined"
+          ],
+          "topic": "Logical Reasoning",
+          "subtopic": "Logical Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-078",
+          "q": "Some artists are teachers. All teachers are readers. Which conclusion is valid?",
+          "options": [
+            "Some artists are readers",
+            "All artists are teachers",
+            "No readers are artists",
+            "All readers are artists"
+          ],
+          "topic": "Logical Reasoning",
+          "subtopic": "Logical Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Working Memory",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-007",
+          "q": "Remember the positions: red=1, blue=2, yellow=3. What colour is at position 2?",
+          "options": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+          ],
+          "topic": "Working Memory",
+          "subtopic": "Working Memory",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-036",
+          "q": "Take 9, subtract 2, then add 5. What is the result?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "topic": "Working Memory",
+          "subtopic": "Working Memory",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-042",
+          "q": "Start with 4, add 3, then double the result. What do you get?",
+          "options": [
+            "14",
+            "11",
+            "10",
+            "12"
+          ],
+          "topic": "Working Memory",
+          "subtopic": "Working Memory",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-054",
+          "q": "Reorder these letters alphabetically: D, A, C, B.",
+          "options": [
+            "D, C, B, A",
+            "B, A, D, C",
+            "A, C, B, D",
+            "A, B, C, D"
+          ],
+          "topic": "Working Memory",
+          "subtopic": "Working Memory",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-068",
+          "q": "Reverse the digits 3-8-1. Which sequence results?",
+          "options": [
+            "1-8-3",
+            "8-1-3",
+            "3-1-8",
+            "1-3-8"
+          ],
+          "topic": "Working Memory",
+          "subtopic": "Working Memory",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Cognitive Flexibility",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-011",
+          "q": "If LEFT now means move right and RIGHT means move left, what does the instruction 'LEFT, then RIGHT' become?",
+          "options": [
+            "Left, then left",
+            "Right, then right",
+            "Right, then left",
+            "Left, then right"
+          ],
+          "topic": "Cognitive Flexibility",
+          "subtopic": "Cognitive Flexibility",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-012",
+          "q": "You usually solve a problem by drawing a table, but the table gives no progress. What is the most flexible next step?",
+          "options": [
+            "Repeat the same table without checking it",
+            "Stop considering the problem",
+            "Assume the problem has no solution",
+            "Change representation, such as testing a small example"
+          ],
+          "topic": "Cognitive Flexibility",
+          "subtopic": "Cognitive Flexibility",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-015",
+          "q": "A sorting rule changes from 'alphabetical order' to 'shortest word first'. Which word should be first: pear, fig, banana?",
+          "options": [
+            "Pear",
+            "Banana",
+            "Fig",
+            "Cannot be determined"
+          ],
+          "topic": "Cognitive Flexibility",
+          "subtopic": "Cognitive Flexibility",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-060",
+          "q": "Use this rule: if a number is even, add 1; if odd, subtract 1. What is the result for 8?",
+          "options": [
+            "7",
+            "8",
+            "10",
+            "9"
+          ],
+          "topic": "Cognitive Flexibility",
+          "subtopic": "Cognitive Flexibility",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-072",
+          "q": "A pattern rule was 'add 2'. It changes to 'multiply by 2'. Starting from 3, what is the next term under the new rule?",
+          "options": [
+            "5",
+            "8",
+            "9",
+            "6"
+          ],
+          "topic": "Cognitive Flexibility",
+          "subtopic": "Cognitive Flexibility",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Decision-Making",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-002",
+          "q": "You feel unusually dizzy during exercise. What is the safest immediate decision?",
+          "options": [
+            "Increase intensity to finish sooner",
+            "Ignore it every time",
+            "Stop, move to a safe place, and seek appropriate help if symptoms persist or are severe",
+            "Compete with a friend"
+          ],
+          "topic": "Decision-Making",
+          "subtopic": "Decision-Making",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-025",
+          "q": "A friend sends an alarming but unverified health claim. What is the soundest response?",
+          "options": [
+            "Forward it immediately",
+            "Treat the number of forwards as proof",
+            "Check a reliable health source before acting or sharing",
+            "Stop all medical care"
+          ],
+          "topic": "Decision-Making",
+          "subtopic": "Decision-Making",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-037",
+          "q": "A teammate misses a deadline and the group presentation is tomorrow. What is a useful first response?",
+          "options": [
+            "Publicly blame the teammate",
+            "Cancel without checking options",
+            "Do nothing and hope it is finished",
+            "Clarify what is incomplete and redistribute remaining tasks"
+          ],
+          "topic": "Decision-Making",
+          "subtopic": "Decision-Making",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-041",
+          "q": "You are considering buying a fitness device with money set aside for transport. What should you do first?",
+          "options": [
+            "Buy it because it is on sale",
+            "Check essential costs and whether the purchase fits the budget",
+            "Borrow without planning repayment",
+            "Assume the transport cost will disappear"
+          ],
+          "topic": "Decision-Making",
+          "subtopic": "Decision-Making",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-062",
+          "q": "Your phone battery is low and you need directions to a new campus building. What is the most practical choice?",
+          "options": [
+            "Check the route, save key directions, and conserve battery",
+            "Keep watching videos until it shuts down",
+            "Ignore the destination",
+            "Delete the map app"
+          ],
+          "topic": "Decision-Making",
+          "subtopic": "Decision-Making",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Cognitive Biases",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-001",
+          "q": "After seeing an expensive first price, a buyer judges a lower price as cheap even without checking value. This illustrates:",
+          "options": [
+            "Availability heuristic",
+            "Sunk-cost fallacy",
+            "Survivorship bias",
+            "Anchoring"
+          ],
+          "topic": "Cognitive Biases",
+          "subtopic": "Cognitive Biases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-017",
+          "q": "A person keeps funding a failing project only because they have already spent a lot on it. This is:",
+          "options": [
+            "Anchoring",
+            "Framing effect",
+            "Sunk-cost fallacy",
+            "Representativeness"
+          ],
+          "topic": "Cognitive Biases",
+          "subtopic": "Cognitive Biases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-034",
+          "q": "Someone estimates danger mainly from a dramatic event they recently saw in the news. This is most like:",
+          "options": [
+            "Availability heuristic",
+            "Hindsight bias",
+            "Confirmation bias",
+            "Sunk-cost fallacy"
+          ],
+          "topic": "Cognitive Biases",
+          "subtopic": "Cognitive Biases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-038",
+          "q": "A person searches only for evidence supporting a belief and dismisses contrary evidence. This is:",
+          "options": [
+            "Anchoring",
+            "Hindsight bias",
+            "Availability heuristic",
+            "Confirmation bias"
+          ],
+          "topic": "Cognitive Biases",
+          "subtopic": "Cognitive Biases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-076",
+          "q": "A report studies only successful companies and concludes that their habits guarantee success, ignoring failed companies. This overlooks:",
+          "options": [
+            "Survivorship bias",
+            "Hindsight bias",
+            "Primacy effect",
+            "Loss aversion"
+          ],
+          "topic": "Cognitive Biases",
+          "subtopic": "Cognitive Biases",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Emotional Intelligence",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-013",
+          "q": "A colleague criticizes your idea in a meeting. What response best supports constructive discussion?",
+          "options": [
+            "Interrupt and raise your voice",
+            "Assume the criticism is a personal attack",
+            "End the meeting immediately",
+            "Ask which part concerns them and listen before replying"
+          ],
+          "topic": "Emotional Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-021",
+          "q": "Two group members disagree about task ownership. What is a constructive approach?",
+          "options": [
+            "Let the conflict grow",
+            "Choose a side without hearing both",
+            "Clarify responsibilities and agree on a fair division",
+            "Remove both from the group"
+          ],
+          "topic": "Emotional Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-046",
+          "q": "You notice you are becoming angry during a disagreement. What is a useful first step?",
+          "options": [
+            "Pause and take a few calm breaths before responding",
+            "Send the first message that comes to mind",
+            "Bring up unrelated past conflicts",
+            "Pretend no feeling is present"
+          ],
+          "topic": "Emotional Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-050",
+          "q": "A teammate seems unusually quiet after receiving bad news. What is an empathetic response?",
+          "options": [
+            "Demand that they explain in public",
+            "Tell them to stop being sensitive",
+            "Ask privately if they would like support",
+            "Assume they want no contact"
+          ],
+          "topic": "Emotional Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-069",
+          "q": "You made a mistake that inconvenienced a friend. What is the best response?",
+          "options": [
+            "Blame the friend",
+            "Acknowledge it, apologize specifically, and discuss how to repair it",
+            "Avoid them until it is forgotten",
+            "Insist that impact does not matter"
+          ],
+          "topic": "Emotional Intelligence",
+          "subtopic": "Emotional Intelligence",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Mental Calculation",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-022",
+          "q": "A meal costs $80 and a 10% tip is added. What is the total?",
+          "options": [
+            "$84",
+            "$88",
+            "$86",
+            "$90"
+          ],
+          "topic": "Mental Calculation",
+          "subtopic": "Mental Calculation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-027",
+          "q": "A cyclist travels 12 km in 30 minutes at a steady speed. How far in 90 minutes?",
+          "options": [
+            "24 km",
+            "36 km",
+            "30 km",
+            "42 km"
+          ],
+          "topic": "Mental Calculation",
+          "subtopic": "Mental Calculation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-044",
+          "q": "A ratio is 2:3 and the total is 25. What is the smaller share?",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "8"
+          ],
+          "topic": "Mental Calculation",
+          "subtopic": "Mental Calculation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-063",
+          "q": "What is three-quarters of  forty?",
+          "options": [
+            "30",
+            "25",
+            "35",
+            "20"
+          ],
+          "topic": "Mental Calculation",
+          "subtopic": "Mental Calculation",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-070",
+          "q": "What is 15% of 200?",
+          "options": [
+            "20",
+            "30",
+            "25",
+            "35"
+          ],
+          "topic": "Mental Calculation",
+          "subtopic": "Mental Calculation",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Spatial Reasoning",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-010",
+          "q": "On a standard map with north at the top, which direction is to the left of east?",
+          "options": [
+            "North",
+            "South",
+            "West",
+            "Northeast"
+          ],
+          "topic": "Spatial Reasoning",
+          "subtopic": "Spatial Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-030",
+          "q": "A cube has a red face on top. The cube is turned upside down. Where is the red face?",
+          "options": [
+            "On top",
+            "On the bottom",
+            "On the left",
+            "On the right"
+          ],
+          "topic": "Spatial Reasoning",
+          "subtopic": "Spatial Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-052",
+          "q": "You face north, turn right, then turn right again. Which direction do you face?",
+          "options": [
+            "East",
+            "South",
+            "West",
+            "North"
+          ],
+          "topic": "Spatial Reasoning",
+          "subtopic": "Spatial Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-058",
+          "q": "A square is rotated 90 degrees clockwise. What happens to its shape?",
+          "options": [
+            "It becomes a circle",
+            "It remains a square",
+            "It becomes a triangle",
+            "It becomes a rectangle of double width"
+          ],
+          "topic": "Spatial Reasoning",
+          "subtopic": "Spatial Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-066",
+          "q": "A person walks 3 blocks east and then 3 blocks west along the same route. Where are they relative to the starting point?",
+          "options": [
+            "At the starting point",
+            "3 blocks east",
+            "3 blocks west",
+            "3 blocks north"
+          ],
+          "topic": "Spatial Reasoning",
+          "subtopic": "Spatial Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Verbal Reasoning",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-018",
+          "q": "Choose the word closest in meaning to 'brief'.",
+          "options": [
+            "Noisy",
+            "Short",
+            "Careful",
+            "Late"
+          ],
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-033",
+          "q": "Which word does not belong?",
+          "options": [
+            "Oak",
+            "Pine",
+            "Maple",
+            "Copper"
+          ],
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-051",
+          "q": "Choose the sentence that best completes: 'The roads were flooded; ___, the event was postponed.'",
+          "options": [
+            "therefore",
+            "meanwhile",
+            "for example",
+            "similarly"
+          ],
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-061",
+          "q": "All lab assistants wear badges. Nila is a lab assistant. What follows?",
+          "options": [
+            "Everyone wearing a badge is a lab assistant",
+            "Nila wears a badge",
+            "Nila is a doctor",
+            "No lab assistants wear badges"
+          ],
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-073",
+          "q": "Book is to reading as fork is to:",
+          "options": [
+            "Cooking",
+            "Writing",
+            "Eating",
+            "Cutting"
+          ],
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Reaction & Response",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-026",
+          "q": "When startled by a loud sound, pausing to check the source before acting is an example of:",
+          "options": [
+            "Response inhibition and assessment",
+            "A guaranteed reflex",
+            "Long-term recall",
+            "Anchoring"
+          ],
+          "topic": "Reaction & Response",
+          "subtopic": "Reaction & Response",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-035",
+          "q": "A reflex action is typically:",
+          "options": [
+            "A rapid, automatic response to a stimulus",
+            "A carefully written plan",
+            "A long-term memory",
+            "A voluntary calculation"
+          ],
+          "topic": "Reaction & Response",
+          "subtopic": "Reaction & Response",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-049",
+          "q": "Why should a multiple-choice exercise not be treated as a direct measurement of reaction time?",
+          "options": [
+            "It contains written words",
+            "It does not record response latency under controlled conditions",
+            "It has four options",
+            "It asks about attention"
+          ],
+          "topic": "Reaction & Response",
+          "subtopic": "Reaction & Response",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-071",
+          "q": "Which factor can slow a person's response on a task?",
+          "options": [
+            "Clear instructions",
+            "Adequate practice",
+            "Distraction or divided attention",
+            "A well-rested state"
+          ],
+          "topic": "Reaction & Response",
+          "subtopic": "Reaction & Response",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-079",
+          "q": "Reaction time is generally the interval between:",
+          "options": [
+            "Two unrelated memories",
+            "A meal and sleep",
+            "A stimulus and a response",
+            "Two body measurements"
+          ],
+          "topic": "Reaction & Response",
+          "subtopic": "Reaction & Response",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Critical Thinking",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-005",
+          "q": "A school changes its timetable and attendance rises. What is the strongest conclusion from this information alone?",
+          "options": [
+            "The timetable definitely caused the rise",
+            "The school has no other influences",
+            "Attendance will continue rising forever",
+            "Attendance rose after the change, but the change may not be the only cause"
+          ],
+          "topic": "Critical Thinking",
+          "subtopic": "Critical Thinking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-016",
+          "q": "A survey asks only people who visited a gym whether exercise is useful. What key information is missing?",
+          "options": [
+            "How the sample was selected and whether non-gym users were represented",
+            "The survey's paper colour",
+            "The gym's opening music",
+            "The number of exercise machines"
+          ],
+          "topic": "Critical Thinking",
+          "subtopic": "Critical Thinking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-029",
+          "q": "Which is the strongest evidence that a phone battery lasts longer after a software update?",
+          "options": [
+            "One user's memory of a single day",
+            "Repeated controlled tests under similar usage conditions",
+            "A colourful advertisement",
+            "A comment that the phone feels faster"
+          ],
+          "topic": "Critical Thinking",
+          "subtopic": "Critical Thinking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-039",
+          "q": "A product is called 'the best' because everyone in one person's friend group uses it. What is the main weakness?",
+          "options": [
+            "The product has too many users",
+            "A small, unrepresentative sample is treated as decisive evidence",
+            "The claim uses a measurement",
+            "The conclusion is based on a controlled trial"
+          ],
+          "topic": "Critical Thinking",
+          "subtopic": "Critical Thinking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-053",
+          "q": "A headline claims a study proves a food prevents illness, but the study only found an association. What information is most important?",
+          "options": [
+            "The headline's font size",
+            "How many comments the headline received",
+            "Whether the study establishes causation and controls alternatives",
+            "Whether the food is colourful"
+          ],
+          "topic": "Critical Thinking",
+          "subtopic": "Critical Thinking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Brain Teasers",
+      "questions": [
+        {
+          "id": "BRAIN-SHARP-003",
+          "q": "A number is greater than 10, less than 15, and even. Which could it be?",
+          "options": [
+            "11",
+            "13",
+            "15",
+            "12"
+          ],
+          "topic": "Brain Teasers",
+          "subtopic": "Brain Teasers",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-006",
+          "q": "A clock shows 3:00. What is the smaller angle between the hour and minute hands?",
+          "options": [
+            "90°",
+            "45°",
+            "120°",
+            "180°"
+          ],
+          "topic": "Brain Teasers",
+          "subtopic": "Brain Teasers",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-009",
+          "q": "A bag has 3 red balls and 1 blue ball. Without looking, which colour is more likely to be drawn?",
+          "options": [
+            "Blue",
+            "Both equally likely",
+            "Neither can be drawn",
+            "Red"
+          ],
+          "topic": "Brain Teasers",
+          "subtopic": "Brain Teasers",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-047",
+          "q": "A farmer has 3 baskets with 2 apples in each. How many apples are there altogether?",
+          "options": [
+            "5",
+            "8",
+            "6",
+            "9"
+          ],
+          "topic": "Brain Teasers",
+          "subtopic": "Brain Teasers",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "BRAIN-SHARP-055",
+          "q": "Two people each shake hands once with the other. How many handshakes occur?",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "topic": "Brain Teasers",
+          "subtopic": "Brain Teasers",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Cognitive skills practice"
+          ],
+          "question_type": "Cognitive skills MCQ",
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    }
+  ]
+}

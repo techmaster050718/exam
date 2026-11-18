@@ -1,5 +1,59 @@
 [
   {
+    "id": "brain-sharpness-80",
+    "subject": "psychology",
+    "title": "Brain Sharpness & Cognitive Skills — 80 Questions",
+    "subtitle": "Memory, attention, reasoning, calculation and decision-making",
+    "file": "data/brain-sharpness-80.json",
+    "answerKey": "data/brain-sharpness-80-answer-key.json",
+    "durationMin": 60,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "general-awareness-master-200",
+    "subject": "general-awareness",
+    "title": "General Awareness + Mixed Knowledge — 200 Questions",
+    "subtitle": "Easy to Moderate | Science, GK, CSE, Cloud, Sports and Aptitude",
+    "file": "data/general-awareness-master-200.json",
+    "answerKey": "data/general-awareness-master-200-answer-key.json",
+    "durationMin": 120,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "geography-master-200",
+    "subject": "geography",
+    "title": "Geography Master Paper — 200 Questions",
+    "subtitle": "CDS + CAPF + SSC + UP SI | Physical, Indian and World Geography",
+    "file": "data/geography-master-200.json",
+    "answerKey": "data/geography-master-200-answer-key.json",
+    "durationMin": 180,
+    "correctMark": 0.83,
+    "negativeMark": 0.33
+  },
+  {
+    "id": "polity-master-200",
+    "subject": "indian-polity",
+    "title": "Indian Polity Master Paper — 200 Questions",
+    "subtitle": "CDS + CAPF + SSC + UP SI | Constitution, governance and institutions",
+    "file": "data/polity-master-200.json",
+    "answerKey": "data/polity-master-200-answer-key.json",
+    "durationMin": 180,
+    "correctMark": 0.83,
+    "negativeMark": 0.33
+  },
+  {
+    "id": "english-master-200",
+    "subject": "english-language",
+    "title": "English Master Paper — 200 Questions",
+    "subtitle": "CDS + CAPF + IBPS/SO | Grammar, vocabulary, RC and advanced language",
+    "file": "data/english-master-200.json",
+    "durationMin": 180,
+    "correctMark": 0.83,
+    "negativeMark": 0.33
+  },
+  {
     "id": "paper1",
     "title": "Practice Paper 1",
     "subtitle": "Core Syllabus",

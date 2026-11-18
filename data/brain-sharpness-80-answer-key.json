@@ -1,0 +1,1053 @@
+{
+  "id": "brain-sharpness-80-answer-key",
+  "paper_id": "brain-sharpness-80",
+  "total_questions": 80,
+  "maximum_marks": 80,
+  "marking": {
+    "correct": 1,
+    "wrong": -0.25,
+    "unattempted": 0
+  },
+  "answers": [
+    {
+      "id": "BRAIN-SHARP-001",
+      "correct_answer": "D",
+      "correct_option": "Anchoring",
+      "explanation": "The initial price acts as an anchor for later judgments.",
+      "cognitive_skill": "Cognitive Biases",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Availability heuristic: does not fit the item or rule in the question.",
+        "B. Sunk-cost fallacy: does not fit the item or rule in the question.",
+        "C. Survivorship bias: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-002",
+      "correct_answer": "C",
+      "correct_option": "Stop, move to a safe place, and seek appropriate help if symptoms persist or are severe",
+      "explanation": "Stop the activity and prioritize safety; persistent or severe symptoms warrant appropriate help.",
+      "cognitive_skill": "Decision-Making",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Increase intensity to finish sooner: does not fit the item or rule in the question.",
+        "B. Ignore it every time: does not fit the item or rule in the question.",
+        "D. Compete with a friend: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-003",
+      "correct_answer": "D",
+      "correct_option": "12",
+      "explanation": "12 is even and lies strictly between 10 and 15.",
+      "cognitive_skill": "Brain Teasers",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 11: does not fit the item or rule in the question.",
+        "B. 13: does not fit the item or rule in the question.",
+        "C. 15: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-004",
+      "correct_answer": "D",
+      "correct_option": "$8",
+      "explanation": "Two notebooks cost $6 and the pen costs $2, for a total of $8.",
+      "cognitive_skill": "Observation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. $5: does not fit the item or rule in the question.",
+        "B. $6: does not fit the item or rule in the question.",
+        "C. $9: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-005",
+      "correct_answer": "D",
+      "correct_option": "Attendance rose after the change, but the change may not be the only cause",
+      "explanation": "A before-and-after observation alone cannot rule out other explanations.",
+      "cognitive_skill": "Critical Thinking",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. The timetable definitely caused the rise: does not fit the item or rule in the question.",
+        "B. The school has no other influences: does not fit the item or rule in the question.",
+        "C. Attendance will continue rising forever: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-006",
+      "correct_answer": "A",
+      "correct_option": "90°",
+      "explanation": "At 3:00 the minute hand is at 12 and the hour hand at 3, a right angle.",
+      "cognitive_skill": "Brain Teasers",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. 45°: does not fit the item or rule in the question.",
+        "C. 120°: does not fit the item or rule in the question.",
+        "D. 180°: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-007",
+      "correct_answer": "D",
+      "correct_option": "Blue",
+      "explanation": "Blue was assigned position 2.",
+      "cognitive_skill": "Working Memory",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Red: does not fit the item or rule in the question.",
+        "B. Yellow: does not fit the item or rule in the question.",
+        "C. Green: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-008",
+      "correct_answer": "A",
+      "correct_option": "10:20",
+      "explanation": "Twenty minutes after 10:00 is 10:20.",
+      "cognitive_skill": "Logical Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. 10:10: does not fit the item or rule in the question.",
+        "C. 10:15: does not fit the item or rule in the question.",
+        "D. 10:30: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-009",
+      "correct_answer": "D",
+      "correct_option": "Red",
+      "explanation": "Three of the four balls are red, so red is more likely.",
+      "cognitive_skill": "Brain Teasers",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Blue: does not fit the item or rule in the question.",
+        "B. Both equally likely: does not fit the item or rule in the question.",
+        "C. Neither can be drawn: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-010",
+      "correct_answer": "A",
+      "correct_option": "North",
+      "explanation": "Facing east, the left-hand direction is north.",
+      "cognitive_skill": "Spatial Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. South: does not fit the item or rule in the question.",
+        "C. West: does not fit the item or rule in the question.",
+        "D. Northeast: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-011",
+      "correct_answer": "C",
+      "correct_option": "Right, then left",
+      "explanation": "Apply the reversed mapping to each word: LEFT becomes right, RIGHT becomes left.",
+      "cognitive_skill": "Cognitive Flexibility",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Left, then left: does not fit the item or rule in the question.",
+        "B. Right, then right: does not fit the item or rule in the question.",
+        "D. Left, then right: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-012",
+      "correct_answer": "D",
+      "correct_option": "Change representation, such as testing a small example",
+      "explanation": "Changing representation or testing a small case can reveal a route when the current method stalls.",
+      "cognitive_skill": "Cognitive Flexibility",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Repeat the same table without checking it: does not fit the item or rule in the question.",
+        "B. Stop considering the problem: does not fit the item or rule in the question.",
+        "C. Assume the problem has no solution: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-013",
+      "correct_answer": "D",
+      "correct_option": "Ask which part concerns them and listen before replying",
+      "explanation": "Curiosity and listening help separate feedback about an idea from a personal judgment.",
+      "cognitive_skill": "Emotional Intelligence",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Interrupt and raise your voice: does not fit the item or rule in the question.",
+        "B. Assume the criticism is a personal attack: does not fit the item or rule in the question.",
+        "C. End the meeting immediately: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-014",
+      "correct_answer": "D",
+      "correct_option": "pupil",
+      "explanation": "Pupil contains two p letters; paperclip and pepper contain three, while planet contains one.",
+      "cognitive_skill": "Attention & Concentration",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. paperclip: does not fit the item or rule in the question.",
+        "B. pepper: does not fit the item or rule in the question.",
+        "C. planet: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-015",
+      "correct_answer": "C",
+      "correct_option": "Fig",
+      "explanation": "Under the new rule, the three-letter word fig comes first.",
+      "cognitive_skill": "Cognitive Flexibility",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Pear: does not fit the item or rule in the question.",
+        "B. Banana: does not fit the item or rule in the question.",
+        "D. Cannot be determined: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-016",
+      "correct_answer": "A",
+      "correct_option": "How the sample was selected and whether non-gym users were represented",
+      "explanation": "The sampling method and representation affect whether the result generalizes.",
+      "cognitive_skill": "Critical Thinking",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. The survey's paper colour: does not fit the item or rule in the question.",
+        "C. The gym's opening music: does not fit the item or rule in the question.",
+        "D. The number of exercise machines: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-017",
+      "correct_answer": "C",
+      "correct_option": "Sunk-cost fallacy",
+      "explanation": "Past unrecoverable costs should not determine whether to continue investing.",
+      "cognitive_skill": "Cognitive Biases",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Anchoring: does not fit the item or rule in the question.",
+        "B. Framing effect: does not fit the item or rule in the question.",
+        "D. Representativeness: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-018",
+      "correct_answer": "B",
+      "correct_option": "Short",
+      "explanation": "Brief means short in duration or length.",
+      "cognitive_skill": "Verbal Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Noisy: does not fit the item or rule in the question.",
+        "C. Careful: does not fit the item or rule in the question.",
+        "D. Late: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-019",
+      "correct_answer": "C",
+      "correct_option": "9",
+      "explanation": "In the displayed sequence, 9 is immediately before 4.",
+      "cognitive_skill": "Memory & Recall",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 2: does not fit the item or rule in the question.",
+        "B. 7: does not fit the item or rule in the question.",
+        "D. 1: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-020",
+      "correct_answer": "C",
+      "correct_option": "R8K-31Q",
+      "explanation": "Only the third option preserves every character and its position.",
+      "cognitive_skill": "Observation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. R8K-31O: does not fit the item or rule in the question.",
+        "B. R8K-13Q: does not fit the item or rule in the question.",
+        "D. R8X-31Q: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-021",
+      "correct_answer": "C",
+      "correct_option": "Clarify responsibilities and agree on a fair division",
+      "explanation": "Clarifying expectations and agreeing on responsibilities addresses the source of conflict.",
+      "cognitive_skill": "Emotional Intelligence",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Let the conflict grow: does not fit the item or rule in the question.",
+        "B. Choose a side without hearing both: does not fit the item or rule in the question.",
+        "D. Remove both from the group: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-022",
+      "correct_answer": "B",
+      "correct_option": "$88",
+      "explanation": "Ten percent of $80 is $8; total is $88.",
+      "cognitive_skill": "Mental Calculation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. $84: does not fit the item or rule in the question.",
+        "C. $86: does not fit the item or rule in the question.",
+        "D. $90: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-023",
+      "correct_answer": "A",
+      "correct_option": "All sparrows are animals",
+      "explanation": "Membership in sparrows implies membership in birds and therefore animals.",
+      "cognitive_skill": "Logical Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. All animals are sparrows: does not fit the item or rule in the question.",
+        "C. No birds are animals: does not fit the item or rule in the question.",
+        "D. Some animals are not birds: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-024",
+      "correct_answer": "C",
+      "correct_option": "45 minutes",
+      "explanation": "From 14:25 to 15:00 is 35 minutes, then 10 more minutes: 45.",
+      "cognitive_skill": "Observation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 35 minutes: does not fit the item or rule in the question.",
+        "B. 40 minutes: does not fit the item or rule in the question.",
+        "D. 55 minutes: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-025",
+      "correct_answer": "C",
+      "correct_option": "Check a reliable health source before acting or sharing",
+      "explanation": "Verification from a reliable source reduces the risk of spreading misinformation.",
+      "cognitive_skill": "Decision-Making",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Forward it immediately: does not fit the item or rule in the question.",
+        "B. Treat the number of forwards as proof: does not fit the item or rule in the question.",
+        "D. Stop all medical care: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-026",
+      "correct_answer": "A",
+      "correct_option": "Response inhibition and assessment",
+      "explanation": "Pausing helps inhibit an impulsive response while evaluating the situation.",
+      "cognitive_skill": "Reaction & Response",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. A guaranteed reflex: does not fit the item or rule in the question.",
+        "C. Long-term recall: does not fit the item or rule in the question.",
+        "D. Anchoring: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-027",
+      "correct_answer": "B",
+      "correct_option": "36 km",
+      "explanation": "Ninety minutes is three times 30 minutes, so the distance is 12 × 3 = 36 km.",
+      "cognitive_skill": "Mental Calculation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 24 km: does not fit the item or rule in the question.",
+        "C. 30 km: does not fit the item or rule in the question.",
+        "D. 42 km: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-028",
+      "correct_answer": "A",
+      "correct_option": "N",
+      "explanation": "N appears three times; each of the other listed letters appears fewer times.",
+      "cognitive_skill": "Attention & Concentration",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. C: does not fit the item or rule in the question.",
+        "C. O: does not fit the item or rule in the question.",
+        "D. T: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-029",
+      "correct_answer": "B",
+      "correct_option": "Repeated controlled tests under similar usage conditions",
+      "explanation": "Repeated comparable tests provide stronger evidence than anecdote or promotion.",
+      "cognitive_skill": "Critical Thinking",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. One user's memory of a single day: does not fit the item or rule in the question.",
+        "C. A colourful advertisement: does not fit the item or rule in the question.",
+        "D. A comment that the phone feels faster: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-030",
+      "correct_answer": "B",
+      "correct_option": "On the bottom",
+      "explanation": "Turning the cube upside down moves the top face to the bottom.",
+      "cognitive_skill": "Spatial Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. On top: does not fit the item or rule in the question.",
+        "C. On the left: does not fit the item or rule in the question.",
+        "D. On the right: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-031",
+      "correct_answer": "B",
+      "correct_option": "4-1-7",
+      "explanation": "The room number given before the floor number was 4-1-7.",
+      "cognitive_skill": "Memory & Recall",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 4-2-7: does not fit the item or rule in the question.",
+        "C. 1-7-2: does not fit the item or rule in the question.",
+        "D. 2-4-1: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-032",
+      "correct_answer": "C",
+      "correct_option": "25",
+      "explanation": "These are consecutive squares: 1², 2², 3², 4², then 5² = 25.",
+      "cognitive_skill": "Pattern Recognition",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 20: does not fit the item or rule in the question.",
+        "B. 24: does not fit the item or rule in the question.",
+        "D. 36: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-033",
+      "correct_answer": "D",
+      "correct_option": "Copper",
+      "explanation": "Oak, pine, and maple are trees; copper is a metal.",
+      "cognitive_skill": "Verbal Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Oak: does not fit the item or rule in the question.",
+        "B. Pine: does not fit the item or rule in the question.",
+        "C. Maple: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-034",
+      "correct_answer": "A",
+      "correct_option": "Availability heuristic",
+      "explanation": "The ease of recalling a vivid event influences the estimate of how common or likely it is.",
+      "cognitive_skill": "Cognitive Biases",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. Hindsight bias: does not fit the item or rule in the question.",
+        "C. Confirmation bias: does not fit the item or rule in the question.",
+        "D. Sunk-cost fallacy: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-035",
+      "correct_answer": "A",
+      "correct_option": "A rapid, automatic response to a stimulus",
+      "explanation": "Many reflexes are rapid and automatic protective responses.",
+      "cognitive_skill": "Reaction & Response",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. A carefully written plan: does not fit the item or rule in the question.",
+        "C. A long-term memory: does not fit the item or rule in the question.",
+        "D. A voluntary calculation: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-036",
+      "correct_answer": "C",
+      "correct_option": "12",
+      "explanation": "9 − 2 = 7; 7 + 5 = 12.",
+      "cognitive_skill": "Working Memory",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 10: does not fit the item or rule in the question.",
+        "B. 11: does not fit the item or rule in the question.",
+        "D. 13: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-037",
+      "correct_answer": "D",
+      "correct_option": "Clarify what is incomplete and redistribute remaining tasks",
+      "explanation": "Clarifying the gap and coordinating a realistic recovery plan addresses the immediate need.",
+      "cognitive_skill": "Decision-Making",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Publicly blame the teammate: does not fit the item or rule in the question.",
+        "B. Cancel without checking options: does not fit the item or rule in the question.",
+        "C. Do nothing and hope it is finished: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-038",
+      "correct_answer": "D",
+      "correct_option": "Confirmation bias",
+      "explanation": "Confirmation bias is the tendency to favour information that supports an existing belief.",
+      "cognitive_skill": "Cognitive Biases",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Anchoring: does not fit the item or rule in the question.",
+        "B. Hindsight bias: does not fit the item or rule in the question.",
+        "C. Availability heuristic: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-039",
+      "correct_answer": "B",
+      "correct_option": "A small, unrepresentative sample is treated as decisive evidence",
+      "explanation": "One social group may not represent the broader population or establish product quality.",
+      "cognitive_skill": "Critical Thinking",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. The product has too many users: does not fit the item or rule in the question.",
+        "C. The claim uses a measurement: does not fit the item or rule in the question.",
+        "D. The conclusion is based on a controlled trial: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-040",
+      "correct_answer": "C",
+      "correct_option": "Garden",
+      "explanation": "The third item in the sequence is garden.",
+      "cognitive_skill": "Memory & Recall",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Candle: does not fit the item or rule in the question.",
+        "B. Silver: does not fit the item or rule in the question.",
+        "D. River: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-041",
+      "correct_answer": "B",
+      "correct_option": "Check essential costs and whether the purchase fits the budget",
+      "explanation": "Compare the purchase with essential expenses and the available budget before deciding.",
+      "cognitive_skill": "Decision-Making",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Buy it because it is on sale: does not fit the item or rule in the question.",
+        "C. Borrow without planning repayment: does not fit the item or rule in the question.",
+        "D. Assume the transport cost will disappear: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-042",
+      "correct_answer": "A",
+      "correct_option": "14",
+      "explanation": "4 + 3 = 7, and 7 × 2 = 14.",
+      "cognitive_skill": "Working Memory",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. 11: does not fit the item or rule in the question.",
+        "C. 10: does not fit the item or rule in the question.",
+        "D. 12: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-043",
+      "correct_answer": "B",
+      "correct_option": "Foot",
+      "explanation": "A glove is worn on a hand; a sock is worn on a foot.",
+      "cognitive_skill": "Logical Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Head: does not fit the item or rule in the question.",
+        "C. Arm: does not fit the item or rule in the question.",
+        "D. Shoulder: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-044",
+      "correct_answer": "A",
+      "correct_option": "10",
+      "explanation": "There are five ratio parts; each is 25 ÷ 5 = 5, so the smaller share is 2 × 5 = 10.",
+      "cognitive_skill": "Mental Calculation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. 12: does not fit the item or rule in the question.",
+        "C. 15: does not fit the item or rule in the question.",
+        "D. 8: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-045",
+      "correct_answer": "D",
+      "correct_option": "Red, blue, green",
+      "explanation": "The stated relationships give red, then blue, then green.",
+      "cognitive_skill": "Observation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Green, blue, red: does not fit the item or rule in the question.",
+        "B. Blue, red, green: does not fit the item or rule in the question.",
+        "C. Red, green, blue: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-046",
+      "correct_answer": "A",
+      "correct_option": "Pause and take a few calm breaths before responding",
+      "explanation": "A brief pause can reduce impulsive reactions and allow a more deliberate response.",
+      "cognitive_skill": "Emotional Intelligence",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. Send the first message that comes to mind: does not fit the item or rule in the question.",
+        "C. Bring up unrelated past conflicts: does not fit the item or rule in the question.",
+        "D. Pretend no feeling is present: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-047",
+      "correct_answer": "C",
+      "correct_option": "6",
+      "explanation": "Three baskets × two apples each = six apples.",
+      "cognitive_skill": "Brain Teasers",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 5: does not fit the item or rule in the question.",
+        "B. 8: does not fit the item or rule in the question.",
+        "D. 9: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-048",
+      "correct_answer": "D",
+      "correct_option": "A4",
+      "explanation": "A4 is the only missing label in the consecutive A-number sequence.",
+      "cognitive_skill": "Observation",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. A0: does not fit the item or rule in the question.",
+        "B. A6: does not fit the item or rule in the question.",
+        "C. B4: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-049",
+      "correct_answer": "B",
+      "correct_option": "It does not record response latency under controlled conditions",
+      "explanation": "A reaction-time measure requires timed stimulus and response recording under controlled conditions.",
+      "cognitive_skill": "Reaction & Response",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. It contains written words: does not fit the item or rule in the question.",
+        "C. It has four options: does not fit the item or rule in the question.",
+        "D. It asks about attention: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-050",
+      "correct_answer": "C",
+      "correct_option": "Ask privately if they would like support",
+      "explanation": "A private, non-pressuring check-in offers support while respecting their choice.",
+      "cognitive_skill": "Emotional Intelligence",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. Demand that they explain in public: does not fit the item or rule in the question.",
+        "B. Tell them to stop being sensitive: does not fit the item or rule in the question.",
+        "D. Assume they want no contact: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-051",
+      "correct_answer": "A",
+      "correct_option": "therefore",
+      "explanation": "Therefore expresses the result of the flooded roads.",
+      "cognitive_skill": "Verbal Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "B. meanwhile: does not fit the item or rule in the question.",
+        "C. for example: does not fit the item or rule in the question.",
+        "D. similarly: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-052",
+      "correct_answer": "B",
+      "correct_option": "South",
+      "explanation": "Two right turns from north lead east, then south.",
+      "cognitive_skill": "Spatial Reasoning",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. East: does not fit the item or rule in the question.",
+        "C. West: does not fit the item or rule in the question.",
+        "D. North: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-053",
+      "correct_answer": "C",
+      "correct_option": "Whether the study establishes causation and controls alternatives",
+      "explanation": "Association alone does not establish causation; study design and confounders matter.",
+      "cognitive_skill": "Critical Thinking",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. The headline's font size: does not fit the item or rule in the question.",
+        "B. How many comments the headline received: does not fit the item or rule in the question.",
+        "D. Whether the food is colourful: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-054",
+      "correct_answer": "D",
+      "correct_option": "A, B, C, D",
+      "explanation": "Alphabetical order is A, B, C, D.",
+      "cognitive_skill": "Working Memory",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. D, C, B, A: does not fit the item or rule in the question.",
+        "B. B, A, D, C: does not fit the item or rule in the question.",
+        "C. A, C, B, D: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-055",
+      "correct_answer": "B",
+      "correct_option": "1",
+      "explanation": "A handshake between the same two people is one event, not two.",
+      "cognitive_skill": "Brain Teasers",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 2: does not fit the item or rule in the question.",
+        "C. 3: does not fit the item or rule in the question.",
+        "D. 4: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-056",
+      "correct_answer": "D",
+      "correct_option": "4, 7, 6, 10",
+      "explanation": "In the last sequence, 6 follows 7, so the sequence does not increase throughout.",
+      "cognitive_skill": "Attention & Concentration",
+      "difficulty": "Easy",
+      "why_other_options_are_wrong": [
+        "A. 2, 5, 8, 11: does not fit the item or rule in the question.",
+        "B. 1, 4, 7, 10: does not fit the item or rule in the question.",
+        "C. 3, 6, 9, 12: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-057",
+      "correct_answer": "B",
+      "correct_option": "42",
+      "explanation": "The terms are n × (n+1): 1×2, 2×3, …, 6×7 = 42.",
+      "cognitive_skill": "Pattern Recognition",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 40: does not fit the item or rule in the question.",
+        "C. 38: does not fit the item or rule in the question.",
+        "D. 44: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-058",
+      "correct_answer": "B",
+      "correct_option": "It remains a square",
+      "explanation": "Rotation changes orientation, not the shape of a square.",
+      "cognitive_skill": "Spatial Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. It becomes a circle: does not fit the item or rule in the question.",
+        "C. It becomes a triangle: does not fit the item or rule in the question.",
+        "D. It becomes a rectangle of double width: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-059",
+      "correct_answer": "D",
+      "correct_option": "Green",
+      "explanation": "Green directly follows blue.",
+      "cognitive_skill": "Memory & Recall",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Yellow: does not fit the item or rule in the question.",
+        "B. Red: does not fit the item or rule in the question.",
+        "C. Blue: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-060",
+      "correct_answer": "D",
+      "correct_option": "9",
+      "explanation": "Eight is even, so add 1 to get 9.",
+      "cognitive_skill": "Cognitive Flexibility",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 7: does not fit the item or rule in the question.",
+        "B. 8: does not fit the item or rule in the question.",
+        "C. 10: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-061",
+      "correct_answer": "B",
+      "correct_option": "Nila wears a badge",
+      "explanation": "The general statement applies to Nila because she is a lab assistant.",
+      "cognitive_skill": "Verbal Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Everyone wearing a badge is a lab assistant: does not fit the item or rule in the question.",
+        "C. Nila is a doctor: does not fit the item or rule in the question.",
+        "D. No lab assistants wear badges: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-062",
+      "correct_answer": "A",
+      "correct_option": "Check the route, save key directions, and conserve battery",
+      "explanation": "Secure the needed information first, then conserve the remaining battery.",
+      "cognitive_skill": "Decision-Making",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. Keep watching videos until it shuts down: does not fit the item or rule in the question.",
+        "C. Ignore the destination: does not fit the item or rule in the question.",
+        "D. Delete the map app: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-063",
+      "correct_answer": "A",
+      "correct_option": "30",
+      "explanation": "One-quarter of 40 is 10, so three-quarters is 30.",
+      "cognitive_skill": "Mental Calculation",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. 25: does not fit the item or rule in the question.",
+        "C. 35: does not fit the item or rule in the question.",
+        "D. 20: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-064",
+      "correct_answer": "D",
+      "correct_option": "8",
+      "explanation": "Reading left to right, the second digit is 8.",
+      "cognitive_skill": "Memory & Recall",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 6: does not fit the item or rule in the question.",
+        "B. 3: does not fit the item or rule in the question.",
+        "C. 5: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-065",
+      "correct_answer": "C",
+      "correct_option": "Lee",
+      "explanation": "The height order is Mira > Dev > Lee.",
+      "cognitive_skill": "Logical Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Mira: does not fit the item or rule in the question.",
+        "B. Dev: does not fit the item or rule in the question.",
+        "D. Cannot be determined: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-066",
+      "correct_answer": "A",
+      "correct_option": "At the starting point",
+      "explanation": "The equal opposite movements cancel, returning to the starting point.",
+      "cognitive_skill": "Spatial Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. 3 blocks east: does not fit the item or rule in the question.",
+        "C. 3 blocks west: does not fit the item or rule in the question.",
+        "D. 3 blocks north: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-067",
+      "correct_answer": "B",
+      "correct_option": "80",
+      "explanation": "Each term doubles, so 40 × 2 = 80.",
+      "cognitive_skill": "Pattern Recognition",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 60: does not fit the item or rule in the question.",
+        "C. 75: does not fit the item or rule in the question.",
+        "D. 100: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-068",
+      "correct_answer": "A",
+      "correct_option": "1-8-3",
+      "explanation": "Reversing the order gives 1-8-3.",
+      "cognitive_skill": "Working Memory",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. 8-1-3: does not fit the item or rule in the question.",
+        "C. 3-1-8: does not fit the item or rule in the question.",
+        "D. 1-3-8: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-069",
+      "correct_answer": "B",
+      "correct_option": "Acknowledge it, apologize specifically, and discuss how to repair it",
+      "explanation": "Taking responsibility and offering repair supports trust and effective communication.",
+      "cognitive_skill": "Emotional Intelligence",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Blame the friend: does not fit the item or rule in the question.",
+        "C. Avoid them until it is forgotten: does not fit the item or rule in the question.",
+        "D. Insist that impact does not matter: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-070",
+      "correct_answer": "B",
+      "correct_option": "30",
+      "explanation": "10% of 200 is 20 and 5% is 10, so 15% is 30.",
+      "cognitive_skill": "Mental Calculation",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 20: does not fit the item or rule in the question.",
+        "C. 25: does not fit the item or rule in the question.",
+        "D. 35: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-071",
+      "correct_answer": "C",
+      "correct_option": "Distraction or divided attention",
+      "explanation": "Distraction competes for attention and can delay responding.",
+      "cognitive_skill": "Reaction & Response",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Clear instructions: does not fit the item or rule in the question.",
+        "B. Adequate practice: does not fit the item or rule in the question.",
+        "D. A well-rested state: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-072",
+      "correct_answer": "D",
+      "correct_option": "6",
+      "explanation": "Apply the new rule to 3: 3 × 2 = 6.",
+      "cognitive_skill": "Cognitive Flexibility",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 5: does not fit the item or rule in the question.",
+        "B. 8: does not fit the item or rule in the question.",
+        "C. 9: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-073",
+      "correct_answer": "C",
+      "correct_option": "Eating",
+      "explanation": "A book is used for reading; a fork is commonly used for eating.",
+      "cognitive_skill": "Verbal Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Cooking: does not fit the item or rule in the question.",
+        "B. Writing: does not fit the item or rule in the question.",
+        "D. Cutting: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-074",
+      "correct_answer": "C",
+      "correct_option": "Circle",
+      "explanation": "The two shapes alternate, so the next is a circle.",
+      "cognitive_skill": "Pattern Recognition",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Triangle: does not fit the item or rule in the question.",
+        "B. Square: does not fit the item or rule in the question.",
+        "D. Rectangle: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-075",
+      "correct_answer": "B",
+      "correct_option": "40918",
+      "explanation": "Only 40918 preserves every digit in the same position as the target.",
+      "cognitive_skill": "Attention & Concentration",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. 40981: does not fit the item or rule in the question.",
+        "C. 49018: does not fit the item or rule in the question.",
+        "D. 40917: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-076",
+      "correct_answer": "A",
+      "correct_option": "Survivorship bias",
+      "explanation": "Survivorship bias ignores cases that did not survive and can distort conclusions.",
+      "cognitive_skill": "Cognitive Biases",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. Hindsight bias: does not fit the item or rule in the question.",
+        "C. Primacy effect: does not fit the item or rule in the question.",
+        "D. Loss aversion: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-077",
+      "correct_answer": "A",
+      "correct_option": "B4D9 / B4D9",
+      "explanation": "Both strings in the second pair are exactly B4D9.",
+      "cognitive_skill": "Attention & Concentration",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. M7Q2 / M7O2: does not fit the item or rule in the question.",
+        "C. K3P8 / K8P3: does not fit the item or rule in the question.",
+        "D. T6R1 / T6R7: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-078",
+      "correct_answer": "A",
+      "correct_option": "Some artists are readers",
+      "explanation": "The artists who are teachers must also be readers.",
+      "cognitive_skill": "Logical Reasoning",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "B. All artists are teachers: does not fit the item or rule in the question.",
+        "C. No readers are artists: does not fit the item or rule in the question.",
+        "D. All readers are artists: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-079",
+      "correct_answer": "C",
+      "correct_option": "A stimulus and a response",
+      "explanation": "Reaction time describes the delay between a stimulus and a response.",
+      "cognitive_skill": "Reaction & Response",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. Two unrelated memories: does not fit the item or rule in the question.",
+        "B. A meal and sleep: does not fit the item or rule in the question.",
+        "D. Two body measurements: does not fit the item or rule in the question."
+      ]
+    },
+    {
+      "id": "BRAIN-SHARP-080",
+      "correct_answer": "B",
+      "correct_option": "U",
+      "explanation": "The alphabet-position increments are +2, +3, +4, +5; the next is +6, giving U.",
+      "cognitive_skill": "Pattern Recognition",
+      "difficulty": "Moderate",
+      "why_other_options_are_wrong": [
+        "A. T: does not fit the item or rule in the question.",
+        "C. V: does not fit the item or rule in the question.",
+        "D. S: does not fit the item or rule in the question."
+      ]
+    }
+  ]
+}

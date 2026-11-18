@@ -1,0 +1,4897 @@
+{
+  "id": "general-awareness-master-200",
+  "title": "General Awareness + Mixed Knowledge Master Paper",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
+  "exam": "Government, Defence, Banking, Railway and Technical Jobs",
+  "discipline": "General Awareness",
+  "source": "Mixed syllabus-based practice questions; not an official previous-year paper",
+  "verificationStatus": "Practice dataset; not an official or verified previous-year paper",
+  "maximum_marks": 200,
+  "correct_mark": 1,
+  "negative_mark": 0.25,
+  "unattempted_mark": 0,
+  "answerKey": "data/general-awareness-master-200-answer-key.json",
+  "instructions": [
+    "Correct answer: +1",
+    "Incorrect answer: -0.25",
+    "Unattempted: 0",
+    "Choose exactly one correct answer."
+  ],
+  "sections": [
+    {
+      "name": "Biology",
+      "questions": [
+        {
+          "id": "GA-MASTER-007",
+          "section": "Biology",
+          "topic": "Genetics and Molecular Biology",
+          "subtopic": "Genetics and Molecular Biology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A human gamete normally contains how many chromosomes?",
+          "options": [
+            "23",
+            "46",
+            "44",
+            "23 pairs"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-024",
+          "section": "Biology",
+          "topic": "Digestion, Nutrition and Metabolism",
+          "subtopic": "Digestion, Nutrition and Metabolism",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Bile assists digestion chiefly by:",
+          "options": [
+            "Hydrolysing proteins to peptides",
+            "Emulsifying fats into smaller droplets",
+            "Converting starch into maltose",
+            "Digesting nucleic acids"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-041",
+          "section": "Biology",
+          "topic": "Genetics and Molecular Biology",
+          "subtopic": "Genetics and Molecular Biology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which statement correctly distinguishes DNA from RNA in most cells?",
+          "options": [
+            "DNA is single-stranded and RNA is always double-stranded",
+            "RNA contains phosphate but DNA does not",
+            "DNA contains uracil instead of thymine",
+            "DNA contains deoxyribose and thymine; RNA contains ribose and uracil"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-046",
+          "section": "Biology",
+          "topic": "Genetics and Molecular Biology",
+          "subtopic": "Genetics and Molecular Biology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A recessive phenotype appears in a child although both parents show the dominant phenotype. Under simple Mendelian inheritance, the parents are most likely:",
+          "options": [
+            "Both homozygous dominant",
+            "One homozygous dominant and one recessive",
+            "Both homozygous recessive",
+            "Both heterozygous"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-083",
+          "section": "Biology",
+          "topic": "Diseases",
+          "subtopic": "Diseases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Vitamin C deficiency causes:",
+          "options": [
+            "Rickets",
+            "Scurvy",
+            "Beriberi",
+            "Pellagra"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-105",
+          "section": "Biology",
+          "topic": "Genetics and Molecular Biology",
+          "subtopic": "Genetics and Molecular Biology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which genotype can produce type O blood under the ABO system?",
+          "options": [
+            "IAIB",
+            "ii",
+            "IAi",
+            "IBi"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-110",
+          "section": "Biology",
+          "topic": "Plant Structure and Physiology",
+          "subtopic": "Plant Structure and Physiology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "In C4 plants, the first stable product of carbon dioxide fixation is usually:",
+          "options": [
+            "Oxaloacetate",
+            "3-phosphoglycerate",
+            "Ribulose bisphosphate",
+            "Glucose"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-122",
+          "section": "Biology",
+          "topic": "Microorganisms and Infectious Agents",
+          "subtopic": "Microorganisms and Infectious Agents",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Amoebic dysentery is caused by:",
+          "options": [
+            "Giardia lamblia",
+            "Paramecium caudatum",
+            "Entamoeba histolytica",
+            "Plasmodium falciparum"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-131",
+          "section": "Biology",
+          "topic": "Human Reproduction and Development",
+          "subtopic": "Human Reproduction and Development",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A major function of the acrosome in a sperm cell is to:",
+          "options": [
+            "Store the paternal chromosomes",
+            "Provide most ATP for swimming",
+            "Release enzymes that assist penetration of the egg coverings",
+            "Form the tail"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-178",
+          "section": "Biology",
+          "topic": "Animal Classification and Evolution",
+          "subtopic": "Animal Classification and Evolution",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which pair is correctly matched?",
+          "options": [
+            "Hydra — Cnidaria",
+            "Earthworm — Mollusca",
+            "Starfish — Annelida",
+            "Octopus — Arthropoda"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-180",
+          "section": "Biology",
+          "topic": "Biotechnology, Applied Biology and Discoveries",
+          "subtopic": "Biotechnology, Applied Biology and Discoveries",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The double-helix model of DNA was proposed by:",
+          "options": [
+            "James Watson and Francis Crick",
+            "Meselson and Stahl",
+            "Hershey and Chase",
+            "Franklin and Wilkins jointly in a model paper"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-183",
+          "section": "Biology",
+          "topic": "Respiration, Circulation and Blood",
+          "subtopic": "Respiration, Circulation and Blood",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A pulse felt at the wrist is caused by:",
+          "options": [
+            "Pressure waves in an artery following ventricular contraction",
+            "Valves closing in the veins",
+            "Expansion of lymphatic vessels",
+            "Atrial filling during diastole"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-194",
+          "section": "Biology",
+          "topic": "Biotechnology, Applied Biology and Discoveries",
+          "subtopic": "Biotechnology, Applied Biology and Discoveries",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The scientist who first observed cells in a thin slice of cork and coined the term 'cell' was:",
+          "options": [
+            "Antonie van Leeuwenhoek",
+            "Matthias Schleiden",
+            "Rudolf Virchow",
+            "Robert Hooke"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-196",
+          "section": "Biology",
+          "topic": "Respiration, Circulation and Blood",
+          "subtopic": "Respiration, Circulation and Blood",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which chamber pumps oxygenated blood into the systemic circulation?",
+          "options": [
+            "Right atrium",
+            "Right ventricle",
+            "Left ventricle",
+            "Left atrium"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "questions": [
+        {
+          "id": "GA-MASTER-026",
+          "section": "Physics",
+          "topic": "States of Matter",
+          "subtopic": "States of Matter",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Lowering external pressure over a liquid generally:",
+          "options": [
+            "Raises its boiling point above infinity",
+            "Stops evaporation only",
+            "Lowers its boiling point",
+            "Freezes it"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-062",
+          "section": "Physics",
+          "topic": "Control & Coordination",
+          "subtopic": "Control & Coordination",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Plant growth directed toward gravity is called:",
+          "options": [
+            "Phototropism",
+            "Geotropism",
+            "Thigmotropism",
+            "Hydrotropism"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-074",
+          "section": "Physics",
+          "topic": "States of Matter",
+          "subtopic": "States of Matter",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A highly ionized, electrically responsive state of matter is:",
+          "options": [
+            "Gel",
+            "Colloid",
+            "Glass",
+            "Plasma"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-097",
+          "section": "Physics",
+          "topic": "Magnetism",
+          "subtopic": "Magnetism",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A current-carrying straight wire produces field lines shaped as:",
+          "options": [
+            "Concentric circles",
+            "Radial straight lines",
+            "Rectangular loops only",
+            "Random triangular paths"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-098",
+          "section": "Physics",
+          "topic": "Magnetism",
+          "subtopic": "Magnetism",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "An electric motor converts:",
+          "options": [
+            "Mechanical into electrical energy",
+            "Heat directly into nuclear energy",
+            "Sound into light",
+            "Electrical energy into mechanical energy"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-099",
+          "section": "Physics",
+          "topic": "Work, Power & Energy",
+          "subtopic": "Work, Power & Energy",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A 5 kg object raised 2 m gains gravitational potential energy approximately:",
+          "options": [
+            "10 J",
+            "98 J",
+            "50 J",
+            "20 J"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-106",
+          "section": "Physics",
+          "topic": "Electricity",
+          "subtopic": "Electricity",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A 2 kW heater used for 3 h consumes:",
+          "options": [
+            "0.6 kWh",
+            "60 kWh",
+            "6 kWh",
+            "2.3 kWh"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-111",
+          "section": "Physics",
+          "topic": "Light",
+          "subtopic": "Light",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The mirror formula is:",
+          "options": [
+            "f=u+v",
+            "1/f = 1/v + 1/u",
+            "1/f=u−v",
+            "f=uv"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-128",
+          "section": "Physics",
+          "topic": "Work, Power & Energy",
+          "subtopic": "Work, Power & Energy",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A 4 kg object moving at 3 m/s has kinetic energy:",
+          "options": [
+            "18 J",
+            "12 J",
+            "36 J",
+            "6 J"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-151",
+          "section": "Physics",
+          "topic": "Electricity",
+          "subtopic": "Electricity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Identical resistors in parallel have total resistance:",
+          "options": [
+            "Smaller than one resistor",
+            "Larger than one resistor",
+            "Always equal to their sum",
+            "Infinite"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-152",
+          "section": "Physics",
+          "topic": "Work, Power & Energy",
+          "subtopic": "Work, Power & Energy",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A machine with 100 J input and 75 J useful output has efficiency:",
+          "options": [
+            "25%",
+            "100%",
+            "175%",
+            "75%"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-165",
+          "section": "Physics",
+          "topic": "Units & Dimensions",
+          "subtopic": "Units & Dimensions",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Pressure has dimensions:",
+          "options": [
+            "[M L T−2]",
+            "[M L−1 T−2]",
+            "[M L² T−2]",
+            "[M L² T−3]"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-174",
+          "section": "Physics",
+          "topic": "Motion",
+          "subtopic": "Motion",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Displacement is a quantity with:",
+          "options": [
+            "Magnitude and direction",
+            "Magnitude only without direction",
+            "No unit",
+            "No initial position dependence"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-197",
+          "section": "Physics",
+          "topic": "Light",
+          "subtopic": "Light",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A concave mirror forms a real image when reflected rays:",
+          "options": [
+            "Always diverge",
+            "Remain parallel at every object position",
+            "Never meet",
+            "Converge at the image point"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "questions": [
+        {
+          "id": "GA-MASTER-017",
+          "section": "Chemistry",
+          "topic": "Chemical Reactions & Equations",
+          "subtopic": "Chemical Reactions & Equations",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A catalyst in a chemical reaction:",
+          "options": [
+            "Raises every product yield permanently",
+            "Is always consumed completely",
+            "Changes equilibrium position",
+            "Changes the rate without being consumed overall"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-019",
+          "section": "Chemistry",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "At 25°C, a neutral aqueous solution has a pH of approximately:",
+          "options": [
+            "1",
+            "10",
+            "7",
+            "14"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-025",
+          "section": "Chemistry",
+          "topic": "Periodic Table",
+          "subtopic": "Periodic Table",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Elements having two valence electrons and forming +2 ions are characteristically:",
+          "options": [
+            "Alkaline earth metals",
+            "Halogens",
+            "Noble gases",
+            "Alkali metals only"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-029",
+          "section": "Chemistry",
+          "topic": "Periodic Table",
+          "subtopic": "Periodic Table",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Fluorine and chlorine belong to the:",
+          "options": [
+            "Noble gases",
+            "Halogens",
+            "Alkali metals",
+            "Alkaline earth metals"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-035",
+          "section": "Chemistry",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which acid is characteristically present in sour milk?",
+          "options": [
+            "Sulfuric acid",
+            "Nitric acid",
+            "Hydrochloric acid",
+            "Lactic acid"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-045",
+          "section": "Chemistry",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Baking powder typically releases carbon dioxide upon heating or in moist conditions because it contains:",
+          "options": [
+            "Only a neutral salt with no acidic component",
+            "A metallic oxide alone",
+            "A carbohydrate enzyme only",
+            "A base plus an acid salt that react together"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-075",
+          "section": "Chemistry",
+          "topic": "Atoms & Molecules",
+          "subtopic": "Atoms & Molecules",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "12C and 14C are:",
+          "options": [
+            "Isobars",
+            "Isotones",
+            "Allotropes",
+            "Isotopes"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-088",
+          "section": "Chemistry",
+          "topic": "Carbon & its Compounds",
+          "subtopic": "Carbon & its Compounds",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Ethanoic acid is the same substance as:",
+          "options": [
+            "Formic acid",
+            "Oxalic acid",
+            "Citric acid",
+            "Acetic acid"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-119",
+          "section": "Chemistry",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which salt is used for softening hard water and has formula Na2CO3·10H2O in its common hydrated form?",
+          "options": [
+            "Baking soda",
+            "Washing soda",
+            "Bleaching powder",
+            "Caustic soda"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-137",
+          "section": "Chemistry",
+          "topic": "Atoms & Molecules",
+          "subtopic": "Atoms & Molecules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "One mole contains approximately:",
+          "options": [
+            "6.022 × 10^23 specified entities",
+            "6.022 × 10^23 grams",
+            "1000 molecules",
+            "One nucleus"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-138",
+          "section": "Chemistry",
+          "topic": "Carbon & its Compounds",
+          "subtopic": "Carbon & its Compounds",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The ability of carbon atoms to bond into chains and rings is called:",
+          "options": [
+            "Catenation",
+            "Allotropy",
+            "Electronegativity",
+            "Isomer selection"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-143",
+          "section": "Chemistry",
+          "topic": "Life Processes",
+          "subtopic": "Life Processes",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which vessel carries oxygenated blood from the lungs to the left atrium?",
+          "options": [
+            "Pulmonary artery",
+            "Superior vena cava",
+            "Inferior vena cava",
+            "Pulmonary vein"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-156",
+          "section": "Chemistry",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A rain sample has pH 4.2. What is the best interpretation?",
+          "options": [
+            "It is neutral",
+            "It is alkaline",
+            "It contains no dissolved ions",
+            "It is acidic and can contribute to environmental damage"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-169",
+          "section": "Chemistry",
+          "topic": "Periodic Table",
+          "subtopic": "Periodic Table",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Down Group 1, atomic size and metallic character generally:",
+          "options": [
+            "Decrease",
+            "Both remain constant",
+            "Increase",
+            "Atomic size decreases while metallic character increases"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Mathematics / Basic Maths",
+      "questions": [
+        {
+          "id": "GA-MASTER-010",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Simplification & Number System",
+          "subtopic": "Simplification & Number System",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Find the value of 3/4 of 160 + 1/5 of 100.",
+          "options": [
+            "130",
+            "140",
+            "160",
+            "150"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-053",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Time & Work",
+          "subtopic": "Time & Work",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A can do a piece of work in 10 days and B in 15 days. How many days will they take working together?",
+          "options": [
+            "5",
+            "8",
+            "6",
+            "7"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-059",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Mensuration & Geometry",
+          "subtopic": "Mensuration & Geometry",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "What is the sum of the interior angles of a hexagon?",
+          "options": [
+            "620°",
+            "540°",
+            "720°",
+            "900°"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-082",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Simple & Compound Interest",
+          "subtopic": "Simple & Compound Interest",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "At what rate of compound interest per annum will Rs 4000 amount to Rs 4840 in 2 years?",
+          "options": [
+            "12%",
+            "10%",
+            "8%",
+            "5%"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-092",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Gravitation",
+          "subtopic": "Gravitation",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Free-fall acceleration near Earth is approximately:",
+          "options": [
+            "9.8 m/s² upward",
+            "0 m/s²",
+            "9.8 m/s² downward",
+            "980 m/s² horizontal"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-115",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Percentage, Profit & Loss",
+          "subtopic": "Percentage, Profit & Loss",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The price of an item is increased by 25% and then decreased by 20%. What is the net change?",
+          "options": [
+            "5% decrease",
+            "10% increase",
+            "5% increase",
+            "No change"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-123",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Life Processes",
+          "subtopic": "Life Processes",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Plant transpiration occurs mainly through:",
+          "options": [
+            "Root tips only",
+            "Xylem vessels alone",
+            "Root nodules",
+            "Leaf stomata"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-142",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Ratio, Average & Mixture",
+          "subtopic": "Ratio, Average & Mixture",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A mixture of 20 litres has milk and water in the ratio 3 : 1. How much water must be added to make the ratio 1 : 1?",
+          "options": [
+            "15 litres",
+            "20 litres",
+            "10 litres",
+            "5 litres"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-159",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Mensuration & Geometry",
+          "subtopic": "Mensuration & Geometry",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The perimeter of a square is 48 cm. What is its area?",
+          "options": [
+            "169 cm^2",
+            "121 cm^2",
+            "144 cm^2",
+            "196 cm^2"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-168",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Time & Work",
+          "subtopic": "Time & Work",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Pipe A fills a tank in 20 minutes and pipe B empties it in 30 minutes. If both are opened together, how long will the empty tank take to fill?",
+          "options": [
+            "40 minutes",
+            "80 minutes",
+            "50 minutes",
+            "60 minutes"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-177",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Atoms & Molecules",
+          "subtopic": "Atoms & Molecules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "NaCl represents an ionic compound with sodium-to-chloride ratio:",
+          "options": [
+            "2:1",
+            "1:2",
+            "1:1",
+            "2:3"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-185",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Simplification & Number System",
+          "subtopic": "Simplification & Number System",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Find the value of 0.5 × 0.4 × 10.",
+          "options": [
+            "2",
+            "20",
+            "0.2",
+            "0.02"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-186",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Monthly sales (Rs lakh): Jan 20, Feb 25, Mar 30, Apr 35, May 40. What is the total sales for the five months?",
+          "options": [
+            "170",
+            "160",
+            "140",
+            "150"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-199",
+          "section": "Mathematics / Basic Maths",
+          "topic": "Time, Speed & Distance",
+          "subtopic": "Time, Speed & Distance",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A boat's speed in still water is 12 km/h and the stream flows at 3 km/h. How long will it take to go 45 km downstream?",
+          "options": [
+            "2 hours",
+            "3 hours",
+            "4 hours",
+            "5 hours"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Polity",
+      "questions": [
+        {
+          "id": "GA-MASTER-008",
+          "section": "Polity",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Supreme Court Judges are appointed by:",
+          "options": [
+            "The Prime Minister",
+            "The President",
+            "The Speaker",
+            "The Governor"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-015",
+          "section": "Polity",
+          "topic": "Major Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The single citizenship in India means:",
+          "options": [
+            "Each State issues a separate passport",
+            "Citizens must live in their birth State",
+            "Citizens owe allegiance to India rather than distinct State citizenships",
+            "Only Union citizens can vote nationally"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-018",
+          "section": "Polity",
+          "topic": "Emergency Provisions",
+          "subtopic": "Emergency Provisions",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Article 311 protects certain civil servants against:",
+          "options": [
+            "Transfer between departments in all circumstances",
+            "Removal and dismissal without statutory and constitutional safeguards",
+            "Salary reduction by legislation",
+            "Taking an oath of office"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-022",
+          "section": "Polity",
+          "topic": "Citizenship and Rights",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Official Languages in the Eighth Schedule include:",
+          "options": [
+            "22 languages currently scheduled",
+            "15 languages only",
+            "One national language only",
+            "All languages spoken in India"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-050",
+          "section": "Polity",
+          "topic": "Special provisions",
+          "subtopic": "Special provisions",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The President can appoint ad hoc judges to the Supreme Court only under:",
+          "options": [
+            "Article 124A",
+            "Article 143",
+            "Article 127",
+            "Article 145"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-070",
+          "section": "Polity",
+          "topic": "Local Government and Schedules",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Cooperative federalism under the Constitution is commonly aided by institutions including:",
+          "options": [
+            "Inter-State Council and GST Council",
+            "Election Commission and Comptroller only",
+            "Supreme Court and Attorney General alone",
+            "Only State Governors"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-095",
+          "section": "Polity",
+          "topic": "Constitutional Procedure",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Ninety-seventh Amendment promoted cooperatives and added constitutional provisions for their democratic operation in:",
+          "options": [
+            "2002",
+            "2008",
+            "2014",
+            "2011"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-120",
+          "section": "Polity",
+          "topic": "Public Offices",
+          "subtopic": "Public Offices",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Article 163 establishes a Council of Ministers with the Chief Minister to aid and advise the:",
+          "options": [
+            "President exclusively",
+            "High Court Chief Justice",
+            "Governor, subject to discretion in express constitutional circumstances",
+            "Speaker of the Assembly"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-135",
+          "section": "Polity",
+          "topic": "Constitutional Procedure",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Article 215 gives each High Court the status and contempt powers of:",
+          "options": [
+            "A tribunal subordinate to the State Assembly",
+            "An executive commission",
+            "A court of record",
+            "A revenue board"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-145",
+          "section": "Polity",
+          "topic": "Constitutional Bodies",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Eleventh Schedule relates to:",
+          "options": [
+            "Municipalities",
+            "Panchayats",
+            "Union Territories",
+            "Tribunals"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-157",
+          "section": "Polity",
+          "topic": "Emergency and Federalism",
+          "subtopic": "Emergency and Federalism",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "How many original Fundamental Duties were added by the 42nd Amendment?",
+          "options": [
+            "Ten",
+            "Five",
+            "Six",
+            "Twelve"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-166",
+          "section": "Polity",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Question Hour in Parliament primarily enables:",
+          "options": [
+            "Judges to question witnesses",
+            "State Assemblies to amend Bills",
+            "Members to seek information and hold Ministers accountable",
+            "The President to appoint Governors"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-182",
+          "section": "Polity",
+          "topic": "Local Government and Schedules",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Article 356 reports must be approved within:",
+          "options": [
+            "One month after dissolution",
+            "Six months automatically",
+            "Two months from the proclamation",
+            "Until the State budget is passed"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-193",
+          "section": "Polity",
+          "topic": "Citizenship and Rights",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A Legislative Council cannot originate or finally reject a Money Bill; it mainly exercises delay and recommendation under:",
+          "options": [
+            "Article 61",
+            "Article 198 and the State constitutional scheme",
+            "Article 280",
+            "Article 324"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "id": "GA-MASTER-001",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Revolt of 1857 began primarily with:",
+          "options": [
+            "Only a student movement",
+            "Sepoy unrest and spread to wider political grievances",
+            "A religious crusade in Europe",
+            "A factory workers' strike"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-023",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "India became a republic on:",
+          "options": [
+            "15 August 1947",
+            "2 October 1949",
+            "26 November 1949",
+            "26 January 1950"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-051",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Mughal emperor who built Humayun's Tomb was:",
+          "options": [
+            "It was built during Humayun's royal period",
+            "Akbar alone",
+            "Aurangzeb",
+            "Bahadur Shah Zafar"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-056",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The first Jain Tirthankara is traditionally:",
+          "options": [
+            "Mahavira",
+            "Gautama Buddha",
+            "Rishabhanatha",
+            "Ashoka"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-061",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Gupta period is often called:",
+          "options": [
+            "The stone age",
+            "The classical age in several fields of Indian culture",
+            "The colonial period",
+            "The Mughal modernisation period"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-066",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Quit India Movement was launched in:",
+          "options": [
+            "1947",
+            "1942",
+            "1930",
+            "1920"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-080",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Mahatma Gandhi launched the Salt March in:",
+          "options": [
+            "1947",
+            "1919",
+            "1922",
+            "1930"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-081",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Harappan civilisation is known for:",
+          "options": [
+            "Roman aqueducts",
+            "Medieval forts",
+            "Steam engines",
+            "Planned urban settlements"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-084",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Ashoka is associated with:",
+          "options": [
+            "The Magna Carta",
+            "The French Revolution",
+            "Rock and pillar edicts",
+            "The Industrial Revolution"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-118",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Indian National Congress was founded in:",
+          "options": [
+            "1947",
+            "1857",
+            "1925",
+            "1885"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-130",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Battle of Plassey was fought in:",
+          "options": [
+            "1757",
+            "1857",
+            "1947",
+            "1526"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-150",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Mauryan Empire was founded by:",
+          "options": [
+            "Akbar",
+            "Harsha",
+            "Chandragupta Maurya",
+            "Ashoka only"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-176",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Constituent Assembly adopted the Constitution on:",
+          "options": [
+            "15 August 1947",
+            "26 January 1950",
+            "24 January 1950",
+            "26 November 1949"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-191",
+          "section": "History",
+          "topic": "History",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Buddhism was founded by:",
+          "options": [
+            "Mahavira",
+            "Ashoka",
+            "Chanakya",
+            "Gautama Buddha"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "id": "GA-MASTER-031",
+          "section": "Geography",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A belt of low pressure near the Equator is the:",
+          "options": [
+            "Polar high-pressure belt",
+            "Intertropical Convergence Zone",
+            "Horse latitudes",
+            "Ferrel convergence"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-049",
+          "section": "Geography",
+          "topic": "Indian Agriculture & Crops",
+          "subtopic": "Indian Agriculture & Crops",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Crop rotation helps reduce pest buildup and maintain fertility because different crops have:",
+          "options": [
+            "Identical rooting depth always",
+            "Different nutrient demands and root effects",
+            "No effect on soil",
+            "The same pest cycle always"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-069",
+          "section": "Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which process transports rock fragments by a river?",
+          "options": [
+            "Photosynthesis",
+            "Condensation",
+            "Traction, saltation, suspension and solution",
+            "Sublimation"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-073",
+          "section": "Geography",
+          "topic": "Climate & Monsoon",
+          "subtopic": "Climate & Monsoon",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "La Niña is associated with:",
+          "options": [
+            "Warmer Mediterranean waters only",
+            "Permanent monsoon reversal in India",
+            "Melting of Antarctic ice exclusively",
+            "Cooler-than-normal central and eastern tropical Pacific waters"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-077",
+          "section": "Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A map scale of 1:250,000 indicates that 1 cm represents:",
+          "options": [
+            "250 m on the ground",
+            "25 km on the ground",
+            "2.5 km on the ground",
+            "250 km on the ground"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-089",
+          "section": "Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Arctic Circle is located approximately at:",
+          "options": [
+            "66.5° S",
+            "66.5° N",
+            "23.5° N",
+            "23.5° S"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-112",
+          "section": "Geography",
+          "topic": "Indian Climate & Soils",
+          "subtopic": "Indian Climate & Soils",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Rainfall in India is measured with a:",
+          "options": [
+            "Barometer",
+            "Rain gauge",
+            "Anemometer",
+            "Seismograph"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-113",
+          "section": "Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Krishna River empties into the:",
+          "options": [
+            "Arabian Sea",
+            "Andaman Sea",
+            "Bay of Bengal",
+            "Indian Ocean near Gujarat directly"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-144",
+          "section": "Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Tapti rises in the:",
+          "options": [
+            "Satpura region of Madhya Pradesh",
+            "Himalayas",
+            "Western Ghats in Kerala",
+            "Aravalli Range in Rajasthan"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-154",
+          "section": "Geography",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which imaginary line divides Earth into Northern and Southern Hemispheres?",
+          "options": [
+            "Prime Meridian",
+            "Equator",
+            "Tropic of Cancer",
+            "Arctic Circle"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-175",
+          "section": "Geography",
+          "topic": "World Geography & Maps",
+          "subtopic": "World Geography & Maps",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Suez Canal connects the Mediterranean Sea with the:",
+          "options": [
+            "Red Sea",
+            "Black Sea",
+            "Caspian Sea",
+            "Persian Gulf"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-179",
+          "section": "Geography",
+          "topic": "Resources, Transport & World Geography",
+          "subtopic": "Resources, Transport & World Geography",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Great Lakes are shared mainly by the United States and:",
+          "options": [
+            "Canada",
+            "Mexico",
+            "Brazil",
+            "Cuba"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-192",
+          "section": "Geography",
+          "topic": "Indian Rivers & Water",
+          "subtopic": "Indian Rivers & Water",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Tehri Dam is constructed on the:",
+          "options": [
+            "Sutlej River",
+            "Bhagirathi River",
+            "Narmada River",
+            "Mahanadi River"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-198",
+          "section": "Geography",
+          "topic": "Oceanography & Resources",
+          "subtopic": "Oceanography & Resources",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The Mid-Atlantic Ridge is an example of a:",
+          "options": [
+            "Divergent plate boundary and mid-ocean ridge",
+            "Convergent trench",
+            "Transform fault only",
+            "Continental fold belt"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "GA-MASTER-011",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Monetary policy in India is principally operated by:",
+          "options": [
+            "The RBI",
+            "The Finance Commission",
+            "The Comptroller and Auditor-General",
+            "The Election Commission"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-027",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Repo rate is:",
+          "options": [
+            "The rate at which RBI lends short-term funds to commercial banks",
+            "The tax on exports",
+            "The rate of income growth",
+            "The minimum wage"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-096",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Per capita income is:",
+          "options": [
+            "Total bank savings",
+            "National income divided by population",
+            "Government revenue",
+            "Exports minus imports"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-104",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A progressive tax takes:",
+          "options": [
+            "The same fixed amount from everyone",
+            "Only from exporters",
+            "Only from children",
+            "A larger proportion as income rises"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-108",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Fiscal deficit occurs when:",
+          "options": [
+            "Exports exceed imports",
+            "Government expenditure exceeds its total receipts excluding borrowings",
+            "Tax revenue is zero",
+            "Banks hold excess reserves"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-125",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which is a direct tax?",
+          "options": [
+            "Income tax",
+            "GST",
+            "Customs duty",
+            "Petroleum levy"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-129",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Demand is generally said to fall when:",
+          "options": [
+            "Income rises",
+            "Population rises",
+            "Price rises, other things remaining equal",
+            "Advertising rises"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-132",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Fiscal policy is mainly handled through:",
+          "options": [
+            "Central bank interest rates",
+            "Foreign exchange auctions",
+            "Stock-market regulation",
+            "Government spending and taxation"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-140",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Opportunity cost is:",
+          "options": [
+            "Only the purchase price",
+            "A fixed government tax",
+            "The profit of a firm",
+            "The value of the next best alternative forgone"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-146",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "GDP measures the value of:",
+          "options": [
+            "Only exports",
+            "Only government spending",
+            "Only bank deposits",
+            "Goods and services produced within a country"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-155",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The central bank of India is:",
+          "options": [
+            "Securities and Exchange Board of India",
+            "State Bank of India",
+            "Reserve Bank of India",
+            "NITI Aayog"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-163",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which is a public sector organisation?",
+          "options": [
+            "An individual household",
+            "A government-owned enterprise",
+            "An unregistered market vendor",
+            "A foreign private firm"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-170",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Inflation means:",
+          "options": [
+            "A general increase in prices",
+            "A rise in unemployment only",
+            "A fall in population",
+            "An increase in rainfall"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-188",
+          "section": "Economy",
+          "topic": "Economy",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "An export occurs when:",
+          "options": [
+            "Goods move within a State",
+            "A bank lends locally",
+            "A factory pays wages",
+            "Goods or services are sold to a foreign country"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "General Awareness / Static GK",
+      "questions": [
+        {
+          "id": "GA-MASTER-005",
+          "section": "General Awareness / Static GK",
+          "topic": "Control & Coordination",
+          "subtopic": "Control & Coordination",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The pituitary gland is often called the:",
+          "options": [
+            "Master digestive gland",
+            "Master lymphatic organ",
+            "Master excretory organ",
+            "Master endocrine gland"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-028",
+          "section": "General Awareness / Static GK",
+          "topic": "Metals & Non-Metals",
+          "subtopic": "Metals & Non-Metals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Brass is an alloy of:",
+          "options": [
+            "Copper and tin",
+            "Copper and zinc",
+            "Iron and carbon",
+            "Lead and tin"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-030",
+          "section": "General Awareness / Static GK",
+          "topic": "General Awareness / Static GK",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The State emblem of India is adapted from:",
+          "options": [
+            "Ashoka's diamond throne",
+            "Red Fort",
+            "Ajanta caves",
+            "Lion Capital at Sarnath"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-033",
+          "section": "General Awareness / Static GK",
+          "topic": "Diseases",
+          "subtopic": "Diseases",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Malaria is transmitted by an infected female:",
+          "options": [
+            "Aedes mosquito",
+            "Culex mosquito",
+            "Housefly",
+            "Anopheles mosquito"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-036",
+          "section": "General Awareness / Static GK",
+          "topic": "Reproduction",
+          "subtopic": "Reproduction",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Binary fission in Amoeba produces:",
+          "options": [
+            "Two seeds",
+            "A spore capsule",
+            "Two daughter cells",
+            "Two permanent buds"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-037",
+          "section": "General Awareness / Static GK",
+          "topic": "States of Matter",
+          "subtopic": "States of Matter",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "For a fixed gas volume, increasing absolute temperature usually:",
+          "options": [
+            "Decreases pressure",
+            "Leaves pressure unchanged only if temperature falls",
+            "Increases pressure",
+            "Makes pressure negative"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-055",
+          "section": "General Awareness / Static GK",
+          "topic": "Everyday Chemistry",
+          "subtopic": "Everyday Chemistry",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "The active ingredient in many household liquid bleaches is:",
+          "options": [
+            "Sodium bicarbonate",
+            "Calcium carbonate",
+            "Sodium hypochlorite",
+            "Sodium chloride"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-078",
+          "section": "General Awareness / Static GK",
+          "topic": "General Awareness / Static GK",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Constitution of India came into effect on:",
+          "options": [
+            "26 January 1950",
+            "15 August 1947",
+            "26 November 1949",
+            "24 January 1950"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-086",
+          "section": "General Awareness / Static GK",
+          "topic": "Tissues",
+          "subtopic": "Tissues",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Simple squamous epithelium is suited to:",
+          "options": [
+            "Diffusion across thin surfaces",
+            "Voluntary contraction",
+            "Electrical insulation",
+            "Mineral storage"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-090",
+          "section": "General Awareness / Static GK",
+          "topic": "Metals & Non-Metals",
+          "subtopic": "Metals & Non-Metals",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Coating iron with zinc is called:",
+          "options": [
+            "Galvanization",
+            "Tempering",
+            "Annealing",
+            "Quenching"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-100",
+          "section": "General Awareness / Static GK",
+          "topic": "General Awareness / Static GK",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The President of India is also the constitutional head of:",
+          "options": [
+            "A State Legislative Council only",
+            "The Reserve Bank of India",
+            "The Union of India",
+            "The Supreme Court"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-102",
+          "section": "General Awareness / Static GK",
+          "topic": "Tissues",
+          "subtopic": "Tissues",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Phloem mainly transports:",
+          "options": [
+            "Prepared food from leaves",
+            "Water upward only",
+            "Minerals into roots only",
+            "Carbon dioxide to roots"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-139",
+          "section": "General Awareness / Static GK",
+          "topic": "Sound",
+          "subtopic": "Sound",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A higher-frequency sound is perceived as:",
+          "options": [
+            "Greater loudness",
+            "Lower speed automatically",
+            "Higher pitch",
+            "Greater amplitude automatically"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-160",
+          "section": "General Awareness / Static GK",
+          "topic": "Sound",
+          "subtopic": "Sound",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "An echo is distinct when the reflecting surface is sufficiently far away so that sound:",
+          "options": [
+            "Arrives before the direct sound",
+            "Arrives after a detectable delay",
+            "Carries no energy",
+            "Travels in vacuum"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Technology / Computer Awareness",
+      "questions": [
+        {
+          "id": "GA-MASTER-016",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A URL identifies:",
+          "options": [
+            "Only a Wi-Fi password",
+            "A resource on the internet",
+            "A computer's motherboard",
+            "A printer cable"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-032",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Cache memory is:",
+          "options": [
+            "Only permanent disk storage",
+            "Printer memory",
+            "A network cable",
+            "Fast temporary memory close to the processor"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-038",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The main function of a firewall is to:",
+          "options": [
+            "Control network traffic according to security rules",
+            "Convert text to speech",
+            "Increase monitor brightness",
+            "Store processor instructions"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-039",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "An SSD is a type of:",
+          "options": [
+            "Optical tape",
+            "Solid-state storage",
+            "Input scanner",
+            "Cooling fan"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-048",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Wi-Fi is commonly used for:",
+          "options": [
+            "Undersea cable manufacturing",
+            "Wireless local network communication",
+            "Printing documents",
+            "Running an engine"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-060",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The brain of a computer is:",
+          "options": [
+            "Monitor",
+            "Keyboard",
+            "Printer",
+            "CPU"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-064",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "An IP address identifies:",
+          "options": [
+            "A document font",
+            "A keyboard layout",
+            "A host or network interface",
+            "A hardware fan"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-087",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A malicious program that replicates itself is often called:",
+          "options": [
+            "A virus",
+            "A compiler",
+            "A browser",
+            "A spreadsheet"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-091",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Encryption mainly provides:",
+          "options": [
+            "Confidentiality of data",
+            "Uncontrolled public access",
+            "More screen resolution",
+            "Faster printer movement"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-101",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "HTTP is primarily used for:",
+          "options": [
+            "Cable television",
+            "Audio equalisation",
+            "Database backup only",
+            "Transfer of web resources"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-124",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A digital signature primarily helps verify:",
+          "options": [
+            "Internet speed",
+            "Monitor brightness",
+            "Authenticity and integrity",
+            "Printer ink level"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-172",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Cloud backup is used to:",
+          "options": [
+            "Delete all old data",
+            "Disable a network",
+            "Store recoverable copies on remote infrastructure",
+            "Upgrade a monitor"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-181",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A web browser is used to:",
+          "options": [
+            "Cook food",
+            "Request and display web content",
+            "Operate a mechanical latchet",
+            "Measure rainfall"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-190",
+          "section": "Technology / Computer Awareness",
+          "topic": "Technology / Computer Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Two-factor authentication uses:",
+          "options": [
+            "Two independent verification factors",
+            "Two passwords of the same factor",
+            "Only a username",
+            "An email address twice"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "B.Tech CSE Fundamentals",
+      "questions": [
+        {
+          "id": "GA-MASTER-009",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Computer Networks",
+          "subtopic": "Computer Networks",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "What is the difference between bandwidth and latency?",
+          "options": [
+            "Bandwidth is capacity; latency is delay",
+            "Bandwidth is delay; latency is capacity",
+            "Both measure error rate",
+            "Bandwidth is physical distance only"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-040",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Acids, Bases & Salts",
+          "subtopic": "Acids, Bases & Salts",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which household substance is most closely represented by a dilute sodium hydroxide solution?",
+          "options": [
+            "Drain cleaner",
+            "Lemon juice",
+            "Vinegar",
+            "Pure water"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-043",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "States of Matter",
+          "subtopic": "States of Matter",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Matter cooled extremely close to absolute zero may form a:",
+          "options": [
+            "Plasma",
+            "Superheated vapor",
+            "Ideal amorphous solid",
+            "Bose-Einstein condensate"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-058",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Tissues",
+          "subtopic": "Tissues",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A chemical signal crosses a neuronal synapse via:",
+          "options": [
+            "Myelin only",
+            "Blood platelets",
+            "Neurotransmitter molecules",
+            "Meristem cells"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-071",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Full Forms & Terminology",
+          "subtopic": "Full Forms & Terminology",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "What does URL identify?",
+          "options": [
+            "A network cable type",
+            "The location of a resource on the web",
+            "A database column",
+            "A processor instruction"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-103",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Data Structures & Algorithms",
+          "subtopic": "Data Structures & Algorithms",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which data structure is the best fit for implementing a printer job queue?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Max-heap only",
+            "Set"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-116",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Cloud Computing",
+          "subtopic": "Cloud Computing",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "What is a container primarily used for?",
+          "options": [
+            "Replacing all network routers",
+            "Packaging an application with its dependencies and runtime isolation",
+            "Storing relational rows only",
+            "Encrypting DNS records"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-117",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Why should a digital signature verify both origin and integrity?",
+          "options": [
+            "It encrypts every message with AES only",
+            "It stores passwords in plaintext",
+            "It guarantees availability",
+            "It uses asymmetric cryptography to bind signed content to the signer"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-134",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Cloud Computing",
+          "subtopic": "Cloud Computing",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "In cloud computing, what does IaaS provide to customers?",
+          "options": [
+            "Only an email application",
+            "Source code for the provider's platform",
+            "Virtualized infrastructure such as compute and storage",
+            "A physical office network"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-136",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "B.Tech CSE Fundamentals",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A deadlock occurs when:",
+          "options": [
+            "A program compiles successfully",
+            "A file is opened read-only",
+            "A user logs out",
+            "Processes wait cyclically for resources held by each other"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-148",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A malicious script executes in another user's browser context. What web vulnerability is this?",
+          "options": [
+            "SQL injection only",
+            "Cross-Site Scripting",
+            "DNS spoofing only",
+            "Buffer overread"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-158",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "DBMS & SQL",
+          "subtopic": "DBMS & SQL",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which key uniquely identifies each row in a table?",
+          "options": [
+            "Foreign key",
+            "Check constraint",
+            "Index key",
+            "Primary key"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-167",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which security protocol primarily protects data exchanged over HTTPS?",
+          "options": [
+            "SMTP",
+            "FTP",
+            "DHCP",
+            "TLS"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-173",
+          "section": "B.Tech CSE Fundamentals",
+          "topic": "B.Tech CSE Fundamentals",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A primary key is used to:",
+          "options": [
+            "Uniquely identify a row",
+            "Sort only text",
+            "Encrypt every row",
+            "Store all passwords"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "questions": [
+        {
+          "id": "GA-MASTER-003",
+          "section": "Cloud Computing",
+          "topic": "Data, Analytics & AI Services",
+          "subtopic": "Data, Analytics & AI Services",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which purpose matches AWS Glue?",
+          "options": [
+            "Physical server repair",
+            "Private certificate issuance",
+            "Domain registration",
+            "Data integration and cataloging"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-004",
+          "section": "Cloud Computing",
+          "topic": "Cloud Scaling & Performance",
+          "subtopic": "Cloud Scaling & Performance",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which pattern expands capacity before a known promotional traffic spike?",
+          "options": [
+            "Predictive or scheduled scaling",
+            "No capacity planning",
+            "Scale down randomly",
+            "Disable health checks"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-014",
+          "section": "Cloud Computing",
+          "topic": "Cloud Service Models",
+          "subtopic": "Cloud Service Models",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which model is best when the provider should manage storage infrastructure while customers manage data organization?",
+          "options": [
+            "IaaS",
+            "FaaS",
+            "CaaS",
+            "STaaS"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-020",
+          "section": "Cloud Computing",
+          "topic": "DevOps & Delivery",
+          "subtopic": "DevOps & Delivery",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Infrastructure drift occurs when deployed resources differ from:",
+          "options": [
+            "Application source code only",
+            "Current cloud invoice",
+            "Container image name",
+            "Declared desired configuration"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-054",
+          "section": "Cloud Computing",
+          "topic": "Infrastructure as Code",
+          "subtopic": "Infrastructure as Code",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which practice protects IaC state from unauthorized access?",
+          "options": [
+            "Public state file",
+            "Hard-coded credentials",
+            "Emailing state backups",
+            "Encrypted remote state and access controls"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-057",
+          "section": "Cloud Computing",
+          "topic": "Cloud Networking",
+          "subtopic": "Cloud Networking",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which device connects separate IP networks and forwards packets by destination address?",
+          "options": [
+            "Router",
+            "Repeater",
+            "Hub",
+            "Switch-only bridge"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-065",
+          "section": "Cloud Computing",
+          "topic": "DevOps & Delivery",
+          "subtopic": "DevOps & Delivery",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A canary release exposes the new version to:",
+          "options": [
+            "All users at once",
+            "A small controlled user or traffic segment",
+            "Only production admins",
+            "Only DNS servers"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-079",
+          "section": "Cloud Computing",
+          "topic": "Cloud Scaling & Performance",
+          "subtopic": "Cloud Scaling & Performance",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A queue length exceeds threshold; which resource is most appropriate to add?",
+          "options": [
+            "Workers or consumer capacity",
+            "DNS authority",
+            "Log archive storage",
+            "Admin accounts"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-109",
+          "section": "Cloud Computing",
+          "topic": "Cloud IAM",
+          "subtopic": "Cloud IAM",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "A service should not run with administrator privileges when it needs only:",
+          "options": [
+            "All subscriptions",
+            "Read access to one storage bucket",
+            "The ability to delete users",
+            "Billing ownership"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-121",
+          "section": "Cloud Computing",
+          "topic": "AWS/Azure Service Selection",
+          "subtopic": "AWS/Azure Service Selection",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "An AWS event should trigger a short image transform. Choose:",
+          "options": [
+            "Lambda from the object event",
+            "An oversized EC2 cron",
+            "Redshift",
+            "Route 53"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-127",
+          "section": "Cloud Computing",
+          "topic": "Cloud Scaling & Performance",
+          "subtopic": "Cloud Scaling & Performance",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which database optimization first analyzes slow query plans and indexes?",
+          "options": [
+            "Adding CDN cache for writes",
+            "Opening all ports",
+            "Removing replicas",
+            "Query tuning"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-133",
+          "section": "Cloud Computing",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which command area manages container lifecycle on a Docker host?",
+          "options": [
+            "DNS registrar",
+            "Billing console",
+            "Container runtime CLI or API",
+            "Hypervisor BIOS only"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-147",
+          "section": "Cloud Computing",
+          "topic": "Serverless & Integration",
+          "subtopic": "Serverless & Integration",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Amazon EventBridge is primarily a:",
+          "options": [
+            "Event bus and integration service",
+            "Virtual desktop",
+            "Database engine",
+            "DNS registrar"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-200",
+          "section": "Cloud Computing",
+          "topic": "Storage Services & Selection",
+          "subtopic": "Storage Services & Selection",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Which purpose best matches Amazon EBS?",
+          "options": [
+            "Block storage volumes",
+            "Identity federation",
+            "Virtual machine scheduling",
+            "DNS failover"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Fitness / Sports / Health Awareness",
+      "questions": [
+        {
+          "id": "GA-MASTER-021",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Vitamin C is associated with:",
+          "options": [
+            "Only night vision",
+            "Collagen formation and antioxidant function",
+            "Only bone fluorosis",
+            "Only iron mining"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-034",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Cricket teams commonly have eleven players in the fielding side because:",
+          "options": [
+            "It is a standard rule",
+            "The field is always triangular",
+            "It is a requirement of football",
+            "Only captains may field"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-042",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The FIFA World Cup is associated with:",
+          "options": [
+            "Cricket",
+            "Football",
+            "Hockey",
+            "Badminton"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-044",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "BMI is based on:",
+          "options": [
+            "Age and shoe size",
+            "Weight and height",
+            "Income and education",
+            "Pulse and hair length"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-047",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Sleep is important for:",
+          "options": [
+            "Recovery, cognition and health",
+            "Only typing speed",
+            "Only height measurement",
+            "Only food storage"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-068",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Dehydration means:",
+          "options": [
+            "Excessive oxygen",
+            "Excessive loss or lack of body water",
+            "Too much muscle fibre",
+            "A skin allergy only"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-085",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A balanced diet should include:",
+          "options": [
+            "Only sugar",
+            "Only fried food",
+            "Appropriate combinations of nutrients",
+            "Only supplements"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-114",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The first aid for a minor burn includes:",
+          "options": [
+            "Cooling it safely with running clean water",
+            "Applying ice directly for a long time",
+            "Opening blisters",
+            "Covering it in sugar"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-141",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A sprain is an injury to:",
+          "options": [
+            "A tooth",
+            "A nail",
+            "A ligament",
+            "A lung valve"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-153",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Normal aerobic exercise mainly improves:",
+          "options": [
+            "Only spelling ability",
+            "Only eyesight",
+            "Only memory cards",
+            "Cardiorespiratory fitness"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-171",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Olympic rings are:",
+          "options": [
+            "Five separate planets",
+            "Five interlocking rings",
+            "Five mountains",
+            "Five coloured medals"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-184",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A cricket century means:",
+          "options": [
+            "A batter scores 100 or more runs in an innings",
+            "A 100-second over",
+            "A 100-player team",
+            "A 100-run penalty"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-187",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The organ that pumps blood is:",
+          "options": [
+            "Liver",
+            "Stomach",
+            "Heart",
+            "Lung"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-189",
+          "section": "Fitness / Sports / Health Awareness",
+          "topic": "Fitness / Sports / Health Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Warming up before exercise helps:",
+          "options": [
+            "Prepare muscles and reduce injury risk",
+            "Guarantee immediate sleep",
+            "Stop breathing",
+            "Replace hydration"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Aptitude + Reasoning + Scenario-Based",
+      "questions": [
+        {
+          "id": "GA-MASTER-002",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Direction Sense",
+          "subtopic": "Direction Sense",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "In the evening, Mohan's shadow falls on his right side. Which direction is Mohan facing?",
+          "options": [
+            "East",
+            "South",
+            "North",
+            "West"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-006",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Direction Sense",
+          "subtopic": "Direction Sense",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Facing North, a person turns right, then left, then left again. Which direction is he facing now?",
+          "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-013",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Blood Relations",
+          "subtopic": "Blood Relations",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Pointing to a lady, a man says, \"The son of her only brother is the brother of my wife.\" How is the lady related to the man?",
+          "options": [
+            "Mother's sister",
+            "Sister of father-in-law",
+            "Mother-in-law",
+            "Wife's sister"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-052",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Alphanumeric Series",
+          "subtopic": "Alphanumeric Series",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Find the next number: 7, 10, 16, 28, 52, ?",
+          "options": [
+            "96",
+            "98",
+            "104",
+            "100"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-063",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Alphanumeric Series",
+          "subtopic": "Alphanumeric Series",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Find the next number: 3, 5, 9, 17, 33, ?",
+          "options": [
+            "67",
+            "65",
+            "63",
+            "61"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-067",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "In a certain code, 'sun is hot' is written as 'ka ma ta' and 'hot tea is' is written as 'ta ra ma'. What is the code for 'sun'?",
+          "options": [
+            "ta",
+            "ka",
+            "ma",
+            "ra"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-093",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "If A = 1, B = 2, C = 3 and so on, what is the sum of the letter values of the word BANK?",
+          "options": [
+            "26",
+            "30",
+            "28",
+            "32"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-094",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Blood Relations",
+          "subtopic": "Blood Relations",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "P is the brother of Q. Q is the sister of R. R is the father of S. How is P related to S?",
+          "options": [
+            "Cousin",
+            "Father",
+            "Uncle",
+            "Grandfather"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-107",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Alphanumeric Series",
+          "subtopic": "Alphanumeric Series",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Find the next letter: A, C, F, J, O, ?",
+          "options": [
+            "W",
+            "V",
+            "U",
+            "T"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-126",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Seating Arrangement & Puzzles",
+          "subtopic": "Seating Arrangement & Puzzles",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Five colleagues P, Q, R, S and T take leave on different days from Monday to Friday, one person per day. R takes leave on Wednesday, Q on the day after R, T on the day before R, and S on Friday. On which day does Q take leave?",
+          "options": [
+            "Thursday",
+            "Friday",
+            "Wednesday",
+            "Tuesday"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-161",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Data Sufficiency",
+          "subtopic": "Data Sufficiency",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "What is the value of y? I. y is a positive integer. II. y is less than 10.",
+          "options": [
+            "I alone is sufficient",
+            "II alone is sufficient",
+            "Neither I nor II is sufficient",
+            "Both I and II together are sufficient"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-162",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Inequality",
+          "subtopic": "Inequality",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Statements: K <= L < M, N > M. Conclusions: I. K < N  II. L <= N",
+          "options": [
+            "Only II follows",
+            "Neither follows",
+            "Both follow",
+            "Only I follows"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-164",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Inequality",
+          "subtopic": "Inequality",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Statements: X > Y, Y >= Z, Z = W. Conclusions: I. X > W  II. Y > W",
+          "options": [
+            "Only I follows",
+            "Neither follows",
+            "Both follow",
+            "Only II follows"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-195",
+          "section": "Aptitude + Reasoning + Scenario-Based",
+          "topic": "Inequality",
+          "subtopic": "Inequality",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "TREND_BASED",
+          "q": "Statements: A > B >= C = D >= E. Conclusions: I. A > E  II. B > E",
+          "options": [
+            "Only II follows",
+            "Neither follows",
+            "Only I follows",
+            "Both follow"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    },
+    {
+      "name": "Mixed Revision / General Awareness",
+      "questions": [
+        {
+          "id": "GA-MASTER-012",
+          "section": "Mixed Revision / General Awareness",
+          "topic": "Mixed Revision / General Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which pairing is logically valid?",
+          "options": [
+            "Evaporation—A solid becomes a crystal",
+            "Mitochondria—Plasma television",
+            "GDP—A skin cell",
+            "Photosynthesis—Plants convert light energy"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-072",
+          "section": "Mixed Revision / General Awareness",
+          "topic": "Mixed Revision / General Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which combination is correctly matched?",
+          "options": [
+            "UPSC—Village revenue only",
+            "ISRO—Football",
+            "RBI—Monetary policy",
+            "WHO—Stock exchange"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-076",
+          "section": "Mixed Revision / General Awareness",
+          "topic": "Mixed Revision / General Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Easy",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A government dashboard showing literacy, health and infrastructure indicators is mainly used for:",
+          "options": [
+            "Secret ballot counting",
+            "Public performance monitoring",
+            "Climate change reversal only",
+            "Creating a private bank"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        },
+        {
+          "id": "GA-MASTER-149",
+          "section": "Mixed Revision / General Awareness",
+          "topic": "Mixed Revision / General Awareness",
+          "subtopic": "Static/application knowledge",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "Government Exams",
+            "Defence",
+            "Banking",
+            "Railway",
+            "UP SI"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "If a reported fact conflicts with an official source, a careful candidate should:",
+          "options": [
+            "Choose the more surprising claim",
+            "Verify and prefer the authoritative official source",
+            "Ignore all evidence",
+            "Repeat the first claim"
+          ],
+          "marks_correct": 1,
+          "marks_wrong": -0.25
+        }
+      ]
+    }
+  ]
+}

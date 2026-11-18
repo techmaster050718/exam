@@ -43,6 +43,10 @@
       }
 
       paperData = await App.loadPaper(paperMeta.file);
+      if (paperMeta.answerKey) {
+        const answerKey = await App.loadAnswerKey(paperMeta.answerKey);
+        App.mergeAnswerKey(paperData, answerKey);
+      }
       questions = App.flattenQuestions(paperData);
 
       // Next unfinished paper stays within the current subject.

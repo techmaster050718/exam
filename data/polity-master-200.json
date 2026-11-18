@@ -1,0 +1,5307 @@
+{
+  "id": "polity-master-200",
+  "title": "Indian Polity Master Paper",
+  "sourceType": "SYLLABUS_BASED_PRACTICE",
+  "exam": "CDS + CAPF AC + SSC CGL + UP SI + AFCAT + RRB + IBPS",
+  "discipline": "Indian Polity",
+  "source": "Original and syllabus-based practice questions informed by recurring exam patterns; not an authentic PYQ paper",
+  "verificationStatus": "Practice dataset; not an official UPSC, SSC, UP SI, AFCAT or IBPS previous-year paper",
+  "maximum_marks": 166,
+  "correct_mark": 0.83,
+  "negative_mark": 0.33,
+  "unattempted_mark": 0,
+  "answerKey": "data/polity-master-200-answer-key.json",
+  "instructions": [
+    "Each question carries 0.83 marks for a correct answer.",
+    "Each incorrect answer carries a penalty of 0.33 marks.",
+    "Unattempted questions carry zero marks.",
+    "Choose the one most accurate constitutional or institutional answer."
+  ],
+  "sections": [
+    {
+      "name": "Constitution & Constitutional Development",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-011",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Montagu-Chelmsford reforms correspond to:",
+          "options": [
+            "Indian Councils Act 1909",
+            "Government of India Act 1935",
+            "Government of India Act 1919",
+            "Indian Independence Act 1947"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-025",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Indian Constitution was adopted, signed, and enacted on which sequence of dates?",
+          "options": [
+            "Adopted 26 Nov 1949, signed 24 Jan 1950, commenced 26 Jan 1950",
+            "Adopted 15 Aug 1947, signed 26 Jan 1950, commenced 26 Nov 1949",
+            "Adopted 26 Jan 1950, signed 26 Nov 1949, commenced 15 Aug 1947",
+            "Adopted 24 Jan 1950, signed 26 Nov 1949, commenced 26 Jan 1950"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-040",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which feature distinguishes the Government of India Act 1935 from earlier colonial constitutional instruments?",
+          "options": [
+            "It established universal adult franchise",
+            "It created a directly elected Constituent Assembly",
+            "It created an All-India Federation with provincial autonomy",
+            "It made Fundamental Rights justiciable"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-051",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Objective Resolution set out the Constituent Assembly's vision of:",
+          "options": [
+            "A dominion linked to Britain",
+            "An independent, sovereign republic and a just social order",
+            "A federal system with no central powers",
+            "A permanent hereditary executive"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-078",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which feature of the Constitution reflects a borrowing from the British system?",
+          "options": [
+            "Federal structure from Canada",
+            "Emergency provisions from Germany",
+            "Parliamentary government",
+            "Fundamental Rights from the USA"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-121",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which Constituent Assembly committee was principally responsible for drafting the Constitution?",
+          "options": [
+            "Committee on Fundamental Rights",
+            "Union Constitution Committee",
+            "Provincial Constitution Committee",
+            "Drafting Committee"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-138",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Cabinet Mission Plan mainly proposed:",
+          "options": [
+            "Grouping of provinces and an indirectly elected Constituent Assembly",
+            "A bicameral federal Constitution with a small Constituent Assembly",
+            "A unitary Parliament and a nominated Constituent Assembly",
+            "Immediate independence without a constitution-making process"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-147",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Charter Act of 1833 made the Governor-General of Bengal:",
+          "options": [
+            "Only a ceremonial head of the Presidencies",
+            "President of an elected Constituent Assembly",
+            "Head of a federal executive",
+            "Governor-General of India and empowered him to legislate for India"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-151",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which Act introduced for the first time a separate Governor-General's Executive Council portfolio system?",
+          "options": [
+            "Indian Councils Act 1861",
+            "Charter Act of 1833",
+            "Charter Act of 1853",
+            "Government of India Act 1858"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-174",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Government of India Act 1935 was modelled in part on:",
+          "options": [
+            "The British Cabinet system with a federal structure",
+            "A fully unitary constitution",
+            "The Constituent Assembly Rules",
+            "A purely presidential system"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-179",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Indian Councils Act 1892 primarily:",
+          "options": [
+            "Created provincial autonomy",
+            "Introduced indirect election and enlarged legislative councils",
+            "Established the Cabinet Mission",
+            "Abolished the Governor-General"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-180",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Regulating Act of 1773 established which British institution in India?",
+          "options": [
+            "A Supreme Court at Calcutta",
+            "A separate Board of Control",
+            "Provincial legislatures",
+            "A Constituent Assembly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-184",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Government of India Act 1919 introduced:",
+          "options": [
+            "Parliamentary sovereignty",
+            "Presidential government",
+            "A unitary constitution",
+            "Dyarchy in provincial executive subjects"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-189",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Pitt's India Act 1784 established:",
+          "options": [
+            "Direct British Crown rule",
+            "A federal legislature for India",
+            "Universal adult franchise",
+            "A Board of Control in Britain over the Company's administration"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-190",
+          "section": "Constitution & Constitutional Development",
+          "topic": "Constitution & Constitutional Development",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Morley-Minto reforms are associated with:",
+          "options": [
+            "Regulating Act 1773",
+            "Charter Act 1853",
+            "Indian Councils Act 1909",
+            "Government of India Act 1935"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Preamble, Features & Basic Structure",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-038",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Preamble is constitutionally significant because it:",
+          "options": [
+            "Creates a separate source of taxation",
+            "Directly establishes the State List",
+            "States constitutional objectives and is used to interpret ambiguous provisions",
+            "Makes all non-justiciable provisions enforceable"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-079",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The word 'Socialist' was inserted by:",
+          "options": [
+            "24th Amendment",
+            "44th Amendment",
+            "52nd Amendment",
+            "42nd Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-087",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Supreme Court Jurisdiction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Forty-second Amendment added the words “socialist”, “secular”, and “integrity” to:",
+          "options": [
+            "The Ninth Schedule",
+            "The State List",
+            "The Preamble",
+            "Article 356 only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-114",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The amending power is limited by:",
+          "options": [
+            "The Preamble only",
+            "Article 368's First Schedule",
+            "The will of State Governors",
+            "The Basic Structure doctrine"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-130",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Constitution is not fully federal because:",
+          "options": [
+            "There are no State governments",
+            "It provides a strong Centre and integrated institutions",
+            "The President is elected directly",
+            "Governors are elected"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-137",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "In Minerva Mills, the Supreme Court primarily balanced:",
+          "options": [
+            "Fundamental Rights and Directive Principles",
+            "Parliamentary supremacy and the separation of powers",
+            "Federal and unitary features",
+            "Legislative privileges and judicial review"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-170",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which Preamble expression was added by the 42nd Amendment?",
+          "options": [
+            "Democratic and Republic",
+            "Socialist, Secular and Integrity",
+            "Sovereign and Democratic",
+            "Justice and Liberty"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-175",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which doctrine invalidated 'Ninth Schedule' amendments that destroyed Fundamental Rights in Minerva Mills?",
+          "options": [
+            "A law outside judicial review",
+            "The Basic Structure doctrine",
+            "Separation of powers doctrine",
+            "Double jeopardy doctrine"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-183",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Preamble describes India as:",
+          "options": [
+            "A sovereign socialist secular democratic republic",
+            "A federal socialist monarchy",
+            "A sovereign secular presidential republic",
+            "A unitary socialist democratic kingdom"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-198",
+          "section": "Preamble, Features & Basic Structure",
+          "topic": "Preamble, Features & Basic Structure",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Fraternity in the Preamble mainly seeks:",
+          "options": [
+            "Tax equality for all citizens",
+            "The dignity of the individual and unity of the nation",
+            "Judicial exclusivity",
+            "A separate territorial status"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Fundamental Rights",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-004",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Ninth Schedule laws are now protected from Fundamental Rights challenge only when examined in light of the:",
+          "options": [
+            "Speaker’s ruling alone",
+            "Finance Commission report",
+            "State Governor approval",
+            "Basic structure doctrine and applicable judicial precedents"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-007",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Question Hour in Parliament primarily enables:",
+          "options": [
+            "Members to seek information and hold Ministers accountable",
+            "Judges to question witnesses",
+            "State Assemblies to amend Bills",
+            "The President to appoint Governors"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-022",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "What is a session of Parliament normally followed by a recess called?",
+          "options": [
+            "Dissolution only",
+            "Prorogation",
+            "Adjournment sine die only",
+            "Motion of thanks"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-027",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Who presides over a joint sitting of Parliament?",
+          "options": [
+            "The President",
+            "The Speaker of the Lok Sabha",
+            "The Prime Minister",
+            "The Chief Justice of India"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-034",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "How many days does the Rajya Sabha have to return a Money Bill?",
+          "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "14 days"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-047",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which House elects its own Deputy Speaker in practice?",
+          "options": [
+            "Rajya Sabha",
+            "Both Houses appoint the Deputy Speaker personally by the President",
+            "Neither House has a Deputy Speaker",
+            "Lok Sabha"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-086",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Anti-Defection law is based on:",
+          "options": [
+            "First Schedule",
+            "Ninth Schedule",
+            "Tenth Schedule of the Constitution",
+            "Eleventh Schedule"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-090",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The maximum strength of Lok Sabha is fixed by law at roughly:",
+          "options": [
+            "400 members",
+            "600 members",
+            "550 members",
+            "750 members"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-097",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Leader of the Opposition status in Lok Sabha generally depends on statutory recognition and minimum party strength, commonly:",
+          "options": [
+            "At least 10 per cent of the House",
+            "Exactly 50 per cent of members",
+            "All members of State parties only",
+            "At least one member elected without contest"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-102",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The casting vote of the Speaker is exercised:",
+          "options": [
+            "Whenever the Speaker wishes to support every bill",
+            "Only in committee stage",
+            "When votes are tied in the House",
+            "Only during Presidential elections"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-110",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "State and Courts",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Ninety-third Amendment enables reservations for educationally backward classes, including at private educational institutions under Article 15, while protecting certain institutions through later interpretive limits; its year is:",
+          "options": [
+            "2005",
+            "2000",
+            "1992",
+            "2010"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-125",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A no-confidence motion can be moved only in:",
+          "options": [
+            "Rajya Sabha",
+            "State Legislative Council",
+            "Lok Sabha",
+            "National Development Council"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-126",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Fundamental Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which parliamentary committee is chaired by the Speaker of Lok Sabha?",
+          "options": [
+            "Public Accounts Committee chaired by President",
+            "Committee on Ethics of Rajya Sabha",
+            "All department committees automatically",
+            "Business Advisory Committee"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-128",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 32 petitions directly before the Supreme Court can seek remedies for violation of:",
+          "options": [
+            "Fundamental Rights",
+            "Directive Principles only",
+            "Ordinary civil contracts only",
+            "State legislative privileges only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-144",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Fundamental Rights are primarily found in:",
+          "options": [
+            "Part IV of the Constitution",
+            "Part III of the Constitution",
+            "Part IX of the Constitution alone",
+            "The Eighth Schedule"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-164",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Polity",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 21A was inserted by which amendment?",
+          "options": [
+            "44th Amendment",
+            "61st Amendment",
+            "91st Amendment",
+            "86th Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-173",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Polity",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 32 is described as the constitutional remedy for enforcement of:",
+          "options": [
+            "Directive Principles only",
+            "Fundamental Duties only",
+            "Fundamental Rights",
+            "Official Languages"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-185",
+          "section": "Fundamental Rights",
+          "topic": "Fundamental Rights",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Article 21A provides the State with a duty to provide:",
+          "options": [
+            "Free education to all adults",
+            "Free and compulsory education to children aged 6–14",
+            "Private education subsidies only",
+            "Only vocational education"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "DPSP & Fundamental Duties",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-008",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 21 protects:",
+          "options": [
+            "Only a person’s home ownership",
+            "Life and personal liberty",
+            "Freedom to form armed groups",
+            "The right to government employment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-009",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A resolution for creating a Legislative Council in a State begins through:",
+          "options": [
+            "A direct Presidential ordinance only",
+            "A Supreme Court direction",
+            "The Governor’s unilateral proclamation",
+            "A State Legislative Assembly resolution followed by Parliament legislation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-044",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "How are Directive Principles of State Policy best classified constitutionally?",
+          "options": [
+            "Enforceable as individual damages under Article 32",
+            "Part of the Tenth Schedule",
+            "Rules governing party defections",
+            "Non-justiciable constitutional policy guidance"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-057",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The writ of habeas corpus protects primarily against:",
+          "options": [
+            "Tax evasion",
+            "Election malpractice",
+            "Disobedience of State boundaries",
+            "Unlawful detention"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-070",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which constitutional office is described as the guardian of the Lok Sabha schedule and proceedings in the House?",
+          "options": [
+            "Vice-President",
+            "Speaker",
+            "Attorney General",
+            "Comptroller and Auditor General"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-091",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which Fundamental Right was restored after the Forty-fourth Amendment removed it as a general right?",
+          "options": [
+            "Right to equality",
+            "Freedom of religion",
+            "Property is no longer a Fundamental Right under Article 19(1)(f) in its original form",
+            "Cultural and educational rights"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-103",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Rajya Sabha representation of States is allocated mainly according to:",
+          "options": [
+            "Geographical area alone",
+            "Number of district headquarters",
+            "Population, as adjusted in the constitutional scheme",
+            "Length of international border"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-157",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Who is eligible to preside over a sitting of Rajya Sabha in the Chairperson’s absence under the constitutional arrangement?",
+          "options": [
+            "Leader of the Opposition as Vice-President",
+            "Deputy Chairperson",
+            "Prime Minister",
+            "Pro tem Speaker of Lok Sabha"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-178",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Quo warranto questions:",
+          "options": [
+            "The legality of a person holding a public office",
+            "The constitutionality of an international treaty only",
+            "The legality of a private lease",
+            "The location of Parliament"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-200",
+          "section": "DPSP & Fundamental Duties",
+          "topic": "DPSP & Fundamental Duties",
+          "subtopic": "Directive Principles and Duties",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 32 is described as the:",
+          "options": [
+            "Right to free education",
+            "Right against exploitation",
+            "Freedom of trade between States",
+            "Right to constitutional remedies"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "President, Vice-President & Union Executive",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-001",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Vice-President is ex officio Chairman of which House?",
+          "options": [
+            "Lok Sabha",
+            "Rajya Sabha",
+            "Legislative Council of every State",
+            "National Development Council"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-016",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which body constitutes the President’s electoral college?",
+          "options": [
+            "All sitting and retired judges",
+            "All State Governors and Chief Ministers",
+            "Elected members of both Houses of Parliament and elected members of State Legislative Assemblies",
+            "Members of Panchayati Raj institutions alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-031",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The President can be re-elected:",
+          "options": [
+            "Only once",
+            "Without any constitutional numerical limit",
+            "Only after ten years",
+            "Only if Parliament approves unanimously"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-042",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The President appoints a Governor on whose advice?",
+          "options": [
+            "A State legislative assembly",
+            "The State Public Service Commission",
+            "The Election Commission of India",
+            "The Union Council of Ministers"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-049",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Who removes the President under Article 61?",
+          "options": [
+            "The Supreme Court by simple judicial verdict",
+            "Parliament by impeachment following the constitutional procedure",
+            "The Prime Minister acting alone",
+            "A joint sitting of the Cabinet"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-062",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A Governor’s assent can lead to a Bill being reserved for the President’s consideration if required by:",
+          "options": [
+            "The constitutional scheme governing the State Bill",
+            "The State Public Service Commission",
+            "The High Court’s calendar",
+            "A Panchayat resolution"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-063",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which Article supplies the procedure for impeachment of the President?",
+          "options": [
+            "Article 74",
+            "Article 110",
+            "Article 280",
+            "Article 61"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-065",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A vacancy in the office of Vice-President is filled within what period generally prescribed by the Constitution?",
+          "options": [
+            "Exactly within six months only",
+            "Within one year under every circumstance",
+            "It must wait until the next general election",
+            "As early as possible, within the period under Article 68"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-066",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Who acts as President if both the President and Vice-President are unavailable?",
+          "options": [
+            "The Senior-most Governor",
+            "The Chief Justice of India under Article 65 arrangements",
+            "The Lok Sabha Speaker",
+            "The Union Home Secretary"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-067",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which condition must a person satisfy to be eligible for President?",
+          "options": [
+            "Citizen of India, at least 45, and a former judge",
+            "Citizen for 20 years and member of Rajya Sabha",
+            "At least 40 and resident of the capital territory",
+            "Citizen of India, at least 35, and qualified for Lok Sabha membership"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-096",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The President dissolves which House of Parliament?",
+          "options": [
+            "Rajya Sabha",
+            "Both Houses simultaneously by a single automatic order",
+            "Lok Sabha",
+            "The Speaker’s Chamber"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-119",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Vice-President is elected by members of:",
+          "options": [
+            "An electoral college of both Houses of Parliament",
+            "State Assemblies only",
+            "Lok Sabha alone",
+            "All State Governors"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-165",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "What can the President do after a Bill is presented under Article 111?",
+          "options": [
+            "Give assent, withhold assent, or return a non-Money Bill with a message for reconsideration",
+            "Always promulgate it as an ordinance",
+            "Refer every Bill to the Supreme Court",
+            "Automatically dissolve the Lok Sabha"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-192",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The President summons and prorogues Parliament under provisions including:",
+          "options": [
+            "Article 30",
+            "Article 85",
+            "Article 39",
+            "Article 324"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-199",
+          "section": "President, Vice-President & Union Executive",
+          "topic": "President, Vice-President & Union Executive",
+          "subtopic": "President and Parliament",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A pardon under Article 72 may be granted by the President for offences in which category?",
+          "options": [
+            "Only offences tried in State courts",
+            "Offences involving Union law, court-martial cases, or death sentences",
+            "Only offences committed outside India",
+            "Only crimes punishable by imprisonment below one year"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Prime Minister & Council of Ministers",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-010",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Individual ministerial responsibility means:",
+          "options": [
+            "A Minister answers for actions within their portfolio",
+            "All Ministers lose office if one loses confidence",
+            "The President assumes ministerial duties",
+            "The Rajya Sabha selects portfolio allocation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-021",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 163 establishes a Council of Ministers with the Chief Minister to aid and advise the:",
+          "options": [
+            "President exclusively",
+            "High Court Chief Justice",
+            "Speaker of the Assembly",
+            "Governor, subject to discretion in express constitutional circumstances"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-029",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The principle that Ministers must have the confidence of Lok Sabha primarily reflects:",
+          "options": [
+            "Collective responsibility",
+            "Individual responsibility",
+            "Cooperative federalism",
+            "Judicial responsibility"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-111",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A person can be appointed Prime Minister if they:",
+          "options": [
+            "Are a member of either House or become a member within six months",
+            "Must be a member of Lok Sabha only",
+            "Must be elected by the Lok Sabha Speaker",
+            "Must be a member of Rajya Sabha only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-112",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "President and Parliament",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Can the President exercise functions without advice from the Council of Ministers?",
+          "options": [
+            "No, every action is personally decided by Parliament",
+            "Yes, in a few discretionary acts expressly permitted by the Constitution",
+            "Yes, the President can replace the Cabinet at will",
+            "No, only the Chief Justice may advise assent"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-145",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Constitution generally requires Union Ministers to:",
+          "options": [
+            "Be members of both Houses",
+            "Be members of Parliament or become so within six months",
+            "Be former judges",
+            "Be elected by State Assemblies"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-148",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Cabinet, as distinct from the Council of Ministers, is:",
+          "options": [
+            "A constitutional body created by Article 75",
+            "The full Rajya Sabha ministry",
+            "An advisory committee of State Governors",
+            "A smaller inner body of senior Ministers"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-171",
+          "section": "Prime Minister & Council of Ministers",
+          "topic": "Prime Minister & Council of Ministers",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A vote of no-confidence that succeeds in Lok Sabha ordinarily leads to:",
+          "options": [
+            "Automatic removal of the President",
+            "Automatic amendment of the Constitution",
+            "Dissolution of State Assemblies",
+            "Resignation of the Council or dissolution of the House"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Parliament",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-018",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A Bill becomes an Act only after:",
+          "options": [
+            "Lok Sabha alone passes it",
+            "It is passed by Parliament and assented to by the President",
+            "The Speaker signs it",
+            "The Supreme Court approves it"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-039",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A Legislative Council cannot originate or finally reject a Money Bill; it mainly exercises delay and recommendation under:",
+          "options": [
+            "Article 61",
+            "Article 280",
+            "Article 198 and the State constitutional scheme",
+            "Article 324"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-048",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The five-year term of Lok Sabha is subject to premature dissolution and possible extension only:",
+          "options": [
+            "At the will of the Prime Minister alone",
+            "For each financial year",
+            "Under constitutional emergency provisions and applicable law",
+            "By State Governors"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-061",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Governor appoints the Chief Minister in the normal parliamentary convention after:",
+          "options": [
+            "Direct public referendum each month",
+            "Following post-election assessment of confidence and lawful majority support",
+            "A Supreme Court ballot",
+            "A fixed civil-service order"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-071",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Rajya Sabha has the same constitutional role as Lok Sabha in approving:",
+          "options": [
+            "A Money Bill certified by the Speaker",
+            "A Lok Sabha confidence vote alone",
+            "A constitutional amendment passed by Parliament",
+            "A dissolution proclamation alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-076",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A Money Bill is formally certified by:",
+          "options": [
+            "The Chairperson of the Rajya Sabha",
+            "The President",
+            "The Comptroller and Auditor General",
+            "The Speaker of the Lok Sabha"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-082",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Speaker's casting vote is exercised:",
+          "options": [
+            "To resolve a tie, and is not counted as an ordinary vote",
+            "Before any tie to determine a result",
+            "Only in State legislatures",
+            "Only in committee meetings"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-089",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A Money Bill may be introduced only in:",
+          "options": [
+            "Rajya Sabha",
+            "Lok Sabha",
+            "Either House",
+            "A joint committee of both Houses"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-099",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Rajya Sabha is a permanent House because:",
+          "options": [
+            "It is not dissolved and one-third of its members retire every two years",
+            "All members serve lifetime terms",
+            "It is constituted only after dissolution",
+            "It has no elected members"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-105",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Budget is presented under:",
+          "options": [
+            "The constitutional framework of financial Bills and Article 112",
+            "Article 352",
+            "Article 324",
+            "Article 368"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-108",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Rajya Sabha has the special power to authorise Parliament to legislate on a State List subject for national interest under:",
+          "options": [
+            "Article 256",
+            "Article 260",
+            "Article 249",
+            "Article 352"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-109",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The President may summon or prorogue Parliament under:",
+          "options": [
+            "Article 74",
+            "Article 108",
+            "Article 352",
+            "Article 85"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-116",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A Money Bill can only be introduced in:",
+          "options": [
+            "Rajya Sabha",
+            "Either House",
+            "Lok Sabha",
+            "A joint sitting"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-149",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Executive and Bills",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "How is a joint sitting of Parliament summoned for an unresolved Bill?",
+          "options": [
+            "By the Speaker automatically",
+            "By the Vice-President alone",
+            "By the Attorney General",
+            "By the President"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-154",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Adjournment Motion is primarily intended to:",
+          "options": [
+            "Remove the Speaker",
+            "Raise a matter of urgent public importance",
+            "Close the entire parliamentary session permanently",
+            "Amend the Constitution"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-160",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Rajya Sabha is a continuing chamber because:",
+          "options": [
+            "It is dissolved every five years",
+            "It has no elected members",
+            "It is never dissolved and about one-third of members retire every two years",
+            "Its entire strength is nominated"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-163",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A joint sitting is chaired by:",
+          "options": [
+            "The Chairman of Rajya Sabha",
+            "The President",
+            "The Speaker of Lok Sabha",
+            "The Prime Minister"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-181",
+          "section": "Parliament",
+          "topic": "Parliament",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Lok Sabha's ordinary term is:",
+          "options": [
+            "Four years",
+            "Six years",
+            "Five years from first sitting, unless dissolved earlier",
+            "Seven years"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Supreme Court & High Courts",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-013",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Public Offices",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which law court has jurisdiction over a State for ordinary civil and criminal matters below the Supreme Court?",
+          "options": [
+            "Only Parliament’s tribunal",
+            "Only panchayat courts",
+            "The President’s court",
+            "The High Court and subordinate courts"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-024",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Judiciary",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A High Court judge normally retires at:",
+          "options": [
+            "62 years",
+            "65 years",
+            "60 years",
+            "67 years"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-026",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Judiciary",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Supreme Court can issue writs under:",
+          "options": [
+            "Article 32",
+            "Article 226",
+            "Article 300A",
+            "Article 324"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-028",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The High Court is empowered under Article 227 to exercise:",
+          "options": [
+            "Executive control over State budgets",
+            "Removal of State Ministers",
+            "Superintendence over subordinate courts, within constitutional limits",
+            "Conduct of Parliamentary elections"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-037",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Supreme Court Jurisdiction",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Golak Nath is known for the proposition, later qualified by constitutional amendment doctrine, that Parliament:",
+          "options": [
+            "Could never amend ordinary laws",
+            "Could dissolve High Courts without limits",
+            "Could not amend Fundamental Rights under the reasoning before the Twenty-fourth Amendment",
+            "Could abolish adult suffrage"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-055",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which Article empowers a State High Court to issue writs?",
+          "options": [
+            "Article 32",
+            "Article 142",
+            "Article 226",
+            "Article 368"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-068",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The State High Court Chief Justice is appointed by the:",
+          "options": [
+            "Governor alone",
+            "Chief Minister alone",
+            "Election Commission",
+            "President"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-069",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A State High Court judge holds office until age:",
+          "options": [
+            "65",
+            "62",
+            "60",
+            "67"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-083",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 215 gives each High Court the status and contempt powers of:",
+          "options": [
+            "A court of record",
+            "A tribunal subordinate to the State Assembly",
+            "An executive commission",
+            "A revenue board"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-093",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Supreme Court Jurisdiction",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Public Interest Litigation enables courts to entertain:",
+          "options": [
+            "A private commercial appeal without jurisdiction",
+            "Secret government communications only",
+            "A candidate’s campaign promise",
+            "A public grievance brought before them by an affected or credible party"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-131",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Public Offices",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 226 empowers a High Court to issue writs for enforcement of:",
+          "options": [
+            "Fundamental Rights and for any other purpose within jurisdiction",
+            "Only Directive Principles",
+            "Only election petitions with no exceptions",
+            "Only Presidential salaries"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-133",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Judiciary",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Supreme Court has advisory jurisdiction under:",
+          "options": [
+            "Article 131",
+            "Article 32",
+            "Article 136",
+            "Article 143"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-139",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Speaker of Lok Sabha resigns by writing addressed to:",
+          "options": [
+            "The President",
+            "The Prime Minister",
+            "The Deputy Speaker",
+            "The Chief Justice"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-177",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Judiciary",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A Supreme Court judge vacates office at the age of:",
+          "options": [
+            "62 years",
+            "65 years",
+            "60 years",
+            "70 years"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-193",
+          "section": "Supreme Court & High Courts",
+          "topic": "Supreme Court & High Courts",
+          "subtopic": "Polity",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which writ is used to require a public authority to perform a public legal duty?",
+          "options": [
+            "Habeas corpus",
+            "Mandamus",
+            "Quo warranto",
+            "Certiorari"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Federalism & Centre-State Relations",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-050",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A subject under the Concurrent List can be legislated by:",
+          "options": [
+            "Only Parliament in every case",
+            "Parliament and State legislatures, subject to repugnancy principles",
+            "Only State legislatures in every case",
+            "Local bodies alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-058",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "In cooperative federalism, the Union and States:",
+          "options": [
+            "Exercise identical constitutional powers",
+            "Cannot make any intergovernmental arrangements",
+            "Coordinate policy and administration through institutions and shared goals",
+            "Require State consent for every Union law"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-064",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Article 249 permits Parliament to legislate on State List subjects when:",
+          "options": [
+            "Lok Sabha is dissolved",
+            "The President receives no advice",
+            "Rajya Sabha declares national interest",
+            "A State Governor requests it directly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-077",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "An Inter-State Council is contemplated by:",
+          "options": [
+            "Article 74",
+            "Article 263",
+            "Article 124",
+            "Article 368"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-107",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Sarkaria Commission dealt mainly with:",
+          "options": [
+            "Election funding",
+            "Judicial appointments",
+            "Panchayati Raj finances",
+            "Centre-State relations"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-122",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 368 amendments affecting federal features have to be ratified by legislatures of:",
+          "options": [
+            "Not less than half the States",
+            "Every State Assembly unanimously",
+            "All Governors individually",
+            "Both Houses of a State council only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-129",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Cooperative federalism under the Constitution is commonly aided by institutions including:",
+          "options": [
+            "Election Commission and Comptroller only",
+            "Supreme Court and Attorney General alone",
+            "Inter-State Council and GST Council",
+            "Only State Governors"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-142",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "If a State law conflicts with an earlier valid Union law on a Concurrent List subject:",
+          "options": [
+            "The State law always prevails",
+            "The Union law generally prevails, subject to constitutional conditions",
+            "The Governor decides alone",
+            "The Supreme Court automatically repeals both"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-150",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Concurrent List includes subjects that:",
+          "options": [
+            "Only the Union may legislate on",
+            "Both Union and States may legislate on, subject to Union predominance",
+            "Only local governments may legislate on",
+            "Only State Governors may administer"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-159",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Article 256 requires States and State officials to:",
+          "options": [
+            "Comply with Union laws and Union executive directions",
+            "Elect the President directly",
+            "Control the Supreme Court",
+            "Frame Union legislation"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-172",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Inter-State Council is provided for under:",
+          "options": [
+            "Article 262",
+            "Article 352",
+            "Article 263",
+            "Article 370"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-196",
+          "section": "Federalism & Centre-State Relations",
+          "topic": "Federalism & Centre-State Relations",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The residuary power under Article 248 belongs to:",
+          "options": [
+            "The Parliament",
+            "State Legislatures",
+            "Municipal councils",
+            "The President personally"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Governor & State Executive",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-002",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which organ advises the Governor on legal matters?",
+          "options": [
+            "Attorney-General",
+            "Solicitor-General",
+            "State Election Commissioner",
+            "Advocate-General"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-053",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Governor generally acts on the aid and advice of:",
+          "options": [
+            "The State Council of Ministers",
+            "The State Public Service Commission",
+            "The High Court",
+            "The Advocate-General"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-056",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Chief Minister is appointed by:",
+          "options": [
+            "The Speaker",
+            "The Governor",
+            "The Vice-President",
+            "The Chief Justice"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-059",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Governor of a State is appointed by:",
+          "options": [
+            "The President",
+            "The Chief Minister",
+            "The State Assembly",
+            "The Election Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-072",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Article 200 allows a Governor to:",
+          "options": [
+            "Dissolve Parliament",
+            "Remove the Chief Justice",
+            "Promulgate a central ordinance",
+            "Assent to a Bill, withhold assent, or return a Bill other than a Money Bill for reconsideration"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-100",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Governor addresses the first session of a new Legislative Assembly under:",
+          "options": [
+            "Article 213",
+            "Article 356",
+            "Article 176",
+            "Article 361"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-124",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Governor holds office during:",
+          "options": [
+            "The pleasure of the Chief Minister",
+            "A fixed four-year term not subject to removal",
+            "The pleasure of the President",
+            "The pleasure of the State Assembly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-134",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Governor must ordinarily act on ministerial advice, with recognized exceptions and duties, because State executive authority is entrusted under:",
+          "options": [
+            "Article 1 only",
+            "Article 324 exclusively",
+            "The constitutional scheme of Articles 153–163",
+            "Article 280 exclusively"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-162",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A Governor can reserve a Bill for reconsideration by the President under:",
+          "options": [
+            "Article 163",
+            "Article 167",
+            "Article 174",
+            "Article 200"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-195",
+          "section": "Governor & State Executive",
+          "topic": "Governor & State Executive",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Governor's ordinance-making power during recess is under:",
+          "options": [
+            "Article 123",
+            "Article 352",
+            "Article 360",
+            "Article 213"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "State Legislature",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-019",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A Legislative Council is:",
+          "options": [
+            "Permanent and has one-third of members retiring every two years",
+            "Completely dissolved every five years",
+            "A replacement for the Legislative Assembly",
+            "Directly controlled by Parliament"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-036",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "A Bill that grants or varies a State tax is generally a:",
+          "options": [
+            "Constitution Amendment Bill",
+            "Private Members' Bill",
+            "Money Bill",
+            "Judicial reference"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-092",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "Which State legislatures may have a Legislative Council?",
+          "options": [
+            "Every State",
+            "Legislatures of States meeting constitutional requirements and approved by Parliament",
+            "Only Union Territories",
+            "Only States in the Sixth Schedule"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-094",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The State Legislative Assembly's ordinary term is:",
+          "options": [
+            "Four years",
+            "Six years",
+            "Seven years",
+            "Five years, subject to earlier dissolution"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-113",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The State Legislative Council may be created through:",
+          "options": [
+            "A Governor-only ordinance",
+            "A State Assembly resolution and Parliament legislation",
+            "A Supreme Court ruling only",
+            "A municipal council resolution"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-141",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A State Legislative Council must have not less than 40 and not more than one-third of the strength of the State Assembly, subject to:",
+          "options": [
+            "A President fixed number of 100",
+            "No minimum or maximum",
+            "Only the State Governor’s list",
+            "The Constitution’s minimum number provision of 40 and legislative enactment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-182",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Speaker of a State Legislative Assembly is elected by:",
+          "options": [
+            "The Governor",
+            "The members of the Assembly",
+            "The Chief Minister",
+            "The State Election Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-187",
+          "section": "State Legislature",
+          "topic": "State Legislature",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The maximum strength of a State Legislative Assembly is:",
+          "options": [
+            "500 elected members",
+            "500 elected and 12 nominated",
+            "500 members of both Houses",
+            "500"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Constitutional & Statutory Bodies",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-005",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The CAG is removed by:",
+          "options": [
+            "The Prime Minister alone",
+            "The Speaker",
+            "The President on Parliament's special removal process",
+            "The Chief Justice"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-006",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The National Commission for Scheduled Castes is a:",
+          "options": [
+            "Statutory municipal body",
+            "Local authority",
+            "Political party",
+            "Constitutional body"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-015",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The CAG may audit public and many Government-aided bodies under powers granted by:",
+          "options": [
+            "Article 356 only",
+            "The Constitution and the CAG (Duties, Powers and Conditions of Service) Act, 1971",
+            "The Election Commission Act only",
+            "The Representation of the People Act"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-046",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "UPSC is constituted under:",
+          "options": [
+            "Article 315",
+            "Article 324",
+            "Article 280",
+            "Article 338"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-074",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Election Commission is described as:",
+          "options": [
+            "A constitutional multi-member body",
+            "A statutory municipal body",
+            "An executive department",
+            "A parliamentary committee"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-084",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Finance Commission is constituted under:",
+          "options": [
+            "Article 263",
+            "Article 280",
+            "Article 324",
+            "Article 352"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-085",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Comptroller and Auditor General is appointed for tenure under which constitutional Article’s framework?",
+          "options": [
+            "Article 124",
+            "Article 280",
+            "Article 352",
+            "Article 148"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-106",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Attorney General of India is an officer appointed by:",
+          "options": [
+            "The President",
+            "The Supreme Court",
+            "The Election Commission",
+            "The Comptroller and Auditor General"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-120",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Citizenship and Rights",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Comptroller and Auditor General’s reports are examined by:",
+          "options": [
+            "Rajya Sabha only in private session",
+            "Public Accounts Committee, including at Union level",
+            "The Cabinet without Parliamentary scrutiny",
+            "The Election Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-123",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Attorney-General has the right to:",
+          "options": [
+            "Speak and participate in parliamentary proceedings without voting",
+            "Vote in Lok Sabha",
+            "Impose taxes",
+            "Appoint judges"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-135",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The CAG submits audit reports to:",
+          "options": [
+            "The Election Commission",
+            "The President or Governor for submission to legislature",
+            "The Supreme Court",
+            "The Union Public Service Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-155",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Central Vigilance Commission is:",
+          "options": [
+            "A constitutional court",
+            "A State public service commission",
+            "A statutory body",
+            "A local government authority"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-161",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The Comptroller and Auditor-General is appointed by:",
+          "options": [
+            "The Prime Minister",
+            "The Speaker",
+            "The Chief Justice",
+            "The President"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-166",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The State Finance Commission is provided for under Articles relating to:",
+          "options": [
+            "280 only",
+            "243Y/243ZD and the local self-government framework",
+            "324 and 326",
+            "352 and 360"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-169",
+          "section": "Constitutional & Statutory Bodies",
+          "topic": "Constitutional & Statutory Bodies",
+          "subtopic": "Polity",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Under which constitutional provision is the National Commission for Scheduled Castes constituted?",
+          "options": [
+            "Article 338",
+            "Article 338A",
+            "Article 340",
+            "Article 343"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Elections & Election Commission",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-012",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 343 establishes Hindi in Devanagari script as:",
+          "options": [
+            "The sole language of all State courts",
+            "The language of every private company",
+            "The language replacing all regional scripts",
+            "The official language of the Union, while English continues in the prescribed transitional arrangement"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-023",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "President and Parliament",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A decision of the Union Cabinet is ordinarily communicated to the President by:",
+          "options": [
+            "The Vice-President",
+            "The Prime Minister",
+            "The Attorney General",
+            "The Cabinet Secretary acting as appointing authority"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-041",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 340 concerns investigation and recommendations for:",
+          "options": [
+            "Socially and educationally backward classes",
+            "Scheduled Castes only",
+            "Foreign diplomatic missions",
+            "Military recruitment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-060",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Attorney General of India is appointed by:",
+          "options": [
+            "The Chief Justice",
+            "The Prime Minister alone",
+            "The President",
+            "The Election Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-101",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Schedules Fifth and Sixth deal respectively with administration in:",
+          "options": [
+            "Municipal elections and Panchayat lists",
+            "Presidential and Parliamentary procedures",
+            "Scheduled Areas/Tribes and autonomous district arrangements in northeastern States",
+            "Banking and finance only"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-176",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Comptroller and Auditor General audits the accounts of:",
+          "options": [
+            "Only private corporations",
+            "The Union and States",
+            "Only political parties",
+            "Only municipal bodies"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-186",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Advocate General for a State is appointed by:",
+          "options": [
+            "The Governor",
+            "The Chief Minister personally without advice",
+            "The High Court Chief Justice",
+            "The President directly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-197",
+          "section": "Elections & Election Commission",
+          "topic": "Elections & Election Commission",
+          "subtopic": "Elections and Governance",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Election Commission is established under:",
+          "options": [
+            "Article 324",
+            "Article 315",
+            "Article 280",
+            "Article 352"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Emergency Provisions",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-032",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Emergency and Federalism",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Fundamental Duties were inserted by the:",
+          "options": [
+            "25th Constitutional Amendment",
+            "73rd Amendment",
+            "42nd Constitutional Amendment",
+            "91st Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-054",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Basic Structure and Amendments",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "National Emergency approval must be within one month but its continuing operation is approved every:",
+          "options": [
+            "One month",
+            "One year",
+            "Two years",
+            "Six months"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-075",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Constitution originally described the emergency ground as internal disturbance; it was replaced by armed rebellion by:",
+          "options": [
+            "44th Amendment",
+            "24th Amendment",
+            "52nd Amendment",
+            "73rd Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-095",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Emergency Provisions",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Lokpal and Lokayuktas Act, 2013 establishes an anti-corruption ombudsman at:",
+          "options": [
+            "Every Panchayat only",
+            "The Union level for Lokpal and State level for Lokayuktas under State law",
+            "The Supreme Court Registry",
+            "The Election Commission Secretariat"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-115",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Major Amendments",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 365 and Article 356 are not treated by courts as:",
+          "options": [
+            "Automatic consequences irrespective of facts and compliance",
+            "Independent of evidence",
+            "Tools of State legislature dissolution",
+            "Subjects of judicial review"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-132",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Basic Structure and Amendments",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Before a National Emergency under Article 352 is proclaimed, the Union Cabinet communicates in writing:",
+          "options": [
+            "A state-by-state election calendar",
+            "A Supreme Court judgment",
+            "Its recommendation to the President",
+            "The Finance Commission report"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-152",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Emergency and Federalism",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Directive Principles are found in:",
+          "options": [
+            "Part IV",
+            "Part III",
+            "Part VI",
+            "Part IXA"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-153",
+          "section": "Emergency Provisions",
+          "topic": "Emergency Provisions",
+          "subtopic": "Emergency Provisions",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 24 prohibits employment of children below 14 in:",
+          "options": [
+            "All schools only",
+            "Any voluntary sports activity",
+            "Government administrative offices exclusively",
+            "Hazardous employment as defined by law"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Constitutional Amendments",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-003",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Citizenship is governed primarily by:",
+          "options": [
+            "Part IV and the Panchayat Act",
+            "The Tenth Schedule only",
+            "Article 324 exclusively",
+            "Part II and the Citizenship Act, 1955"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-014",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The State Legislative Assembly may be dissolved under President’s Rule, subject to later constitutional review and:",
+          "options": [
+            "Permanent dissolution by the Governor alone",
+            "Approval only by the State High Court",
+            "Automatic restoration after one month",
+            "Parliamentary approval of the proclamation and subsequent validity provisions"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-088",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Acquisition or termination of Indian citizenship after commencement is principally determined by:",
+          "options": [
+            "The Citizenship Act, 1955 and later amendments",
+            "Governor residence certificates",
+            "Panchayat resolutions",
+            "Supreme Court writ petitions alone"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-117",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Constitutional Procedure",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Basic Features doctrine was identified first in Kesavananda Bharati by:",
+          "options": [
+            "A five-judge Election Commission Bench",
+            "A Lok Sabha committee",
+            "A thirteen-judge Supreme Court Constitution Bench",
+            "A State constitutional assembly"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-136",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The basic structure doctrine was articulated in:",
+          "options": [
+            "Golaknath v. State of Punjab",
+            "Menaka Gandhi v. Union of India",
+            "SR Bommai v. Union of India only",
+            "Kesavananda Bharati v. State of Kerala"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-143",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The single citizenship in India means:",
+          "options": [
+            "Citizens owe allegiance to India rather than distinct State citizenships",
+            "Each State issues a separate passport",
+            "Citizens must live in their birth State",
+            "Only Union citizens can vote nationally"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-167",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Basic Structure and Amendments",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Twenty-fifth Amendment dealt substantially with restrictions connected to:",
+          "options": [
+            "Election Commission appointments",
+            "Judicial salaries",
+            "Property rights and Article 31C",
+            "Official languages"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-188",
+          "section": "Constitutional Amendments",
+          "topic": "Constitutional Amendments",
+          "subtopic": "Major Amendments",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 365 allows the Union to treat failure to comply with directions as:",
+          "options": [
+            "An automatic emergency under Article 360",
+            "A repeal of State boundaries",
+            "A situation where Article 356 may be invoked",
+            "A constitutional amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Local Government & Panchayati Raj",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-020",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The 74th Amendment deals primarily with:",
+          "options": [
+            "Panchayats",
+            "District Courts",
+            "State Governors",
+            "Municipalities"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-030",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The municipal constitutional framework was strengthened through the:",
+          "options": [
+            "72nd Amendment",
+            "78th Amendment",
+            "74th Amendment",
+            "81st Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-033",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The State Election Commission conducts:",
+          "options": [
+            "Lok Sabha elections",
+            "Presidential elections",
+            "Panchayat and municipality elections",
+            "Rajya Sabha elections"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-052",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Panchayati Raj framework was constitutionalized by:",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "101st Amendment",
+            "73rd Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-073",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Conceptual/constitutional application",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "CONCEPTUAL",
+          "q": "The 73rd Amendment deals primarily with:",
+          "options": [
+            "Municipalities",
+            "Panchayati Raj institutions",
+            "Scheduled Tribes",
+            "Election Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-081",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Polity",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Municipal constitutional framework was strengthened by:",
+          "options": [
+            "72nd Amendment",
+            "74th Amendment",
+            "52nd Amendment",
+            "61st Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-104",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 243D reserves seats for Scheduled Castes and Scheduled Tribes in Panchayats in proportion to:",
+          "options": [
+            "Their income alone",
+            "Their distance from district headquarters",
+            "Their population in the Panchayat area, as Constitutionally provided, with women reservations too",
+            "Their employment in government service"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-194",
+          "section": "Local Government & Panchayati Raj",
+          "topic": "Local Government & Panchayati Raj",
+          "subtopic": "Constitutional Bodies",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The term Panchayati Raj was constitutionalized through:",
+          "options": [
+            "73rd Amendment",
+            "42nd Amendment",
+            "44th Amendment",
+            "101st Amendment"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    },
+    {
+      "name": "Concepts & Governance",
+      "questions": [
+        {
+          "id": "POLITY-MASTER-017",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Polity",
+          "difficulty": "Easy",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which Article provides equality before the law and equal protection of the laws?",
+          "options": [
+            "Article 14",
+            "Article 19",
+            "Article 21A",
+            "Article 324"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-035",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Seventh Schedule divides legislative authority among:",
+          "options": [
+            "Union, State, and Concurrent Lists",
+            "Fundamental Rights, Duties, and Directive Principles",
+            "Executive, Legislature, and Judiciary only",
+            "Central, Municipal, and Panchayat lists"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-043",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Local Government and Schedules",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Reservations for socially and educationally backward classes in public employment are enabled by:",
+          "options": [
+            "Article 14",
+            "Article 19(1)(g)",
+            "Article 21A",
+            "Article 16(4)"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-045",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Public Offices",
+          "difficulty": "Moderate",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Article 214 establishes:",
+          "options": [
+            "A High Court for each State",
+            "A Supreme Court for each district",
+            "A Governor for each State territory",
+            "A separate Election Commission for each State"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-080",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The main structural carbohydrate in plant cell walls is:",
+          "options": [
+            "Keratin",
+            "Cellulose",
+            "Chitin",
+            "Glycogen"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-098",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which Indian mountain range separates the northern plains from the Deccan Plateau?",
+          "options": [
+            "Vindhya Range",
+            "Aravalli Range",
+            "Sivalik Range",
+            "Eastern Ghats"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-118",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which acid is found in gastric juice?",
+          "options": [
+            "Sulphuric acid",
+            "Hydrochloric acid",
+            "Citric acid",
+            "Nitric acid"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-127",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Geography",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "The Thar Desert lies mainly in:",
+          "options": [
+            "Central Brazil",
+            "Southern Africa",
+            "Eastern Australia",
+            "Northwestern India and adjacent Pakistan"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-140",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which phenomenon explains the bending of light at a boundary between air and glass?",
+          "options": [
+            "Reflection due to surface color",
+            "Diffraction from a perfect mirror",
+            "Refraction due to change in speed",
+            "Dispersion without speed change"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-146",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which product is formed at the cathode during electrolysis of molten sodium chloride?",
+          "options": [
+            "Chlorine",
+            "Hydrogen",
+            "Sodium",
+            "Oxygen"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-156",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which vitamin is synthesized by human skin under ultraviolet light?",
+          "options": [
+            "Vitamin D",
+            "Vitamin C",
+            "Vitamin B12",
+            "Vitamin K"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-158",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Science",
+          "difficulty": "Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Which technique separates pigments according to differential migration on a stationary phase?",
+          "options": [
+            "Filtration",
+            "Distillation by boiling point only",
+            "Chromatography",
+            "Titration"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-168",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Geography",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "A rain-shadow desert commonly forms:",
+          "options": [
+            "At the foot of the windward slope always",
+            "On the leeward side of a mountain range",
+            "At every coastline",
+            "Only over an ocean trench"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        },
+        {
+          "id": "POLITY-MASTER-191",
+          "section": "Concepts & Governance",
+          "topic": "Concepts & Governance",
+          "subtopic": "Polity",
+          "difficulty": "Very Hard",
+          "exam_level": [
+            "CDS",
+            "CAPF",
+            "SSC",
+            "UP-SI",
+            "AFCAT",
+            "RRB",
+            "IBPS"
+          ],
+          "pattern": "PYQ_PATTERN",
+          "q": "Residuary legislative powers in India are assigned principally to:",
+          "options": [
+            "Each State legislature independently",
+            "The Union Parliament",
+            "Municipal councils",
+            "The Finance Commission"
+          ],
+          "marks_correct": 0.83,
+          "marks_wrong": -0.33
+        }
+      ]
+    }
+  ]
+}
