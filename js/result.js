@@ -53,7 +53,7 @@
       const validSubjects = new Set(subjects.map((s) => s.id));
       subjectId = paperMeta.subject && validSubjects.has(paperMeta.subject) ? paperMeta.subject : 'general';
       const paperSubject = (p) => p.subject && validSubjects.has(p.subject) ? p.subject : 'general';
-      const nextP = papers.find((p) => paperSubject(p) === subjectId && p.id !== paperId && App.getPaperState(p.id)?.status !== 'submitted') || null;
+      const nextP = papers.find((p) => p.file && paperSubject(p) === subjectId && p.id !== paperId && App.getPaperState(p.id)?.status !== 'submitted') || null;
 
       render(root, nextP, papers);
       window.addEventListener(App.LANGUAGE_MODE_EVENT, () => render(root, nextP, papers));

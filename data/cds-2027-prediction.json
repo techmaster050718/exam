@@ -1,0 +1,6164 @@
+{
+  "exam": "CDS",
+  "examName": "Combined Defence Services",
+  "paperType": "PREDICTED",
+  "year": 2027,
+  "session": "CDS I/II 2027",
+  "subject": "cds",
+  "source": "Original AI-generated pattern-based prediction paper; not a UPSC PYQ",
+  "verificationStatus": "PREDICTED — no authentic source claim",
+  "sourceType": "ORIGINAL_PREDICTION",
+  "difficulty": "CDS-level predicted",
+  "sections": [
+    {
+      "name": "Spotting Errors",
+      "questions": [
+        {
+          "id": "cds27-001",
+          "q": "Select the correct correction for: \"Neither of the soldiers were ready\".",
+          "options": [
+            "was",
+            "were",
+            "are",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"was\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-002",
+          "q": "Select the correct correction for: \"He is senior than me\".",
+          "options": [
+            "senior to",
+            "senior than",
+            "senior from",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"senior to\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-003",
+          "q": "Select the correct correction for: \"One of the books are missing\".",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"is\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-004",
+          "q": "Select the correct correction for: \"She insisted that he leaves\".",
+          "options": [
+            "leave",
+            "leaves",
+            "left",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"leave\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-005",
+          "q": "Select the correct correction for: \"The committee have decided\".",
+          "options": [
+            "has",
+            "have",
+            "are",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"has\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-006",
+          "q": "Select the correct correction for: \"He prevented me to go\".",
+          "options": [
+            "from going",
+            "to go",
+            "go",
+            "going"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"from going\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-007",
+          "q": "Select the correct correction for: \"Hardly had he arrived when\".",
+          "options": [
+            "than",
+            "as",
+            "because",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"than\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-008",
+          "q": "Select the correct correction for: \"The news are true\".",
+          "options": [
+            "is",
+            "are",
+            "were",
+            "has"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"is\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-009",
+          "q": "Select the correct correction for: \"This is the most difficult of the two\".",
+          "options": [
+            "more difficult",
+            "most difficult",
+            "difficult than",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"more difficult\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-010",
+          "q": "Select the correct correction for: \"He looks forward to meet\".",
+          "options": [
+            "meeting",
+            "to meet",
+            "meet",
+            "met"
+          ],
+          "answer": 0,
+          "explanation": "The correct form is \"meeting\".",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Fill in the Blanks",
+      "questions": [
+        {
+          "id": "cds27-011",
+          "q": "Choose the word that best completes: The officer remained prudent under pressure.",
+          "options": [
+            "prudent",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires prudent.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-012",
+          "q": "Choose the word that best completes: The officer remained mitigate under pressure.",
+          "options": [
+            "mitigate",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires mitigate.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-013",
+          "q": "Choose the word that best completes: The officer remained credible under pressure.",
+          "options": [
+            "credible",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires credible.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-014",
+          "q": "Choose the word that best completes: The officer remained resilient under pressure.",
+          "options": [
+            "resilient",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires resilient.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-015",
+          "q": "Choose the word that best completes: The officer remained abundant under pressure.",
+          "options": [
+            "abundant",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires abundant.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-016",
+          "q": "Choose the word that best completes: The officer remained articulate under pressure.",
+          "options": [
+            "articulate",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires articulate.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-017",
+          "q": "Choose the word that best completes: The officer remained sparse under pressure.",
+          "options": [
+            "sparse",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires sparse.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-018",
+          "q": "Choose the word that best completes: The officer remained bolster under pressure.",
+          "options": [
+            "bolster",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires bolster.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-019",
+          "q": "Choose the word that best completes: The officer remained coherent under pressure.",
+          "options": [
+            "coherent",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires coherent.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-020",
+          "q": "Choose the word that best completes: The officer remained reluctant under pressure.",
+          "options": [
+            "reluctant",
+            "careless",
+            "temporary",
+            "ordinary"
+          ],
+          "answer": 0,
+          "explanation": "The context requires reluctant.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Synonyms",
+      "questions": [
+        {
+          "id": "cds27-021",
+          "q": "Select the synonym of \"abrogate\".",
+          "options": [
+            "repeal",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"repeal\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-022",
+          "q": "Select the synonym of \"diligent\".",
+          "options": [
+            "industrious",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"industrious\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-023",
+          "q": "Select the synonym of \"scarce\".",
+          "options": [
+            "limited",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"limited\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-024",
+          "q": "Select the synonym of \"explicit\".",
+          "options": [
+            "clear",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"clear\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-025",
+          "q": "Select the synonym of \"fortify\".",
+          "options": [
+            "strengthen",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"strengthen\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-026",
+          "q": "Select the synonym of \"coherent\".",
+          "options": [
+            "logical",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"logical\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-027",
+          "q": "Select the synonym of \"profound\".",
+          "options": [
+            "deep",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"deep\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-028",
+          "q": "Select the synonym of \"augment\".",
+          "options": [
+            "increase",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"increase\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-029",
+          "q": "Select the synonym of \"elucidate\".",
+          "options": [
+            "clarify",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"clarify\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-030",
+          "q": "Select the synonym of \"equivocal\".",
+          "options": [
+            "ambiguous",
+            "hinder",
+            "decrease",
+            "confuse"
+          ],
+          "answer": 0,
+          "explanation": "\"ambiguous\" is the closest synonym.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Antonyms",
+      "questions": [
+        {
+          "id": "cds27-031",
+          "q": "Select the antonym of \"abrogate\".",
+          "options": [
+            "enact",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"enact\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-032",
+          "q": "Select the antonym of \"diligent\".",
+          "options": [
+            "lazy",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"lazy\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-033",
+          "q": "Select the antonym of \"scarce\".",
+          "options": [
+            "abundant",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"abundant\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-034",
+          "q": "Select the antonym of \"explicit\".",
+          "options": [
+            "obscure",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"obscure\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-035",
+          "q": "Select the antonym of \"fortify\".",
+          "options": [
+            "weaken",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"weaken\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-036",
+          "q": "Select the antonym of \"coherent\".",
+          "options": [
+            "illogical",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"illogical\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-037",
+          "q": "Select the antonym of \"profound\".",
+          "options": [
+            "shallow",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"shallow\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-038",
+          "q": "Select the antonym of \"augment\".",
+          "options": [
+            "reduce",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"reduce\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-039",
+          "q": "Select the antonym of \"elucidate\".",
+          "options": [
+            "complicate",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"complicate\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-040",
+          "q": "Select the antonym of \"equivocal\".",
+          "options": [
+            "unambiguous",
+            "similar",
+            "temporary",
+            "uncertain"
+          ],
+          "answer": 0,
+          "explanation": "\"unambiguous\" expresses the opposite meaning.",
+          "subject": "English",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Idioms and Phrases",
+      "questions": [
+        {
+          "id": "cds27-041",
+          "q": "Select the meaning of \"beat around the bush\".",
+          "options": [
+            "avoid the main point",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means avoid the main point.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-042",
+          "q": "Select the meaning of \"bring to light\".",
+          "options": [
+            "reveal",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means reveal.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-043",
+          "q": "Select the meaning of \"turn a blind eye\".",
+          "options": [
+            "deliberately ignore",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means deliberately ignore.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-044",
+          "q": "Select the meaning of \"by leaps and bounds\".",
+          "options": [
+            "very rapidly",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means very rapidly.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-045",
+          "q": "Select the meaning of \"call it a day\".",
+          "options": [
+            "stop work",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means stop work.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-046",
+          "q": "Select the meaning of \"get the hang of\".",
+          "options": [
+            "learn to do",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means learn to do.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-047",
+          "q": "Select the meaning of \"in the nick of time\".",
+          "options": [
+            "just before it is too late",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means just before it is too late.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-048",
+          "q": "Select the meaning of \"leave no stone unturned\".",
+          "options": [
+            "make every effort",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means make every effort.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-049",
+          "q": "Select the meaning of \"at loggerheads\".",
+          "options": [
+            "in conflict",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means in conflict.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-050",
+          "q": "Select the meaning of \"a blessing in disguise\".",
+          "options": [
+            "good that seemed bad",
+            "make a formal complaint",
+            "travel at night",
+            "delay a task"
+          ],
+          "answer": 0,
+          "explanation": "This idiom means good that seemed bad.",
+          "subject": "English",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Ordering of Words",
+      "questions": [
+        {
+          "id": "cds27-051",
+          "q": "Choose the correctly ordered sentence (1).",
+          "options": [
+            "A strong defence is the foundation of peace",
+            "E strong defence is the foundetion of peece",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-052",
+          "q": "Choose the correctly ordered sentence (2).",
+          "options": [
+            "Every plan should be carefully reviewed",
+            "Every plen should be cerefully reviewed",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-053",
+          "q": "Choose the correctly ordered sentence (3).",
+          "options": [
+            "The joint exercises concluded successfully",
+            "The joint exercises concluded successfully",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-054",
+          "q": "Choose the correctly ordered sentence (4).",
+          "options": [
+            "Discipline is built by service",
+            "Discipline is built by service",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-055",
+          "q": "Choose the correctly ordered sentence (5).",
+          "options": [
+            "He carefully examined the report",
+            "He cerefully exemined the report",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-056",
+          "q": "Choose the correctly ordered sentence (6).",
+          "options": [
+            "The goal can be achieved through preparation",
+            "The goel cen be echieved through preperetion",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-057",
+          "q": "Choose the correctly ordered sentence (7).",
+          "options": [
+            "He had become an efficient officer",
+            "He hed become en efficient officer",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-058",
+          "q": "Choose the correctly ordered sentence (8).",
+          "options": [
+            "The timely response made rescue successful",
+            "The timely response mede rescue successful",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-059",
+          "q": "Choose the correctly ordered sentence (9).",
+          "options": [
+            "The army maintains a high standard",
+            "The ermy meinteins e high stenderd",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-060",
+          "q": "Choose the correctly ordered sentence (10).",
+          "options": [
+            "Readiness in training is important",
+            "Reediness in treining is importent",
+            "Carefully was the plan",
+            "The report studied officer"
+          ],
+          "answer": 0,
+          "explanation": "This sequence follows correct word and modifier order.",
+          "subject": "English",
+          "topic": "Sentence Ordering",
+          "subtopic": "Sentence Ordering",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Active and Passive Voice",
+      "questions": [
+        {
+          "id": "cds27-061",
+          "q": "Transform into passive voice: \"The commander approved the plan\".",
+          "options": [
+            "The plan was approved by the commander",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-062",
+          "q": "Transform into passive voice: \"The engineers repaired the bridge\".",
+          "options": [
+            "The bridge was repaired by the engineers",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-063",
+          "q": "Transform into passive voice: \"The court will review the petition\".",
+          "options": [
+            "The petition will be reviewed by the court",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-064",
+          "q": "Transform into passive voice: \"The minister inaugurated the programme\".",
+          "options": [
+            "The programme was inaugurated by the minister",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-065",
+          "q": "Transform into passive voice: \"The committee has selected a chairperson\".",
+          "options": [
+            "A chairperson has been selected by the committee",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-066",
+          "q": "Transform into passive voice: \"The students are solving the problems\".",
+          "options": [
+            "The problems are being solved by the students",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-067",
+          "q": "Transform into passive voice: \"The governor signed the ordinance\".",
+          "options": [
+            "The ordinance was signed by the governor",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-068",
+          "q": "Transform into passive voice: \"The organisation may announce the results\".",
+          "options": [
+            "The results may be announced by the organisation",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-069",
+          "q": "Transform into passive voice: \"The scientists completed the experiment\".",
+          "options": [
+            "The experiment was completed by the scientists",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-070",
+          "q": "Transform into passive voice: \"The team will conduct the survey\".",
+          "options": [
+            "The survey will be conducted by the team",
+            "The plan approving by the commander",
+            "The commander was approved",
+            "By commander was approved"
+          ],
+          "answer": 0,
+          "explanation": "The object becomes the subject and the verb is put in passive form.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Direct and Indirect Speech",
+      "questions": [
+        {
+          "id": "cds27-071",
+          "q": "Change to indirect speech: \"He said, \"I am ready\"\".",
+          "options": [
+            "He said that he was ready",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-072",
+          "q": "Change to indirect speech: \"She asked, \"Where are you going?\"\".",
+          "options": [
+            "She asked where I was going",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-073",
+          "q": "Change to indirect speech: \"The officer said, \"Obey the orders\"\".",
+          "options": [
+            "The officer ordered them to obey the orders",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-074",
+          "q": "Change to indirect speech: \"Ravi said, \"I completed the task\"\".",
+          "options": [
+            "Ravi said that he had completed the task",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-075",
+          "q": "Change to indirect speech: \"She asked, \"Can you help me?\"\".",
+          "options": [
+            "She asked if I could help her",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-076",
+          "q": "Change to indirect speech: \"They said, \"We will return soon\"\".",
+          "options": [
+            "They said that they would return soon",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-077",
+          "q": "Change to indirect speech: \"The commander said, \"Do not panic\"\".",
+          "options": [
+            "The commander advised them not to panic",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-078",
+          "q": "Change to indirect speech: \"Mother asked, \"Where did you go?\"\".",
+          "options": [
+            "Mother asked where I had gone",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-079",
+          "q": "Change to indirect speech: \"He said, \"I may attend tomorrow\"\".",
+          "options": [
+            "He said that he might attend the next day",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-080",
+          "q": "Change to indirect speech: \"The guide said, \"Please wait here\"\".",
+          "options": [
+            "The guide requested us to wait there",
+            "He says that I am ready",
+            "He said I am ready now",
+            "He asks where is he going"
+          ],
+          "answer": 0,
+          "explanation": "Indirect speech adjusts tense, pronouns and adverbs.",
+          "subject": "English",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Cloze Test",
+      "questions": [
+        {
+          "id": "cds27-081",
+          "q": "Choose the best word: Regular training strengthens a candidate for uncertainty.",
+          "options": [
+            "strengthens",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires strengthens.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-082",
+          "q": "Choose the best word: Regular training disciplines a candidate for uncertainty.",
+          "options": [
+            "disciplines",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires disciplines.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-083",
+          "q": "Choose the best word: Regular training coordinates a candidate for uncertainty.",
+          "options": [
+            "coordinates",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires coordinates.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-084",
+          "q": "Choose the best word: Regular training protects a candidate for uncertainty.",
+          "options": [
+            "protects",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires protects.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-085",
+          "q": "Choose the best word: Regular training reduces a candidate for uncertainty.",
+          "options": [
+            "reduces",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires reduces.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-086",
+          "q": "Choose the best word: Regular training supports a candidate for uncertainty.",
+          "options": [
+            "supports",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires supports.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-087",
+          "q": "Choose the best word: Regular training prepares a candidate for uncertainty.",
+          "options": [
+            "prepares",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires prepares.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-088",
+          "q": "Choose the best word: Regular training organises a candidate for uncertainty.",
+          "options": [
+            "organises",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires organises.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-089",
+          "q": "Choose the best word: Regular training promotes a candidate for uncertainty.",
+          "options": [
+            "promotes",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires promotes.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-090",
+          "q": "Choose the best word: Regular training improves a candidate for uncertainty.",
+          "options": [
+            "improves",
+            "destroys",
+            "confuses",
+            "neglects"
+          ],
+          "answer": 0,
+          "explanation": "The positive context requires improves.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Reading Comprehension",
+      "questions": [
+        {
+          "id": "cds27-091",
+          "q": "Discipline, trust and accountability are central to effective leadership.\nWhich values are central to leadership?",
+          "options": [
+            "Discipline, trust and accountability",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Discipline, trust and accountability.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-092",
+          "q": "Technology improves government efficiency but must remain transparent and accountable.\nWhat is necessary for technology in government?",
+          "options": [
+            "Transparency and accountability",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Transparency and accountability.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-093",
+          "q": "Timely maintenance prevents small faults from becoming major failures.\nWhat is a benefit of timely maintenance?",
+          "options": [
+            "Preventing major failures",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Preventing major failures.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Easy",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-094",
+          "q": "Education develops judgment rather than mere accumulation of facts.\nWhat should education develop?",
+          "options": [
+            "Judgment",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Judgment.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-095",
+          "q": "Urban greenery reduces heat and improves air quality.\nWhy are urban green spaces useful?",
+          "options": [
+            "Reducing heat and improving air quality",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Reducing heat and improving air quality.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-096",
+          "q": "A scientific theory requires testable and repeatable evidence.\nWhat does a scientific theory require?",
+          "options": [
+            "Testable and repeatable evidence",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Testable and repeatable evidence.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-097",
+          "q": "Water conservation protects future supply when rainfall is variable.\nWhy is water conservation important?",
+          "options": [
+            "Protecting future supply",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Protecting future supply.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-098",
+          "q": "Clear communication reduces misunderstanding and improves teamwork.\nHow can communication improve?",
+          "options": [
+            "Accurate language and active listening",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Accurate language and active listening.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Moderate",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-099",
+          "q": "Public health works best when communities participate.\nWhat complements public-health enforcement?",
+          "options": [
+            "Community participation",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Community participation.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-100",
+          "q": "Wide reading helps learners recognise patterns across subjects.\nWhat ability does wide reading support?",
+          "options": [
+            "Independent analysis",
+            "Ceremony alone",
+            "Popular opinion",
+            "Complete secrecy"
+          ],
+          "answer": 0,
+          "explanation": "The passage supports Independent analysis.",
+          "subject": "English",
+          "topic": "Comprehension",
+          "subtopic": "Comprehension",
+          "difficulty": "Difficult",
+          "questionType": "Original",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Indian History",
+      "questions": [
+        {
+          "id": "cds27-101",
+          "q": "The Battle of Plassey was fought in?",
+          "options": [
+            "1757",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 1757.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Easy",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-102",
+          "q": "The Revolt of 1857 began at Meerut?",
+          "options": [
+            "Meerut",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Meerut.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Easy",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-103",
+          "q": "The First Round Table Conference was held in?",
+          "options": [
+            "1930",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 1930.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Easy",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-104",
+          "q": "The Vernacular Press Act was enacted in?",
+          "options": [
+            "1878",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 1878.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Moderate",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-105",
+          "q": "Ashoka embraced Buddhism after the?",
+          "options": [
+            "Kalinga War",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Kalinga War.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Moderate",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-106",
+          "q": "The Mauryan empire was founded by?",
+          "options": [
+            "Chandragupta Maurya",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Chandragupta Maurya.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Moderate",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-107",
+          "q": "The Kailasa temple at Ellora was built by?",
+          "options": [
+            "Rashtrakutas",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Rashtrakutas.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Moderate",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-108",
+          "q": "The Quit India Movement began in?",
+          "options": [
+            "1942",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 1942.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Moderate",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-109",
+          "q": "The Simon Commission arrived in India in?",
+          "options": [
+            "1928",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 1928.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Difficult",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-110",
+          "q": "The Act that introduced provincial dyarchy was?",
+          "options": [
+            "Government of India Act 1919",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Government of India Act 1919.",
+          "subject": "General Knowledge",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "Difficult",
+          "questionType": "Indian History",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Polity",
+      "questions": [
+        {
+          "id": "cds27-111",
+          "q": "Fundamental Rights are in?",
+          "options": [
+            "Part III",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Part III.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Easy",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-112",
+          "q": "Money bills are introduced in?",
+          "options": [
+            "Lok Sabha",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Lok Sabha.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Easy",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-113",
+          "q": "The Finance Commission is constituted every?",
+          "options": [
+            "five years",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is five years.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Easy",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-114",
+          "q": "Article 32 is associated with?",
+          "options": [
+            "constitutional remedies",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is constitutional remedies.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-115",
+          "q": "The Speaker of Lok Sabha is elected by?",
+          "options": [
+            "Lok Sabha",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Lok Sabha.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-116",
+          "q": "A High Court writ for habeas corpus is under?",
+          "options": [
+            "Article 226",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Article 226.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-117",
+          "q": "A Rajya Sabha member has tenure of?",
+          "options": [
+            "six years",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is six years.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-118",
+          "q": "Panchayats receive powers through?",
+          "options": [
+            "Eleventh Schedule",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Eleventh Schedule.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Moderate",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-119",
+          "q": "The Attorney General is appointed by?",
+          "options": [
+            "President",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is President.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Difficult",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-120",
+          "q": "The CAG audits?",
+          "options": [
+            "Union and state accounts",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Union and state accounts.",
+          "subject": "General Knowledge",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "Difficult",
+          "questionType": "Polity",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "id": "cds27-121",
+          "q": "The Tropic of Cancer passes through?",
+          "options": [
+            "Gujarat",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Gujarat.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Easy",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-122",
+          "q": "The Deccan Plateau is in?",
+          "options": [
+            "peninsular India",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is peninsular India.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Easy",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-123",
+          "q": "The Brahmaputra enters India through?",
+          "options": [
+            "Arunachal Pradesh",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Arunachal Pradesh.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Easy",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-124",
+          "q": "Black soil is suitable for?",
+          "options": [
+            "cotton",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is cotton.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Moderate",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-125",
+          "q": "The Western Ghats receive rain on?",
+          "options": [
+            "western windward slopes",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is western windward slopes.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Moderate",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-126",
+          "q": "A warm Atlantic current is?",
+          "options": [
+            "Gulf Stream",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Gulf Stream.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Moderate",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-127",
+          "q": "The largest delta is?",
+          "options": [
+            "Ganga-Brahmaputra Delta",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Ganga-Brahmaputra Delta.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Moderate",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-128",
+          "q": "Monsoon retreats first from?",
+          "options": [
+            "northwestern India",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is northwestern India.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Moderate",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-129",
+          "q": "The Indus originates near?",
+          "options": [
+            "Lake Manasarovar",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Lake Manasarovar.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Difficult",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-130",
+          "q": "Mawsynram has heavy rain because of?",
+          "options": [
+            "orographic monsoon rain",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is orographic monsoon rain.",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "Difficult",
+          "questionType": "Geography",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "General Science",
+      "questions": [
+        {
+          "id": "cds27-131",
+          "q": "The SI unit of force is?",
+          "options": [
+            "newton",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is newton.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Easy",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-132",
+          "q": "Plants absorb carbon dioxide through?",
+          "options": [
+            "stomata",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is stomata.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Easy",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-133",
+          "q": "Water changing to vapour is?",
+          "options": [
+            "evaporation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is evaporation.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Easy",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-134",
+          "q": "Cells that fight infection are?",
+          "options": [
+            "white blood cells",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is white blood cells.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Moderate",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-135",
+          "q": "Vitamin C deficiency may cause?",
+          "options": [
+            "scurvy",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is scurvy.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Moderate",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-136",
+          "q": "Neutral pH is?",
+          "options": [
+            "7",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 7.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Moderate",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-137",
+          "q": "Sound cannot travel through?",
+          "options": [
+            "vacuum",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is vacuum.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Moderate",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-138",
+          "q": "DNA is mainly found in?",
+          "options": [
+            "nucleus",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is nucleus.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Moderate",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-139",
+          "q": "A convex lens?",
+          "options": [
+            "converges light",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is converges light.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Difficult",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-140",
+          "q": "The gas commonly used in fluorescent lamps is?",
+          "options": [
+            "argon",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is argon.",
+          "subject": "General Knowledge",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "Difficult",
+          "questionType": "General Science",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Defence",
+      "questions": [
+        {
+          "id": "cds27-141",
+          "q": "INS Vikrant is an?",
+          "options": [
+            "aircraft carrier",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is aircraft carrier.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Easy",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-142",
+          "q": "Integrated operations are managed by?",
+          "options": [
+            "Integrated Defence Staff",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Integrated Defence Staff.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Easy",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-143",
+          "q": "S-400 is an?",
+          "options": [
+            "air defence system",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is air defence system.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Easy",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-144",
+          "q": "Marshal of the Air Force is a?",
+          "options": [
+            "five-star rank",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is five-star rank.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Moderate",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-145",
+          "q": "Indian Coast Guard handles?",
+          "options": [
+            "maritime law enforcement",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is maritime law enforcement.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Moderate",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-146",
+          "q": "Yudh Abhyas is conducted with?",
+          "options": [
+            "United States",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is United States.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Moderate",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-147",
+          "q": "Agni is a series of?",
+          "options": [
+            "ballistic missiles",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is ballistic missiles.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Moderate",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-148",
+          "q": "Tejas is an?",
+          "options": [
+            "indigenous fighter aircraft",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is indigenous fighter aircraft.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Moderate",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-149",
+          "q": "Andaman and Nicobar Command is at?",
+          "options": [
+            "Port Blair",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Port Blair.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Difficult",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-150",
+          "q": "DRDO develops?",
+          "options": [
+            "defence technology",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is defence technology.",
+          "subject": "General Knowledge",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "Difficult",
+          "questionType": "Defence",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "cds27-151",
+          "q": "GDP measures?",
+          "options": [
+            "value of final goods and services",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is value of final goods and services.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Easy",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-152",
+          "q": "Repo rate is the rate at which RBI?",
+          "options": [
+            "lends to banks",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is lends to banks.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Easy",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-153",
+          "q": "Inflation means?",
+          "options": [
+            "rise in general price level",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is rise in general price level.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Easy",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-154",
+          "q": "Fiscal deficit is?",
+          "options": [
+            "expenditure minus revenue excluding borrowing",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is expenditure minus revenue excluding borrowing.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Moderate",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-155",
+          "q": "A direct tax is?",
+          "options": [
+            "income tax",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is income tax.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Moderate",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-156",
+          "q": "NITI Aayog replaced?",
+          "options": [
+            "Planning Commission",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Planning Commission.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Moderate",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-157",
+          "q": "SEBI regulates?",
+          "options": [
+            "securities market",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is securities market.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Moderate",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-158",
+          "q": "A trade surplus occurs when?",
+          "options": [
+            "exports exceed imports",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is exports exceed imports.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Moderate",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-159",
+          "q": "Priority sector lending targets?",
+          "options": [
+            "specified underserved sectors",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is specified underserved sectors.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Difficult",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-160",
+          "q": "CPI measures?",
+          "options": [
+            "consumer price inflation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is consumer price inflation.",
+          "subject": "General Knowledge",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "Difficult",
+          "questionType": "Economy",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "questions": [
+        {
+          "id": "cds27-161",
+          "q": "A multilateral summit involves?",
+          "options": [
+            "three or more countries",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is three or more countries.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Easy",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-162",
+          "q": "Climate adaptation aims to?",
+          "options": [
+            "reduce vulnerability",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is reduce vulnerability.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Easy",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-163",
+          "q": "A reusable spacecraft allows?",
+          "options": [
+            "component reuse",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is component reuse.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Easy",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-164",
+          "q": "G20 consists of?",
+          "options": [
+            "major economies",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is major economies.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Moderate",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-165",
+          "q": "A defence exercise builds?",
+          "options": [
+            "interoperability",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is interoperability.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Moderate",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-166",
+          "q": "A direct-benefit scheme seeks?",
+          "options": [
+            "eligible recipient transfers",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is eligible recipient transfers.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Moderate",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-167",
+          "q": "An economic survey reviews?",
+          "options": [
+            "economic performance",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is economic performance.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Moderate",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-168",
+          "q": "Digital public infrastructure uses?",
+          "options": [
+            "shared interoperable systems",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is shared interoperable systems.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Moderate",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-169",
+          "q": "Renewable capacity includes?",
+          "options": [
+            "solar and wind",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is solar and wind.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Difficult",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-170",
+          "q": "A central scheme for health seeks?",
+          "options": [
+            "expanded public health access",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is expanded public health access.",
+          "subject": "General Knowledge",
+          "topic": "Current Affairs",
+          "subtopic": "Current Affairs",
+          "difficulty": "Difficult",
+          "questionType": "Current Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "International Affairs",
+      "questions": [
+        {
+          "id": "cds27-171",
+          "q": "UN headquarters is at?",
+          "options": [
+            "New York",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is New York.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Easy",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-172",
+          "q": "ASEAN is a?",
+          "options": [
+            "Southeast Asian regional organisation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Southeast Asian regional organisation.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Easy",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-173",
+          "q": "ICJ is at?",
+          "options": [
+            "The Hague",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is The Hague.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Easy",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-174",
+          "q": "BRICS includes?",
+          "options": [
+            "Brazil, Russia, India, China and South Africa",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Brazil, Russia, India, China and South Africa.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Moderate",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-175",
+          "q": "NATO is a?",
+          "options": [
+            "collective defence organisation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is collective defence organisation.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Moderate",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-176",
+          "q": "SAARC Secretariat is at?",
+          "options": [
+            "Kathmandu",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is Kathmandu.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Moderate",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-177",
+          "q": "WTO regulates?",
+          "options": [
+            "international trade rules",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is international trade rules.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Moderate",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-178",
+          "q": "IMF provides?",
+          "options": [
+            "financial surveillance and assistance",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is financial surveillance and assistance.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Moderate",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-179",
+          "q": "International Solar Alliance was initiated by?",
+          "options": [
+            "India and France",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is India and France.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Difficult",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-180",
+          "q": "Interpol coordinates?",
+          "options": [
+            "international police cooperation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is international police cooperation.",
+          "subject": "General Knowledge",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "Difficult",
+          "questionType": "International Affairs",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "id": "cds27-181",
+          "q": "Cricket World Cup 2023 was held in?",
+          "options": [
+            "India",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is India.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Easy",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-182",
+          "q": "A hat-trick is?",
+          "options": [
+            "three successes in succession",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is three successes in succession.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Easy",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-183",
+          "q": "Marathon distance is?",
+          "options": [
+            "42.195 km",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is 42.195 km.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Easy",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-184",
+          "q": "Olympic rings represent?",
+          "options": [
+            "five continents",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is five continents.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Moderate",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-185",
+          "q": "A Grand Slam in tennis is?",
+          "options": [
+            "one of four majors",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is one of four majors.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Moderate",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-186",
+          "q": "Penalty kick is taken from?",
+          "options": [
+            "penalty mark",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is penalty mark.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Moderate",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-187",
+          "q": "Davis Cup is?",
+          "options": [
+            "tennis",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is tennis.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Moderate",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-188",
+          "q": "A shuttler competes in?",
+          "options": [
+            "badminton",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is badminton.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Moderate",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-189",
+          "q": "Khelo India develops?",
+          "options": [
+            "sports",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is sports.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Difficult",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-190",
+          "q": "Deuce is used in?",
+          "options": [
+            "tennis",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is tennis.",
+          "subject": "General Knowledge",
+          "topic": "Sports",
+          "subtopic": "Sports",
+          "difficulty": "Difficult",
+          "questionType": "Sports",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Environment",
+      "questions": [
+        {
+          "id": "cds27-191",
+          "q": "Ozone absorbs?",
+          "options": [
+            "ultraviolet radiation",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is ultraviolet radiation.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Easy",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-192",
+          "q": "A Ramsar site is a?",
+          "options": [
+            "wetland",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is wetland.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Easy",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-193",
+          "q": "Paris Agreement concerns?",
+          "options": [
+            "climate change",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is climate change.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Easy",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-194",
+          "q": "Afforestation creates?",
+          "options": [
+            "forest cover",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is forest cover.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Moderate",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-195",
+          "q": "A biodiversity hotspot has?",
+          "options": [
+            "high biodiversity and threat",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is high biodiversity and threat.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Moderate",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-196",
+          "q": "Biogas is produced by?",
+          "options": [
+            "anaerobic decomposition",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is anaerobic decomposition.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Moderate",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-197",
+          "q": "Chipko movement concerns?",
+          "options": [
+            "forest protection",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is forest protection.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Moderate",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-198",
+          "q": "Mangroves reduce?",
+          "options": [
+            "erosion and storm impact",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is erosion and storm impact.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Moderate",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-199",
+          "q": "Carbon sequestration stores?",
+          "options": [
+            "carbon",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is carbon.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Difficult",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-200",
+          "q": "Renewable energy is replenished by?",
+          "options": [
+            "natural processes",
+            "none of these",
+            "cannot be determined",
+            "the other option"
+          ],
+          "answer": 0,
+          "explanation": "The correct answer is natural processes.",
+          "subject": "General Knowledge",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "Difficult",
+          "questionType": "Environment",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Arithmetic",
+      "questions": [
+        {
+          "id": "cds27-201",
+          "q": "Average speed for 60 km in 1.5 hours?",
+          "options": [
+            "40 km/h",
+            "30 km/h",
+            "50 km/h",
+            "60 km/h"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 40 km/h.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Easy",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-202",
+          "q": "Profit on Rs.400 sold at Rs.460?",
+          "options": [
+            "15%",
+            "10%",
+            "20%",
+            "25%"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 15%.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Easy",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-203",
+          "q": "Milk in 20 litres of 3:2 milk-water mixture?",
+          "options": [
+            "12 litres",
+            "10 litres",
+            "8 litres",
+            "15 litres"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 12 litres.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Easy",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-204",
+          "q": "12 workers finish in 10 days; 5 take?",
+          "options": [
+            "24 days",
+            "6 days",
+            "20 days",
+            "30 days"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 24 days.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Moderate",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-205",
+          "q": "20% discount on Rs.500?",
+          "options": [
+            "Rs.400",
+            "Rs.300",
+            "Rs.450",
+            "Rs.480"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.400.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Moderate",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-206",
+          "q": "Number increased by 25% to 125?",
+          "options": [
+            "100",
+            "105",
+            "120",
+            "150"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 100.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Moderate",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-207",
+          "q": "SI Rs.1000 at 10% for 2 years?",
+          "options": [
+            "Rs.200",
+            "Rs.100",
+            "Rs.300",
+            "Rs.250"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.200.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Moderate",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-208",
+          "q": "SI Rs.600 at 5% for 3 years?",
+          "options": [
+            "Rs.90",
+            "Rs.60",
+            "Rs.120",
+            "Rs.150"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.90.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Moderate",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-209",
+          "q": "If 2/5 of a number is 30?",
+          "options": [
+            "75",
+            "60",
+            "50",
+            "85"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 75.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Difficult",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-210",
+          "q": "15% profit on cost Rs.200?",
+          "options": [
+            "Rs.230",
+            "Rs.215",
+            "Rs.220",
+            "Rs.260"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.230.",
+          "subject": "Elementary Mathematics",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "Difficult",
+          "questionType": "Arithmetic",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Number Theory",
+      "questions": [
+        {
+          "id": "cds27-211",
+          "q": "HCF of 24 and 36?",
+          "options": [
+            "12",
+            "6",
+            "18",
+            "24"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 12.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Easy",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-212",
+          "q": "LCM of 6 and 8?",
+          "options": [
+            "24",
+            "12",
+            "48",
+            "36"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 24.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Easy",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-213",
+          "q": "A prime number?",
+          "options": [
+            "47",
+            "49",
+            "51",
+            "57"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 47.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Easy",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-214",
+          "q": "Divisible by 2 and 3?",
+          "options": [
+            "by 6",
+            "by 5",
+            "by 7",
+            "by 8"
+          ],
+          "answer": 0,
+          "explanation": "The required result is by 6.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Moderate",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-215",
+          "q": "Remainder 47 divided by 5?",
+          "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 2.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Moderate",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-216",
+          "q": "Greatest 3-digit number divisible by 9?",
+          "options": [
+            "999",
+            "990",
+            "997",
+            "996"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 999.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Moderate",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-217",
+          "q": "Coprime numbers have HCF?",
+          "options": [
+            "1",
+            "0",
+            "2",
+            "same"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Moderate",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-218",
+          "q": "A composite number?",
+          "options": [
+            "12",
+            "11",
+            "13",
+            "17"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 12.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Moderate",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-219",
+          "q": "Number divisible by 11?",
+          "options": [
+            "121",
+            "111",
+            "123",
+            "125"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 121.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Difficult",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-220",
+          "q": "Factors of 12 include?",
+          "options": [
+            "1,2,3,4,6,12",
+            "1,5,7,12",
+            "2,5,10",
+            "3,5,7"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1,2,3,4,6,12.",
+          "subject": "Elementary Mathematics",
+          "topic": "Number Theory",
+          "subtopic": "Number Theory",
+          "difficulty": "Difficult",
+          "questionType": "Number Theory",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "questions": [
+        {
+          "id": "cds27-221",
+          "q": "If x+5=12?",
+          "options": [
+            "7",
+            "5",
+            "17",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Easy",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-222",
+          "q": "If 3x=21?",
+          "options": [
+            "7",
+            "3",
+            "21",
+            "24"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Easy",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-223",
+          "q": "Roots of x^2-5x+6?",
+          "options": [
+            "2 and 3",
+            "1 and 6",
+            "-2 and -3",
+            "2 and -3"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 2 and 3.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Easy",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-224",
+          "q": "If y=2x+1 and x=3?",
+          "options": [
+            "7",
+            "6",
+            "5",
+            "9"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Moderate",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-225",
+          "q": "Coefficient of x in 4x^2+7x-3?",
+          "options": [
+            "7",
+            "4",
+            "-3",
+            "11"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Moderate",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-226",
+          "q": "If a+b=10, ab=21, a^2+b^2?",
+          "options": [
+            "58",
+            "100",
+            "21",
+            "79"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 58.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Moderate",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-227",
+          "q": "Factors of x^2-9?",
+          "options": [
+            "(x-3)(x+3)",
+            "(x-9)(x+9)",
+            "(x-3)^2",
+            "(x+3)^2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is (x-3)(x+3).",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Moderate",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-228",
+          "q": "2x<10 gives?",
+          "options": [
+            "x<5",
+            "x>5",
+            "x<2",
+            "x>10"
+          ],
+          "answer": 0,
+          "explanation": "The required result is x<5.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Moderate",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-229",
+          "q": "2^3 x 2^2?",
+          "options": [
+            "32",
+            "12",
+            "16",
+            "64"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 32.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Difficult",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-230",
+          "q": "If x=2 root of x^2-kx+2?",
+          "options": [
+            "k=3",
+            "k=2",
+            "k=4",
+            "k=1"
+          ],
+          "answer": 0,
+          "explanation": "The required result is k=3.",
+          "subject": "Elementary Mathematics",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "Difficult",
+          "questionType": "Algebra",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Trigonometry",
+      "questions": [
+        {
+          "id": "cds27-231",
+          "q": "sin 30 degrees?",
+          "options": [
+            "1/2",
+            "1",
+            "0",
+            "sqrt(3)/2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/2.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Easy",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-232",
+          "q": "cos 60 degrees?",
+          "options": [
+            "1/2",
+            "1",
+            "0",
+            "sqrt(3)/2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/2.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Easy",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-233",
+          "q": "tan 45 degrees?",
+          "options": [
+            "1",
+            "0",
+            "sqrt(3)",
+            "1/sqrt(2)"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Easy",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-234",
+          "q": "sin^2 theta + cos^2 theta?",
+          "options": [
+            "1",
+            "0",
+            "2",
+            "tan theta"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Moderate",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-235",
+          "q": "tan theta?",
+          "options": [
+            "opposite/adjacent",
+            "adjacent/opposite",
+            "hypotenuse/adjacent",
+            "opposite/hypotenuse"
+          ],
+          "answer": 0,
+          "explanation": "The required result is opposite/adjacent.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Moderate",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-236",
+          "q": "If sin theta=3/5 acute, cos theta?",
+          "options": [
+            "4/5",
+            "3/5",
+            "5/3",
+            "1/5"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 4/5.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Moderate",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-237",
+          "q": "sin 90 degrees?",
+          "options": [
+            "1",
+            "0",
+            "-1",
+            "1/2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Moderate",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-238",
+          "q": "cos 0 degrees?",
+          "options": [
+            "1",
+            "0",
+            "-1",
+            "1/2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Moderate",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-239",
+          "q": "tan 60 degrees?",
+          "options": [
+            "sqrt(3)",
+            "1",
+            "1/sqrt(3)",
+            "0"
+          ],
+          "answer": 0,
+          "explanation": "The required result is sqrt(3).",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Difficult",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-240",
+          "q": "Heights and distances use?",
+          "options": [
+            "trigonometric ratios",
+            "prime factors",
+            "probability",
+            "log tables"
+          ],
+          "answer": 0,
+          "explanation": "The required result is trigonometric ratios.",
+          "subject": "Elementary Mathematics",
+          "topic": "Trigonometry",
+          "subtopic": "Trigonometry",
+          "difficulty": "Difficult",
+          "questionType": "Trigonometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Geometry",
+      "questions": [
+        {
+          "id": "cds27-241",
+          "q": "Sum of triangle angles?",
+          "options": [
+            "180 degrees",
+            "90 degrees",
+            "270 degrees",
+            "360 degrees"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 180 degrees.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Easy",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-242",
+          "q": "An isosceles triangle has?",
+          "options": [
+            "two equal sides",
+            "three unequal sides",
+            "no equal angles",
+            "one right angle"
+          ],
+          "answer": 0,
+          "explanation": "The required result is two equal sides.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Easy",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-243",
+          "q": "A tangent is perpendicular to?",
+          "options": [
+            "radius at point of tangency",
+            "diameter ends",
+            "chord midpoint",
+            "centre only"
+          ],
+          "answer": 0,
+          "explanation": "The required result is radius at point of tangency.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Easy",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-244",
+          "q": "Opposite equal sides are?",
+          "options": [
+            "equal angles",
+            "unequal angles",
+            "right angles",
+            "supplementary angles"
+          ],
+          "answer": 0,
+          "explanation": "The required result is equal angles.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Moderate",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-245",
+          "q": "A median joins a vertex to?",
+          "options": [
+            "midpoint of opposite side",
+            "opposite vertex",
+            "tangent point",
+            "circle centre"
+          ],
+          "answer": 0,
+          "explanation": "The required result is midpoint of opposite side.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Moderate",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-246",
+          "q": "Proportional triangles are?",
+          "options": [
+            "similar",
+            "congruent",
+            "perpendicular",
+            "disjoint"
+          ],
+          "answer": 0,
+          "explanation": "The required result is similar.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Moderate",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-247",
+          "q": "Opposite angles of a parallelogram are?",
+          "options": [
+            "equal",
+            "supplementary always",
+            "zero",
+            "unequal"
+          ],
+          "answer": 0,
+          "explanation": "The required result is equal.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Moderate",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-248",
+          "q": "Corresponding angles of parallel lines are?",
+          "options": [
+            "equal",
+            "complementary",
+            "opposite",
+            "zero"
+          ],
+          "answer": 0,
+          "explanation": "The required result is equal.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Moderate",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-249",
+          "q": "Radius to tangent is?",
+          "options": [
+            "perpendicular",
+            "parallel",
+            "equal to tangent",
+            "oblique"
+          ],
+          "answer": 0,
+          "explanation": "The required result is perpendicular.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Difficult",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-250",
+          "q": "Angle in a semicircle is?",
+          "options": [
+            "90 degrees",
+            "180 degrees",
+            "45 degrees",
+            "60 degrees"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 90 degrees.",
+          "subject": "Elementary Mathematics",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "Difficult",
+          "questionType": "Geometry",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Mensuration",
+      "questions": [
+        {
+          "id": "cds27-251",
+          "q": "Area 8 cm by 5 cm rectangle?",
+          "options": [
+            "40 sq cm",
+            "13 sq cm",
+            "26 sq cm",
+            "80 sq cm"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 40 sq cm.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Easy",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-252",
+          "q": "Perimeter square side 6 cm?",
+          "options": [
+            "24 cm",
+            "36 cm",
+            "12 cm",
+            "18 cm"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 24 cm.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Easy",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-253",
+          "q": "Area circle radius 7 cm?",
+          "options": [
+            "154 sq cm",
+            "44 sq cm",
+            "77 sq cm",
+            "196 sq cm"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 154 sq cm.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Easy",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-254",
+          "q": "Volume cube side 3 cm?",
+          "options": [
+            "27 cubic cm",
+            "9 cubic cm",
+            "18 cubic cm",
+            "81 cubic cm"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 27 cubic cm.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Moderate",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-255",
+          "q": "Area triangle base 10 height 6?",
+          "options": [
+            "30 sq cm",
+            "60 sq cm",
+            "16 sq cm",
+            "40 sq cm"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 30 sq cm.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Moderate",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-256",
+          "q": "Cylinder curved surface radius r height h?",
+          "options": [
+            "2 pi r h",
+            "pi r h",
+            "pi r^2 h",
+            "2 pi r^2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 2 pi r h.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Moderate",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-257",
+          "q": "Volume cuboid 4x3x2?",
+          "options": [
+            "24 cubic units",
+            "9 cubic units",
+            "20 cubic units",
+            "26 cubic units"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 24 cubic units.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Moderate",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-258",
+          "q": "Sphere surface area radius r?",
+          "options": [
+            "4 pi r^2",
+            "pi r^2",
+            "2 pi r",
+            "4 pi r^3"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 4 pi r^2.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Moderate",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-259",
+          "q": "Circle perimeter radius r?",
+          "options": [
+            "2 pi r",
+            "pi r",
+            "pi r^2",
+            "r^2"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 2 pi r.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Difficult",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-260",
+          "q": "Cone volume radius r height h?",
+          "options": [
+            "1/3 pi r^2 h",
+            "pi r^2 h",
+            "2 pi r h",
+            "pi r h"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/3 pi r^2 h.",
+          "subject": "Elementary Mathematics",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "Difficult",
+          "questionType": "Mensuration",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Statistics",
+      "questions": [
+        {
+          "id": "cds27-261",
+          "q": "Mean of 2,4,6,8,10?",
+          "options": [
+            "6",
+            "5",
+            "7",
+            "8"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 6.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Easy",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-262",
+          "q": "Median of 3,5,7,9,11?",
+          "options": [
+            "7",
+            "5",
+            "9",
+            "11"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Easy",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-263",
+          "q": "Mode of 2,3,3,4,5?",
+          "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 3.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Easy",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-264",
+          "q": "Pie chart represents?",
+          "options": [
+            "parts of a whole",
+            "speed",
+            "distance only",
+            "probability only"
+          ],
+          "answer": 0,
+          "explanation": "The required result is parts of a whole.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Moderate",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-265",
+          "q": "Range of 4,7,9,12?",
+          "options": [
+            "8",
+            "5",
+            "9",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 8.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Moderate",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-266",
+          "q": "Median of 4,6,8,10?",
+          "options": [
+            "7",
+            "6",
+            "8",
+            "10"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 7.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Moderate",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-267",
+          "q": "Mean of 5,10,15?",
+          "options": [
+            "10",
+            "5",
+            "15",
+            "30"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 10.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Moderate",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-268",
+          "q": "Bar diagram compares?",
+          "options": [
+            "categories",
+            "unclear ranks",
+            "only angles",
+            "only volume"
+          ],
+          "answer": 0,
+          "explanation": "The required result is categories.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Moderate",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-269",
+          "q": "Frequency is?",
+          "options": [
+            "number of observations",
+            "sum of values",
+            "mean",
+            "range"
+          ],
+          "answer": 0,
+          "explanation": "The required result is number of observations.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Difficult",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-270",
+          "q": "Cumulative frequency is?",
+          "options": [
+            "running total of frequencies",
+            "largest frequency",
+            "mean",
+            "mode"
+          ],
+          "answer": 0,
+          "explanation": "The required result is running total of frequencies.",
+          "subject": "Elementary Mathematics",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "Difficult",
+          "questionType": "Statistics",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Ratio and Proportion",
+      "questions": [
+        {
+          "id": "cds27-271",
+          "q": "If 2:3=4:x?",
+          "options": [
+            "6",
+            "5",
+            "8",
+            "12"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 6.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Easy",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-272",
+          "q": "Map scale 1:1000 means?",
+          "options": [
+            "1 unit represents 1000 units",
+            "1000 units represent 1 unit",
+            "equal units",
+            "1 kilometre is 1 metre"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1 unit represents 1000 units.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Easy",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-273",
+          "q": "Boys:girls 3:2 and girls 20?",
+          "options": [
+            "30 boys",
+            "20 boys",
+            "12 boys",
+            "40 boys"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 30 boys.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Easy",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-274",
+          "q": "Rs.120 in ratio 1:2 gives smaller share?",
+          "options": [
+            "Rs.40",
+            "Rs.60",
+            "Rs.80",
+            "Rs.30"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.40.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Moderate",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-275",
+          "q": "3 pens cost Rs.45; 5 cost?",
+          "options": [
+            "Rs.75",
+            "Rs.60",
+            "Rs.90",
+            "Rs.55"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.75.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Moderate",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-276",
+          "q": "If a:b=2:5 and sum 35?",
+          "options": [
+            "b=25",
+            "b=10",
+            "b=14",
+            "b=20"
+          ],
+          "answer": 0,
+          "explanation": "The required result is b=25.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Moderate",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-277",
+          "q": "Direct proportion means?",
+          "options": [
+            "constant ratio",
+            "constant difference",
+            "inverse change",
+            "no change"
+          ],
+          "answer": 0,
+          "explanation": "The required result is constant ratio.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Moderate",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-278",
+          "q": "Inverse proportion means?",
+          "options": [
+            "product is constant",
+            "sum is constant",
+            "ratio is constant",
+            "difference is constant"
+          ],
+          "answer": 0,
+          "explanation": "The required result is product is constant.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Moderate",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-279",
+          "q": "4 workers take 6 hours; 3 take?",
+          "options": [
+            "8 hours",
+            "4.5 hours",
+            "9 hours",
+            "5 hours"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 8 hours.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Difficult",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-280",
+          "q": "Alloy 3:1 from 20 kg has copper?",
+          "options": [
+            "15 kg",
+            "5 kg",
+            "10 kg",
+            "12 kg"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 15 kg.",
+          "subject": "Elementary Mathematics",
+          "topic": "Ratio and Proportion",
+          "subtopic": "Ratio and Proportion",
+          "difficulty": "Difficult",
+          "questionType": "Ratio and Proportion",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Time and Work",
+      "questions": [
+        {
+          "id": "cds27-281",
+          "q": "A finishes in 10 days; daily fraction?",
+          "options": [
+            "1/10",
+            "1/5",
+            "10",
+            "1/20"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/10.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Easy",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-282",
+          "q": "A and B together finish in 5 days; daily fraction?",
+          "options": [
+            "1/5",
+            "1/10",
+            "5",
+            "1/25"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/5.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Easy",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-283",
+          "q": "A pipe fills in 6 hours; hourly fraction?",
+          "options": [
+            "1/6",
+            "1/3",
+            "6",
+            "1/12"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/6.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Easy",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-284",
+          "q": "A completes 1/4 work in?",
+          "options": [
+            "1/4 of total time",
+            "all time",
+            "twice time",
+            "three times"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/4 of total time.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Moderate",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-285",
+          "q": "Two equal workers make rate?",
+          "options": [
+            "double",
+            "half",
+            "same",
+            "one-third"
+          ],
+          "answer": 0,
+          "explanation": "The required result is double.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Moderate",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-286",
+          "q": "Efficiency doubles, time?",
+          "options": [
+            "halved",
+            "doubled",
+            "unchanged",
+            "quadrupled"
+          ],
+          "answer": 0,
+          "explanation": "The required result is halved.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Moderate",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-287",
+          "q": "A work in 12 days is?",
+          "options": [
+            "1/12 daily work",
+            "12 daily work",
+            "1/6 daily work",
+            "1/24 daily work"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/12 daily work.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Moderate",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-288",
+          "q": "5 machines make 5 items in 5 min; 100 make 100 in?",
+          "options": [
+            "5 min",
+            "100 min",
+            "20 min",
+            "25 min"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 5 min.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Moderate",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-289",
+          "q": "Work equals?",
+          "options": [
+            "rate x time",
+            "distance/time",
+            "force/area",
+            "principal x rate"
+          ],
+          "answer": 0,
+          "explanation": "The required result is rate x time.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Difficult",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-290",
+          "q": "A:B efficiency 2:1 and finish 12 days; A alone?",
+          "options": [
+            "18 days",
+            "24 days",
+            "36 days",
+            "6 days"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 18 days.",
+          "subject": "Elementary Mathematics",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "Difficult",
+          "questionType": "Time and Work",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    },
+    {
+      "name": "Profit and Interest",
+      "questions": [
+        {
+          "id": "cds27-291",
+          "q": "Profit percent formula?",
+          "options": [
+            "(Profit/CP)x100",
+            "(CP/Profit)x100",
+            "(SP/CP)x100",
+            "Loss/CP"
+          ],
+          "answer": 0,
+          "explanation": "The required result is (Profit/CP)x100.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Easy",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-292",
+          "q": "Loss occurs when?",
+          "options": [
+            "SP<CP",
+            "SP>CP",
+            "SP=CP",
+            "profit=0"
+          ],
+          "answer": 0,
+          "explanation": "The required result is SP<CP.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Easy",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-293",
+          "q": "Rs.500 sold for Rs.600 profit?",
+          "options": [
+            "20%",
+            "10%",
+            "16.67%",
+            "25%"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 20%.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Easy",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-294",
+          "q": "10% gain on Rs.100?",
+          "options": [
+            "Rs.110",
+            "Rs.100",
+            "Rs.120",
+            "Rs.90"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.110.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Moderate",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-295",
+          "q": "Rs.200 marked, 10% discount?",
+          "options": [
+            "Rs.180",
+            "Rs.190",
+            "Rs.160",
+            "Rs.170"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.180.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Moderate",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-296",
+          "q": "Compound interest differs because?",
+          "options": [
+            "interest earns interest",
+            "it ignores time",
+            "it is always lower",
+            "principal is not used"
+          ],
+          "answer": 0,
+          "explanation": "The required result is interest earns interest.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Moderate",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-297",
+          "q": "Rs.100 at 10% CI 2 years?",
+          "options": [
+            "Rs.121",
+            "Rs.120",
+            "Rs.110",
+            "Rs.122"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.121.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Moderate",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-298",
+          "q": "12.5% as fraction?",
+          "options": [
+            "1/8",
+            "1/10",
+            "1/5",
+            "1/4"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 1/8.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Moderate",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-299",
+          "q": "Successive 10% and 20% discounts net?",
+          "options": [
+            "28%",
+            "30%",
+            "20%",
+            "32%"
+          ],
+          "answer": 0,
+          "explanation": "The required result is 28%.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Difficult",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        },
+        {
+          "id": "cds27-300",
+          "q": "CP from 20% profit and SP Rs.120?",
+          "options": [
+            "Rs.100",
+            "Rs.96",
+            "Rs.144",
+            "Rs.110"
+          ],
+          "answer": 0,
+          "explanation": "The required result is Rs.100.",
+          "subject": "Elementary Mathematics",
+          "topic": "Profit and Interest",
+          "subtopic": "Profit and Interest",
+          "difficulty": "Difficult",
+          "questionType": "Profit and Interest",
+          "paperType": "PREDICTED",
+          "year": 2027,
+          "session": "CDS I/II 2027"
+        }
+      ]
+    }
+  ]
+}

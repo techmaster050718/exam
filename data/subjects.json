@@ -1,5 +1,11 @@
 [
   {
+    "id": "cds",
+    "title": "CDS — Combined Defence Services",
+    "description": "CDS 2027 prediction paper, English, GK and Elementary Mathematics",
+    "icon": "🎖️"
+  },
+  {
     "id": "ibps-so-it",
     "title": "IBPS SO - IT Officer",
     "description": "Professional Knowledge mock papers: DBMS, Networks, OS, DSA, Security and more",

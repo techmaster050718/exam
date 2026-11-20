@@ -459,9 +459,10 @@
   /* ── Progress Calculations ──────────────────────────────── */
   function getOverallProgress(papersList) {
     const store = loadStore();
+    const practicePapers = papersList.filter((paper) => paper.file);
     let completed = 0, totalPct = 0, bestPaper = null, bestPct = -Infinity;
 
-    papersList.forEach((p) => {
+    practicePapers.forEach((p) => {
       const state = store[p.id];
       if (state && state.status === 'submitted') {
         completed++;
@@ -474,7 +475,7 @@
     });
 
     const avg = completed > 0 ? Math.round((totalPct / completed) * 10) / 10 : 0;
-    return { completed, total: papersList.length, avg, bestPaper };
+    return { completed, total: practicePapers.length, avg, bestPaper };
   }
 
   /* ── Expose ─────────────────────────────────────────────── */
