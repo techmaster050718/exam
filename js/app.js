@@ -459,7 +459,7 @@
   /* ── Progress Calculations ──────────────────────────────── */
   function getOverallProgress(papersList) {
     const store = loadStore();
-    const practicePapers = papersList.filter((paper) => paper.file);
+    const practicePapers = papersList.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE' && paper.file);
     let completed = 0, totalPct = 0, bestPaper = null, bestPct = -Infinity;
 
     practicePapers.forEach((p) => {

@@ -14,11 +14,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/04/14130946/CDS-1-English-Question-Paper-12-April-2026-exam-1.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/QP-CDS-I-26-ENGLISH-130426.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-i-2026-general-knowledge-pyq",
@@ -35,11 +36,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/04/14130949/CDS-1-GS-Question-Paper-12-April-2026-exam-1.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/QP-CDS-I-26-GENERAL-KNOWLEDGE-130426.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-i-2026-elementary-mathematics-pyq",
@@ -56,11 +58,12 @@
     "durationMin": 120,
     "correctMark": 1,
     "negativeMark": 0.33,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2026/04/14130950/CDS-1-Maths-Question-Paper-12-April-2026-exam-1.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/QP-CDS-I-26-ELEMENTARY-MATHEMATICS-130426.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2025-english-pyq",
@@ -77,11 +80,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/2025/09/15111708/CDS-2-2025-English-question-paper_14.09.2025.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/english-1-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2025-general-knowledge-pyq",
@@ -98,11 +102,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/2025/09/15111704/CDS-20252-GS-paper_14-Sept.-2025.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-knowledge-2-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2025-elementary-mathematics-pyq",
@@ -119,11 +124,12 @@
     "durationMin": 120,
     "correctMark": 1,
     "negativeMark": 0.33,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/2025/09/15111659/CDS-2-2025-MATHS-Paper-14.09.2025.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/elementary-mathematics-1-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-i-2025-english-pyq",
@@ -140,18 +146,19 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/15113101/cds-1-2025-english-set-A-question-paper.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper, Set A; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/english-2-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-i-2025-general-knowledge-pyq",
     "subject": "cds",
     "paperSubject": "General Knowledge",
     "title": "CDS I 2025 — General Knowledge — Real PYQ",
-    "subtitle": "External archive source · Set A · 120 questions · 100 marks · 120 minutes",
+    "subtitle": "Official UPSC source PDF · 120 questions · 100 marks · 120 minutes",
     "exam": "CDS",
     "examName": "Combined Defence Services",
     "paperType": "REAL_PYQ",
@@ -161,11 +168,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceType": "EXTERNAL_ARCHIVE_LISTING",
-    "verificationStatus": "Archive listing identifies a CDS I 2025 GK Set A paper; its direct PDF returned HTTP 403 during validation. No paper text is imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-knowledge-3-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-i-2025-elementary-mathematics-pyq",
@@ -182,11 +190,12 @@
     "durationMin": 120,
     "correctMark": 1,
     "negativeMark": 0.33,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/15113123/CDS-1-2025-Maths-SET-B-Question-Paper.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper, Set B; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/elementary-mathematics-2-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2024-english-pyq",
@@ -203,11 +212,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "SSCAdda public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.sscadda.com/wp-content/uploads/multisite/sites/2/2024/09/01151847/DOC-20240901-WA0008.-1.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/english-3-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2024-general-knowledge-pyq",
@@ -224,11 +234,12 @@
     "durationMin": 120,
     "correctMark": 0.83,
     "negativeMark": 0.28,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/14/2024/09/01143027/Document-30.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-knowledge-5-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-ii-2024-elementary-mathematics-pyq",
@@ -245,11 +256,12 @@
     "durationMin": 120,
     "correctMark": 1,
     "negativeMark": 0.33,
-    "source": "Adda247 public CDS question-paper archive",
-    "sourcePage": "https://www.adda247.com/defence-jobs/cds-previous-year-question-papers/",
-    "sourceUrl": "https://www.adda247.com/jobs/wp-content/uploads/sites/14/2024/09/01182938/DocScanner-01-Sept-2024-5-08%E2%80%AFpm_compressed.pdf",
-    "sourceType": "EXTERNAL_ARCHIVE_PDF",
-    "verificationStatus": "Archive-listed previous-year paper; not independently matched against the UPSC original. PDF is externally hosted and not imported."
+    "contentMode": "EXTERNAL_SOURCE",
+    "source": "Union Public Service Commission (official question paper)",
+    "sourcePage": "https://www.upsc.gov.in/exam-documents/question-papers/",
+    "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/elementary-mathematics-3-1.pdf",
+    "sourceType": "OFFICIAL_UPSC_PDF",
+    "verificationStatus": "VERIFIED_SOURCE"
   },
   {
     "id": "cds-2027-prediction",
@@ -266,6 +278,7 @@
     "year": 2027,
     "session": "CDS I/II 2027",
     "source": "Original pattern-based practice content; not an authentic UPSC CDS PYQ",
+    "contentMode": "INTERNAL",
     "verificationStatus": "PREDICTED — original questions, not sourced from a previous-year paper"
   },
   {
@@ -1111,5 +1124,35 @@
     "durationMin": 90,
     "correctMark": 1,
     "negativeMark": 0.25
+  },
+  {
+    "id": "capf-ac-2026-paper-i-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2026, "paper": "Paper I", "paperSubject": "General Ability and Intelligence",
+    "title": "CAPF AC 2026 — Paper I: General Ability and Intelligence", "subtitle": "REAL UPSC PAPER · 250 marks · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/QP-CAPF-Exam-2026-GENERAL-ABILITY-AND-INTELLIGENCE-200726.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 250
+  },
+  {
+    "id": "capf-ac-2026-paper-ii-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2026, "paper": "Paper II", "paperSubject": "General Studies, Essay and Comprehension",
+    "title": "CAPF AC 2026 — Paper II: General Studies, Essay and Comprehension", "subtitle": "REAL UPSC PAPER · 200 marks · descriptive · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/QP-CAPF-Exam-2026-GENERAL-STUDIES-ESSAY-AND-COMPREHENSION-200726.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 200, "responseMode": "DESCRIPTIVE"
+  },
+  {
+    "id": "capf-ac-2025-paper-i-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2025, "paper": "Paper I", "paperSubject": "General Ability and Intelligence",
+    "title": "CAPF AC 2025 — Paper I: General Ability and Intelligence", "subtitle": "REAL UPSC PAPER · 250 marks · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-ability-and-intelligence-8.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 250
+  },
+  {
+    "id": "capf-ac-2025-paper-ii-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2025, "paper": "Paper II", "paperSubject": "General Studies, Essay and Comprehension",
+    "title": "CAPF AC 2025 — Paper II: General Studies, Essay and Comprehension", "subtitle": "REAL UPSC PAPER · 200 marks · descriptive · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-studies-essay-and-comprehension-9.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 200, "responseMode": "DESCRIPTIVE"
+  },
+  {
+    "id": "capf-ac-2024-paper-i-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2024, "paper": "Paper I", "paperSubject": "General Ability and Intelligence",
+    "title": "CAPF AC 2024 — Paper I: General Ability and Intelligence", "subtitle": "REAL UPSC PAPER · 250 marks · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-ability-and-intelligence-1-1.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 250
+  },
+  {
+    "id": "capf-ac-2024-paper-ii-pyq",
+    "subject": "capf-ac", "exam": "CAPF AC", "year": 2024, "paper": "Paper II", "paperSubject": "General Studies, Essay and Comprehension",
+    "title": "CAPF AC 2024 — Paper II: General Studies, Essay and Comprehension", "subtitle": "REAL UPSC PAPER · 200 marks · descriptive · external source", "paperType": "REAL_PYQ", "contentMode": "EXTERNAL_SOURCE", "sourceAuthority": "UPSC", "source": "Union Public Service Commission (official question paper)", "sourceUrl": "https://www.upsc.gov.in/uploads/2026/07/general-studies-essay-and-comprehension-1-1.pdf", "sourceType": "OFFICIAL_UPSC_PDF", "verificationStatus": "VERIFIED_SOURCE", "marks": 200, "responseMode": "DESCRIPTIVE"
   }
 ]

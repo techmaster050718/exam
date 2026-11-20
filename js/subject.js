@@ -27,7 +27,7 @@
       if (['up-police-si', 'rrb-alp'].includes(subject.id)) await renderQuestionBankSearch(subject, subjectPapers);
     } catch (err) { App.showError(root, 'Could not load subject', err.message); }
   }
-  async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const practicePapers = papers.filter((paper) => paper.file); const stats = getStats(practicePapers); root.appendChild(summary([[`${stats.completed}/${practicePapers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (subject.id === 'cds') root.appendChild(renderCdsAnalysis(papers)); if (stats.completed) root.appendChild(await weakTopics(practicePapers)); root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Practice papers and PYQ sources'))); if (subject.id === 'cds') root.appendChild(renderCdsFilters(papers)); const grid = App.el('div', { className: 'papers-grid', id: 'cds-papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
+  async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const practicePapers = papers.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE' && paper.file); const stats = getStats(practicePapers); root.appendChild(summary([[`${stats.completed}/${practicePapers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (subject.id === 'cds') root.appendChild(renderCdsAnalysis(papers)); if (stats.completed) root.appendChild(await weakTopics(practicePapers)); root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Practice papers and PYQ sources'))); if (['cds', 'capf-ac'].includes(subject.id)) root.appendChild(renderCdsFilters(papers)); const grid = App.el('div', { className: 'papers-grid', id: 'cds-papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
 
   async function renderQuestionBankSearch(subject, papers) {
     const indexedQuestions = (await Promise.all(papers.map(async (paper) => {
@@ -108,10 +108,10 @@
     const prediction = papers.find((paper) => paper.paperType === 'PREDICTED');
     const box = App.el('section', { className: 'glass weak-topics' },
       App.el('h2', { className: 'section-title' }, 'CDS PYQ Sources and Analysis'),
-      App.el('p', {}, `${realSources} subject-paper source links are registered across four sessions. The PDFs open on their archive hosts; question text has not been copied into this site and cannot be attempted in the in-app timer or scoring engine.`)
+      App.el('p', {}, `${realSources} official subject-paper source links are registered across four sessions. The PDFs open on the UPSC site; question text has not been copied into this site and cannot be attempted in the in-app timer or scoring engine.`)
     );
     box.append(
-      App.el('p', {}, 'Source pages identify these as previous-year CDS papers, but their contents have not been independently matched against UPSC originals. Open each source to inspect its paper and answer information.'),
+      App.el('p', {}, 'Each REAL PYQ record links to the original question-paper PDF published by UPSC. No answer key or question text is represented as internal content.'),
       App.el('h3', {}, 'In-app analysis status'),
       App.el('p', {}, 'No real-PYQ questions have been imported, so topic frequencies, difficulty trends and 10-year recurrence statistics are not yet available. The prediction paper remains a separate original practice set.'),
       App.el('p', { className: 'text-muted' }, `Source-linked subject papers: ${realSources} · Imported real-PYQ questions: 0 · Prediction questions: ${prediction ? 300 : 0}`)
@@ -161,21 +161,22 @@
       App.el('div', { className: 'card-title' }, p.title),
       App.el('div', { className: 'card-subtitle' }, p.subtitle),
       App.el('div', { className: 'card-meta' },
-        App.el('span', { className: 'meta-chip' }, p.paperType || 'Practice'),
+        App.el('span', { className: 'meta-chip' }, p.paperType === 'REAL_PYQ' && p.sourceAuthority === 'UPSC' ? 'REAL UPSC PAPER' : p.paperType || 'Practice'),
         ...(p.durationMin ? [App.el('span', { className: 'meta-chip' }, `⏱ ${p.durationMin} min`)] : []),
         ...(p.paperSubject ? [App.el('span', { className: 'meta-chip' }, p.paperSubject)] : []),
-        ...(p.sourceUrl ? [App.el('span', { className: 'meta-chip' }, 'External source · not in-app scored')] : []),
-        ...(!p.sourceUrl ? [App.el('span', { className: 'meta-chip' }, `+${p.correctMark} / −${p.negativeMark}`)] : [])
+        ...(p.contentMode === 'EXTERNAL_SOURCE' ? [App.el('span', { className: 'meta-chip' }, 'External source · not in-app scored')] : []),
+        ...(p.contentMode !== 'EXTERNAL_SOURCE' ? [App.el('span', { className: 'meta-chip' }, `+${p.correctMark} / −${p.negativeMark}`)] : [])
       )
     );
-    if (p.sourceUrl) {
+    if (p.contentMode === 'EXTERNAL_SOURCE') {
+      card.appendChild(App.el('p', { className: 'text-muted' }, `Source: ${p.source}`));
       card.appendChild(App.el('div', { className: 'card-actions' },
         App.el('a', {
           className: 'btn btn-primary',
           href: p.sourceUrl,
           target: '_blank',
           rel: 'noopener noreferrer'
-        }, p.sourceType === 'EXTERNAL_ARCHIVE_LISTING' ? 'Open archive listing' : 'Open source PDF')
+        }, 'Open Original Paper')
       ));
       card.appendChild(App.el('p', { className: 'text-muted' }, p.verificationStatus));
       return card;

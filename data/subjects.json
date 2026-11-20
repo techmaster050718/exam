@@ -1,5 +1,11 @@
 [
   {
+    "id": "capf-ac",
+    "title": "CAPF AC — Assistant Commandants",
+    "description": "Official UPSC CAPF AC paper sources and CAPF-specific practice",
+    "icon": "🛡️"
+  },
+  {
     "id": "cds",
     "title": "CDS — Combined Defence Services",
     "description": "CDS 2027 prediction paper, English, GK and Elementary Mathematics",

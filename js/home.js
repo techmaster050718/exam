@@ -26,8 +26,8 @@
   }
   function summary(stats) { const wrap = App.el('div', { className: 'summary-strip glass' }); stats.forEach(([v, l]) => wrap.appendChild(App.el('div', { className: 'summary-stat' }, App.el('span', { className: 'summary-stat-value' }, v), App.el('span', { className: 'summary-stat-label' }, l)))); return wrap; }
   function subjectCard(s, papers) {
-    const practicePapers = papers.filter((p) => p.file);
-    const sourceLinks = papers.filter((p) => p.sourceUrl).length;
+    const practicePapers = papers.filter((p) => p.contentMode !== 'EXTERNAL_SOURCE' && p.file);
+    const sourceLinks = papers.filter((p) => p.contentMode === 'EXTERNAL_SOURCE').length;
     const done = practicePapers.filter((p) => App.getPaperState(p.id)?.status === 'submitted');
     const avg = done.length ? Math.round(done.reduce((n,p) => n + (App.getPaperState(p.id).percentage || 0), 0) / done.length * 10) / 10 : null;
     const cardHref = s.href || `subject.html?subject=${encodeURIComponent(s.id)}`;
