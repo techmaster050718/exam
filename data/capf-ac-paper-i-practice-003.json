@@ -1,0 +1,86 @@
+{
+  "id": "capf-ac-paper-i-practice-003",
+  "exam": "CAPF AC",
+  "year": 2027,
+  "paper": "Practice Set 3",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice questions; not an authentic UPSC PYQ",
+  "sections": [
+    {
+      "name": "Indian Polity",
+      "questions": [
+        {"id":"capf-s3-pol-01","type":"MCQ","q":"The power to issue writs for enforcement of Fundamental Rights is expressly guaranteed to the Supreme Court under:","options":["Article 14","Article 19","Article 32","Article 368"],"answer":2,"explanation":"Article 32 guarantees the right to move the Supreme Court for enforcement of Fundamental Rights."},
+        {"id":"capf-s3-pol-02","type":"MCQ","q":"The Directive Principles of State Policy are:","options":["Enforceable by every court as Fundamental Rights","Non-justiciable principles that guide governance","Applicable only to local governments","Superior to every constitutional provision"],"answer":1,"explanation":"Under Article 37, the Directive Principles are non-justiciable but fundamental in the governance of the country."},
+        {"id":"capf-s3-pol-03","type":"MCQ","q":"A National Emergency under Article 352 may be proclaimed on the grounds of war, external aggression or:","options":["Armed rebellion","Failure of a municipal body","A fall in exports","A dispute between two States"],"answer":0,"explanation":"Article 352 lists war, external aggression and armed rebellion as grounds for a National Emergency."},
+        {"id":"capf-s3-pol-04","type":"MCQ","q":"Which body recommends the distribution of certain tax revenues between the Union and the States?","options":["Election Commission","Finance Commission","Union Public Service Commission","NITI Aayog"],"answer":1,"explanation":"The Finance Commission, constituted under Article 280, recommends tax devolution and related fiscal principles."},
+        {"id":"capf-s3-pol-05","type":"MCQ","q":"A joint sitting of Parliament is presided over by the:","options":["President","Vice-President","Speaker of the Lok Sabha","Chief Justice of India"],"answer":2,"explanation":"The Speaker of the Lok Sabha presides over a joint sitting; the Deputy Speaker or another designated presiding officer may act in the Speaker's absence."},
+        {"id":"capf-s3-pol-06","type":"MCQ","q":"The power of judicial review enables courts to:","options":["Make the annual Union Budget","Examine whether laws and executive actions comply with the Constitution","Appoint all State Governors","Conduct elections to Parliament"],"answer":1,"explanation":"Judicial review allows courts to assess the constitutionality of laws and executive actions."},
+        {"id":"capf-s3-pol-07","type":"MCQ","q":"The President of India is elected by an electoral college that includes elected members of Parliament and elected members of:","options":["All State Legislative Councils","State Legislative Assemblies and the Assemblies of specified Union Territories","Municipal corporations","All district panchayats"],"answer":1,"explanation":"The electoral college includes elected MPs and elected MLAs of the States and the legislatures of Delhi and Puducherry."},
+        {"id":"capf-s3-pol-08","type":"MCQ","q":"The Right to Constitutional Remedies is important because it allows a person to:","options":["Seek judicial enforcement of Fundamental Rights","Change a State boundary by petition","Veto a Money Bill","Remove a judge without procedure"],"answer":0,"explanation":"It provides access to courts, including the Supreme Court and High Courts, to enforce Fundamental Rights."}
+      ]
+    },
+    {
+      "name": "Indian History",
+      "questions": [
+        {"id":"capf-s3-his-01","type":"MCQ","q":"The Great Bath is a notable structure at the Harappan site of:","options":["Mohenjo-daro","Lothal","Surkotada","Dholavira"],"answer":0,"explanation":"The Great Bath was discovered at Mohenjo-daro."},
+        {"id":"capf-s3-his-02","type":"MCQ","q":"The Allahabad Pillar inscription praising Samudragupta is known as the:","options":["Aihole inscription","Prayaga Prashasti","Junagadh inscription","Hathigumpha inscription"],"answer":1,"explanation":"The Prayaga Prashasti, composed by Harishena, describes Samudragupta's achievements."},
+        {"id":"capf-s3-his-03","type":"MCQ","q":"The policy of Sulh-i-Kul, or universal peace, is associated with:","options":["Akbar","Aurangzeb","Sher Shah Suri","Alauddin Khalji"],"answer":0,"explanation":"Akbar promoted Sulh-i-Kul as a principle of broad religious tolerance."},
+        {"id":"capf-s3-his-04","type":"MCQ","q":"The Permanent Settlement of Bengal was introduced in 1793 by:","options":["Lord Wellesley","Lord Cornwallis","Lord Dalhousie","Warren Hastings"],"answer":1,"explanation":"Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793."},
+        {"id":"capf-s3-his-05","type":"MCQ","q":"The Indian National Congress adopted the goal of Purna Swaraj at its 1929 session held in:","options":["Lahore","Lucknow","Bombay","Madras"],"answer":0,"explanation":"The Lahore session of 1929, presided over by Jawaharlal Nehru, adopted Purna Swaraj as the goal."},
+        {"id":"capf-s3-his-06","type":"MCQ","q":"The Simon Commission was opposed in India primarily because:","options":["It proposed immediate independence.","It had no Indian member.","It sought to abolish provincial legislatures.","It was appointed by the Indian National Congress."],"answer":1,"explanation":"The all-British Simon Commission had no Indian member, prompting widespread protest."},
+        {"id":"capf-s3-his-07","type":"MCQ","q":"The Cabinet Mission came to India in 1946 mainly to discuss:","options":["A constitutional framework and transfer of power","The partition of Bengal in 1905","The introduction of the Permanent Settlement","The launch of the Non-Cooperation Movement"],"answer":0,"explanation":"The Cabinet Mission proposed a framework for constitution-making and the transfer of power."}
+      ]
+    },
+    {
+      "name": "Geography and Environment",
+      "questions": [
+        {"id":"capf-s3-geo-01","type":"MCQ","q":"The Coriolis effect on moving air and water is caused primarily by Earth's:","options":["Rotation","Revolution around the Sun","Axial tilt alone","Changing distance from the Moon"],"answer":0,"explanation":"Earth's rotation causes the apparent deflection of moving air and water known as the Coriolis effect."},
+        {"id":"capf-s3-geo-02","type":"MCQ","q":"The Ganga-Brahmaputra delta is formed mainly along the coast of:","options":["Gujarat","West Bengal and Bangladesh","Tamil Nadu","Maharashtra"],"answer":1,"explanation":"The Ganga and Brahmaputra river systems form the extensive delta across West Bengal and Bangladesh."},
+        {"id":"capf-s3-geo-03","type":"MCQ","q":"Which soil type is commonly associated with the Deccan Trap region and is rich in clay?","options":["Black soil","Laterite soil","Desert soil","Mountain meadow soil"],"answer":0,"explanation":"Black cotton soil, derived largely from basaltic Deccan Trap rocks, has a high clay content."},
+        {"id":"capf-s3-geo-04","type":"MCQ","q":"The Western Ghats receive heavy rainfall mainly because they:","options":["Force moist monsoon winds to rise along the windward slope","Block all winter winds from the Himalaya","Lie in the rain shadow of the Himalaya","Generate cyclones over the Arabian Sea"],"answer":0,"explanation":"Moist Arabian Sea monsoon winds rise over the Western Ghats, cool and produce orographic rainfall on the windward side."},
+        {"id":"capf-s3-geo-05","type":"MCQ","q":"Which of the following is a renewable resource when managed sustainably?","options":["Coal","Petroleum","Solar energy","Natural gas"],"answer":2,"explanation":"Solar energy is continually replenished and is renewable."},
+        {"id":"capf-s3-geo-06","type":"MCQ","q":"A watershed is best described as:","options":["An area drained by a river system and its tributaries","A deep ocean trench","A region with no surface water","A boundary between two climatic zones only"],"answer":0,"explanation":"A watershed or drainage basin is the area from which runoff drains to a common outlet through a stream network."},
+        {"id":"capf-s3-geo-07","type":"MCQ","q":"Mangrove forests are especially adapted to:","options":["Saline coastal and tidal conditions","Permanent snow cover","Very low atmospheric pressure","Dry alpine slopes"],"answer":0,"explanation":"Mangroves tolerate saline water and periodic tidal inundation in tropical and subtropical coasts."},
+        {"id":"capf-s3-geo-08","type":"MCQ","q":"Which practice most directly reduces soil erosion on a hill slope?","options":["Contour ploughing","Removing all vegetation","Ploughing straight downhill","Leaving exposed soil before heavy rain"],"answer":0,"explanation":"Contour ploughing follows the land's contours and slows runoff, helping reduce erosion."}
+      ]
+    },
+    {
+      "name": "General Science and Environment",
+      "questions": [
+        {"id":"capf-s3-sci-01","type":"MCQ","q":"The SI unit of work is the:","options":["Newton","Joule","Watt","Pascal"],"answer":1,"explanation":"Work is measured in joules; one joule equals one newton-metre."},
+        {"id":"capf-s3-sci-02","type":"MCQ","q":"Which blood component is chiefly responsible for clotting?","options":["Red blood cells","Platelets","Plasma proteins only","Lymphocytes"],"answer":1,"explanation":"Platelets help initiate blood clotting and form a platelet plug at an injury."},
+        {"id":"capf-s3-sci-03","type":"MCQ","q":"The genetic information in most living organisms is primarily carried by:","options":["DNA","Starch","Cellulose","Haemoglobin"],"answer":0,"explanation":"DNA stores hereditary information in most organisms."},
+        {"id":"capf-s3-sci-04","type":"MCQ","q":"A solution with pH 3 is:","options":["Acidic","Neutral","Basic","Always a salt"],"answer":0,"explanation":"At ordinary conditions, pH values below 7 indicate acidic solutions."},
+        {"id":"capf-s3-sci-05","type":"MCQ","q":"Ozone depletion in the stratosphere has historically been strongly linked to:","options":["Chlorofluorocarbons","Oxygen released by plants","Nitrogen in the air","Water vapour from oceans"],"answer":0,"explanation":"Chlorofluorocarbons release chlorine radicals in the stratosphere that catalytically destroy ozone."},
+        {"id":"capf-s3-sci-06","type":"MCQ","q":"A major human-caused source of sulphur dioxide emissions is:","options":["Burning sulphur-containing fossil fuels","Photosynthesis","Evaporation of pure water","Wind erosion of clean sand"],"answer":0,"explanation":"Combustion of sulphur-containing coal and oil can release sulphur dioxide."},
+        {"id":"capf-s3-sci-07","type":"MCQ","q":"In an ecosystem, decomposers play a key role by:","options":["Returning nutrients from dead matter to the environment","Producing sunlight","Stopping all energy flow","Converting consumers into producers"],"answer":0,"explanation":"Decomposers break down dead organisms and wastes, returning nutrients to ecosystems."},
+        {"id":"capf-s3-sci-08","type":"MCQ","q":"Which gas is a major contributor to the enhanced greenhouse effect from human activities?","options":["Carbon dioxide","Helium","Neon","Argon"],"answer":0,"explanation":"Human activities, particularly fossil-fuel combustion and land-use change, add substantial carbon dioxide to the atmosphere."}
+      ]
+    },
+    {
+      "name": "Economy and Security",
+      "questions": [
+        {"id":"capf-s3-sec-01","type":"MCQ","q":"The Reserve Bank of India is India's:","options":["Central bank","Securities market regulator","National audit authority","Election authority"],"answer":0,"explanation":"The RBI is India's central bank and conducts monetary policy and key banking functions."},
+        {"id":"capf-s3-sec-02","type":"MCQ","q":"A persistent general rise in the price level is known as:","options":["Deflation","Inflation","Disinvestment","Depreciation of physical capital"],"answer":1,"explanation":"Inflation is a sustained increase in the general price level of goods and services."},
+        {"id":"capf-s3-sec-03","type":"MCQ","q":"The Border Security Force is primarily associated with guarding India's:","options":["International land borders with Pakistan and Bangladesh","Major public-sector factories","All district court buildings","National parks"],"answer":0,"explanation":"The BSF is primarily responsible for guarding India's borders with Pakistan and Bangladesh in peacetime."},
+        {"id":"capf-s3-sec-04","type":"MCQ","q":"The Indo-Tibetan Border Police is deployed primarily along the border with:","options":["China","Sri Lanka","Maldives","Myanmar"],"answer":0,"explanation":"The ITBP guards the India-China border, including high-altitude areas."},
+        {"id":"capf-s3-sec-05","type":"MCQ","q":"The Central Industrial Security Force has an important role in securing:","options":["Critical infrastructure and designated industrial installations","International maritime boundaries only","Village revenue records","Election manifestos"],"answer":0,"explanation":"CISF provides security to critical infrastructure, airports and designated industrial facilities."},
+        {"id":"capf-s3-sec-06","type":"MCQ","q":"The National Disaster Response Force is primarily intended for:","options":["Specialist disaster response and rescue","Regulating commercial banks","Conducting criminal trials","Managing foreign exchange"],"answer":0,"explanation":"NDRF battalions provide specialist response and rescue during disasters."},
+        {"id":"capf-s3-sec-07","type":"MCQ","q":"A fiscal deficit broadly represents the excess of government expenditure over its receipts, excluding:","options":["Borrowings","Tax revenue","Non-tax revenue","Disinvestment receipts"],"answer":0,"explanation":"Fiscal deficit is total expenditure minus receipts excluding borrowings; it indicates the government's borrowing requirement."}
+      ]
+    },
+    {
+      "name": "Intelligence and Analytical Ability",
+      "questions": [
+        {"id":"capf-s3-an-01","type":"MCQ","q":"Find the next term: 3, 8, 15, 24, 35, __.","options":["46","48","50","52"],"answer":1,"explanation":"The differences are 5, 7, 9 and 11; the next difference is 13, giving 48."},
+        {"id":"capf-s3-an-02","type":"MCQ","q":"If 25% of a number is 45, the number is:","options":["120","160","180","200"],"answer":2,"explanation":"The number is 45/0.25=180."},
+        {"id":"capf-s3-an-03","type":"MCQ","q":"A vehicle covers 180 km in 3 hours at a constant speed. Its speed is:","options":["50 km/h","55 km/h","60 km/h","65 km/h"],"answer":2,"explanation":"Speed equals distance divided by time: 180/3=60 km/h."},
+        {"id":"capf-s3-an-04","type":"MCQ","q":"A can complete a task in 10 days and B in 15 days. Working together, they complete it in:","options":["5 days","6 days","8 days","12 days"],"answer":1,"explanation":"Their combined rate is 1/10+1/15=1/6 of the task per day, so the time is 6 days."},
+        {"id":"capf-s3-an-05","type":"MCQ","q":"The average of five consecutive even integers is 24. What is the largest integer?","options":["26","28","30","32"],"answer":1,"explanation":"The middle integer equals the average, 24; the five integers are 20, 22, 24, 26 and 28."},
+        {"id":"capf-s3-an-06","type":"MCQ","q":"All field officers are trained. Some trained personnel are translators. Which conclusion must follow?","options":["All field officers are translators.","Some translators are field officers.","Every trained person is a field officer.","No definite conclusion that a field officer is a translator follows."],"answer":3,"explanation":"The two groups are not stated to overlap: trained personnel who are translators need not be field officers."},
+        {"id":"capf-s3-an-07","type":"MCQ","q":"A person walks 5 km east, turns left and walks 4 km, then turns left and walks 5 km. Where is the person relative to the starting point?","options":["4 km north","4 km south","5 km east","At the starting point"],"answer":0,"explanation":"The east and west movements cancel; the remaining displacement is 4 km north."}
+      ]
+    }
+  ]
+}

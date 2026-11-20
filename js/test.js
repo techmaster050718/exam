@@ -221,7 +221,8 @@
     const q = questions[idx];
 
     // Update question number label
-    App.qs('#q-num').textContent = `Question ${idx + 1} of ${questions.length}`;
+    const marks = q.marks ?? paperMeta.correctMark ?? 1;
+    App.qs('#q-num').textContent = `Question ${idx + 1} of ${questions.length} · ${q.type || 'MCQ'} · ${marks} mark${marks === 1 ? '' : 's'}`;
 
     // Section context
     App.qs('#q-section').textContent = q.sectionName;
@@ -240,36 +241,74 @@
 
     // Options
     const optList = App.qs('#options-list');
+    const answerEntry = App.qs('#answer-entry');
     optList.innerHTML = '';
+    answerEntry.replaceChildren();
     const keys = ['A', 'B', 'C', 'D'];
-    // Coerce stored answer to number (keys are strings after JSON parse)
-    const rawSelected  = state.answers[idx];
-    const selectedOpt  = (rawSelected !== undefined && rawSelected !== null) ? Number(rawSelected) : null;
+    const rawSelected = state.answers[idx] ?? state.answers[String(idx)];
+    const selectedOptions = Array.isArray(rawSelected) ? rawSelected.map(Number) : [];
+    const questionType = q.type || 'MCQ';
 
-    q.options.forEach((optText, oi) => {
-      const isSelected = selectedOpt === oi;
-      const li = App.el('li', {
-        className: `option-item${isSelected ? ' selected' : ''}`,
-        role: 'radio',
-        'aria-checked': isSelected ? 'true' : 'false',
-        tabindex: '0',
-        dataset: { optIndex: oi }
-      },
-        App.el('span', { className: 'option-key' }, keys[oi]),
-        App.el('span', { className: 'option-text' })
+    if (questionType === 'NAT') {
+      optList.hidden = true;
+      const input = App.el('input', {
+        type: 'text',
+        inputMode: 'decimal',
+        className: 'nat-answer-input',
+        id: 'nat-answer',
+        value: rawSelected ?? '',
+        autocomplete: 'off',
+        'aria-label': 'Numerical answer',
+      });
+      input.addEventListener('input', () => {
+        if (input.value.trim()) state.answers[idx] = input.value;
+        else {
+          delete state.answers[idx];
+          delete state.answers[String(idx)];
+        }
+        saveState();
+        updatePaletteBtn(idx);
+        updateCounters();
+      });
+      answerEntry.append(
+        App.el('label', { htmlFor: 'nat-answer' }, 'Enter numerical answer'),
+        input
       );
-      li.querySelector('.option-text').appendChild(App.renderBilingualText(optText));
-      if (Array.isArray(q.optionImgs) && q.optionImgs[oi]) {
-        const image = App.el('img', { className: 'option-image', src: q.optionImgs[oi], alt: `Option ${keys[oi]}` });
-        li.querySelector('.option-text').appendChild(image);
+    } else {
+      optList.hidden = false;
+      optList.setAttribute('role', questionType === 'MSQ' ? 'group' : 'radiogroup');
+      optList.setAttribute('aria-label', questionType === 'MSQ' ? 'Select all correct options' : 'Answer options');
+      if (questionType === 'MSQ') {
+        answerEntry.appendChild(App.el('p', { className: 'question-type-hint' }, 'Select all correct options.'));
       }
 
-      li.addEventListener('click', () => selectOption(oi));
-      li.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); selectOption(oi); }
+      (q.options || []).forEach((optText, oi) => {
+        const isSelected = questionType === 'MSQ'
+          ? selectedOptions.includes(oi)
+          : Number(rawSelected) === oi;
+        const li = App.el('li', {
+          className: `option-item${isSelected ? ' selected' : ''}`,
+          role: questionType === 'MSQ' ? 'checkbox' : 'radio',
+          'aria-checked': isSelected ? 'true' : 'false',
+          tabindex: '0',
+          dataset: { optIndex: oi }
+        },
+          App.el('span', { className: 'option-key' }, keys[oi]),
+          App.el('span', { className: 'option-text' })
+        );
+        li.querySelector('.option-text').appendChild(App.renderBilingualText(optText));
+        if (Array.isArray(q.optionImgs) && q.optionImgs[oi]) {
+          const image = App.el('img', { className: 'option-image', src: q.optionImgs[oi], alt: `Option ${keys[oi]}` });
+          li.querySelector('.option-text').appendChild(image);
+        }
+
+        li.addEventListener('click', () => selectOption(oi));
+        li.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); selectOption(oi); }
+        });
+        optList.appendChild(li);
       });
-      optList.appendChild(li);
-    });
+    }
 
     // Mark button state
     const isMarked = (state.marked || []).includes(idx);
@@ -309,6 +348,22 @@
   function selectOption(optIdx) {
     if (isSubmitted) return;
     const rawPrev = state.answers[currentIdx] ?? state.answers[String(currentIdx)];
+    if (questions[currentIdx].type === 'MSQ') {
+      const selected = Array.isArray(rawPrev) ? rawPrev.map(Number) : [];
+      const updated = selected.includes(optIdx)
+        ? selected.filter((value) => value !== optIdx)
+        : [...selected, optIdx].sort((a, b) => a - b);
+      if (updated.length) state.answers[currentIdx] = updated;
+      else {
+        delete state.answers[currentIdx];
+        delete state.answers[String(currentIdx)];
+      }
+      saveState();
+      renderQuestion(currentIdx);
+      updatePaletteBtn(currentIdx);
+      updateCounters();
+      return;
+    }
     const prev = (rawPrev !== undefined && rawPrev !== null) ? Number(rawPrev) : null;
 
     if (prev === optIdx) {

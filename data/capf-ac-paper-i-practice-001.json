@@ -1,0 +1,437 @@
+{
+  "id": "capf-ac-paper-i-practice-001",
+  "exam": "CAPF AC",
+  "year": 2027,
+  "paper": "Practice Set 1",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice questions; not an authentic UPSC PYQ",
+  "verificationStatus": "Original practice content; not an official UPSC paper",
+  "sections": [
+    {
+      "name": "Indian Polity",
+      "questions": [
+        {
+          "id": "capf27-001",
+          "type": "MCQ",
+          "q": "Which Article of the Constitution provides the right to move the Supreme Court for enforcement of Fundamental Rights?",
+          "options": ["Article 14", "Article 19", "Article 32", "Article 226"],
+          "answer": 2,
+          "explanation": "Article 32 guarantees the right to move the Supreme Court for enforcement of Fundamental Rights."
+        },
+        {
+          "id": "capf27-002",
+          "type": "MCQ",
+          "q": "Which statement about the Rajya Sabha is correct?",
+          "options": ["It is dissolved every five years.", "It is a permanent House, with one-third of its members retiring every two years.", "All its members are directly elected.", "It can be dissolved by the President."],
+          "answer": 1,
+          "explanation": "The Rajya Sabha is not subject to dissolution; approximately one-third of its members retire every two years."
+        },
+        {
+          "id": "capf27-003",
+          "type": "MCQ",
+          "q": "A Money Bill can be introduced in:",
+          "options": ["Either House of Parliament", "The Lok Sabha only", "The Rajya Sabha only", "A joint sitting of both Houses"],
+          "answer": 1,
+          "explanation": "A Money Bill can be introduced only in the Lok Sabha, on the President's recommendation."
+        },
+        {
+          "id": "capf27-004",
+          "type": "MCQ",
+          "q": "The Finance Commission is constituted under which Article?",
+          "options": ["Article 263", "Article 280", "Article 300", "Article 324"],
+          "answer": 1,
+          "explanation": "Article 280 provides for the constitution of a Finance Commission by the President."
+        },
+        {
+          "id": "capf27-005",
+          "type": "MCQ",
+          "q": "Fundamental Duties were added to the Constitution by which amendment?",
+          "options": ["24th Amendment", "42nd Amendment", "44th Amendment", "52nd Amendment"],
+          "answer": 1,
+          "explanation": "The 42nd Constitutional Amendment Act, 1976 added Fundamental Duties."
+        },
+        {
+          "id": "capf27-006",
+          "type": "MCQ",
+          "q": "Who appoints the Governor of a State?",
+          "options": ["The Chief Minister", "The President of India", "The Chief Justice of the High Court", "The State Legislature"],
+          "answer": 1,
+          "explanation": "The President appoints the Governor of each State under Article 155."
+        },
+        {
+          "id": "capf27-007",
+          "type": "MCQ",
+          "q": "The President's power to promulgate an Ordinance is available when:",
+          "options": ["Both Houses of Parliament are in session.", "At least one House of Parliament is not in session.", "The Supreme Court is not in session.", "A State declares a financial emergency."],
+          "answer": 1,
+          "explanation": "Under Article 123, the President may promulgate an Ordinance when either House, or both Houses, are not in session and immediate action is necessary."
+        },
+        {
+          "id": "capf27-008",
+          "type": "MCQ",
+          "q": "Which statement best describes the Directive Principles of State Policy?",
+          "options": ["They are enforceable by courts in the same way as Fundamental Rights.", "They are non-justiciable principles that guide the State.", "They apply only during a national emergency.", "They can be amended only by State Legislatures."],
+          "answer": 1,
+          "explanation": "Directive Principles are non-justiciable, but are fundamental in the governance of the country."
+        },
+        {
+          "id": "capf27-009",
+          "type": "MCQ",
+          "q": "The superintendence, direction and control of elections in India is vested in the:",
+          "options": ["Union Public Service Commission", "Election Commission of India", "Ministry of Parliamentary Affairs", "Supreme Court"],
+          "answer": 1,
+          "explanation": "Article 324 vests this responsibility in the Election Commission of India."
+        },
+        {
+          "id": "capf27-010",
+          "type": "MCQ",
+          "q": "The 73rd Constitutional Amendment is primarily associated with:",
+          "options": ["Municipalities", "Panchayati Raj institutions", "Cooperative societies", "Anti-defection provisions"],
+          "answer": 1,
+          "explanation": "The 73rd Amendment gave constitutional status to Panchayati Raj institutions."
+        }
+      ]
+    },
+    {
+      "name": "Indian History",
+      "questions": [
+        {
+          "id": "capf27-011",
+          "type": "MCQ",
+          "q": "Which Harappan site is especially noted for its reservoirs and water-management system?",
+          "options": ["Dholavira", "Kalibangan", "Lothal", "Ropar"],
+          "answer": 0,
+          "explanation": "Dholavira, in present-day Gujarat, is well known for its elaborate reservoirs and water-management structures."
+        },
+        {
+          "id": "capf27-012",
+          "type": "MCQ",
+          "q": "The Kalinga War is associated with which Mauryan ruler?",
+          "options": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Dasharatha"],
+          "answer": 2,
+          "explanation": "Ashoka's conquest of Kalinga is described in his Major Rock Edict XIII."
+        },
+        {
+          "id": "capf27-013",
+          "type": "MCQ",
+          "q": "The Prayaga Prashasti, an important source for the reign of Samudragupta, was composed by:",
+          "options": ["Banabhatta", "Harishena", "Kalidasa", "Vishakhadatta"],
+          "answer": 1,
+          "explanation": "Harishena, a court poet and official, composed the Prayaga Prashasti."
+        },
+        {
+          "id": "capf27-014",
+          "type": "MCQ",
+          "q": "The Revolt of 1857 began among sepoys at:",
+          "options": ["Kanpur", "Meerut", "Lucknow", "Jhansi"],
+          "answer": 1,
+          "explanation": "The sepoy uprising began at Meerut on 10 May 1857 and then spread to other centres."
+        },
+        {
+          "id": "capf27-015",
+          "type": "MCQ",
+          "q": "The Indian National Congress was founded in 1885 with the initiative of:",
+          "options": ["A. O. Hume", "Lord Curzon", "W. C. Bonnerjee alone", "Dadabhai Naoroji"],
+          "answer": 0,
+          "explanation": "A. O. Hume helped organise the first session of the Indian National Congress in 1885."
+        },
+        {
+          "id": "capf27-016",
+          "type": "MCQ",
+          "q": "The Swadeshi Movement gathered momentum after which event?",
+          "options": ["The Jallianwala Bagh massacre", "The partition of Bengal in 1905", "The Simon Commission visit", "The Rowlatt Act"],
+          "answer": 1,
+          "explanation": "The 1905 partition of Bengal prompted the Swadeshi and boycott movements."
+        },
+        {
+          "id": "capf27-017",
+          "type": "MCQ",
+          "q": "The Non-Cooperation Movement was launched by Mahatma Gandhi in:",
+          "options": ["1917", "1919", "1920", "1930"],
+          "answer": 2,
+          "explanation": "The Non-Cooperation Movement was adopted by the Congress in 1920."
+        },
+        {
+          "id": "capf27-018",
+          "type": "MCQ",
+          "q": "The Dandi March of 1930 was undertaken to protest against the:",
+          "options": ["Salt laws", "Land revenue system", "Partition of Bengal", "Rowlatt Act"],
+          "answer": 0,
+          "explanation": "Gandhi's march to Dandi challenged the British salt laws and began the Civil Disobedience Movement."
+        },
+        {
+          "id": "capf27-019",
+          "type": "MCQ",
+          "q": "The Quit India Movement was launched in:",
+          "options": ["1939", "1940", "1942", "1946"],
+          "answer": 2,
+          "explanation": "The Congress launched the Quit India Movement in August 1942."
+        },
+        {
+          "id": "capf27-020",
+          "type": "MCQ",
+          "q": "Who was the most prominent leader associated with reorganising and leading the Indian National Army during the Second World War?",
+          "options": ["Subhas Chandra Bose", "Sardar Vallabhbhai Patel", "C. Rajagopalachari", "Gopal Krishna Gokhale"],
+          "answer": 0,
+          "explanation": "Subhas Chandra Bose led the Indian National Army and the Provisional Government of Azad Hind."
+        }
+      ]
+    },
+    {
+      "name": "Geography and Environment",
+      "questions": [
+        {
+          "id": "capf27-021",
+          "type": "MCQ",
+          "q": "Which river flows westward through a rift valley and empties into the Arabian Sea?",
+          "options": ["Godavari", "Narmada", "Mahanadi", "Krishna"],
+          "answer": 1,
+          "explanation": "The Narmada flows west through a rift valley to the Arabian Sea."
+        },
+        {
+          "id": "capf27-022",
+          "type": "MCQ",
+          "q": "Black soil is particularly suitable for the cultivation of:",
+          "options": ["Cotton", "Tea", "Jute", "Coconut"],
+          "answer": 0,
+          "explanation": "The moisture-retentive black soils of the Deccan are especially suitable for cotton."
+        },
+        {
+          "id": "capf27-023",
+          "type": "MCQ",
+          "q": "The southwest monsoon generally reaches the Indian mainland first along the:",
+          "options": ["Gujarat coast", "Kerala coast", "Odisha coast", "West Bengal coast"],
+          "answer": 1,
+          "explanation": "The Arabian Sea branch of the southwest monsoon normally makes its first landfall over Kerala."
+        },
+        {
+          "id": "capf27-024",
+          "type": "MCQ",
+          "q": "Chilika Lake is best described as a:",
+          "options": ["Freshwater glacial lake", "Brackish-water coastal lagoon", "Crater lake", "Artificial reservoir"],
+          "answer": 1,
+          "explanation": "Chilika is a brackish-water coastal lagoon on the Odisha coast."
+        },
+        {
+          "id": "capf27-025",
+          "type": "MCQ",
+          "q": "The Andaman and Nicobar Islands are located in the:",
+          "options": ["Arabian Sea", "Bay of Bengal", "Gulf of Kutch", "Lakshadweep Sea"],
+          "answer": 1,
+          "explanation": "The Andaman and Nicobar archipelago lies in the Bay of Bengal."
+        },
+        {
+          "id": "capf27-026",
+          "type": "MCQ",
+          "q": "The rain-shadow region of the Deccan Plateau lies mainly to the east of the:",
+          "options": ["Aravalli Range", "Western Ghats", "Eastern Ghats", "Himalaya"],
+          "answer": 1,
+          "explanation": "The Western Ghats intercept moisture-laden winds, leaving areas to their east comparatively dry."
+        },
+        {
+          "id": "capf27-027",
+          "type": "MCQ",
+          "q": "The Sundarbans are especially known for which ecosystem?",
+          "options": ["Alpine meadows", "Mangrove forests", "Temperate conifer forests", "Coral atolls"],
+          "answer": 1,
+          "explanation": "The Sundarbans contain one of the world's largest mangrove forest regions."
+        },
+        {
+          "id": "capf27-028",
+          "type": "MCQ",
+          "q": "Lakshadweep's islands are primarily of which type?",
+          "options": ["Volcanic islands", "Coral atolls", "River islands", "Continental islands"],
+          "answer": 1,
+          "explanation": "Most Lakshadweep islands are coral atolls and reefs."
+        },
+        {
+          "id": "capf27-029",
+          "type": "MCQ",
+          "q": "The Standard Meridian of India is approximately:",
+          "options": ["68°7′ E", "77° E", "82°30′ E", "97°25′ E"],
+          "answer": 2,
+          "explanation": "Indian Standard Time is based on 82°30′ east longitude."
+        },
+        {
+          "id": "capf27-030",
+          "type": "MCQ",
+          "q": "Which gas is a major contributor to the human-caused enhancement of the greenhouse effect?",
+          "options": ["Oxygen", "Carbon dioxide", "Argon", "Neon"],
+          "answer": 1,
+          "explanation": "Carbon dioxide released by activities such as fossil-fuel combustion is a major anthropogenic greenhouse gas."
+        }
+      ]
+    },
+    {
+      "name": "General Science",
+      "questions": [
+        {
+          "id": "capf27-031",
+          "type": "MCQ",
+          "q": "Which pigment in green plants absorbs light energy for photosynthesis?",
+          "options": ["Haemoglobin", "Chlorophyll", "Melanin", "Keratin"],
+          "answer": 1,
+          "explanation": "Chlorophyll absorbs light energy used in photosynthesis."
+        },
+        {
+          "id": "capf27-032",
+          "type": "MCQ",
+          "q": "The primary role of haemoglobin in red blood cells is to:",
+          "options": ["Digest proteins", "Transport oxygen", "Produce antibodies", "Regulate blood glucose"],
+          "answer": 1,
+          "explanation": "Haemoglobin binds and transports most of the oxygen carried by blood."
+        },
+        {
+          "id": "capf27-033",
+          "type": "MCQ",
+          "q": "The SI unit of force is the:",
+          "options": ["Joule", "Watt", "Newton", "Pascal"],
+          "answer": 2,
+          "explanation": "Force is measured in newtons, equivalent to kilogram metre per second squared."
+        },
+        {
+          "id": "capf27-034",
+          "type": "MCQ",
+          "q": "Why can sound not travel through a vacuum?",
+          "options": ["Sound has no frequency in space.", "Sound requires a material medium to transmit vibrations.", "Sound travels only through liquids.", "Vacuum absorbs all wavelengths of sound."],
+          "answer": 1,
+          "explanation": "Sound is a mechanical wave and needs particles in a medium to carry its vibrations."
+        },
+        {
+          "id": "capf27-035",
+          "type": "MCQ",
+          "q": "At about 25°C, a neutral aqueous solution has a pH close to:",
+          "options": ["1", "5", "7", "14"],
+          "answer": 2,
+          "explanation": "At about 25°C, a neutral aqueous solution has pH 7."
+        },
+        {
+          "id": "capf27-036",
+          "type": "MCQ",
+          "q": "The human body can synthesise vitamin D in the skin when exposed to:",
+          "options": ["Ultraviolet B radiation", "Infrared radiation", "Radio waves", "Visible green light only"],
+          "answer": 0,
+          "explanation": "Ultraviolet B radiation enables the skin to produce vitamin D3 from a precursor molecule."
+        },
+        {
+          "id": "capf27-037",
+          "type": "MCQ",
+          "q": "The ozone layer in the stratosphere is important because it absorbs much of the Sun's:",
+          "options": ["Ultraviolet radiation", "Radio waves", "Visible light", "Infrared radiation"],
+          "answer": 0,
+          "explanation": "Stratospheric ozone absorbs much of the harmful ultraviolet radiation reaching Earth."
+        },
+        {
+          "id": "capf27-038",
+          "type": "MCQ",
+          "q": "Acid rain is mainly associated with atmospheric emissions of:",
+          "options": ["Sulphur dioxide and nitrogen oxides", "Oxygen and hydrogen", "Helium and neon", "Methane alone"],
+          "answer": 0,
+          "explanation": "Sulphur dioxide and nitrogen oxides can form acids in the atmosphere and contribute to acid deposition."
+        },
+        {
+          "id": "capf27-039",
+          "type": "MCQ",
+          "q": "Which action most directly supports in-situ conservation of a threatened wild species?",
+          "options": ["Protecting its natural habitat in a national park", "Keeping all individuals in a laboratory", "Storing only its DNA in a database", "Moving every individual to a zoo"],
+          "answer": 0,
+          "explanation": "In-situ conservation protects species within their natural habitats, for example in national parks and sanctuaries."
+        },
+        {
+          "id": "capf27-040",
+          "type": "MCQ",
+          "q": "Which of the following is a renewable source of energy?",
+          "options": ["Coal", "Petroleum", "Solar energy", "Natural gas"],
+          "answer": 2,
+          "explanation": "Solar energy is replenished naturally and is classified as a renewable energy source."
+        }
+      ]
+    },
+    {
+      "name": "Security and Analytical Ability",
+      "questions": [
+        {
+          "id": "capf27-041",
+          "type": "MCQ",
+          "q": "Which force is primarily responsible for guarding India's land borders with Pakistan and Bangladesh during peacetime?",
+          "options": ["Border Security Force", "Central Industrial Security Force", "National Disaster Response Force", "Railway Protection Force"],
+          "answer": 0,
+          "explanation": "The Border Security Force is primarily tasked with guarding India's borders with Pakistan and Bangladesh."
+        },
+        {
+          "id": "capf27-042",
+          "type": "MCQ",
+          "q": "Which force is primarily deployed to guard India's border with China in high-altitude regions?",
+          "options": ["Indo-Tibetan Border Police", "Central Reserve Police Force", "National Security Guard", "Assam Rifles"],
+          "answer": 0,
+          "explanation": "The Indo-Tibetan Border Police is deployed along the India-China border, including high-altitude areas."
+        },
+        {
+          "id": "capf27-043",
+          "type": "MCQ",
+          "q": "Which organisation is India's central counter-terrorism law-enforcement agency for investigating specified offences?",
+          "options": ["National Investigation Agency", "National Disaster Management Authority", "Staff Selection Commission", "Finance Commission"],
+          "answer": 0,
+          "explanation": "The National Investigation Agency investigates offences specified under its governing law, including certain terrorism-related cases."
+        },
+        {
+          "id": "capf27-044",
+          "type": "MCQ",
+          "q": "The National Disaster Response Force is primarily organised for:",
+          "options": ["Disaster response and rescue operations", "Border demarcation", "Conducting national elections", "Regulating civil aviation"],
+          "answer": 0,
+          "explanation": "The NDRF provides specialist response for natural and human-made disasters."
+        },
+        {
+          "id": "capf27-045",
+          "type": "MCQ",
+          "q": "The Central Industrial Security Force is especially associated with security for:",
+          "options": ["Critical infrastructure and industrial installations", "Village-level courts", "International treaty negotiations", "Forest surveys"],
+          "answer": 0,
+          "explanation": "CISF provides security to critical infrastructure, public-sector units, airports and other designated facilities."
+        },
+        {
+          "id": "capf27-046",
+          "type": "MCQ",
+          "q": "Find the next number in the series: 2, 6, 12, 20, 30, __.",
+          "options": ["36", "40", "42", "44"],
+          "answer": 2,
+          "explanation": "The differences are 4, 6, 8 and 10; the next difference is 12, giving 42."
+        },
+        {
+          "id": "capf27-047",
+          "type": "MCQ",
+          "q": "A can complete a task in 12 days at a constant rate. What fraction of the task can A complete in 4 days?",
+          "options": ["1/4", "1/3", "1/2", "2/3"],
+          "answer": 1,
+          "explanation": "A completes 1/12 of the task per day, so in 4 days A completes 4/12 = 1/3."
+        },
+        {
+          "id": "capf27-048",
+          "type": "MCQ",
+          "q": "A vehicle travels 150 kilometres in 3 hours at a constant speed. What is its speed?",
+          "options": ["40 km/h", "45 km/h", "50 km/h", "60 km/h"],
+          "answer": 2,
+          "explanation": "Speed equals distance divided by time: 150 ÷ 3 = 50 km/h."
+        },
+        {
+          "id": "capf27-049",
+          "type": "MCQ",
+          "q": "A person walks 4 km north, then 3 km east, then 4 km south. Where is the person relative to the starting point?",
+          "options": ["3 km east", "3 km west", "4 km north", "At the starting point"],
+          "answer": 0,
+          "explanation": "The northward and southward movements cancel, leaving the person 3 km east of the start."
+        },
+        {
+          "id": "capf27-050",
+          "type": "MCQ",
+          "q": "If every patrol vehicle is inspected before deployment, and Vehicle P was not inspected, what follows?",
+          "options": ["Vehicle P was deployed.", "Vehicle P was not deployed under this rule.", "Vehicle P failed inspection.", "All inspected vehicles were deployed."],
+          "answer": 1,
+          "explanation": "The rule makes inspection a prerequisite for deployment. If P was not inspected, it was not deployed under that rule."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "id": "gate-cse-2027-practice-001",
+  "exam": "GATE CSE",
+  "year": 2027,
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "sections": [
+    {
+      "name": "General Aptitude",
+      "questions": [
+        {
+          "id": "gate27-ga-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Verbal aptitude",
+          "q": "The word closest in meaning to “mitigate” is:",
+          "options": ["Intensify", "Lessen", "Postpone", "Measure"],
+          "answer": 1,
+          "explanation": "To mitigate a problem is to make it less severe."
+        },
+        {
+          "id": "gate27-ga-02",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Verbal aptitude",
+          "q": "Choose the grammatically correct completion: “Neither the reviewers nor the editor ___ willing to approve the revised version.”",
+          "options": ["were", "are", "was", "have been"],
+          "answer": 2,
+          "explanation": "With neither…nor, the verb agrees with the nearer subject, “editor,” which is singular."
+        },
+        {
+          "id": "gate27-ga-03",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Numerical aptitude",
+          "q": "A device is sold for ₹840 after a 20% discount on its marked price. What is the marked price, in rupees?",
+          "answer": 1050,
+          "tolerance": 0,
+          "explanation": "₹840 is 80% of the marked price, so the marked price is 840/0.8 = ₹1050."
+        },
+        {
+          "id": "gate27-ga-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Analytical aptitude",
+          "q": "All Nors are Pels. No Pel is a Vem. Which conclusion must follow?",
+          "options": ["Some Nors are Vems", "No Nor is a Vem", "All Vems are Nors", "No conclusion about Nors and Vems is possible"],
+          "answer": 1,
+          "explanation": "Every Nor is a Pel, and no Pel is a Vem; therefore no Nor can be a Vem."
+        },
+        {
+          "id": "gate27-ga-05",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Spatial aptitude",
+          "q": "A square sheet is folded once along a line joining the midpoints of two opposite sides. A circular hole is punched away from the fold. How many holes are present when the sheet is unfolded?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "explanation": "A single fold creates two layers at the punch location, so unfolding produces two holes."
+        },
+        {
+          "id": "gate27-ga-06",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Numerical aptitude",
+          "q": "A tank is filled by pipe A in 6 hours and by pipe B in 4 hours. A leak empties a full tank in 12 hours. If all three operate together, how long will an empty tank take to fill?",
+          "options": ["2 hours", "3 hours", "4 hours", "6 hours"],
+          "answer": 1,
+          "explanation": "The net rate is 1/6 + 1/4 − 1/12 = 1/3 tank per hour; filling takes 3 hours."
+        },
+        {
+          "id": "gate27-ga-07",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Numerical aptitude",
+          "q": "The average of five distinct positive integers is 12. The least possible value of the largest integer is what?",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "If the largest value is m, the greatest possible sum of five distinct positive integers not exceeding m is m+(m−1)+(m−2)+(m−3)+(m−4)=5m−10. Requiring 5m−10≥60 gives m≥14, achieved by 10, 11, 12, 13, 14."
+        },
+        {
+          "id": "gate27-ga-08",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Analytical aptitude",
+          "q": "A code replaces each letter by the next letter in the alphabet, with Z followed by A. Under this rule, COMPUTER is written as DPNQVUFS. How is NETWORK written?",
+          "options": ["OFUXPSL", "OFUXQSL", "OFUXPSM", "NFSXPSL"],
+          "answer": 0,
+          "explanation": "Increment each letter once: N→O, E→F, T→U, W→X, O→P, R→S, K→L."
+        },
+        {
+          "id": "gate27-ga-09",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Numerical aptitude",
+          "q": "A fair six-sided die is rolled twice. Which of the following events have probability 1/6?",
+          "options": [
+            "The sum is 7",
+            "Both rolls show the same number",
+            "The first roll is 1",
+            "The sum is 2"
+          ],
+          "answer": [0, 1, 2],
+          "explanation": "There are 6 doubles among 36 outcomes, and 6 outcomes with first roll 1. Sums 7 and 2 have probabilities 6/36 and 1/36, respectively."
+        },
+        {
+          "id": "gate27-ga-10",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Verbal aptitude",
+          "q": "A report states: “Every prototype that passed the stress test also passed the thermal test. Some prototypes that passed the thermal test failed the vibration test.” Which statement is necessarily true?",
+          "options": [
+            "Every prototype that passed the thermal test passed the stress test.",
+            "Some prototypes that passed the stress test failed the vibration test.",
+            "Every prototype that passed the stress test passed the thermal test.",
+            "No prototype passed all three tests."
+          ],
+          "answer": 2,
+          "explanation": "The first sentence directly states that passing the stress test implies passing the thermal test; the other options reverse or add implications."
+        }
+      ]
+    },
+    {
+      "name": "Engineering Mathematics",
+      "questions": [
+        {
+          "id": "gate27-math-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Linear algebra",
+          "q": "The determinant of the matrix [[2, 1], [4, 3]] is:",
+          "options": ["1", "2", "5", "10"],
+          "answer": 1,
+          "explanation": "The determinant is 2×3 − 1×4 = 2."
+        },
+        {
+          "id": "gate27-math-02",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Calculus",
+          "q": "For f(x)=x^3−3x, what is f'(2)?",
+          "answer": 9,
+          "tolerance": 0,
+          "explanation": "f'(x)=3x²−3, hence f'(2)=12−3=9."
+        },
+        {
+          "id": "gate27-math-03",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Probability",
+          "q": "A random variable X has P(X=0)=1/4 and P(X=2)=3/4. Its expectation E[X] is:",
+          "options": ["1", "3/2", "2", "3"],
+          "answer": 1,
+          "explanation": "E[X]=0×1/4 + 2×3/4 = 3/2."
+        },
+        {
+          "id": "gate27-math-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Discrete mathematics",
+          "q": "A connected undirected graph has n vertices and n−1 edges. Which property must it have?",
+          "options": ["It is a tree", "It contains exactly one cycle", "It is complete", "Every vertex has degree 2"],
+          "answer": 0,
+          "explanation": "A connected graph with n vertices and n−1 edges is a tree."
+        },
+        {
+          "id": "gate27-math-05",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Linear algebra",
+          "q": "The rank of [[1,2],[2,4]] is:",
+          "answer": 1,
+          "tolerance": 0,
+          "explanation": "The second row is twice the first, so there is exactly one linearly independent row."
+        },
+        {
+          "id": "gate27-math-06",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Calculus",
+          "q": "The value of ∫₀¹ 2x e^(x²) dx is:",
+          "options": ["e−1", "e", "1", "2e"],
+          "answer": 0,
+          "explanation": "With u=x², du=2x dx. The integral is ∫₀¹ e^u du = e−1."
+        },
+        {
+          "id": "gate27-math-07",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Probability and statistics",
+          "q": "Let X and Y be independent random variables with finite variances. Which statements are always true?",
+          "options": [
+            "E[X+Y]=E[X]+E[Y]",
+            "Var(X+Y)=Var(X)+Var(Y)",
+            "E[XY]=E[X]E[Y]",
+            "Var(XY)=Var(X)Var(Y)"
+          ],
+          "answer": [0, 1, 2],
+          "explanation": "Expectation is linear; independence makes covariance zero and factors E[XY]. The stated product formula for Var(XY) is not generally true."
+        },
+        {
+          "id": "gate27-math-08",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Discrete mathematics",
+          "q": "How many onto functions are there from a 3-element set to a 2-element set?",
+          "answer": 6,
+          "tolerance": 0,
+          "explanation": "There are 2^3=8 functions. Excluding the two constant functions leaves 6 onto functions."
+        },
+        {
+          "id": "gate27-math-09",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Linear algebra",
+          "q": "The eigenvalues of [[4,1],[0,2]] are:",
+          "options": ["1 and 5", "2 and 4", "−2 and −4", "3 and 3"],
+          "answer": 1,
+          "explanation": "A triangular matrix has its diagonal entries as eigenvalues: 4 and 2."
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "questions": [
+        {
+          "id": "gate27-cs-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Discrete mathematics",
+          "q": "In a simple undirected graph with 10 vertices, the maximum possible number of edges is:",
+          "options": ["10", "45", "90", "100"],
+          "answer": 1,
+          "explanation": "A simple undirected graph has at most n(n−1)/2 edges, which is 45 for n=10."
+        },
+        {
+          "id": "gate27-cs-02",
+          "type": "MSQ",
+          "marks": 1,
+          "topic": "Digital logic",
+          "q": "Which Boolean expressions are equivalent to A⊕B?",
+          "options": ["A'B + AB'", "(A+B)(A'+B')", "AB + A'B'", "A' + B'"],
+          "answer": [0, 1],
+          "explanation": "XOR is 1 exactly when the inputs differ. Both the sum-of-products and product-of-sums forms listed represent that condition."
+        },
+        {
+          "id": "gate27-cs-03",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Computer organization",
+          "q": "A byte-addressable memory has a 12-bit address. How many bytes can it address?",
+          "answer": 4096,
+          "tolerance": 0,
+          "explanation": "A 12-bit address selects 2^12=4096 byte locations."
+        },
+        {
+          "id": "gate27-cs-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Programming and data structures",
+          "q": "A stack is initially empty. The operations push(4), push(7), pop(), push(9), pop(), pop() are performed. The values popped, in order, are:",
+          "options": ["7, 9, 4", "4, 9, 7", "7, 4, 9", "9, 7, 4"],
+          "answer": 0,
+          "explanation": "The first pop returns 7, the second returns 9, and the final pop returns 4."
+        },
+        {
+          "id": "gate27-cs-05",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Algorithms",
+          "q": "The worst-case running time of binary search on a sorted array of n elements is:",
+          "options": ["Θ(1)", "Θ(log n)", "Θ(n)", "Θ(n log n)"],
+          "answer": 1,
+          "explanation": "Each comparison halves the remaining search interval, yielding logarithmically many comparisons."
+        },
+        {
+          "id": "gate27-cs-06",
+          "type": "MSQ",
+          "marks": 1,
+          "topic": "Theory of computation",
+          "q": "Which languages over a finite alphabet are regular?",
+          "options": [
+            "The language accepted by a DFA",
+            "The language described by a regular expression",
+            "The language accepted by a finite automaton",
+            "{aⁿbⁿ | n≥0}"
+          ],
+          "answer": [0, 1, 2],
+          "explanation": "DFA, finite-automaton, and regular-expression characterizations are equivalent. The equal-count language is not regular."
+        },
+        {
+          "id": "gate27-cs-07",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Compiler design",
+          "q": "Which compiler phase typically detects that an identifier is used without a declaration in its scope?",
+          "options": ["Lexical analysis", "Syntax analysis", "Semantic analysis", "Code generation"],
+          "answer": 2,
+          "explanation": "Declaration and scope checks require symbol-table and type/context information, handled during semantic analysis."
+        },
+        {
+          "id": "gate27-cs-08",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Operating systems",
+          "q": "A non-preemptive FCFS scheduler runs jobs of lengths 3, 5, and 2 in that order, all arriving at time 0. What is the average waiting time?",
+          "answer": 3.666667,
+          "tolerance": 0.000001,
+          "explanation": "Waiting times are 0, 3, and 8; their average is 11/3, or approximately 3.666667 time units."
+        },
+        {
+          "id": "gate27-cs-09",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Databases",
+          "q": "In relational algebra, selection σ_condition(R) returns:",
+          "options": ["A subset of rows of R", "A subset of columns of R", "A Cartesian product", "A renamed relation only"],
+          "answer": 0,
+          "explanation": "Selection filters tuples (rows) satisfying a predicate."
+        },
+        {
+          "id": "gate27-cs-10",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Computer networks",
+          "q": "Which transport-layer protocol provides an ordered byte stream with retransmission?",
+          "options": ["UDP", "IP", "TCP", "ARP"],
+          "answer": 2,
+          "explanation": "TCP provides reliable, ordered byte-stream delivery using acknowledgements and retransmissions."
+        },
+        {
+          "id": "gate27-cs-11",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Digital logic",
+          "q": "A 4-bit unsigned binary number can represent how many distinct values?",
+          "answer": 16,
+          "tolerance": 0,
+          "explanation": "There are 2^4=16 possible bit patterns."
+        },
+        {
+          "id": "gate27-cs-12",
+          "type": "MSQ",
+          "marks": 1,
+          "topic": "Computer organization",
+          "q": "Which statements about a direct-mapped cache are true?",
+          "options": [
+            "Each memory block maps to exactly one cache line.",
+            "Two blocks mapping to the same line can cause conflict misses.",
+            "A block may be placed in any cache line.",
+            "The tag distinguishes different memory blocks mapping to a line."
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "A direct-mapped cache has one candidate line per block; tags identify which block currently occupies that line."
+        },
+        {
+          "id": "gate27-cs-13",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Programming and data structures",
+          "q": "In a binary search tree with distinct keys, an inorder traversal lists the keys in:",
+          "options": ["Insertion order", "Nondecreasing order", "Decreasing order", "Level order"],
+          "answer": 1,
+          "explanation": "Inorder traversal visits left subtree, node, then right subtree, producing sorted order for a BST."
+        },
+        {
+          "id": "gate27-cs-14",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Algorithms",
+          "q": "For a connected graph with nonnegative edge weights, Dijkstra's algorithm computes:",
+          "options": ["A minimum spanning tree", "Single-source shortest-path distances", "A maximum flow", "A topological ordering"],
+          "answer": 1,
+          "explanation": "Dijkstra's algorithm computes shortest paths from one source when all edge weights are nonnegative."
+        },
+        {
+          "id": "gate27-cs-15",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Theory of computation",
+          "q": "A language is decidable if there exists a Turing machine that:",
+          "options": ["Accepts members and may loop on nonmembers", "Halts on every input and answers membership correctly", "Rejects every input", "Uses only a finite number of states and no tape"],
+          "answer": 1,
+          "explanation": "A decider halts on every input, accepting members and rejecting nonmembers."
+        },
+        {
+          "id": "gate27-cs-16",
+          "type": "MSQ",
+          "marks": 1,
+          "topic": "Compiler design",
+          "q": "Which are typical responsibilities of a lexical analyzer?",
+          "options": [
+            "Grouping characters into tokens",
+            "Discarding whitespace and comments when appropriate",
+            "Checking whether expressions are type-correct",
+            "Reporting malformed tokens"
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "Lexical analysis forms tokens and can skip separators and report invalid token patterns; type checking is semantic analysis."
+        },
+        {
+          "id": "gate27-cs-17",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Operating systems",
+          "q": "Which condition is necessary for a deadlock to be possible?",
+          "options": ["Circular wait", "Unlimited resources", "Preemption of every resource", "No process holds a resource"],
+          "answer": 0,
+          "explanation": "Circular wait is one of the four Coffman conditions required for deadlock."
+        },
+        {
+          "id": "gate27-cs-18",
+          "type": "NAT",
+          "marks": 1,
+          "topic": "Databases",
+          "q": "A relation has 8 tuples. A selection predicate matches exactly 3 tuples. How many tuples are in the result?",
+          "answer": 3,
+          "tolerance": 0,
+          "explanation": "Relational selection retains exactly those tuples satisfying the predicate."
+        },
+        {
+          "id": "gate27-cs-19",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Computer networks",
+          "q": "An IPv4 prefix /26 contains how many total addresses?",
+          "options": ["32", "62", "64", "128"],
+          "answer": 2,
+          "explanation": "There are 32−26=6 host bits, giving 2^6=64 addresses in the block."
+        },
+        {
+          "id": "gate27-cs-20",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Digital logic",
+          "q": "The two's complement representation of −1 in 8 bits is:",
+          "options": ["00000001", "10000001", "11111110", "11111111"],
+          "answer": 3,
+          "explanation": "Two's complement of 1 is obtained by inversion and adding one, yielding 11111111."
+        },
+        {
+          "id": "gate27-cs-21",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Discrete mathematics",
+          "q": "An undirected graph has vertex degrees 1, 1, 2, 2, 2, and 4. How many edges does it have?",
+          "options": ["5", "6", "7", "12"],
+          "answer": 1,
+          "explanation": "The degree sum is 12. By the handshaking lemma, the number of edges is 12/2=6."
+        },
+        {
+          "id": "gate27-cs-22",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Digital logic",
+          "q": "A 4-variable Boolean function is 1 for minterms 1, 3, 5, 7, 9, 11, 13, and 15 (variables ordered A,B,C,D). Its simplified expression is:",
+          "options": ["D", "A", "B", "C"],
+          "answer": 0,
+          "explanation": "All listed minterms have least-significant variable D=1, and every assignment with D=1 is listed; the function is D."
+        },
+        {
+          "id": "gate27-cs-23",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Computer organization",
+          "q": "A 2-way set-associative cache has 64 lines, each line holding 16 bytes. What is its data capacity in bytes?",
+          "answer": 1024,
+          "tolerance": 0,
+          "explanation": "The 64 lines together hold 64×16=1024 bytes; associativity changes placement, not capacity."
+        },
+        {
+          "id": "gate27-cs-24",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Programming and data structures",
+          "q": "Which statements about a queue implemented with a circular array of capacity n are true?",
+          "options": [
+            "Enqueue and dequeue can both take O(1) time.",
+            "The array can reuse slots vacated by dequeue.",
+            "A queue implemented this way must shift all elements on every dequeue.",
+            "A full/empty distinction may require a count or an extra state bit."
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "Circular indexing enables constant-time operations and slot reuse; implementations need a convention to distinguish full from empty."
+        },
+        {
+          "id": "gate27-cs-25",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Algorithms",
+          "q": "For the recurrence T(n)=2T(n/2)+n, with T(1)=Θ(1), the asymptotic solution is:",
+          "options": ["Θ(n)", "Θ(n log n)", "Θ(n²)", "Θ(log n)"],
+          "answer": 1,
+          "explanation": "At each of log n levels, the total nonrecursive work is Θ(n), so T(n)=Θ(n log n)."
+        },
+        {
+          "id": "gate27-cs-26",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Algorithms",
+          "q": "A min-heap contains the keys 2, 5, 4, 9, 7, 8. After one delete-min operation, what is the new minimum key?",
+          "answer": 4,
+          "tolerance": 0,
+          "explanation": "Deleting 2 and restoring heap order leaves 4 as the smallest remaining key."
+        },
+        {
+          "id": "gate27-cs-27",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Theory of computation",
+          "q": "Which statements about context-free languages are true?",
+          "options": [
+            "Every regular language is context-free.",
+            "The intersection of two context-free languages is always context-free.",
+            "A context-free language is accepted by some pushdown automaton.",
+            "Context-free languages are closed under union."
+          ],
+          "answer": [0, 2, 3],
+          "explanation": "Regular languages are context-free, CFLs are accepted by PDAs and are closed under union. They are not closed under intersection in general."
+        },
+        {
+          "id": "gate27-cs-28",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Compiler design",
+          "q": "For the grammar E→E+T | T, T→T*F | F, F→id, how many production-rule applications are needed in a leftmost derivation of id+id*id?",
+          "answer": 8,
+          "tolerance": 0,
+          "explanation": "A leftmost derivation uses E→E+T, E→T, T→F, F→id for the first id; then T→T*F, T→F, F→id for the second; and F→id for the third: 8 applications. Count: 1+1+1+1+1+1+1+1 = 8."
+        },
+        {
+          "id": "gate27-cs-29",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Operating systems",
+          "q": "Three processes arrive at time 0 with CPU bursts P1=5, P2=2, P3=1. Under non-preemptive shortest-job-first scheduling, the average waiting time is:",
+          "options": ["1", "4/3", "2", "8/3"],
+          "answer": 1,
+          "explanation": "Order P3, P2, P1 gives waits 0, 1, and 3; average waiting time is 4/3."
+        },
+        {
+          "id": "gate27-cs-30",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Databases",
+          "q": "For relation R(A,B,C) with functional dependencies A→B and B→C, which is a candidate key?",
+          "options": ["A", "B", "C", "BC"],
+          "answer": 0,
+          "explanation": "A⁺={A,B,C}; neither B nor C determines A, so A is the minimal key."
+        },
+        {
+          "id": "gate27-cs-31",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Computer networks",
+          "q": "Which statements about TCP are true?",
+          "options": [
+            "TCP provides a reliable byte-stream service.",
+            "TCP preserves application write boundaries as message records.",
+            "TCP uses sequence numbers and acknowledgements.",
+            "TCP's checksum detects all possible transmission errors with certainty."
+          ],
+          "answer": [0, 2],
+          "explanation": "TCP is a reliable byte stream and uses sequence numbers and acknowledgements. It does not preserve write boundaries, and a checksum is not an absolute guarantee."
+        },
+        {
+          "id": "gate27-cs-32",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Digital logic",
+          "q": "A synchronous counter uses three JK flip-flops. For a flip-flop to toggle on a clock edge, its J and K inputs must be:",
+          "options": ["J=0, K=0", "J=0, K=1", "J=1, K=0", "J=1, K=1"],
+          "answer": 3,
+          "explanation": "A JK flip-flop toggles when J=K=1."
+        },
+        {
+          "id": "gate27-cs-33",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Computer organization",
+          "q": "A processor has a 2 GHz clock and executes 3×10^8 instructions with CPI 2. What is the execution time in seconds?",
+          "answer": 0.3,
+          "tolerance": 0.000001,
+          "explanation": "Execution time = instruction count×CPI/clock rate = 3×10^8×2/(2×10^9)=0.3 seconds."
+        },
+        {
+          "id": "gate27-cs-34",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Programming and data structures",
+          "q": "Which statements about hashing with chaining are true?",
+          "options": [
+            "The expected search time can be O(1) when the load factor is bounded.",
+            "A collision can be stored in the same bucket's chain.",
+            "The worst-case search time is always O(1).",
+            "The load factor is the number of stored keys divided by the number of buckets."
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "Chaining stores colliding keys in a bucket list; bounded load factor gives expected constant time under suitable hashing, but worst case can be linear."
+        },
+        {
+          "id": "gate27-cs-35",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Algorithms",
+          "q": "An undirected tree has 12 vertices. How many edges must it have?",
+          "answer": 11,
+          "tolerance": 0,
+          "explanation": "Every tree with n vertices has n−1 edges."
+        },
+        {
+          "id": "gate27-cs-36",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Theory of computation",
+          "q": "Consider L={w∈{0,1}* : w contains an even number of 1s}. The minimum number of states in a complete DFA for L is:",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "explanation": "The DFA must distinguish even and odd parity of the number of 1s, requiring two states."
+        },
+        {
+          "id": "gate27-cs-37",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Compiler design",
+          "q": "For the expression a+b*c, using the usual precedence of * over +, the root operator in its syntax tree is:",
+          "options": ["a", "b", "*", "+"],
+          "answer": 3,
+          "explanation": "Multiplication groups b*c first, so addition is the root with operands a and (b*c)."
+        },
+        {
+          "id": "gate27-cs-38",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Operating systems",
+          "q": "Which statements about virtual memory with demand paging are true?",
+          "options": [
+            "A page fault occurs when a referenced page is not present in main memory.",
+            "Every page fault necessarily indicates an invalid address.",
+            "A valid page fault may require loading a page from secondary storage.",
+            "Increasing the number of frames can never increase page faults for every replacement policy."
+          ],
+          "answer": [0, 2],
+          "explanation": "A valid absent page causes a page fault and may be fetched from storage. Some policies, such as FIFO, can exhibit Belady's anomaly."
+        },
+        {
+          "id": "gate27-cs-39",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Databases",
+          "q": "A relation has 5 distinct values in attribute A. Under set semantics, how many tuples are returned by SELECT DISTINCT A when all five values occur?",
+          "answer": 5,
+          "tolerance": 0,
+          "explanation": "DISTINCT retains one row for each of the five distinct values."
+        },
+        {
+          "id": "gate27-cs-40",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Computer networks",
+          "q": "A link has a 10 Mbps transmission rate and a one-way propagation delay of 20 ms. Ignoring processing and queueing, what is the bandwidth-delay product in bits?",
+          "options": ["20,000", "100,000", "200,000", "400,000"],
+          "answer": 2,
+          "explanation": "Bandwidth-delay product is rate×one-way delay = 10×10^6×0.02 = 200,000 bits."
+        },
+        {
+          "id": "gate27-cs-41",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Discrete mathematics",
+          "q": "A simple graph has 8 vertices and 10 edges. What is the sum of its vertex degrees?",
+          "answer": 20,
+          "tolerance": 0,
+          "explanation": "The handshaking lemma gives sum of degrees = 2|E| = 20."
+        },
+        {
+          "id": "gate27-cs-42",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Algorithms",
+          "q": "Which statements about comparison-based sorting are true?",
+          "options": [
+            "Any comparison-based sorting algorithm requires Ω(n log n) comparisons in the worst case.",
+            "Merge sort has O(n log n) worst-case running time.",
+            "Insertion sort has O(n log n) worst-case running time.",
+            "Heap sort uses O(1) auxiliary array space in its standard in-place form."
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "The decision-tree lower bound is Ω(n log n); merge sort meets that asymptotically; in-place heap sort uses constant auxiliary space. Insertion sort is quadratic in the worst case."
+        },
+        {
+          "id": "gate27-cs-43",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Programming and data structures",
+          "q": "For T(n)=3T(n/2)+Θ(n log n), with T(1)=Θ(1), the asymptotic running time is:",
+          "options": ["Θ(n log n)", "Θ(n^(log₂3))", "Θ(n²)", "Θ(log n)"],
+          "answer": 1,
+          "explanation": "The recursion-tree contribution from leaves is Θ(n^(log₂3)); since n log n grows polynomially slower than n^(log₂3), the leaves dominate."
+        },
+        {
+          "id": "gate27-cs-44",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Operating systems",
+          "q": "Which statements about semaphores are true?",
+          "options": [
+            "A binary semaphore can be used to provide mutual exclusion.",
+            "A counting semaphore can represent a count of available identical resources.",
+            "A semaphore operation must be implemented atomically.",
+            "A semaphore alone guarantees that starvation is impossible."
+          ],
+          "answer": [0, 1, 2],
+          "explanation": "Semaphores support mutual exclusion and resource counting, and wait/signal operations require atomicity. Fairness is not guaranteed by every semaphore implementation."
+        },
+        {
+          "id": "gate27-cs-45",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Databases",
+          "q": "A B+ tree has maximum fan-out 5. Ignoring root exceptions, how many children can an internal node with 4 separator keys have?",
+          "answer": 5,
+          "tolerance": 0,
+          "explanation": "An internal node with k separator keys has k+1 child pointers; 4 keys give 5 children."
+        },
+        {
+          "id": "gate27-cs-46",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Computer networks",
+          "q": "A router uses longest-prefix matching. Its forwarding table contains 10.0.0.0/8 via A, 10.1.0.0/16 via B, and 10.1.2.0/24 via C. The next hop for 10.1.2.7 is:",
+          "options": ["A", "B", "C", "No route"],
+          "answer": 2,
+          "explanation": "The /24 route is the most specific matching prefix, so next hop C is selected."
+        }
+      ]
+    }
+  ]
+}

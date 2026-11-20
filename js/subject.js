@@ -27,7 +27,7 @@
       if (['up-police-si', 'rrb-alp'].includes(subject.id)) await renderQuestionBankSearch(subject, subjectPapers);
     } catch (err) { App.showError(root, 'Could not load subject', err.message); }
   }
-  async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const practicePapers = papers.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE' && paper.file); const stats = getStats(practicePapers); root.appendChild(summary([[`${stats.completed}/${practicePapers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (subject.id === 'cds') root.appendChild(renderCdsAnalysis(papers)); if (stats.completed) root.appendChild(await weakTopics(practicePapers)); root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Practice papers and PYQ sources'))); if (['cds', 'capf-ac'].includes(subject.id)) root.appendChild(renderCdsFilters(papers)); const grid = App.el('div', { className: 'papers-grid', id: 'cds-papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
+  async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const practicePapers = papers.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE' && paper.file); const stats = getStats(practicePapers); root.appendChild(summary([[`${stats.completed}/${practicePapers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (subject.id === 'cds') root.appendChild(renderCdsAnalysis(papers)); if (stats.completed) root.appendChild(await weakTopics(practicePapers));   root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Interactive practice papers and PYQ sources'))); if (['cds', 'capf-ac'].includes(subject.id)) root.appendChild(renderCdsFilters(papers)); const grid = App.el('div', { className: 'papers-grid', id: 'cds-papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
 
   async function renderQuestionBankSearch(subject, papers) {
     const indexedQuestions = (await Promise.all(papers.map(async (paper) => {
@@ -105,24 +105,29 @@
   async function weakTopics(papers) { const all = {}; await Promise.all(papers.map(async (p) => { const state = App.getPaperState(p.id); if (state?.status !== 'submitted') return; const data = await App.loadPaper(p.file); (state.sectionStats || App.computeSectionStats(App.flattenQuestions(data), state.answers, p)).forEach((s) => { (all[s.name] ||= []).push(s.percentage); }); })); const topics = Object.entries(all).map(([name, vals]) => [name, Math.round(vals.reduce((a,b)=>a+b,0)/vals.length*10)/10]).sort((a,b)=>a[1]-b[1]).slice(0,3); const box = App.el('section', { className: 'weak-topics glass' }, App.el('h2', { className: 'section-title' }, 'Weak topics'), App.el('p', {}, 'Lowest average section scores across completed papers.')); const list = App.el('ul'); topics.forEach(([n,v]) => list.appendChild(App.el('li', {}, `${n}: ${v}%`))); box.appendChild(list); return box; }
   function renderCdsAnalysis(papers) {
     const realSources = papers.filter((paper) => paper.paperType === 'REAL_PYQ').length;
-    const prediction = papers.find((paper) => paper.paperType === 'PREDICTED');
+    const practicePapers = papers.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE');
+    const practiceQuestions = practicePapers.reduce((count, paper) => count + (paper.questionCount || 0), 0);
     const box = App.el('section', { className: 'glass weak-topics' },
-      App.el('h2', { className: 'section-title' }, 'CDS PYQ Sources and Analysis'),
+      App.el('h2', { className: 'section-title' }, 'CDS PYQ Sources and Interactive Practice'),
       App.el('p', {}, `${realSources} official subject-paper source links are registered across four sessions. The PDFs open on the UPSC site; question text has not been copied into this site and cannot be attempted in the in-app timer or scoring engine.`)
     );
     box.append(
       App.el('p', {}, 'Each REAL PYQ record links to the original question-paper PDF published by UPSC. No answer key or question text is represented as internal content.'),
       App.el('h3', {}, 'In-app analysis status'),
-      App.el('p', {}, 'No real-PYQ questions have been imported, so topic frequencies, difficulty trends and 10-year recurrence statistics are not yet available. The prediction paper remains a separate original practice set.'),
-      App.el('p', { className: 'text-muted' }, `Source-linked subject papers: ${realSources} · Imported real-PYQ questions: 0 · Prediction questions: ${prediction ? 300 : 0}`)
+      App.el('p', {}, 'No real-PYQ questions have been imported, so topic frequencies, difficulty trends and 10-year recurrence statistics are not yet available. Original practice papers below are interactive and independently scored.'),
+      App.el('p', { className: 'text-muted' }, `Source-linked subject papers: ${realSources} · Imported real-PYQ questions: 0 · Interactive practice questions: ${practiceQuestions}`)
     );
     return box;
   }
   function renderCdsFilters(papers) {
     const controls = App.el('div', { className: 'cds-filters' });
     const type = App.el('select', { 'aria-label': 'Filter by paper type' },
-      new Option('Type: All', 'all'), new Option('REAL PYQ', 'REAL_PYQ'), new Option('PREDICTED', 'PREDICTED')
+      new Option('Type: All', 'all')
     );
+    const typeLabels = { REAL_PYQ: 'REAL PYQ', PREDICTED: 'PREDICTED', PRACTICE: 'PRACTICE' };
+    [...new Set(papers.map((paper) => paper.paperType).filter(Boolean))]
+      .sort()
+      .forEach((value) => type.add(new Option(typeLabels[value] || value, value)));
     const subject = App.el('select', { 'aria-label': 'Filter by subject' },
       new Option('Subject: All', 'all')
     );
@@ -170,6 +175,7 @@
     );
     if (p.contentMode === 'EXTERNAL_SOURCE') {
       card.appendChild(App.el('p', { className: 'text-muted' }, `Source: ${p.source}`));
+      card.appendChild(App.el('p', { className: 'text-muted' }, 'Interactive attempt is unavailable: source questions have not been independently transcribed and verified for this site.'));
       card.appendChild(App.el('div', { className: 'card-actions' },
         App.el('a', {
           className: 'btn btn-primary',
@@ -183,7 +189,24 @@
     }
     const state = App.getPaperState(p.id);
     if (state?.status === 'submitted') card.appendChild(App.el('div', { className: 'card-score' }, App.el('span', { className: 'card-score-value' }, `${state.score}/${state.totalMark}`), App.el('span', { className: 'card-score-label' }, `${state.percentage}%`)));
-    card.appendChild(App.el('div', { className: 'card-actions' }, App.el('a', { className: 'btn btn-primary', href: state?.status === 'submitted' ? `result.html?paper=${p.id}` : `test.html?paper=${p.id}` }, state?.status === 'submitted' ? '📊 View Result' : state?.status === 'in_progress' ? '↩ Resume' : '▶ Start')));
+    const actions = App.el('div', { className: 'card-actions' },
+      App.el('a', {
+        className: 'btn btn-primary',
+        href: state?.status === 'submitted' ? `result.html?paper=${p.id}` : `test.html?paper=${p.id}`,
+      }, state?.status === 'submitted'
+        ? '📊 View Result'
+        : state?.status === 'in_progress'
+          ? '↩ Resume'
+          : p.exam === 'GATE CSE' ? 'Attempt Interactive Test' : '▶ Start')
+    );
+    if (p.patternUrl && p.syllabusUrl) {
+      actions.append(
+        App.el('a', { className: 'btn btn-secondary', href: p.patternUrl, target: '_blank', rel: 'noopener noreferrer' }, 'Official Pattern'),
+        App.el('a', { className: 'btn btn-secondary', href: p.syllabusUrl, target: '_blank', rel: 'noopener noreferrer' }, 'Official Syllabus')
+      );
+      card.appendChild(App.el('p', { className: 'text-muted' }, p.sourceNote));
+    }
+    card.appendChild(actions);
     return card;
   }
 })();

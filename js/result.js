@@ -280,11 +280,13 @@
     let count = 0;
     questions.forEach((q, globalIdx) => {
       // answers keys may be strings after JSON round-trip
-      const rawChosen = state.answers[globalIdx] ?? state.answers[String(globalIdx)];
-      const chosen   = (rawChosen === undefined || rawChosen === null) ? undefined : Number(rawChosen);
-      const answered = chosen !== undefined;
-      const correct  = answered && chosen === q.answer;
-      const wrong    = answered && chosen !== q.answer;
+      const chosen = state.answers[globalIdx] ?? state.answers[String(globalIdx)];
+      const answered = Array.isArray(chosen)
+        ? chosen.length > 0
+        : chosen !== undefined && chosen !== null && chosen !== '';
+      const graded = q.answer !== undefined && q.answer !== null;
+      const correct = answered && graded && App.isAnswerCorrect(q, chosen);
+      const wrong = answered && graded && !correct;
       const isMarked = marked.includes(globalIdx);
 
       // Filter
@@ -304,7 +306,8 @@
       const tagWrap = App.el('div', { style: { display: 'flex', gap: '4px', flexWrap: 'wrap' } });
       if (correct)  tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-correct' }, '✓ Correct'));
       if (wrong)    tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-wrong' },   '✗ Wrong'));
-      if (!answered)tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-unatt' },   '— Skipped'));
+      if (!answered)tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-unatt' }, '— Skipped'));
+      if (answered && !graded) tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-unatt' }, 'Answer key unavailable'));
       if (isMarked) tagWrap.appendChild(App.el('span', { className: 'review-status-tag tag-marked' },  '◉ Marked'));
       header.appendChild(tagWrap);
       card.appendChild(header);
@@ -325,9 +328,11 @@
 
       // Options
       const optList = App.el('div', { className: 'review-options' });
-      q.options.forEach((opt, oi) => {
-        const isAnswer   = oi === q.answer;
-        const isChosen   = oi === chosen;
+      const correctOptions = Array.isArray(q.answer) ? q.answer.map(Number) : [Number(q.answer)];
+      const chosenOptions = Array.isArray(chosen) ? chosen.map(Number) : [Number(chosen)];
+      (q.options || []).forEach((opt, oi) => {
+        const isAnswer = graded && correctOptions.includes(oi);
+        const isChosen = answered && chosenOptions.includes(oi);
         const isBothWrong = isChosen && !isAnswer;
 
         let cls = 'review-opt';
@@ -358,7 +363,11 @@
 
         optList.appendChild(optEl);
       });
-      card.appendChild(optList);
+      if ((q.options || []).length) card.appendChild(optList);
+      else if (q.type === 'NAT') {
+        card.appendChild(App.el('p', {}, `Your answer: ${answered ? chosen : '—'}`));
+        if (graded) card.appendChild(App.el('p', {}, `Correct answer: ${q.answer}`));
+      }
       container.appendChild(card);
     });
 

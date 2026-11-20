@@ -2,13 +2,19 @@
   {
     "id": "capf-ac",
     "title": "CAPF AC — Assistant Commandants",
-    "description": "Official UPSC CAPF AC paper sources and CAPF-specific practice",
+    "description": "Official UPSC CAPF AC paper sources and interactive Paper I MCQ practice",
     "icon": "🛡️"
+  },
+  {
+    "id": "gate-cse",
+    "title": "GATE CSE",
+    "description": "GATE Computer Science practice papers aligned with the official syllabus and exam pattern",
+    "icon": "💻"
   },
   {
     "id": "cds",
     "title": "CDS — Combined Defence Services",
-    "description": "CDS 2027 prediction paper, English, GK and Elementary Mathematics",
+    "description": "Interactive CDS 2027 MCQ practice across English, General Knowledge and Elementary Mathematics, plus official PYQ source links",
     "icon": "🎖️"
   },
   {

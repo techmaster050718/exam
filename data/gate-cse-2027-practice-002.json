@@ -1,0 +1,358 @@
+{
+  "id": "gate-cse-2027-practice-002",
+  "exam": "GATE CSE",
+  "year": 2027,
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "sections": [
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "id": "gate27-os-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "System calls",
+          "q": "A user program requests a service from the operating-system kernel primarily through a:",
+          "options": ["System call", "Cache line", "Page frame", "Compiler directive"],
+          "answer": 0,
+          "explanation": "A system call provides the controlled interface through which a user process requests a kernel service."
+        },
+        {
+          "id": "gate27-os-02",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Scheduling",
+          "q": "In round-robin scheduling, the preemption interval assigned to a process is called the:",
+          "options": ["Time quantum", "Turnaround time", "Response ratio", "Critical section"],
+          "answer": 0,
+          "explanation": "Round-robin scheduling gives each ready process a bounded time quantum before preemption."
+        },
+        {
+          "id": "gate27-os-03",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Virtual memory",
+          "q": "A page fault occurs when a process references a page that:",
+          "options": ["Is not currently present in main memory", "Has been modified by another process", "Is stored in the TLB", "Has a valid physical frame number in its page table entry"],
+          "answer": 0,
+          "explanation": "A page fault signals that the referenced page is not currently resident in main memory and must be fetched or otherwise handled."
+        },
+        {
+          "id": "gate27-os-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Concurrency",
+          "q": "A binary semaphore used for mutual exclusion is conventionally initialized to:",
+          "options": ["0", "1", "−1", "The number of processes"],
+          "answer": 1,
+          "explanation": "A mutex-style binary semaphore is initialized to 1 so that one process can acquire it."
+        },
+        {
+          "id": "gate27-os-05",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "File systems",
+          "q": "In a Unix-like file system, a directory entry primarily maps a file name to a:",
+          "options": ["Process identifier", "Inode number", "Virtual address", "Disk-controller command"],
+          "answer": 1,
+          "explanation": "A directory associates a name with an inode, which stores the file's metadata and block references."
+        },
+        {
+          "id": "gate27-os-06",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Deadlocks",
+          "q": "Which condition is necessary for a deadlock to be possible?",
+          "options": ["At least one resource is shareable.", "A process can be preempted at any time.", "A resource is held while its holder waits for another resource.", "All processes have identical execution times."],
+          "answer": 2,
+          "explanation": "Hold-and-wait is one of the four Coffman conditions required for deadlock."
+        },
+        {
+          "id": "gate27-os-07",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Memory management",
+          "q": "A system spends most of its time servicing page faults rather than executing processes. This condition is called:",
+          "options": ["Starvation", "Thrashing", "Convoying", "Busy waiting"],
+          "answer": 1,
+          "explanation": "Thrashing occurs when excessive paging leaves too little time for useful process execution."
+        },
+        {
+          "id": "gate27-os-08",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Deadlocks",
+          "q": "Which statements about deadlock are true?",
+          "options": [
+            "Mutual exclusion is one of the Coffman conditions.",
+            "Circular wait is one of the Coffman conditions.",
+            "A safe state guarantees that every process is already complete.",
+            "Deadlock avoidance can use knowledge of maximum resource demands."
+          ],
+          "answer": [0, 1, 3],
+          "explanation": "Mutual exclusion and circular wait are Coffman conditions. Avoidance algorithms such as the Banker's algorithm use declared maximum demands; a safe state means a safe completion order exists, not that processes are already complete."
+        },
+        {
+          "id": "gate27-os-09",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Virtual memory",
+          "q": "A TLB lookup takes 10 ns and a memory access takes 100 ns. The TLB hit ratio is 0.9. Assuming a TLB miss needs one page-table access and one data access, what is the effective memory-access time in ns?",
+          "answer": 120,
+          "tolerance": 0,
+          "explanation": "A hit costs 10+100=110 ns and a miss costs 10+100+100=210 ns. The weighted average is 0.9×110 + 0.1×210 = 120 ns."
+        },
+        {
+          "id": "gate27-os-10",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Concurrency",
+          "q": "Which property of a correct critical-section solution requires that a process outside its critical section must not prevent others from entering theirs?",
+          "options": ["Mutual exclusion", "Progress", "Bounded waiting", "Atomicity"],
+          "answer": 1,
+          "explanation": "Progress requires that selection of the next process to enter cannot be postponed indefinitely by processes that are not in their critical sections."
+        }
+      ]
+    },
+    {
+      "name": "Database Systems",
+      "questions": [
+        {
+          "id": "gate27-db-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Relational model",
+          "q": "A candidate key is a:",
+          "options": ["Minimal superkey", "Non-minimal superkey", "Foreign key that allows NULL", "Set of non-prime attributes"],
+          "answer": 0,
+          "explanation": "A candidate key is a superkey from which no attribute can be removed while retaining uniqueness."
+        },
+        {
+          "id": "gate27-db-02",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "SQL",
+          "q": "In SQL, COUNT(column_name) counts:",
+          "options": ["All rows, including rows where the column is NULL", "Only rows where the column is not NULL", "Only distinct non-NULL values", "Only rows where the column equals zero"],
+          "answer": 1,
+          "explanation": "COUNT(column) ignores NULL values; COUNT(*) counts rows."
+        },
+        {
+          "id": "gate27-db-03",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Normalization",
+          "q": "A relation is in BCNF with respect to a non-trivial functional dependency X → Y when:",
+          "options": ["X is a superkey", "Y contains every candidate key", "X contains only one attribute", "The relation has no foreign keys"],
+          "answer": 0,
+          "explanation": "BCNF requires the determinant of every non-trivial functional dependency to be a superkey."
+        },
+        {
+          "id": "gate27-db-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Relational algebra",
+          "q": "Which relational-algebra operation selects rows satisfying a predicate?",
+          "options": ["Projection", "Selection", "Rename", "Cartesian product"],
+          "answer": 1,
+          "explanation": "Selection, denoted σ, filters tuples according to a predicate."
+        },
+        {
+          "id": "gate27-db-05",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Indexes",
+          "q": "A sparse index on a data file generally requires the data file to be:",
+          "options": ["Ordered on the indexed search key", "Stored only in a hash table", "Fully duplicated in the index", "Free of primary keys"],
+          "answer": 0,
+          "explanation": "A sparse index stores entries for only some search-key values, which is practical when the data file is ordered on that key."
+        },
+        {
+          "id": "gate27-db-06",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Transactions",
+          "q": "A schedule that is conflict-serializable has a precedence graph that is:",
+          "options": ["A complete graph", "Acyclic", "Strongly connected", "A tree with every transaction as a leaf"],
+          "answer": 1,
+          "explanation": "A schedule is conflict-serializable if and only if its precedence graph is acyclic."
+        },
+        {
+          "id": "gate27-db-07",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Concurrency control",
+          "q": "Under strict two-phase locking, an exclusive lock is held until the transaction:",
+          "options": ["Performs its first read", "Commits or aborts", "Releases its first shared lock", "Begins its final operation"],
+          "answer": 1,
+          "explanation": "Strict 2PL holds exclusive locks until commit or abort, preventing other transactions from reading uncommitted writes."
+        },
+        {
+          "id": "gate27-db-08",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "Functional dependencies",
+          "q": "For relation R(A, B, C), suppose the only non-trivial functional dependencies are A → B and B → C. Which statements are true?",
+          "options": [
+            "A is a candidate key.",
+            "B is a candidate key.",
+            "A → C follows by transitivity.",
+            "C → A follows."
+          ],
+          "answer": [0, 2],
+          "explanation": "A+ contains A, B and C, so A is a candidate key. By transitivity A → C. B+ does not contain A, and C → A is not implied."
+        },
+        {
+          "id": "gate27-db-09",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "Functional dependencies",
+          "q": "Given the functional dependencies A → B and B → C, how many attributes are in the closure of {B}?",
+          "answer": 2,
+          "tolerance": 0,
+          "explanation": "Starting with B, dependency B → C adds C; no dependency derives A. Thus B+ = {B, C}."
+        },
+        {
+          "id": "gate27-db-10",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Database recovery",
+          "q": "In write-ahead logging, before a modified data page is written to disk, the system must ensure that:",
+          "options": ["The corresponding log record is on stable storage.", "Every transaction has committed.", "The page has been copied to every replica.", "The buffer pool is empty."],
+          "answer": 0,
+          "explanation": "Write-ahead logging requires the log record describing a change to reach stable storage before the corresponding data page is written."
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "questions": [
+        {
+          "id": "gate27-cn-01",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Transport layer",
+          "q": "Which transport-layer protocol provides a reliable, connection-oriented byte stream?",
+          "options": ["UDP", "TCP", "IP", "ARP"],
+          "answer": 1,
+          "explanation": "TCP provides a reliable, connection-oriented byte-stream service."
+        },
+        {
+          "id": "gate27-cn-02",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Address resolution",
+          "q": "On a local IPv4 Ethernet network, ARP is used to discover a:",
+          "options": ["MAC address for a known IPv4 address", "Port number for a known process", "Domain name for a known IP address", "Route for a remote autonomous system"],
+          "answer": 0,
+          "explanation": "ARP resolves a local IPv4 address to the corresponding link-layer hardware address."
+        },
+        {
+          "id": "gate27-cn-03",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "IP addressing",
+          "q": "How many usable host addresses are in a conventional IPv4 /26 subnet?",
+          "options": ["30", "62", "64", "126"],
+          "answer": 1,
+          "explanation": "A /26 leaves 6 host bits: 2^6 = 64 addresses, of which 62 are conventionally usable after excluding network and broadcast addresses."
+        },
+        {
+          "id": "gate27-cn-04",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Routing",
+          "q": "Dijkstra's shortest-path algorithm assumes that edge costs are:",
+          "options": ["Non-negative", "Strictly negative", "All equal to one", "Complex numbers"],
+          "answer": 0,
+          "explanation": "Dijkstra's algorithm is correct for graphs with non-negative edge weights."
+        },
+        {
+          "id": "gate27-cn-05",
+          "type": "MCQ",
+          "marks": 1,
+          "negativeMark": 0.33,
+          "topic": "Application layer",
+          "q": "The Domain Name System primarily translates:",
+          "options": ["Domain names to resource records such as IP addresses", "MAC addresses to Ethernet frames", "TCP ports to process identifiers", "Ciphertext to plaintext"],
+          "answer": 0,
+          "explanation": "DNS is a distributed naming system that returns records such as address records for domain names."
+        },
+        {
+          "id": "gate27-cn-06",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Flow control",
+          "q": "In TCP, the receiver-advertised window is primarily used for:",
+          "options": ["Congestion control by routers", "Flow control based on receiver buffer capacity", "Encrypting the TCP header", "Selecting the shortest IP route"],
+          "answer": 1,
+          "explanation": "The advertised receive window limits outstanding data according to the receiver's available buffer space."
+        },
+        {
+          "id": "gate27-cn-07",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Data link layer",
+          "q": "In classic shared-medium Ethernet using CSMA/CD, a station that detects a collision:",
+          "options": ["Continues transmitting the original frame.", "Stops, signals the collision and retries after a backoff.", "Immediately sends an acknowledgement.", "Switches the frame to UDP."],
+          "answer": 1,
+          "explanation": "Classic CSMA/CD detects a collision, aborts the transmission, sends a jam signal and retries after a backoff interval."
+        },
+        {
+          "id": "gate27-cn-08",
+          "type": "MSQ",
+          "marks": 2,
+          "topic": "IPv4",
+          "q": "Which fields are present in a standard IPv4 header?",
+          "options": ["Time to Live", "Header Checksum", "Sequence Number", "Total Length"],
+          "answer": [0, 1, 3],
+          "explanation": "IPv4 includes TTL, a header checksum and total length. A sequence number is a TCP field, not an IPv4 header field."
+        },
+        {
+          "id": "gate27-cn-09",
+          "type": "NAT",
+          "marks": 2,
+          "topic": "IP addressing",
+          "q": "An IPv4 prefix /24 is divided into /27 subnets. How many /27 subnets are created?",
+          "answer": 8,
+          "tolerance": 0,
+          "explanation": "The prefix gains 3 subnet bits, giving 2^3 = 8 subnets."
+        },
+        {
+          "id": "gate27-cn-10",
+          "type": "MCQ",
+          "marks": 2,
+          "negativeMark": 0.67,
+          "topic": "Routing",
+          "q": "When multiple routing-table entries match a destination address, routers generally select the entry with the:",
+          "options": ["Shortest prefix", "Longest matching prefix", "Lowest interface number", "Largest network address"],
+          "answer": 1,
+          "explanation": "Longest-prefix matching selects the most specific matching route."
+        }
+      ]
+    }
+  ]
+}

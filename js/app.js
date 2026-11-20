@@ -140,6 +140,7 @@
       section.questions.forEach((q, localIndex) => {
         flat.push({
           ...q,
+          type: q.type || 'MCQ',
           sectionName: section.name,
           sectionIndex,
           localIndex,
@@ -174,31 +175,62 @@
   }
 
   /* ── Scoring ────────────────────────────────────────────── */
+  function isAnswerCorrect(question, chosen) {
+    if (chosen === undefined || chosen === null || chosen === '') return false;
+    if (question.answer === undefined || question.answer === null) return false;
+    const type = question.type || 'MCQ';
+
+    if (type === 'MSQ') {
+      if (!Array.isArray(chosen) || !Array.isArray(question.answer)) return false;
+      const selected = [...new Set(chosen.map(Number))].sort((a, b) => a - b);
+      const expected = [...new Set(question.answer.map(Number))].sort((a, b) => a - b);
+      return selected.length === expected.length && selected.every((value, index) => value === expected[index]);
+    }
+
+    if (type === 'NAT') {
+      const value = Number(String(chosen).trim());
+      const expected = Number(question.answer);
+      if (!Number.isFinite(value) || !Number.isFinite(expected)) return false;
+      const tolerance = Number(question.tolerance ?? 0);
+      return Math.abs(value - expected) <= Math.max(tolerance, Number.EPSILON * Math.max(1, Math.abs(expected)) * 4);
+    }
+
+    return Number(chosen) === Number(question.answer);
+  }
+
+  function hasAnswer(answer) {
+    return Array.isArray(answer) ? answer.length > 0 : answer !== undefined && answer !== null && answer !== '';
+  }
+
   function computeScore(questions, answers, paperMeta) {
     const correctMark  = paperMeta.correctMark  ?? 1;
     const negativeMark = paperMeta.negativeMark ?? 0.25;
-    const totalMark    = questions.length * correctMark;
+    const totalMark    = questions.reduce((total, question) => total + (question.marks ?? correctMark), 0);
 
     let correct = 0, wrong = 0, unattempted = 0;
+    let score = 0, penalty = 0;
 
     questions.forEach((q) => {
-      // After JSON round-trip, object keys become strings — check both.
-      // Authentic PYQ paper sets may carry a null answer when the source PDF does
-      // not provide the official key; treat those as ungraded rather than guessing.
       const chosen = answers[q.globalIndex] ?? answers[String(q.globalIndex)];
-      if (chosen === undefined || chosen === null || q.answer === null || q.answer === undefined) {
+      const marks = q.marks ?? correctMark;
+      if (!hasAnswer(chosen) || q.answer === null || q.answer === undefined) {
         unattempted++;
-      } else if (Number(chosen) === q.answer) {
+      } else if (isAnswerCorrect(q, chosen)) {
         correct++;
+        score += marks;
       } else {
         wrong++;
+        if ((q.type || 'MCQ') === 'MCQ') {
+          const deduction = q.negativeMark ?? negativeMark;
+          score -= deduction;
+          penalty += deduction;
+        }
       }
     });
 
-    const rawScore    = correct * correctMark - wrong * negativeMark;
-    const score       = Math.round(rawScore * 100) / 100;
+    score = Math.round(score * 100) / 100;
+    penalty = Math.round(penalty * 100) / 100;
     const percentage  = totalMark > 0 ? Math.round((score / totalMark) * 10000) / 100 : 0;
-    const penalty     = Math.round(wrong * negativeMark * 100) / 100;
     const attempted   = correct + wrong;
     const accuracy    = attempted > 0 ? Math.round((correct / attempted) * 10000) / 100 : 0;
 
@@ -217,30 +249,32 @@
       }
       const s = sections[name];
       s.total++;
-      // After JSON round-trip, object keys become strings.
-      // Questions from officially published source files that do not include a
-      // verifiable key should not be auto-graded as incorrect guesses.
       const chosen = answers[q.globalIndex] ?? answers[String(q.globalIndex)];
-      if (chosen === undefined || chosen === null || q.answer === null || q.answer === undefined) {
+      const marks = q.marks ?? correctMark;
+      if (!hasAnswer(chosen) || q.answer === null || q.answer === undefined) {
         s.unattempted++;
-      } else if (Number(chosen) === q.answer) {
+      } else if (isAnswerCorrect(q, chosen)) {
         s.correct++;
-        s.marks += correctMark;
+        s.marks += marks;
       } else {
         s.wrong++;
-        s.marks -= negativeMark;
+        if ((q.type || 'MCQ') === 'MCQ') s.marks -= q.negativeMark ?? negativeMark;
       }
     });
 
-    return Object.values(sections).map((s) => ({
-      ...s,
-      marks:      Math.round(s.marks * 100) / 100,
-      totalMarks: s.total * correctMark,
-      attempted:  s.correct + s.wrong,
-      percentage: s.total > 0
-        ? Math.round((Math.max(s.marks, 0) / (s.total * correctMark)) * 10000) / 100
-        : 0,
-    }));
+    return Object.values(sections).map((s) => {
+      const totalMarks = questions.filter((question) => question.sectionName === s.name)
+        .reduce((total, question) => total + (question.marks ?? correctMark), 0);
+      return {
+        ...s,
+        marks:      Math.round(s.marks * 100) / 100,
+        totalMarks,
+        attempted:  s.correct + s.wrong,
+        percentage: totalMarks > 0
+          ? Math.round((Math.max(s.marks, 0) / totalMarks) * 10000) / 100
+          : 0,
+      };
+    });
   }
 
   /* ── Time Helpers ───────────────────────────────────────── */
@@ -486,7 +520,7 @@
     // Data
     loadPapersList, loadPaper, loadSubjects, loadSite, loadAnswerKey, mergeAnswerKey, applyBranding, normaliseSubjects, subjectIdFor, flattenQuestions, getQuestionSearchText,
     // Scoring
-    computeScore, computeSectionStats,
+    computeScore, computeSectionStats, isAnswerCorrect,
     // Time
     formatTime, formatDuration, formatDate, pad,
     // Text

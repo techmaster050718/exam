@@ -90,7 +90,9 @@ Each question file contains sections and questions:
 }
 ```
 
-Use `{ "hi": "...", "en": "..." }` for bilingual question text, each option, and any explanation. Keep both languages on the same question; do not duplicate a question to represent another language. Existing string-valued questions and options remain readable and are marked as awaiting translation. `answer` is the zero-based option index. `img` and `optionImgs` are optional; omit them for normal text questions. Image paths are relative to the site root.
+Use `{ "hi": "...", "en": "..." }` for bilingual question text, each option, and any explanation. Keep both languages on the same question; do not duplicate a question to represent another language. Existing string-valued questions and options remain readable and are marked as awaiting translation. Questions default to `type: "MCQ"`; MCQ `answer` is the zero-based option index. GATE papers may also use `type: "MSQ"` with an array of correct option indexes, or `type: "NAT"` with a numeric `answer` and optional numeric `tolerance`. Per-question `marks` and `negativeMark` override the paper-level defaults. `img` and `optionImgs` are optional; omit them for normal text questions. Image paths are relative to the site root.
+
+GATE CSE includes a 65-question full-length paper and a focused 30-question practice set. CDS has an original, interactive 300-question composite practice set covering English, General Knowledge, and Elementary Mathematics, plus shorter cross-subject practice sets. CAPF AC Paper I has interactive MCQ practice sets covering core General Ability and Intelligence syllabus areas; shorter sets are identified as practice, not full-length papers or official PYQs. Official source-linked papers remain clearly marked as external and are not represented as in-app tests.
 
 ## Import an authorized bilingual dataset
 
