@@ -1,0 +1,3765 @@
+{
+  "id": "aptitude-reasoning-new-practice-134-answer-key",
+  "paper_id": "aptitude-reasoning-new-practice-134",
+  "total_questions": 134,
+  "maximum_marks": 134,
+  "marking": {
+    "correct": 1,
+    "wrong": -0.25,
+    "unattempted": 0
+  },
+  "answers": [
+    {
+      "id": "ARQ-NEW-001",
+      "correct_answer": "C",
+      "correct_option": "8294",
+      "explanation": "8294 gives alternating digit sum (8+9)-(2+4)=11, a multiple of 11.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "Divisibility",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 7315: not the correct result.",
+        "B. 6481: not the correct result.",
+        "D. 9053: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-002",
+      "correct_answer": "C",
+      "correct_option": "9",
+      "explanation": "18 supplies 2¹3², 24 supplies 2³3¹, and 25 supplies 5². Thus a=4, b=3, c=2, and the sum is 9.",
+      "concept_tested": "Number System",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Number System",
+      "subtopic": "Prime Factor Structure",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 7: not the correct result.",
+        "B. 8: not the correct result.",
+        "D. 10: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-003",
+      "correct_answer": "B",
+      "correct_option": "7",
+      "explanation": "Powers of 7 modulo 24 cycle 7,1 (7²=49≡1). Since 103 is odd, 7^103≡7.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "Digit Remainders",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 1: not the correct result.",
+        "C. 16: not the correct result.",
+        "D. 23: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-004",
+      "correct_answer": "C",
+      "correct_option": "42 cm",
+      "explanation": "The longest common measure is HCF(84,126,210)=42 cm.",
+      "concept_tested": "Number System",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Number System",
+      "subtopic": "HCF Application",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 14 cm: not the correct result.",
+        "B. 21 cm: not the correct result.",
+        "D. 63 cm: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-005",
+      "correct_answer": "B",
+      "correct_option": "10:06",
+      "explanation": "LCM(18,24,30)=360 seconds = 6 minutes.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "LCM Calendar",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 10:02: not the correct result.",
+        "C. 10:12: not the correct result.",
+        "D. 10:20: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-006",
+      "correct_answer": "B",
+      "correct_option": "94",
+      "explanation": "94=9×10+4 and 94=11×8+6; smaller candidates below 94 do not satisfy both conditions.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "Remainder System",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 72: not the correct result.",
+        "C. 114: not the correct result.",
+        "D. 126: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-007",
+      "correct_answer": "B",
+      "correct_option": "6",
+      "explanation": "Among three consecutive integers, one is divisible by 3 and at least one is even, so the product is divisible by 6.",
+      "concept_tested": "Number System",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Number System",
+      "subtopic": "Consecutive Integers",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 3: not the correct result.",
+        "C. 12: not the correct result.",
+        "D. 24: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-008",
+      "correct_answer": "B",
+      "correct_option": "64",
+      "explanation": "960÷96=10 and 18×3=54; total 64.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "Simplification",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 54: not the correct result.",
+        "C. 74: not the correct result.",
+        "D. 84: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-009",
+      "correct_answer": "B",
+      "correct_option": "33/50",
+      "explanation": "33/50=0.66, while 5/8=0.625 and 7/10=0.7.",
+      "concept_tested": "Number System",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Number System",
+      "subtopic": "Fractions",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 21/32: not the correct result.",
+        "C. 29/40: not the correct result.",
+        "D. 18/25: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-010",
+      "correct_answer": "B",
+      "correct_option": "19.5",
+      "explanation": "0.078×250=19.5 exactly.",
+      "concept_tested": "Number System",
+      "difficulty": "BASIC",
+      "topic": "Number System",
+      "subtopic": "Decimals and Percentage",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 19.0: not the correct result.",
+        "C. 20.0: not the correct result.",
+        "D. 20.5: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-011",
+      "correct_answer": "C",
+      "correct_option": "₹720",
+      "explanation": "There are 10 parts, each ₹144, so the largest share is 5×144=₹720.",
+      "concept_tested": "Ratio and Proportion",
+      "difficulty": "BASIC",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. ₹288: not the correct result.",
+        "B. ₹432: not the correct result.",
+        "D. ₹864: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-012",
+      "correct_answer": "A",
+      "correct_option": "12:35",
+      "explanation": "a:b:c=12:21:35, hence a:c=12:35.",
+      "concept_tested": "Ratio and Proportion",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Compound Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 7:15: not the correct result.",
+        "C. 12:15: not the correct result.",
+        "D. 4:15: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-013",
+      "correct_answer": "C",
+      "correct_option": "10",
+      "explanation": "Required machines =4×(50/30)×(18/12)=10.",
+      "concept_tested": "Ratio and Proportion",
+      "difficulty": "BASIC",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Inverse Proportion",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 8: not the correct result.",
+        "B. 9: not the correct result.",
+        "D. 12: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-014",
+      "correct_answer": "A",
+      "correct_option": "₹435",
+      "explanation": "Cost per pen is ₹195/13=₹15, so 29 pens cost ₹435.",
+      "concept_tested": "Ratio and Proportion",
+      "difficulty": "BASIC",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Direct Proportion",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. ₹420: not the correct result.",
+        "C. ₹455: not the correct result.",
+        "D. ₹390: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-015",
+      "correct_answer": "B",
+      "correct_option": "45 km",
+      "explanation": "18×250,000 cm=4,500,000 cm=45 km.",
+      "concept_tested": "Ratio and Proportion",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Ratio and Proportion",
+      "subtopic": "Scale Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 18 km: not the correct result.",
+        "C. 25 km: not the correct result.",
+        "D. 72 km: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-016",
+      "correct_answer": "B",
+      "correct_option": "1% decrease",
+      "explanation": "The multiplier is 1.10×0.90=0.99, which is a 1% decrease.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "BASIC",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Successive Change",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. No change: not the correct result.",
+        "C. 1% increase: not the correct result.",
+        "D. 0.1% decrease: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-017",
+      "correct_answer": "B",
+      "correct_option": "1000",
+      "explanation": "Pass mark =315+45=360; 36% of maximum is 360, so maximum=360×100/36=1000.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Passing Percentage",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 900: not the correct result.",
+        "C. 1100: not the correct result.",
+        "D. 1200: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-018",
+      "correct_answer": "B",
+      "correct_option": "₹900",
+      "explanation": "Selling price is 80% of marked price: M×0.80=720, so M=₹900.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "BASIC",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Profit Marked Price",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. ₹840: not the correct result.",
+        "C. ₹960: not the correct result.",
+        "D. ₹1,000: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-019",
+      "correct_answer": "A",
+      "correct_option": "22.22%",
+      "explanation": "He sells 900 g as 1 kg and adds 10%, equivalent to 110/90=22.22% gain.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Dishonest Profit",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 21%: not the correct result.",
+        "C. 20%: not the correct result.",
+        "D. 18.18%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-020",
+      "correct_answer": "A",
+      "correct_option": "₹2,200",
+      "explanation": "12% of ₹2,500 is ₹300, so sale price is ₹2,200.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "BASIC",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Discount",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. ₹2,150: not the correct result.",
+        "C. ₹2,300: not the correct result.",
+        "D. ₹2,180: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-021",
+      "correct_answer": "C",
+      "correct_option": "5%",
+      "explanation": "44,100/40,000=(1.05)², so the constant annual rate is 5%.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "BASIC",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Population Growth",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 4%: not the correct result.",
+        "B. 4.5%: not the correct result.",
+        "D. 5.5%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-022",
+      "correct_answer": "A",
+      "correct_option": "28%",
+      "explanation": "The net multiplier is 0.80×0.90=0.72, hence 28%.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Two Successive Discounts",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 29%: not the correct result.",
+        "C. 30%: not the correct result.",
+        "D. 31%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-023",
+      "correct_answer": "A",
+      "correct_option": "20%",
+      "explanation": "If B=100, A=125; the difference is 25/125=20%.",
+      "concept_tested": "Percentage, Profit and Loss",
+      "difficulty": "BASIC",
+      "topic": "Percentage, Profit and Loss",
+      "subtopic": "Percentage Comparison",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 25%: not the correct result.",
+        "C. 22.5%: not the correct result.",
+        "D. 18%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-024",
+      "correct_answer": "B",
+      "correct_option": "6%",
+      "explanation": "R=100×1296/(7200×3)=6%.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "BASIC",
+      "topic": "Interest and Average",
+      "subtopic": "Simple Interest",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 5%: not the correct result.",
+        "C. 7%: not the correct result.",
+        "D. 8%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-025",
+      "correct_answer": "B",
+      "correct_option": "₹1,050",
+      "explanation": "Amount=5000×1.1²=6050, so interest=1050.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Compound Interest",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. ₹1,000: not the correct result.",
+        "C. ₹1,100: not the correct result.",
+        "D. ₹1,155: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-026",
+      "correct_answer": "A",
+      "correct_option": "576",
+      "explanation": "18×32=576.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Average Age",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 5760: not the correct result.",
+        "C. 57600: not the correct result.",
+        "D. 5760.0: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-027",
+      "correct_answer": "A",
+      "correct_option": "62 kg",
+      "explanation": "The total rises by 20×0.5=10 kg, so replacement weighs 52+10=62 kg.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "BASIC",
+      "topic": "Interest and Average",
+      "subtopic": "Replacement Average",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 62.5 kg: not the correct result.",
+        "C. 72 kg: not the correct result.",
+        "D. 82 kg: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-028",
+      "correct_answer": "C",
+      "correct_option": "6 L",
+      "explanation": "Milk=24 L, water=6 L. For 24:(6+x)=2:1, 6+x=12, so x=6.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Mixture Alligation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 3 L: not the correct result.",
+        "B. 5 L: not the correct result.",
+        "D. 8 L: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-029",
+      "correct_answer": "C",
+      "correct_option": "4 L",
+      "explanation": "At 25%, the two concentrations are equidistant, so equal quantities are needed: 4 L.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "BASIC",
+      "topic": "Interest and Average",
+      "subtopic": "Alligation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 2 L: not the correct result.",
+        "B. 3 L: not the correct result.",
+        "D. 6 L: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-030",
+      "correct_answer": "A",
+      "correct_option": "69.6",
+      "explanation": "Combined average=(40×72+60×68)/100=(2880+4080)/100=69.6.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Average Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 70: not the correct result.",
+        "C. 70.4: not the correct result.",
+        "D. 70.8: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-031",
+      "correct_answer": "A",
+      "correct_option": "9:7",
+      "explanation": "The removed portion retains 3:1. Remaining milk=30-7.5=22.5 L and water=10-2.5=7.5 L; 10 L water is added, making 22.5:17.5=9:7.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Mixture Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 3:2: not the correct result.",
+        "C. 2:1: not the correct result.",
+        "D. 5:3: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-032",
+      "correct_answer": "A",
+      "correct_option": "₹4,000",
+      "explanation": "Difference in annual rates is 2%; in 2 years difference=4% of sum. 4% of sum=160, so sum=4000.",
+      "concept_tested": "Interest and Average",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Interest and Average",
+      "subtopic": "Simple Interest Average",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. ₹5,000: not the correct result.",
+        "C. ₹6,000: not the correct result.",
+        "D. ₹8,000: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-033",
+      "correct_answer": "C",
+      "correct_option": "8.57 days",
+      "explanation": "Combined rate=1/15+1/20=7/60 job/day, time=60/7≈8.57 days.",
+      "concept_tested": "Time and Work",
+      "difficulty": "BASIC",
+      "topic": "Time and Work",
+      "subtopic": "Work Rates",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 8 days: not the correct result.",
+        "B. 8.25 days: not the correct result.",
+        "D. 9 days: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-034",
+      "correct_answer": "A",
+      "correct_option": "24 days",
+      "explanation": "A’s rate is 1.25 times B, so time is 30/1.25=24 days.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Efficiency Difference",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 25 days: not the correct result.",
+        "C. 27 days: not the correct result.",
+        "D. 37.5 days: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-035",
+      "correct_answer": "B",
+      "correct_option": "15 days",
+      "explanation": "C’s 3/5 work takes 9 days, so full work takes 9×5/3=15 days.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Work Remaining",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 12 days: not the correct result.",
+        "C. 18 days: not the correct result.",
+        "D. 20 days: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-036",
+      "correct_answer": "A",
+      "correct_option": "36 hours",
+      "explanation": "Net rate=1/12-1/18=1/36 tank/hour.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Pipes and Cistern",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 30 hours: not the correct result.",
+        "C. 24 hours: not the correct result.",
+        "D. 20 hours: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-037",
+      "correct_answer": "A",
+      "correct_option": "54 km/h",
+      "explanation": "Speed=180/12=15 m/s=54 km/h.",
+      "concept_tested": "Time and Work",
+      "difficulty": "BASIC",
+      "topic": "Time and Work",
+      "subtopic": "Trains",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 60 km/h: not the correct result.",
+        "C. 66 km/h: not the correct result.",
+        "D. 72 km/h: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-038",
+      "correct_answer": "B",
+      "correct_option": "12 s",
+      "explanation": "Relative speed=(54+36)×5/18=25 m/s; total length=300 m; time=12 s.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Relative Train Motion",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 10 s: not the correct result.",
+        "C. 14 s: not the correct result.",
+        "D. 15 s: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-039",
+      "correct_answer": "B",
+      "correct_option": "14 km/h",
+      "explanation": "Still-water speed=(18+10)/2=14 km/h.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Boats and Streams",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 12 km/h: not the correct result.",
+        "C. 15 km/h: not the correct result.",
+        "D. 16 km/h: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-040",
+      "correct_answer": "B",
+      "correct_option": "9",
+      "explanation": "48 minutes=0.8 hour, so speed=7.2/0.8=9 km/h.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Time Speed Distance",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 8: not the correct result.",
+        "C. 10: not the correct result.",
+        "D. 12: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-041",
+      "correct_answer": "C",
+      "correct_option": "10 m",
+      "explanation": "For the same A-time: B covers 90 m while C covers 80 m, so B is 10 m ahead of C when A finishes.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Race",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 5 m: not the correct result.",
+        "B. 8 m: not the correct result.",
+        "D. 12 m: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-042",
+      "correct_answer": "A",
+      "correct_option": "40 km/h",
+      "explanation": "Total time=60/30+60/60=3 hours; total distance=120 km; average=40 km/h.",
+      "concept_tested": "Time and Work",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Time and Work",
+      "subtopic": "Average Speed",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 45 km/h: not the correct result.",
+        "C. 48 km/h: not the correct result.",
+        "D. 50 km/h: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-043",
+      "correct_answer": "B",
+      "correct_option": "12",
+      "explanation": "5x=60, hence x=12.",
+      "concept_tested": "Algebra",
+      "difficulty": "BASIC",
+      "topic": "Algebra",
+      "subtopic": "Linear Equation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 10: not the correct result.",
+        "C. 15: not the correct result.",
+        "D. 18: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-044",
+      "correct_answer": "A",
+      "correct_option": "78",
+      "explanation": "x=13, y=6, so xy=78.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Linear System",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 84: not the correct result.",
+        "C. 90: not the correct result.",
+        "D. 96: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-045",
+      "correct_answer": "A",
+      "correct_option": "4 and 7",
+      "explanation": "The equation factors as (x-4)(x-7)=0.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Quadratic Roots",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. -4 and -7: not the correct result.",
+        "C. 2 and 14: not the correct result.",
+        "D. 3 and 8: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-046",
+      "correct_answer": "A",
+      "correct_option": "p²+24>0",
+      "explanation": "Discriminant=p²-4×2×(-3)=p²+24, always positive for real p.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Quadratic Discriminant",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. p²-24>0: not the correct result.",
+        "C. p²+24=0: not the correct result.",
+        "D. p²-24<0: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-047",
+      "correct_answer": "B",
+      "correct_option": "7",
+      "explanation": "√48=4√3 and √27=3√3, so sum=7√3; dividing by √3 gives 7.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Surds",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 5: not the correct result.",
+        "C. √75: not the correct result.",
+        "D. 9: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-048",
+      "correct_answer": "C",
+      "correct_option": "4",
+      "explanation": "8^-1=(2³)^-1=2^-3, so 2^5×2^-3=2²=4.",
+      "concept_tested": "Algebra",
+      "difficulty": "BASIC",
+      "topic": "Algebra",
+      "subtopic": "Indices",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 1: not the correct result.",
+        "B. 2: not the correct result.",
+        "D. 8: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-049",
+      "correct_answer": "A",
+      "correct_option": "34",
+      "explanation": "Square both sides: x²+2+1/x²=36, hence x²+1/x²=34.",
+      "concept_tested": "Algebra",
+      "difficulty": "ADVANCED",
+      "topic": "Algebra",
+      "subtopic": "Sequence Algebra",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 36: not the correct result.",
+        "C. 38: not the correct result.",
+        "D. 40: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-050",
+      "correct_answer": "A",
+      "correct_option": "63",
+      "explanation": "T15=7+(15-1)×4=63.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Arithmetic Progression",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 65: not the correct result.",
+        "C. 67: not the correct result.",
+        "D. 71: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-051",
+      "correct_answer": "A",
+      "correct_option": "625",
+      "explanation": "The sum of first n odd integers is n²=625.",
+      "concept_tested": "Algebra",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Algebra",
+      "subtopic": "Series Sum",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 650: not the correct result.",
+        "C. 725: not the correct result.",
+        "D. 750: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-052",
+      "correct_answer": "B",
+      "correct_option": "1215",
+      "explanation": "The ratio is 3; T6=5×3^5=1215.",
+      "concept_tested": "Algebra",
+      "difficulty": "ADVANCED",
+      "topic": "Algebra",
+      "subtopic": "Geometric Sequence",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 405: not the correct result.",
+        "C. 3645: not the correct result.",
+        "D. 10935: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-053",
+      "correct_answer": "A",
+      "correct_option": "126 m²",
+      "explanation": "Area=14×9=126 m².",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "BASIC",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Rectangle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 46 m²: not the correct result.",
+        "C. 252 m²: not the correct result.",
+        "D. 23 m²: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-054",
+      "correct_answer": "B",
+      "correct_option": "14 cm",
+      "explanation": "2πr=88 gives r=88×7/(44)=14 cm.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Circle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 7 cm: not the correct result.",
+        "C. 21 cm: not the correct result.",
+        "D. 28 cm: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-055",
+      "correct_answer": "A",
+      "correct_option": "24π cm²",
+      "explanation": "Area=(60/360)π×12²=24π cm².",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "ADVANCED",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Sector",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 36π cm²: not the correct result.",
+        "C. 48π cm²: not the correct result.",
+        "D. 72π cm²: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-056",
+      "correct_answer": "A",
+      "correct_option": "120 cm³",
+      "explanation": "Volume=8×5×3=120 cm³.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "BASIC",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Cuboid",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 130 cm³: not the correct result.",
+        "C. 240 cm³: not the correct result.",
+        "D. 360 cm³: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-057",
+      "correct_answer": "A",
+      "correct_option": "216 cm²",
+      "explanation": "Total surface area=6×6²=216 cm².",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Cube Surface Area",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 144 cm²: not the correct result.",
+        "C. 108 cm²: not the correct result.",
+        "D. 72 cm²: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-058",
+      "correct_answer": "A",
+      "correct_option": "440 cm²",
+      "explanation": "CSA=2πrh=2×22/7×7×10=440 cm².",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "ADVANCED",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Cylinder",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 220 cm²: not the correct result.",
+        "C. 770 cm²: not the correct result.",
+        "D. 1540 cm²: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-059",
+      "correct_answer": "B",
+      "correct_option": "65°",
+      "explanation": "The sum of angles is 180°, so third=180-48-67=65°.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Triangle Geometry",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 55°: not the correct result.",
+        "C. 75°: not the correct result.",
+        "D. 85°: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-060",
+      "correct_answer": "C",
+      "correct_option": "15 cm",
+      "explanation": "Hypotenuse=√(9²+12²)=√225=15 cm.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Pythagorean Triple",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 13 cm: not the correct result.",
+        "B. 14 cm: not the correct result.",
+        "D. 16 cm: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-061",
+      "correct_answer": "C",
+      "correct_option": "12 cm",
+      "explanation": "h=√(13²-5²)=√144=12 cm.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "ADVANCED",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Cone",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 8 cm: not the correct result.",
+        "B. 10 cm: not the correct result.",
+        "D. 14 cm: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-062",
+      "correct_answer": "C",
+      "correct_option": "4",
+      "explanation": "Area scales with the square of side ratio: 2²=4.",
+      "concept_tested": "Mensuration and Geometry",
+      "difficulty": "BASIC",
+      "topic": "Mensuration and Geometry",
+      "subtopic": "Perimeter Change",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 2: not the correct result.",
+        "B. 3: not the correct result.",
+        "D. 6: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-063",
+      "correct_answer": "A",
+      "correct_option": "1/2",
+      "explanation": "Prime faces are 2,3,5: 3 out of 6.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "BASIC",
+      "topic": "Probability and Statistics",
+      "subtopic": "Probability",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 1/3: not the correct result.",
+        "C. 2/3: not the correct result.",
+        "D. 5/6: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-064",
+      "correct_answer": "A",
+      "correct_option": "1/26",
+      "explanation": "There are 2 red kings among 52 cards, giving 2/52=1/26.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Probability and Statistics",
+      "subtopic": "Card Probability",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 1/52: not the correct result.",
+        "C. 1/13: not the correct result.",
+        "D. 2/13: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-065",
+      "correct_answer": "B",
+      "correct_option": "1/2",
+      "explanation": "The outcomes HT and TH are 2 of 4 equally likely outcomes.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "ADVANCED",
+      "topic": "Probability and Statistics",
+      "subtopic": "Independent Events",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 1/4: not the correct result.",
+        "C. 3/4: not the correct result.",
+        "D. 2/3: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-066",
+      "correct_answer": "A",
+      "correct_option": "840",
+      "explanation": "P(7,4)=7×6×5×4=840.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Probability and Statistics",
+      "subtopic": "Permutations",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 720: not the correct result.",
+        "C. 504: not the correct result.",
+        "D. 210: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-067",
+      "correct_answer": "A",
+      "correct_option": "56",
+      "explanation": "C(8,3)=8×7×6/(3×2×1)=56.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "BASIC",
+      "topic": "Probability and Statistics",
+      "subtopic": "Combinations",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 48: not the correct result.",
+        "C. 24: not the correct result.",
+        "D. 336: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-068",
+      "correct_answer": "C",
+      "correct_option": "80",
+      "explanation": "Exactly 2 men: C(6,2)×C(4,1)=60; exactly 3 men=C(6,3)=20; total=80.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "ADVANCED",
+      "topic": "Probability and Statistics",
+      "subtopic": "Selection with Exclusion",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 60: not the correct result.",
+        "B. 75: not the correct result.",
+        "D. 95: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-069",
+      "correct_answer": "B",
+      "correct_option": "8",
+      "explanation": "The sorted data is 3,5,7,8,9,11,12; the middle value is 8.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "BASIC",
+      "topic": "Probability and Statistics",
+      "subtopic": "Median",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 7: not the correct result.",
+        "C. 9: not the correct result.",
+        "D. 11: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-070",
+      "correct_answer": "A",
+      "correct_option": "69",
+      "explanation": "Combined=(20×75+30×65)/50=(1500+1950)/50=69.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Probability and Statistics",
+      "subtopic": "Weighted Mean",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 69.5: not the correct result.",
+        "C. 70: not the correct result.",
+        "D. 70.5: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-071",
+      "correct_answer": "A",
+      "correct_option": "37",
+      "explanation": "Maximum 55 minus minimum 18 is 37.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "BASIC",
+      "topic": "Probability and Statistics",
+      "subtopic": "Range",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 24: not the correct result.",
+        "C. 55: not the correct result.",
+        "D. 27: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-072",
+      "correct_answer": "A",
+      "correct_option": "I alone",
+      "explanation": "I directly gives (p+q)/2=15. II alone does not provide the sum.",
+      "concept_tested": "Probability and Statistics",
+      "difficulty": "ADVANCED",
+      "topic": "Probability and Statistics",
+      "subtopic": "Data Sufficiency",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. II alone: not the correct result.",
+        "C. Both together: not the correct result.",
+        "D. Either alone: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-073",
+      "correct_answer": "A",
+      "correct_option": "1140",
+      "explanation": "240+300+270+330=1140 units.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "BASIC",
+      "topic": "Data Interpretation",
+      "subtopic": "Table Reading",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 1160: not the correct result.",
+        "C. 1180: not the correct result.",
+        "D. 1200: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-074",
+      "correct_answer": "B",
+      "correct_option": "25%",
+      "explanation": "Increase=45; 45/180×100=25%.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Data Interpretation",
+      "subtopic": "Bar Graph Increase",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 20%: not the correct result.",
+        "C. 30%: not the correct result.",
+        "D. 35%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-075",
+      "correct_answer": "A",
+      "correct_option": "22 crore",
+      "explanation": "Sum=110 crore over 5 months; average=22 crore.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Data Interpretation",
+      "subtopic": "Line Graph Average",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 21 crore: not the correct result.",
+        "C. 23 crore: not the correct result.",
+        "D. 24 crore: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-076",
+      "correct_answer": "A",
+      "correct_option": "64.8°",
+      "explanation": "18%×360=64.8 degrees.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "BASIC",
+      "topic": "Data Interpretation",
+      "subtopic": "Pie Chart Angle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 72°: not the correct result.",
+        "C. 68.4°: not the correct result.",
+        "D. 60°: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-077",
+      "correct_answer": "B",
+      "correct_option": "48",
+      "explanation": "Remaining percentage=30%, and 30% of 160=48.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "ADVANCED",
+      "topic": "Data Interpretation",
+      "subtopic": "Caselet DI",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 40: not the correct result.",
+        "C. 56: not the correct result.",
+        "D. 64: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-078",
+      "correct_answer": "A",
+      "correct_option": "3:2",
+      "explanation": "Divide 420:280 by 140 to get 3:2.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Data Interpretation",
+      "subtopic": "Table Ratio",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 4:3: not the correct result.",
+        "C. 7:5: not the correct result.",
+        "D. 21:14: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-079",
+      "correct_answer": "C",
+      "correct_option": "Both grew by 20%",
+      "explanation": "Branch 1: 36/180=20%; branch 2: 40/200=20%.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "ADVANCED",
+      "topic": "Data Interpretation",
+      "subtopic": "Bar Comparison",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Branch 1 grew faster: not the correct result.",
+        "B. Branch 2 grew faster: not the correct result.",
+        "D. Both declined: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-080",
+      "correct_answer": "A",
+      "correct_option": "12.5%",
+      "explanation": "45/360×100=12.5%.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Data Interpretation",
+      "subtopic": "Pie Share",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 15%: not the correct result.",
+        "C. 25%: not the correct result.",
+        "D. 37.5%: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-081",
+      "correct_answer": "C",
+      "correct_option": "C",
+      "explanation": "C has the largest frequency, 195.",
+      "concept_tested": "Data Interpretation",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Data Interpretation",
+      "subtopic": "Caselet Percentage",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. A: not the correct result.",
+        "B. B: not the correct result.",
+        "D. Tie: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-082",
+      "correct_answer": "A",
+      "correct_option": "Heat",
+      "explanation": "A watch measures time, and a thermometer measures temperature/heat.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Analogy",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. Speed: not the correct result.",
+        "C. Length: not the correct result.",
+        "D. Pressure: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-083",
+      "correct_answer": "D",
+      "correct_option": "81",
+      "explanation": "16,36 and64 are even perfect squares;81 is odd.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Classification",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 16: not the correct result.",
+        "B. 36: not the correct result.",
+        "C. 64: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-084",
+      "correct_answer": "B",
+      "correct_option": "48",
+      "explanation": "The differences are 5,7,9,11, then13; 35+13=48.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Number Series",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 46: not the correct result.",
+        "C. 50: not the correct result.",
+        "D. 52: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-085",
+      "correct_answer": "A",
+      "correct_option": "30M",
+      "explanation": "Multipliers are 1×2,2×3,3×4,4×5, while letters advance by3; next 30M.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Alphanumeric Series",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 28M: not the correct result.",
+        "C. 30L: not the correct result.",
+        "D. 32M: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-086",
+      "correct_answer": "A",
+      "correct_option": "M48",
+      "explanation": "Letters advance by3 and numbers double each term.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Mixed Series",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. L48: not the correct result.",
+        "C. M36: not the correct result.",
+        "D. K48: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-087",
+      "correct_answer": "B",
+      "correct_option": "37",
+      "explanation": "The sequence adds8 consistently.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Missing Term",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 35: not the correct result.",
+        "C. 39: not the correct result.",
+        "D. 41: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-088",
+      "correct_answer": "B",
+      "correct_option": "U",
+      "explanation": "Alphabet positions advance by 3,4,5,6: C(3)→F(6)→J(10)→O(15)→U(21).",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Alphabet Series",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. T: not the correct result.",
+        "C. V: not the correct result.",
+        "D. W: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-089",
+      "correct_answer": "A",
+      "correct_option": "Vehicle",
+      "explanation": "The nucleus is the controlling central part of a cell; the engine is a central power source for a vehicle.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Analogy",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. Fuel: not the correct result.",
+        "C. Wheel: not the correct result.",
+        "D. Garage: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-090",
+      "correct_answer": "A",
+      "correct_option": "QTDKV",
+      "explanation": "O→Q,R→T,B→D,I→K,T→V: QTDKV.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Coding-Decoding",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. QTDIY: not the correct result.",
+        "C. QSDKV: not the correct result.",
+        "D. PSDJU: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-091",
+      "correct_answer": "B",
+      "correct_option": "660",
+      "explanation": "2×325=650, and 3+2+5=10, so the code is 660.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Number Coding",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 650: not the correct result.",
+        "C. 665: not the correct result.",
+        "D. 672: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-092",
+      "correct_answer": "A",
+      "correct_option": "MBNQ",
+      "explanation": "L→M,A→B,M→N,P→Q, giving MBNQ.",
+      "concept_tested": "Verbal and Number Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Verbal and Number Reasoning",
+      "subtopic": "Word Coding",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. MBNR: not the correct result.",
+        "C. LBNQ: not the correct result.",
+        "D. MBOQ: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-093",
+      "correct_answer": "B",
+      "correct_option": "Maternal uncle",
+      "explanation": "P is Q’s brother, and Q is R’s mother, so P is R’s maternal uncle.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Logical Reasoning",
+      "subtopic": "Blood Relation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Father: not the correct result.",
+        "C. Paternal uncle: not the correct result.",
+        "D. Brother: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-094",
+      "correct_answer": "B",
+      "correct_option": "Brother",
+      "explanation": "A’s mother’s only son is A’s brother, assuming A has no other male sibling by that description.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Logical Reasoning",
+      "subtopic": "Blood Relation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Father: not the correct result.",
+        "C. Husband: not the correct result.",
+        "D. Son: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-095",
+      "correct_answer": "B",
+      "correct_option": "North",
+      "explanation": "Right from east→south, left→east, left→north.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Logical Reasoning",
+      "subtopic": "Direction Sense",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. East: not the correct result.",
+        "C. South: not the correct result.",
+        "D. West: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-096",
+      "correct_answer": "A",
+      "correct_option": "12 km",
+      "explanation": "North and south cancel; remaining horizontal displacement is 12 km east.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Logical Reasoning",
+      "subtopic": "Direction Distance",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 11 km: not the correct result.",
+        "C. 13 km: not the correct result.",
+        "D. 17 km: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-097",
+      "correct_answer": "A",
+      "correct_option": "20th",
+      "explanation": "31-12+1=20th.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Logical Reasoning",
+      "subtopic": "Ranking",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 19th: not the correct result.",
+        "C. 21st: not the correct result.",
+        "D. 18th: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-098",
+      "correct_answer": "B",
+      "correct_option": "C",
+      "explanation": "Bottom upward: E,A,D,C,B. Third from top is C.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Logical Reasoning",
+      "subtopic": "Order Puzzle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. A: not the correct result.",
+        "C. D: not the correct result.",
+        "D. B: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-099",
+      "correct_answer": "A",
+      "correct_option": "S,Q,P,R,U,T",
+      "explanation": "Conditions give Q-P-R-U block and S left of Q; T must occupy the remaining end.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Logical Reasoning",
+      "subtopic": "Linear Seating",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. T,S,Q,P,R,U: not the correct result.",
+        "C. S,P,Q,R,U,T: not the correct result.",
+        "D. Q,S,P,R,U,T: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-100",
+      "correct_answer": "A",
+      "correct_option": "Opposite Z",
+      "explanation": "If X north, Y south, Z west, W is east and opposite Z.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Logical Reasoning",
+      "subtopic": "Circular Seating",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. Next to X: not the correct result.",
+        "C. Opposite X: not the correct result.",
+        "D. Between X and Z: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-101",
+      "correct_answer": "B",
+      "correct_option": "C",
+      "explanation": "Bottom to top: B,A,D,C, so C is top.",
+      "concept_tested": "Logical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Logical Reasoning",
+      "subtopic": "Floor Arrangement",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. A: not the correct result.",
+        "C. D: not the correct result.",
+        "D. B: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-102",
+      "correct_answer": "A",
+      "correct_option": "All lilies need sunlight",
+      "explanation": "The universal chain lilies→flowers→sunlight makes the conclusion necessary.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Syllogism",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. All sunlight is for lilies: not the correct result.",
+        "C. No flower is a lily: not the correct result.",
+        "D. Some lilies are not flowers: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-103",
+      "correct_answer": "A",
+      "correct_option": "Some artists use diagrams",
+      "explanation": "For the engineers who are artists, if they are engineers they use diagrams.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Syllogism",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. All artists use diagrams: not the correct result.",
+        "C. No artist uses diagrams: not the correct result.",
+        "D. All diagrams belong to artists: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-104",
+      "correct_answer": "B",
+      "correct_option": "The council intended to change parking conditions",
+      "explanation": "The action itself supports a change in local parking conditions, not the other claims.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Statement Conclusion",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Traffic congestion was absent in that area: not the correct result.",
+        "C. All shopkeepers supported the decision: not the correct result.",
+        "D. Parking will be banned nationwide: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-105",
+      "correct_answer": "B",
+      "correct_option": "The forecast is credible",
+      "explanation": "The recommendation presumes the forecast is sufficiently reliable.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Assumption",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Raincoat prices are rising: not the correct result.",
+        "C. It is impossible to carry umbrellas: not the correct result.",
+        "D. Heavy rain has already occurred: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-106",
+      "correct_answer": "B",
+      "correct_option": "No, a course still needs to consider security and practical assessment",
+      "explanation": "The fact about cost is relevant but does not answer all suitability questions.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Argument",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Yes, because all campus exams waste travel: not the correct result.",
+        "C. Yes, because internet access is universal: not the correct result.",
+        "D. No, because travel cost never matters: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-107",
+      "correct_answer": "B",
+      "correct_option": "Post a warning and use non-slip mats",
+      "explanation": "This directly reduces the immediate hazard while keeping access open.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Course of Action",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Close the museum permanently: not the correct result.",
+        "C. Remove all entrances: not the correct result.",
+        "D. Ignore the recurring hazard: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-108",
+      "correct_answer": "B",
+      "correct_option": "The shift change may have contributed, but causation needs more evidence",
+      "explanation": "Temporal association is not proof of causation.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Cause and Effect",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Split shifts necessarily caused lower absenteeism: not the correct result.",
+        "C. Absenteeism was impossible before: not the correct result.",
+        "D. All employees requested the change: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-109",
+      "correct_answer": "B",
+      "correct_option": "Both true but reason does not explain assertion",
+      "explanation": "Both statements are true, but equal angles do not explain equal sides.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Assertion Reason",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Both true and reason explains assertion: not the correct result.",
+        "C. Assertion true, reason false: not the correct result.",
+        "D. Both false: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-110",
+      "correct_answer": "C",
+      "correct_option": "Some trained people are pilots",
+      "explanation": "Every pilot is trained, so the set of trained people necessarily contains pilots.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Venn Diagram",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Some pilots are doctors: not the correct result.",
+        "B. No pilot is a doctor: not the correct result.",
+        "D. All doctors are trained: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-111",
+      "correct_answer": "C",
+      "correct_option": "Friday and Saturday",
+      "explanation": "A 366-day year has 52 weeks plus 2 days. The starting Friday and following Saturday occur 53 times.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Calendar",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Friday: not the correct result.",
+        "B. Saturday: not the correct result.",
+        "D. Sunday: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-112",
+      "correct_answer": "A",
+      "correct_option": "75°",
+      "explanation": "At 3:30, hour hand is 105° and minute hand 180°, difference75°.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Clock",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 90°: not the correct result.",
+        "C. 105°: not the correct result.",
+        "D. 120°: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-113",
+      "correct_answer": "B",
+      "correct_option": "11 times",
+      "explanation": "Overlaps occur approximately every 65.45 minutes, 11 times in a 12-hour cycle.",
+      "concept_tested": "Analytical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Analytical Reasoning",
+      "subtopic": "Clock",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 10 times: not the correct result.",
+        "C. 12 times: not the correct result.",
+        "D. 13 times: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-114",
+      "correct_answer": "B",
+      "correct_option": "Thursday",
+      "explanation": "31 days is 3 days beyond a week; Monday+3=Thursday.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Calendar",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Wednesday: not the correct result.",
+        "C. Friday: not the correct result.",
+        "D. Tuesday: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-115",
+      "correct_answer": "B",
+      "correct_option": "10",
+      "explanation": "18÷3=6 and 4 means? + means division and × means addition, expression 18+3×4 becomes 18÷3+4=10.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Mathematical Operations",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 15: not the correct result.",
+        "C. 12: not the correct result.",
+        "D. 14: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-116",
+      "correct_answer": "B",
+      "correct_option": "17",
+      "explanation": "20÷5=4; 4×3=12; 12−2=10; 10+7=17.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Mathematical Operations",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 18: not the correct result.",
+        "C. 16: not the correct result.",
+        "D. 15: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-117",
+      "correct_answer": "C",
+      "correct_option": "Both together",
+      "explanation": "II gives x=±9 and I eliminates −9, leaving x=9.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Data Sufficiency",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. I alone: not the correct result.",
+        "B. II alone: not the correct result.",
+        "D. Neither alone: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-118",
+      "correct_answer": "C",
+      "correct_option": "Both together",
+      "explanation": "Divisibility by 6 requires both 2 and 3.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Data Sufficiency",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. I alone: not the correct result.",
+        "B. II alone: not the correct result.",
+        "D. Either alone: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-119",
+      "correct_answer": "C",
+      "correct_option": "Both together",
+      "explanation": "Both are needed: 25-8+1=18th from left.",
+      "concept_tested": "Mathematical Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Mathematical Reasoning",
+      "subtopic": "Data Sufficiency",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. I alone: not the correct result.",
+        "B. II alone: not the correct result.",
+        "D. Neither alone: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-120",
+      "correct_answer": "A",
+      "correct_option": "10:55",
+      "explanation": "9:20+1 hour=10:20; +35 minutes=10:55.",
+      "concept_tested": "Puzzle Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Puzzle Reasoning",
+      "subtopic": "Scheduling",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 11:00: not the correct result.",
+        "C. 10:45: not the correct result.",
+        "D. 11:05: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-121",
+      "correct_answer": "B",
+      "correct_option": "9:00",
+      "explanation": "A departures include 9:00; B departures include 8:10,8:35,9:00, so 9:00 is first common.",
+      "concept_tested": "Puzzle Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Puzzle Reasoning",
+      "subtopic": "Train Schedule",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 8:50: not the correct result.",
+        "C. 9:10: not the correct result.",
+        "D. 9:20: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-122",
+      "correct_answer": "A",
+      "correct_option": "Accounts",
+      "explanation": "The only complete order is Accounts→HR→Training, matching Monday→Wednesday→Friday.",
+      "concept_tested": "Puzzle Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Puzzle Reasoning",
+      "subtopic": "Scheduling Puzzle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. HR: not the correct result.",
+        "C. Training: not the correct result.",
+        "D. Cannot be determined: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-123",
+      "correct_answer": "A",
+      "correct_option": "A",
+      "explanation": "A is lying when he denies? Actually A says B guilty; with B truthful and guilty? This statement false if A guilty, so A liar. B says A guilty true, C says C innocent true. Thus A is guilty.",
+      "concept_tested": "Puzzle Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Puzzle Reasoning",
+      "subtopic": "Puzzle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. A: not the correct result.",
+        "C. C: not the correct result.",
+        "D. Cannot determine: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-124",
+      "correct_answer": "A",
+      "correct_option": "3",
+      "explanation": "First weigh 3 versus3: if balanced, test remaining3; if unbalanced, test the lighter set of3.",
+      "concept_tested": "Puzzle Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Puzzle Reasoning",
+      "subtopic": "Weighing Puzzle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 6: not the correct result.",
+        "C. 9: not the correct result.",
+        "D. All 9 equally: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-125",
+      "correct_answer": "C",
+      "correct_option": "270°",
+      "explanation": "Three 90° rotations equal270° clockwise.",
+      "concept_tested": "Non-Verbal Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Non-Verbal Reasoning",
+      "subtopic": "Pattern Rotation",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 90°: not the correct result.",
+        "B. 180°: not the correct result.",
+        "D. 360°: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-126",
+      "correct_answer": "A",
+      "correct_option": "2P",
+      "explanation": "A vertical mirror reverses left-right order, so P2 becomes2P.",
+      "concept_tested": "Non-Verbal Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Non-Verbal Reasoning",
+      "subtopic": "Mirror Image",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. P2: not the correct result.",
+        "C. Q2: not the correct result.",
+        "D. 2Q: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-127",
+      "correct_answer": "B",
+      "correct_option": "2",
+      "explanation": "A vertical fold doubles points on one side, producing two symmetric holes.",
+      "concept_tested": "Non-Verbal Reasoning",
+      "difficulty": "ADVANCED",
+      "topic": "Non-Verbal Reasoning",
+      "subtopic": "Paper Folding",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 1: not the correct result.",
+        "C. 4: not the correct result.",
+        "D. 8: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-128",
+      "correct_answer": "A",
+      "correct_option": "Top-left",
+      "explanation": "Four clockwise moves around a square return to the starting corner.",
+      "concept_tested": "Non-Verbal Reasoning",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Non-Verbal Reasoning",
+      "subtopic": "Figure Sequence",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. Top-right: not the correct result.",
+        "C. Bottom-right: not the correct result.",
+        "D. Bottom-left: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-129",
+      "correct_answer": "D",
+      "correct_option": "Line segment",
+      "explanation": "Circle, ellipse and spiral are curved patterns, while a line segment is straight.",
+      "concept_tested": "Non-Verbal Reasoning",
+      "difficulty": "BASIC",
+      "topic": "Non-Verbal Reasoning",
+      "subtopic": "Odd Figure",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. Circle: not the correct result.",
+        "B. Ellipse: not the correct result.",
+        "C. Spiral: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-130",
+      "correct_answer": "A",
+      "correct_option": "1:1",
+      "explanation": "Capital-time products are 18,000×8=144,000 and24,000×6=144,000.",
+      "concept_tested": "Advanced Arithmetic",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Advanced Arithmetic",
+      "subtopic": "Partnership",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 3:2: not the correct result.",
+        "C. 2:3: not the correct result.",
+        "D. 4:3: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-131",
+      "correct_answer": "C",
+      "correct_option": "17",
+      "explanation": "Let B today=b and A=45-b. Six years ago:39-b=2(b-6), so39-b=2b-12 and b=17.",
+      "concept_tested": "Advanced Arithmetic",
+      "difficulty": "ADVANCED",
+      "topic": "Advanced Arithmetic",
+      "subtopic": "Age Puzzle",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 13: not the correct result.",
+        "B. 15: not the correct result.",
+        "D. 19: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-132",
+      "correct_answer": "A",
+      "correct_option": "15",
+      "explanation": "Union=50+45-30=65; neither=80-65=15.",
+      "concept_tested": "Advanced Arithmetic",
+      "difficulty": "INTERMEDIATE",
+      "topic": "Advanced Arithmetic",
+      "subtopic": "Set Theory",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 20: not the correct result.",
+        "C. 25: not the correct result.",
+        "D. 30: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-133",
+      "correct_answer": "B",
+      "correct_option": "24",
+      "explanation": "A permutation of4 distinct digits has4!=24 arrangements.",
+      "concept_tested": "Advanced Arithmetic",
+      "difficulty": "ADVANCED",
+      "topic": "Advanced Arithmetic",
+      "subtopic": "Permutation Password",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "A. 16: not the correct result.",
+        "C. 64: not the correct result.",
+        "D. 96: not the correct result."
+      ]
+    },
+    {
+      "id": "ARQ-NEW-134",
+      "correct_answer": "A",
+      "correct_option": "5/14",
+      "explanation": "C(5,2)/C(8,2)=10/28=5/14.",
+      "concept_tested": "Advanced Arithmetic",
+      "difficulty": "ADVANCED",
+      "topic": "Advanced Arithmetic",
+      "subtopic": "Probability and Selection",
+      "exam_relevance": [
+        "CDS",
+        "NDA",
+        "CAPF",
+        "UPSC_CSE",
+        "SSC_CGL",
+        "SSC_CHSL",
+        "SSC_CPO",
+        "SSC_GD",
+        "GOVT_OTHER"
+      ],
+      "pattern": "ORIGINAL_PRACTICE",
+      "sourceType": "PRACTICE",
+      "why_other_options_are_wrong": [
+        "B. 10/28: not the correct result.",
+        "C. 20/56: not the correct result.",
+        "D. 25/64: not the correct result."
+      ]
+    }
+  ]
+}

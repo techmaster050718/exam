@@ -325,6 +325,17 @@
     "negativeMark": 0.25
   },
   {
+    "id": "history-pyq-pattern-master",
+    "subject": "indian-history",
+    "title": "Indian History PYQ Pattern Master — 800 Questions",
+    "subtitle": "CDS + NDA + CAPF + UPSC CSE + SSC CGL/CHSL/CPO/GD | Ancient to Modern History",
+    "file": "data/history-pyq-pattern-master.json",
+    "answerKey": "data/history-pyq-pattern-master-answer-key.json",
+    "durationMin": 480,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
     "id": "geography-master-200",
     "subject": "geography",
     "title": "Geography Master Paper — 200 Questions",
@@ -443,6 +454,17 @@
     "subtitle": "Quantitative Aptitude - 50 questions",
     "file": "data/ibps-quant-1.json",
     "durationMin": 45,
+    "correctMark": 1,
+    "negativeMark": 0.25
+  },
+  {
+    "id": "aptitude-reasoning-new-practice-134",
+    "subject": "ibps-aptitude",
+    "title": "Aptitude + Reasoning — 134 New Practice Questions",
+    "subtitle": "Original CDS, NDA, CAPF, UPSC CSE and SSC aptitude and reasoning practice",
+    "file": "data/aptitude-reasoning-new-practice-134.json",
+    "answerKey": "data/aptitude-reasoning-new-practice-134-answer-key.json",
+    "durationMin": 150,
     "correctMark": 1,
     "negativeMark": 0.25
   },

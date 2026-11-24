@@ -73,6 +73,12 @@
     "icon": "🌍"
   },
   {
+    "id": "indian-history",
+    "title": "Indian History",
+    "description": "Ancient, medieval and modern Indian History PYQ patterns for defence and central government exams",
+    "icon": "🏛️"
+  },
+  {
     "id": "indian-polity",
     "title": "Indian Polity",
     "description": "Constitution, governance, Parliament, judiciary and constitutional bodies",
