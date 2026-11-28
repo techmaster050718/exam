@@ -15,7 +15,12 @@
           "negativeMark": 0.33,
           "topic": "System calls",
           "q": "A user program requests a service from the operating-system kernel primarily through a:",
-          "options": ["System call", "Cache line", "Page frame", "Compiler directive"],
+          "options": [
+            "System call",
+            "Cache line",
+            "Page frame",
+            "Compiler directive"
+          ],
           "answer": 0,
           "explanation": "A system call provides the controlled interface through which a user process requests a kernel service."
         },
@@ -26,7 +31,12 @@
           "negativeMark": 0.33,
           "topic": "Scheduling",
           "q": "In round-robin scheduling, the preemption interval assigned to a process is called the:",
-          "options": ["Time quantum", "Turnaround time", "Response ratio", "Critical section"],
+          "options": [
+            "Time quantum",
+            "Turnaround time",
+            "Response ratio",
+            "Critical section"
+          ],
           "answer": 0,
           "explanation": "Round-robin scheduling gives each ready process a bounded time quantum before preemption."
         },
@@ -37,7 +47,12 @@
           "negativeMark": 0.33,
           "topic": "Virtual memory",
           "q": "A page fault occurs when a process references a page that:",
-          "options": ["Is not currently present in main memory", "Has been modified by another process", "Is stored in the TLB", "Has a valid physical frame number in its page table entry"],
+          "options": [
+            "Is not currently present in main memory",
+            "Has been modified by another process",
+            "Is stored in the TLB",
+            "Has a valid physical frame number in its page table entry"
+          ],
           "answer": 0,
           "explanation": "A page fault signals that the referenced page is not currently resident in main memory and must be fetched or otherwise handled."
         },
@@ -48,7 +63,12 @@
           "negativeMark": 0.33,
           "topic": "Concurrency",
           "q": "A binary semaphore used for mutual exclusion is conventionally initialized to:",
-          "options": ["0", "1", "−1", "The number of processes"],
+          "options": [
+            "0",
+            "1",
+            "−1",
+            "The number of processes"
+          ],
           "answer": 1,
           "explanation": "A mutex-style binary semaphore is initialized to 1 so that one process can acquire it."
         },
@@ -59,7 +79,12 @@
           "negativeMark": 0.33,
           "topic": "File systems",
           "q": "In a Unix-like file system, a directory entry primarily maps a file name to a:",
-          "options": ["Process identifier", "Inode number", "Virtual address", "Disk-controller command"],
+          "options": [
+            "Process identifier",
+            "Inode number",
+            "Virtual address",
+            "Disk-controller command"
+          ],
           "answer": 1,
           "explanation": "A directory associates a name with an inode, which stores the file's metadata and block references."
         },
@@ -70,7 +95,12 @@
           "negativeMark": 0.67,
           "topic": "Deadlocks",
           "q": "Which condition is necessary for a deadlock to be possible?",
-          "options": ["At least one resource is shareable.", "A process can be preempted at any time.", "A resource is held while its holder waits for another resource.", "All processes have identical execution times."],
+          "options": [
+            "At least one resource is shareable.",
+            "A process can be preempted at any time.",
+            "A resource is held while its holder waits for another resource.",
+            "All processes have identical execution times."
+          ],
           "answer": 2,
           "explanation": "Hold-and-wait is one of the four Coffman conditions required for deadlock."
         },
@@ -81,7 +111,12 @@
           "negativeMark": 0.67,
           "topic": "Memory management",
           "q": "A system spends most of its time servicing page faults rather than executing processes. This condition is called:",
-          "options": ["Starvation", "Thrashing", "Convoying", "Busy waiting"],
+          "options": [
+            "Starvation",
+            "Thrashing",
+            "Convoying",
+            "Busy waiting"
+          ],
           "answer": 1,
           "explanation": "Thrashing occurs when excessive paging leaves too little time for useful process execution."
         },
@@ -97,7 +132,11 @@
             "A safe state guarantees that every process is already complete.",
             "Deadlock avoidance can use knowledge of maximum resource demands."
           ],
-          "answer": [0, 1, 3],
+          "answer": [
+            0,
+            1,
+            3
+          ],
           "explanation": "Mutual exclusion and circular wait are Coffman conditions. Avoidance algorithms such as the Banker's algorithm use declared maximum demands; a safe state means a safe completion order exists, not that processes are already complete."
         },
         {
@@ -117,9 +156,76 @@
           "negativeMark": 0.67,
           "topic": "Concurrency",
           "q": "Which property of a correct critical-section solution requires that a process outside its critical section must not prevent others from entering theirs?",
-          "options": ["Mutual exclusion", "Progress", "Bounded waiting", "Atomicity"],
+          "options": [
+            "Mutual exclusion",
+            "Progress",
+            "Bounded waiting",
+            "Atomicity"
+          ],
           "answer": 1,
           "explanation": "Progress requires that selection of the next process to enter cannot be postponed indefinitely by processes that are not in their critical sections."
+        },
+        {
+          "id": "gate27-exp-os-01",
+          "type": "MCQ",
+          "q": "A system has 3 processes and 4 resource instances of a single resource type. Each process needs at most 2 instances. What is the minimum number of instances that must be available to guarantee that the system cannot be deadlocked?",
+          "answer": 1,
+          "explanation": "With 4 instances and 3 processes, one available instance lets at least one process finish and release its held instances. The remaining processes can then proceed.",
+          "topic": "Operating Systems",
+          "subtopic": "Deadlocks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "gate27-exp-os-02",
+          "type": "MSQ",
+          "q": "Which statements about LRU and optimal page replacement are true? (Choose all correct.)",
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "LRU is approximated using reference bits/counters, and optimal replacement is a theoretical lower bound on faults. It does not replace the fewest faults than all algorithms, and LRU lacks future knowledge.",
+          "topic": "Operating Systems",
+          "subtopic": "Page replacement",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "LRU is practical to approximate with hardware support.",
+            "For a fixed reference string and frame count, optimal replacement never has more faults than LRU.",
+            "LRU always causes the fewest faults among all replacement algorithms.",
+            "LRU and optimal both replace pages that are unlikely to be referenced soon."
+          ],
+          "marks": 2
+        },
+        {
+          "id": "gate27-exp-os-03",
+          "type": "NAT",
+          "q": "Three jobs arrive at time 0 with burst times 3, 1, 2. With round-robin and time quantum 2, what is the average turnaround time?",
+          "answer": 5.3333333,
+          "explanation": "Round-robin completion times are 6 for job 1, 3 for job 2 and 7 for job 3. Their turnaround-time average is (6+3+7)/3 = 16/3.",
+          "topic": "Operating Systems",
+          "subtopic": "Scheduling",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "tolerance": 0.01
         }
       ]
     },
@@ -133,7 +239,12 @@
           "negativeMark": 0.33,
           "topic": "Relational model",
           "q": "A candidate key is a:",
-          "options": ["Minimal superkey", "Non-minimal superkey", "Foreign key that allows NULL", "Set of non-prime attributes"],
+          "options": [
+            "Minimal superkey",
+            "Non-minimal superkey",
+            "Foreign key that allows NULL",
+            "Set of non-prime attributes"
+          ],
           "answer": 0,
           "explanation": "A candidate key is a superkey from which no attribute can be removed while retaining uniqueness."
         },
@@ -144,7 +255,12 @@
           "negativeMark": 0.33,
           "topic": "SQL",
           "q": "In SQL, COUNT(column_name) counts:",
-          "options": ["All rows, including rows where the column is NULL", "Only rows where the column is not NULL", "Only distinct non-NULL values", "Only rows where the column equals zero"],
+          "options": [
+            "All rows, including rows where the column is NULL",
+            "Only rows where the column is not NULL",
+            "Only distinct non-NULL values",
+            "Only rows where the column equals zero"
+          ],
           "answer": 1,
           "explanation": "COUNT(column) ignores NULL values; COUNT(*) counts rows."
         },
@@ -155,7 +271,12 @@
           "negativeMark": 0.33,
           "topic": "Normalization",
           "q": "A relation is in BCNF with respect to a non-trivial functional dependency X → Y when:",
-          "options": ["X is a superkey", "Y contains every candidate key", "X contains only one attribute", "The relation has no foreign keys"],
+          "options": [
+            "X is a superkey",
+            "Y contains every candidate key",
+            "X contains only one attribute",
+            "The relation has no foreign keys"
+          ],
           "answer": 0,
           "explanation": "BCNF requires the determinant of every non-trivial functional dependency to be a superkey."
         },
@@ -166,7 +287,12 @@
           "negativeMark": 0.33,
           "topic": "Relational algebra",
           "q": "Which relational-algebra operation selects rows satisfying a predicate?",
-          "options": ["Projection", "Selection", "Rename", "Cartesian product"],
+          "options": [
+            "Projection",
+            "Selection",
+            "Rename",
+            "Cartesian product"
+          ],
           "answer": 1,
           "explanation": "Selection, denoted σ, filters tuples according to a predicate."
         },
@@ -177,7 +303,12 @@
           "negativeMark": 0.33,
           "topic": "Indexes",
           "q": "A sparse index on a data file generally requires the data file to be:",
-          "options": ["Ordered on the indexed search key", "Stored only in a hash table", "Fully duplicated in the index", "Free of primary keys"],
+          "options": [
+            "Ordered on the indexed search key",
+            "Stored only in a hash table",
+            "Fully duplicated in the index",
+            "Free of primary keys"
+          ],
           "answer": 0,
           "explanation": "A sparse index stores entries for only some search-key values, which is practical when the data file is ordered on that key."
         },
@@ -188,7 +319,12 @@
           "negativeMark": 0.67,
           "topic": "Transactions",
           "q": "A schedule that is conflict-serializable has a precedence graph that is:",
-          "options": ["A complete graph", "Acyclic", "Strongly connected", "A tree with every transaction as a leaf"],
+          "options": [
+            "A complete graph",
+            "Acyclic",
+            "Strongly connected",
+            "A tree with every transaction as a leaf"
+          ],
           "answer": 1,
           "explanation": "A schedule is conflict-serializable if and only if its precedence graph is acyclic."
         },
@@ -199,7 +335,12 @@
           "negativeMark": 0.67,
           "topic": "Concurrency control",
           "q": "Under strict two-phase locking, an exclusive lock is held until the transaction:",
-          "options": ["Performs its first read", "Commits or aborts", "Releases its first shared lock", "Begins its final operation"],
+          "options": [
+            "Performs its first read",
+            "Commits or aborts",
+            "Releases its first shared lock",
+            "Begins its final operation"
+          ],
           "answer": 1,
           "explanation": "Strict 2PL holds exclusive locks until commit or abort, preventing other transactions from reading uncommitted writes."
         },
@@ -215,7 +356,10 @@
             "A → C follows by transitivity.",
             "C → A follows."
           ],
-          "answer": [0, 2],
+          "answer": [
+            0,
+            2
+          ],
           "explanation": "A+ contains A, B and C, so A is a candidate key. By transitivity A → C. B+ does not contain A, and C → A is not implied."
         },
         {
@@ -235,9 +379,75 @@
           "negativeMark": 0.67,
           "topic": "Database recovery",
           "q": "In write-ahead logging, before a modified data page is written to disk, the system must ensure that:",
-          "options": ["The corresponding log record is on stable storage.", "Every transaction has committed.", "The page has been copied to every replica.", "The buffer pool is empty."],
+          "options": [
+            "The corresponding log record is on stable storage.",
+            "Every transaction has committed.",
+            "The page has been copied to every replica.",
+            "The buffer pool is empty."
+          ],
           "answer": 0,
           "explanation": "Write-ahead logging requires the log record describing a change to reach stable storage before the corresponding data page is written."
+        },
+        {
+          "id": "gate27-exp-db-01",
+          "type": "MSQ",
+          "q": "Which statements hold for a relation in BCNF?",
+          "answer": [
+            0
+          ],
+          "explanation": "In BCNF, every non-trivial functional dependency has a superkey as determinant. Not every relation in 3NF is in BCNF, and a non-key attribute determinant can indicate a BCNF violation.",
+          "topic": "DBMS",
+          "subtopic": "Normalization",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Every determinant is a superkey.",
+            "BCNF necessarily removes all transitive dependencies.",
+            "Every 3NF relation is also in BCNF.",
+            "A non-key attribute may determine a candidate key."
+          ],
+          "marks": 2
+        },
+        {
+          "id": "gate27-exp-db-02",
+          "type": "NAT",
+          "q": "Consider SQL: SELECT COUNT(*) FROM R LEFT JOIN S ON R.a=S.b. If R has 3 rows and S has 0 rows, COUNT(*) is:",
+          "answer": 3,
+          "explanation": "A LEFT JOIN retains every row of R and supplies NULL values for unmatched S columns; COUNT(*) counts the 3 retained result rows.",
+          "topic": "DBMS",
+          "subtopic": "SQL",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "tolerance": 0
+        },
+        {
+          "id": "gate27-exp-db-03",
+          "type": "MCQ",
+          "q": "Two transactions overlap and one writes data read by the other before the second has committed. This schedule is vulnerable to:",
+          "answer": 1,
+          "explanation": "A dirty read occurs when a transaction reads an uncommitted write from another transaction.",
+          "topic": "DBMS",
+          "subtopic": "Concurrency",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Lost update",
+            "Dirty read",
+            "Cascade commit",
+            "Unrepeatable delete"
+          ],
+          "marks": 1,
+          "negativeMark": 0.33
         }
       ]
     },
@@ -251,7 +461,12 @@
           "negativeMark": 0.33,
           "topic": "Transport layer",
           "q": "Which transport-layer protocol provides a reliable, connection-oriented byte stream?",
-          "options": ["UDP", "TCP", "IP", "ARP"],
+          "options": [
+            "UDP",
+            "TCP",
+            "IP",
+            "ARP"
+          ],
           "answer": 1,
           "explanation": "TCP provides a reliable, connection-oriented byte-stream service."
         },
@@ -262,7 +477,12 @@
           "negativeMark": 0.33,
           "topic": "Address resolution",
           "q": "On a local IPv4 Ethernet network, ARP is used to discover a:",
-          "options": ["MAC address for a known IPv4 address", "Port number for a known process", "Domain name for a known IP address", "Route for a remote autonomous system"],
+          "options": [
+            "MAC address for a known IPv4 address",
+            "Port number for a known process",
+            "Domain name for a known IP address",
+            "Route for a remote autonomous system"
+          ],
           "answer": 0,
           "explanation": "ARP resolves a local IPv4 address to the corresponding link-layer hardware address."
         },
@@ -273,7 +493,12 @@
           "negativeMark": 0.33,
           "topic": "IP addressing",
           "q": "How many usable host addresses are in a conventional IPv4 /26 subnet?",
-          "options": ["30", "62", "64", "126"],
+          "options": [
+            "30",
+            "62",
+            "64",
+            "126"
+          ],
           "answer": 1,
           "explanation": "A /26 leaves 6 host bits: 2^6 = 64 addresses, of which 62 are conventionally usable after excluding network and broadcast addresses."
         },
@@ -284,7 +509,12 @@
           "negativeMark": 0.33,
           "topic": "Routing",
           "q": "Dijkstra's shortest-path algorithm assumes that edge costs are:",
-          "options": ["Non-negative", "Strictly negative", "All equal to one", "Complex numbers"],
+          "options": [
+            "Non-negative",
+            "Strictly negative",
+            "All equal to one",
+            "Complex numbers"
+          ],
           "answer": 0,
           "explanation": "Dijkstra's algorithm is correct for graphs with non-negative edge weights."
         },
@@ -295,7 +525,12 @@
           "negativeMark": 0.33,
           "topic": "Application layer",
           "q": "The Domain Name System primarily translates:",
-          "options": ["Domain names to resource records such as IP addresses", "MAC addresses to Ethernet frames", "TCP ports to process identifiers", "Ciphertext to plaintext"],
+          "options": [
+            "Domain names to resource records such as IP addresses",
+            "MAC addresses to Ethernet frames",
+            "TCP ports to process identifiers",
+            "Ciphertext to plaintext"
+          ],
           "answer": 0,
           "explanation": "DNS is a distributed naming system that returns records such as address records for domain names."
         },
@@ -306,7 +541,12 @@
           "negativeMark": 0.67,
           "topic": "Flow control",
           "q": "In TCP, the receiver-advertised window is primarily used for:",
-          "options": ["Congestion control by routers", "Flow control based on receiver buffer capacity", "Encrypting the TCP header", "Selecting the shortest IP route"],
+          "options": [
+            "Congestion control by routers",
+            "Flow control based on receiver buffer capacity",
+            "Encrypting the TCP header",
+            "Selecting the shortest IP route"
+          ],
           "answer": 1,
           "explanation": "The advertised receive window limits outstanding data according to the receiver's available buffer space."
         },
@@ -317,7 +557,12 @@
           "negativeMark": 0.67,
           "topic": "Data link layer",
           "q": "In classic shared-medium Ethernet using CSMA/CD, a station that detects a collision:",
-          "options": ["Continues transmitting the original frame.", "Stops, signals the collision and retries after a backoff.", "Immediately sends an acknowledgement.", "Switches the frame to UDP."],
+          "options": [
+            "Continues transmitting the original frame.",
+            "Stops, signals the collision and retries after a backoff.",
+            "Immediately sends an acknowledgement.",
+            "Switches the frame to UDP."
+          ],
           "answer": 1,
           "explanation": "Classic CSMA/CD detects a collision, aborts the transmission, sends a jam signal and retries after a backoff interval."
         },
@@ -327,8 +572,17 @@
           "marks": 2,
           "topic": "IPv4",
           "q": "Which fields are present in a standard IPv4 header?",
-          "options": ["Time to Live", "Header Checksum", "Sequence Number", "Total Length"],
-          "answer": [0, 1, 3],
+          "options": [
+            "Time to Live",
+            "Header Checksum",
+            "Sequence Number",
+            "Total Length"
+          ],
+          "answer": [
+            0,
+            1,
+            3
+          ],
           "explanation": "IPv4 includes TTL, a header checksum and total length. A sequence number is a TCP field, not an IPv4 header field."
         },
         {
@@ -348,9 +602,77 @@
           "negativeMark": 0.67,
           "topic": "Routing",
           "q": "When multiple routing-table entries match a destination address, routers generally select the entry with the:",
-          "options": ["Shortest prefix", "Longest matching prefix", "Lowest interface number", "Largest network address"],
+          "options": [
+            "Shortest prefix",
+            "Longest matching prefix",
+            "Lowest interface number",
+            "Largest network address"
+          ],
           "answer": 1,
           "explanation": "Longest-prefix matching selects the most specific matching route."
+        },
+        {
+          "id": "gate27-exp-cn-01",
+          "type": "NAT",
+          "q": "An IPv4 network 172.20.64.0/20 has how many usable host addresses?",
+          "answer": 4094,
+          "explanation": "A /20 has 4096 addresses; subtract the network and broadcast addresses to obtain 4094 usable addresses.",
+          "topic": "Computer Networks",
+          "subtopic": "Subnetting",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "tolerance": 0
+        },
+        {
+          "id": "gate27-exp-cn-02",
+          "type": "MSQ",
+          "q": "Which statements are true for TCP?",
+          "answer": [
+            0,
+            2,
+            3
+          ],
+          "explanation": "TCP provides ordered reliable byte-stream service and congestion control through a three-way connection setup. It handles loss but does not guarantee that no segment is lost from the network.",
+          "topic": "Computer Networks",
+          "subtopic": "TCP",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "It provides ordered byte-stream delivery.",
+            "It guarantees zero packet loss over an unreliable network.",
+            "It performs congestion control.",
+            "Its handshake is three-way."
+          ],
+          "marks": 2
+        },
+        {
+          "id": "gate27-exp-cn-03",
+          "type": "MCQ",
+          "q": "Which polynomial property is required for a standard CRC generator to detect all possible two-bit error patterns?",
+          "answer": 1,
+          "explanation": "A CRC generator intended to detect all two-bit errors must have more than one term and be divisible by x+1, while also satisfying additional polynomial properties for burst/double-error coverage.",
+          "topic": "Computer Networks",
+          "subtopic": "Error detection",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "GATE CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "A degree-1 polynomial",
+            "A polynomial with at least two terms",
+            "A generator with at least 3 factors",
+            "A generator divisible by x and x+1"
+          ],
+          "marks": 2,
+          "negativeMark": 0.67
         }
       ]
     }

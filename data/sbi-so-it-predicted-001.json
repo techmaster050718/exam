@@ -109,6 +109,69 @@
             "Increase memory bandwidth"
           ],
           "answer": 1
+        },
+        {
+          "id": "sbi-it-exp-01",
+          "type": "MCQ",
+          "q": "Which page-replacement policy can produce Belady's anomaly?",
+          "answer": 0,
+          "explanation": "FIFO may replace a page that would not be replaced under an optimal trace and can have more faults when the frame count increases.",
+          "topic": "Operating Systems",
+          "subtopic": "Virtual memory",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "FIFO",
+            "LRU",
+            "Optimal",
+            "Clock"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-02",
+          "type": "MCQ",
+          "q": "A process waiting while holding resource R1 requests R2, and another process holds R2 and requests R1. This is an example of:",
+          "answer": 0,
+          "explanation": "The wait-for graph contains a directed cycle, and neither process can proceed.",
+          "topic": "Operating Systems",
+          "subtopic": "Deadlocks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Deadlock cycle",
+            "Priority inversion",
+            "Starvation",
+            "Thrashing"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-03",
+          "type": "MCQ",
+          "q": "In a Linux system, which command changes file ownership?",
+          "answer": 1,
+          "explanation": "chown changes file or directory ownership; chmod changes permissions.",
+          "topic": "Linux",
+          "subtopic": "Administration",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "chmod",
+            "chown",
+            "grep",
+            "ln"
+          ]
         }
       ]
     },
@@ -214,6 +277,69 @@
             "UNION"
           ],
           "answer": 1
+        },
+        {
+          "id": "sbi-it-exp-04",
+          "type": "MCQ",
+          "q": "For relation R(A,B,C), which of the following must hold if A -> B and B -> C?",
+          "answer": 0,
+          "explanation": "This follows by transitivity of functional dependencies: A -> B and B -> C imply A -> C.",
+          "topic": "DBMS",
+          "subtopic": "Functional dependencies",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "A -> C",
+            "C -> A",
+            "B -> A",
+            "C -> B"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-05",
+          "type": "MCQ",
+          "q": "Which isolation level is generally the strongest and prevents dirty, non-repeatable and phantom reads?",
+          "answer": 3,
+          "explanation": "Serializable gives the strongest isolation by scheduling transactions as if they executed serially.",
+          "topic": "DBMS",
+          "subtopic": "Transactions",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Read uncommitted",
+            "Read committed",
+            "Repeatable read",
+            "Serializable"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-06",
+          "type": "MCQ",
+          "q": "Which SQL construct prevents duplicate result rows?",
+          "answer": 0,
+          "explanation": "SELECT DISTINCT removes duplicate rows from the result set.",
+          "topic": "DBMS",
+          "subtopic": "SQL",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "DISTINCT",
+            "WHERE",
+            "GROUP BY",
+            "HAVING"
+          ]
         }
       ]
     },
@@ -319,6 +445,48 @@
             "Increasing CPU speed"
           ],
           "answer": 0
+        },
+        {
+          "id": "sbi-it-exp-07",
+          "type": "MCQ",
+          "q": "A /27 IPv4 network contains how many usable host addresses?",
+          "answer": 0,
+          "explanation": "A /27 has 32 addresses, with network and broadcast addresses excluded, leaving 30 usable hosts.",
+          "topic": "Computer Networks",
+          "subtopic": "Subnetting",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "30",
+            "31",
+            "32",
+            "62"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-08",
+          "type": "MCQ",
+          "q": "Which protocol provides integrity and confidentiality for HTTP traffic?",
+          "answer": 0,
+          "explanation": "HTTPS uses TLS to authenticate peers and encrypt and integrity-protect HTTP traffic.",
+          "topic": "Network Security",
+          "subtopic": "Cryptography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "TLS",
+            "DNS",
+            "ARP",
+            "SNMP"
+          ]
         }
       ]
     },
@@ -424,6 +592,48 @@
             "Round robin scheduler"
           ],
           "answer": 0
+        },
+        {
+          "id": "sbi-it-exp-09",
+          "type": "MCQ",
+          "q": "In an HTTP REST API, which status code indicates that a resource was successfully created?",
+          "answer": 1,
+          "explanation": "201 Created indicates successful creation of a new resource.",
+          "topic": "Web Technologies",
+          "subtopic": "REST APIs",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "200",
+            "201",
+            "301",
+            "404"
+          ]
+        },
+        {
+          "id": "sbi-it-exp-10",
+          "type": "MCQ",
+          "q": "In Python, what is the space-complexity impact of merge sort on an array?",
+          "answer": 2,
+          "explanation": "The usual merge-sort implementation needs O(n) auxiliary space for the merge buffers.",
+          "topic": "Algorithms",
+          "subtopic": "Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SBI SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ]
         }
       ]
     }

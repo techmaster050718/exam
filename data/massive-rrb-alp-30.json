@@ -1,0 +1,688 @@
+{
+  "id": "massive-rrb-alp-30",
+  "title": "Assistant Loco Pilot — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Assistant Loco Pilot",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Assistant Loco Pilot — BASIC",
+      "questions": [
+        {
+          "id": "mass-rrb-alp-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Electrical Fundamentals? Expansion item 1 for Assistant Loco Pilot.",
+          "options": [
+            "The foundational, verifiable principle of Electrical Fundamentals",
+            "Electrical Fundamentals approach without verification",
+            "An unrelated Electrical Fundamentals technique",
+            "Opposite principle in Electrical Fundamentals"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Mechanics requires the use of which principle? Expansion item 2 for Assistant Loco Pilot.",
+          "options": [
+            "Mechanics approach without verification",
+            "An unrelated Mechanics technique",
+            "The foundational, verifiable principle of Mechanics",
+            "Opposite principle in Mechanics"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Railway Safety? Expansion item 3 for Assistant Loco Pilot.",
+          "options": [
+            "The foundational, verifiable principle of Railway Safety",
+            "Railway Safety approach without verification",
+            "An unrelated Railway Safety technique",
+            "Opposite principle in Railway Safety"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving General Science, which action is most technically and procedurally appropriate? Expansion item 4 for Assistant Loco Pilot.",
+          "options": [
+            "General Science approach without verification",
+            "An unrelated General Science technique",
+            "The foundational, verifiable principle of General Science",
+            "Opposite principle in General Science"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Mathematics? Expansion item 5 for Assistant Loco Pilot.",
+          "options": [
+            "The foundational, verifiable principle of Mathematics",
+            "Mathematics approach without verification",
+            "An unrelated Mathematics technique",
+            "Opposite principle in Mathematics"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Electrical Fundamentals? Expansion item 6 for Assistant Loco Pilot.",
+          "options": [
+            "Electrical Fundamentals approach without verification",
+            "An unrelated Electrical Fundamentals technique",
+            "The foundational, verifiable principle of Electrical Fundamentals",
+            "Opposite principle in Electrical Fundamentals"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Assistant Loco Pilot — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-rrb-alp-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Mechanics? Expansion item 1 for Assistant Loco Pilot.",
+          "options": [
+            "Mechanics shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Mechanics",
+            "Superficial Mechanics classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Railway Safety requires the use of which principle? Expansion item 2 for Assistant Loco Pilot.",
+          "options": [
+            "Railway Safety shortcut that ignores constraints",
+            "Superficial Railway Safety classification",
+            "The principle that correctly satisfies constraints in Railway Safety",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 3 for Assistant Loco Pilot.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in General Science"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Mathematics, which action is most technically and procedurally appropriate? Expansion item 4 for Assistant Loco Pilot.",
+          "options": [
+            "The principle that correctly satisfies constraints in Mathematics",
+            "Mathematics shortcut that ignores constraints",
+            "Superficial Mathematics classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Electrical Fundamentals? Expansion item 5 for Assistant Loco Pilot.",
+          "options": [
+            "Electrical Fundamentals shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Electrical Fundamentals",
+            "Superficial Electrical Fundamentals classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Mechanics? Expansion item 6 for Assistant Loco Pilot.",
+          "options": [
+            "Mechanics shortcut that ignores constraints",
+            "Superficial Mechanics classification",
+            "The principle that correctly satisfies constraints in Mechanics",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Railway Safety requires the use of which principle? Expansion item 7 for Assistant Loco Pilot.",
+          "options": [
+            "Railway Safety shortcut that ignores constraints",
+            "Superficial Railway Safety classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Railway Safety"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 8 for Assistant Loco Pilot.",
+          "options": [
+            "The principle that correctly satisfies constraints in General Science",
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Mathematics, which action is most technically and procedurally appropriate? Expansion item 9 for Assistant Loco Pilot.",
+          "options": [
+            "Mathematics shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Mathematics",
+            "Superficial Mathematics classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Electrical Fundamentals? Expansion item 10 for Assistant Loco Pilot.",
+          "options": [
+            "Electrical Fundamentals shortcut that ignores constraints",
+            "Superficial Electrical Fundamentals classification",
+            "The principle that correctly satisfies constraints in Electrical Fundamentals",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Mechanics? Expansion item 11 for Assistant Loco Pilot.",
+          "options": [
+            "Mechanics shortcut that ignores constraints",
+            "Superficial Mechanics classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Mechanics"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Railway Safety requires the use of which principle? Expansion item 12 for Assistant Loco Pilot.",
+          "options": [
+            "The principle that correctly satisfies constraints in Railway Safety",
+            "Railway Safety shortcut that ignores constraints",
+            "Superficial Railway Safety classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 13 for Assistant Loco Pilot.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in General Science",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-rrb-alp-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Mathematics, which action is most technically and procedurally appropriate? Expansion item 14 for Assistant Loco Pilot.",
+          "options": [
+            "Mathematics shortcut that ignores constraints",
+            "Superficial Mathematics classification",
+            "The principle that correctly satisfies constraints in Mathematics",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Assistant Loco Pilot — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-rrb-alp-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Railway Safety? Expansion item 1 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Railway Safety in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Railway Safety rule",
+            "Integrate the constraints and edge conditions in Railway Safety",
+            "Ignore an edge condition in Railway Safety"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in General Science requires the use of which principle? Expansion item 2 for Assistant Loco Pilot.",
+          "options": [
+            "Apply General Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science",
+            "Integrate the constraints and edge conditions in General Science"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Mathematics? Expansion item 3 for Assistant Loco Pilot.",
+          "options": [
+            "Integrate the constraints and edge conditions in Mathematics",
+            "Apply Mathematics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Mathematics rule",
+            "Ignore an edge condition in Mathematics"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Electrical Fundamentals, which action is most technically and procedurally appropriate? Expansion item 4 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Electrical Fundamentals in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Electrical Fundamentals",
+            "Use the locally valid but globally incorrect Electrical Fundamentals rule",
+            "Ignore an edge condition in Electrical Fundamentals"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Mechanics? Expansion item 5 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Mechanics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Mechanics rule",
+            "Integrate the constraints and edge conditions in Mechanics",
+            "Ignore an edge condition in Mechanics"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Railway Safety? Expansion item 6 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Railway Safety in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Railway Safety rule",
+            "Ignore an edge condition in Railway Safety",
+            "Integrate the constraints and edge conditions in Railway Safety"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Railway Safety is supported by the relevant Railway Safety concept and the stated constraints.",
+          "topic": "Railway Safety",
+          "subtopic": "Railway Safety",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in General Science requires the use of which principle? Expansion item 7 for Assistant Loco Pilot.",
+          "options": [
+            "Integrate the constraints and edge conditions in General Science",
+            "Apply General Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Mathematics? Expansion item 8 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Mathematics in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Mathematics",
+            "Use the locally valid but globally incorrect Mathematics rule",
+            "Ignore an edge condition in Mathematics"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Mathematics is supported by the relevant Mathematics concept and the stated constraints.",
+          "topic": "Mathematics",
+          "subtopic": "Mathematics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Electrical Fundamentals, which action is most technically and procedurally appropriate? Expansion item 9 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Electrical Fundamentals in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Electrical Fundamentals rule",
+            "Integrate the constraints and edge conditions in Electrical Fundamentals",
+            "Ignore an edge condition in Electrical Fundamentals"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Electrical Fundamentals is supported by the relevant Electrical Fundamentals concept and the stated constraints.",
+          "topic": "Electrical Fundamentals",
+          "subtopic": "Electrical Fundamentals",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-rrb-alp-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Mechanics? Expansion item 10 for Assistant Loco Pilot.",
+          "options": [
+            "Apply Mechanics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Mechanics rule",
+            "Ignore an edge condition in Mechanics",
+            "Integrate the constraints and edge conditions in Mechanics"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Mechanics is supported by the relevant Mechanics concept and the stated constraints.",
+          "topic": "Mechanics",
+          "subtopic": "Mechanics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Assistant Loco Pilot"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

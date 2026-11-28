@@ -788,6 +788,216 @@
           "topic": "Banking Technology",
           "difficulty": "Moderate",
           "sourceType": "SYLLABUS_BASED_PRACTICE"
+        },
+        {
+          "id": "ibps-it-exp-01",
+          "type": "MCQ",
+          "q": "Which normal form removes transitive functional dependencies of non-key attributes?",
+          "answer": 2,
+          "explanation": "Third normal form requires that every non-key attribute depend only on a candidate key, not transitively on it.",
+          "topic": "DBMS",
+          "subtopic": "Normalization",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-02",
+          "type": "MCQ",
+          "q": "What does a database write-ahead log guarantee?",
+          "answer": 1,
+          "explanation": "Write-ahead logging records undo/redo information before the corresponding data pages are overwritten.",
+          "topic": "DBMS",
+          "subtopic": "Recovery",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Data changes are written before the log",
+            "Log records are written before corresponding dirty pages are persisted",
+            "Indexes are never written to disk",
+            "Transactions cannot roll back"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-03",
+          "type": "MCQ",
+          "q": "Consider P = 3 processes and R = 2 resource types with 5 instances in a system. In Banker's Algorithm, a state is safe if:",
+          "answer": 1,
+          "explanation": "Safety requires existence of a complete process execution sequence, with resources released after completion.",
+          "topic": "Operating Systems",
+          "subtopic": "Deadlock avoidance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "There is one process for which Available equals zero",
+            "Every process can finish in some sequence using Available and its future releases",
+            "Every process holds at least one resource",
+            "No process requests resources"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-04",
+          "type": "MCQ",
+          "q": "Which TCP mechanism primarily limits the amount of unacknowledged data sent by a sender?",
+          "answer": 0,
+          "explanation": "The TCP receive window is used for end-to-end flow control.",
+          "topic": "Computer Networks",
+          "subtopic": "TCP",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Flow control",
+            "DNS caching",
+            "ARP resolution",
+            "Subnetting"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-05",
+          "type": "MCQ",
+          "q": "In asymmetric cryptography, a message encrypted with a party's public key can be decrypted only by:",
+          "answer": 1,
+          "explanation": "Public-key encryption uses a recipient's public key and requires the matching private key for decryption.",
+          "topic": "Cybersecurity",
+          "subtopic": "Public-key cryptography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Any holder of the public key",
+            "The party holding the matching private key",
+            "The CA that issued the certificate",
+            "The recipient's symmetric session key only"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-06",
+          "type": "MCQ",
+          "q": "Which banking technology controls the real-time transfer of interbank payment instructions and is associated with immediate settlement in some systems?",
+          "answer": 0,
+          "explanation": "RTGS processes and settles qualifying interbank transfers individually and in real time, subject to cutoff and operational rules.",
+          "topic": "Banking Technology",
+          "subtopic": "Payment systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "RTGS",
+            "Only a batch MIS report",
+            "Core banking backup",
+            "Manual clearing"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-07",
+          "type": "MCQ",
+          "q": "Which OAuth 2.0 grant is generally appropriate for a server-side confidential application acting on its own behalf?",
+          "answer": 1,
+          "explanation": "The client credentials grant authenticates a confidential client for machine-to-machine access.",
+          "topic": "Web Technologies",
+          "subtopic": "API security",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Implicit grant",
+            "Client credentials grant",
+            "Resource owner password grant",
+            "Authorization code without PKCE"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-08",
+          "type": "MCQ",
+          "q": "In Docker, which isolation unit is a running instance of an image?",
+          "answer": 0,
+          "explanation": "A container is a runnable isolated instance created from an image.",
+          "topic": "Cloud Computing",
+          "subtopic": "Containers",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Container",
+            "Virtual machine",
+            "Hypervisor",
+            "Volume only"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-09",
+          "type": "MCQ",
+          "q": "Which test type verifies that a change does not break existing behavior?",
+          "answer": 1,
+          "explanation": "Regression testing checks that software changes have not adversely affected existing functionality.",
+          "topic": "Software Engineering",
+          "subtopic": "Testing",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Unit test",
+            "Regression test",
+            "Penetration test",
+            "Load test"
+          ]
+        },
+        {
+          "id": "ibps-it-exp-10",
+          "type": "MCQ",
+          "q": "Which Linux command performs a live search over process information and supports interactive management?",
+          "answer": 0,
+          "explanation": "top provides a live, periodically refreshed view of system processes and resource usage.",
+          "topic": "Linux",
+          "subtopic": "System administration",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS SO",
+            "IT Officer"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "top",
+            "ping",
+            "traceroute",
+            "curl"
+          ]
         }
       ]
     }

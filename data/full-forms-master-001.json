@@ -1,0 +1,3732 @@
+{
+  "id": "full-forms-master-001",
+  "title": "FULL FORMS — Comprehensive Abbreviation Bank",
+  "subtitle": "India-focused and international abbreviation and full-form practice",
+  "sourceType": "VERIFIED_REFERENCE_PRACTICE",
+  "exam": "FULL FORMS",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Verified official organisation, government and standards-reference pages",
+  "verificationStatus": "Verified against official and authoritative references",
+  "sections": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "id": "ff-science-001",
+          "abbreviation": "DNA",
+          "fullForm": "Deoxyribonucleic Acid",
+          "sector": "Science",
+          "subsector": "Biology",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DNA?",
+          "options": [
+            "Deoxyribonuclear Acid",
+            "Deoxyribonucleic Acid",
+            "Dioxide Nitrogen Acid",
+            "Dynamic Nucleic Atom"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-002",
+          "abbreviation": "RNA",
+          "fullForm": "Ribonucleic Acid",
+          "sector": "Science",
+          "subsector": "Biology",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RNA?",
+          "options": [
+            "Reactive Nitrogen Acid",
+            "Ribosomal Nucleotide Agent",
+            "Ribonucleic Acid",
+            "Ribo Nuclear Array"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-003",
+          "abbreviation": "pH",
+          "fullForm": "Potential of Hydrogen",
+          "sector": "Science",
+          "subsector": "Chemistry",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of pH?",
+          "options": [
+            "Power of Hydrogen",
+            "Potential of Hydrogen",
+            "Partial Hydrogen",
+            "Potential Heat"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-004",
+          "abbreviation": "ATP",
+          "fullForm": "Adenosine Triphosphate",
+          "sector": "Science",
+          "subsector": "Biology",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ATP?",
+          "options": [
+            "Adenosine Terminal Pathway",
+            "Adenine Three Phosphate",
+            "Advanced Tissue Protein",
+            "Adenosine Triphosphate"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-005",
+          "abbreviation": "RBC",
+          "fullForm": "Red Blood Cell",
+          "sector": "Science",
+          "subsector": "Biology",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RBC?",
+          "options": [
+            "Red Blood Cell",
+            "Respiratory Blood Compound",
+            "Renal Body Cell",
+            "Rapid Blood Coagulation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-006",
+          "abbreviation": "WBC",
+          "fullForm": "White Blood Cell",
+          "sector": "Science",
+          "subsector": "Biology",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of WBC?",
+          "options": [
+            "White Blood Count",
+            "Whole Blood Count",
+            "Watery Blood Corpuscle",
+            "White Blood Cell"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-007",
+          "abbreviation": "MRI",
+          "fullForm": "Magnetic Resonance Imaging",
+          "sector": "Science",
+          "subsector": "Physics and Healthcare",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of MRI?",
+          "options": [
+            "Molecular Radiation Instrument",
+            "Magnetic Radio Imaging",
+            "Medical Resonance Indicator",
+            "Magnetic Resonance Imaging"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-008",
+          "abbreviation": "ECG",
+          "fullForm": "Electrocardiogram",
+          "sector": "Science",
+          "subsector": "Healthcare",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ECG?",
+          "options": [
+            "Energy Cardio Graph",
+            "Electrical Cardiac Gauge",
+            "Electrocardiogram",
+            "Electrochemical Cardiac Gram"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-science-009",
+          "abbreviation": "XRD",
+          "fullForm": "X-ray Diffraction",
+          "sector": "Science",
+          "subsector": "Physics",
+          "difficulty": "ADVANCED",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of XRD?",
+          "options": [
+            "X-ray Detection",
+            "X-ray Diffraction",
+            "X-ray Distribution",
+            "X-ray Diagnosis"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "questions": [
+        {
+          "id": "ff-space-001",
+          "abbreviation": "ISRO",
+          "fullForm": "Indian Space Research Organisation",
+          "sector": "Space",
+          "subsector": "Indian Space",
+          "difficulty": "BASIC",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ISRO?",
+          "options": [
+            "Indian Satellite Rocket Organisation",
+            "Indian Scientific Research Organisation",
+            "International Space Research Office",
+            "Indian Space Research Organisation"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-002",
+          "abbreviation": "NASA",
+          "fullForm": "National Aeronautics and Space Administration",
+          "sector": "Space",
+          "subsector": "International Space",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NASA?",
+          "options": [
+            "New Aerospace and Space Administration",
+            "North American Space Agency",
+            "National Astronomy and Satellite Agency",
+            "National Aeronautics and Space Administration"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-003",
+          "abbreviation": "GAGAN",
+          "fullForm": "GPS Aided Geo Augmented Navigation",
+          "sector": "Space",
+          "subsector": "Navigation",
+          "difficulty": "ADVANCED",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GAGAN?",
+          "options": [
+            "Global Air Geo Navigation",
+            "GPS Aided Geo Augmented Navigation",
+            "GPS Assisted Ground Navigation",
+            "Geo Area GPS Network"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-004",
+          "abbreviation": "NAVIC",
+          "fullForm": "Navigation with Indian Constellation",
+          "sector": "Space",
+          "subsector": "Navigation",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NAVIC?",
+          "options": [
+            "Navigation Indian Coordinates",
+            "National Indian Vehicle Interface",
+            "Navigation with Indian Constellation",
+            "Naval Indian Constellation"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-005",
+          "abbreviation": "VSSC",
+          "fullForm": "Vikram Sarabhai Space Centre",
+          "sector": "Space",
+          "subsector": "Indian Space",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of VSSC?",
+          "options": [
+            "Vikram Satellite and Space Complex",
+            "Vikram Space Scientific Centre",
+            "Vikram Sarabhai Space Centre",
+            "Vikram Shukra Space Centre"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-006",
+          "abbreviation": "SAC",
+          "fullForm": "Space Applications Centre",
+          "sector": "Space",
+          "subsector": "Indian Space",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SAC?",
+          "options": [
+            "Space Applications Centre",
+            "Satellite Aeronautics Centre",
+            "Space Agency Council",
+            "Scientific Aerospace Command"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-007",
+          "abbreviation": "NSIL",
+          "fullForm": "NewSpace India Limited",
+          "sector": "Space",
+          "subsector": "Commercial Space",
+          "difficulty": "ADVANCED",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NSIL?",
+          "options": [
+            "NewSpace India Limited",
+            "National Satellite India Limited",
+            "New Space Indian Laboratories",
+            "National Space Industry League"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-008",
+          "abbreviation": "IN-SPACe",
+          "fullForm": "Indian National Space Promotion and Authorization Centre",
+          "sector": "Space",
+          "subsector": "Commercial Space",
+          "difficulty": "ADVANCED",
+          "source": "https://www.isro.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IN-SPACe?",
+          "options": [
+            "Indian Space Promotion Agency",
+            "Indian National Space Promotion and Authorization Centre",
+            "International Space Program Centre",
+            "Indian National Satellite Control Establishment"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-009",
+          "abbreviation": "ESA",
+          "fullForm": "European Space Agency",
+          "sector": "Space",
+          "subsector": "International Space",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ESA?",
+          "options": [
+            "Earth Science Association",
+            "European Satellite Administration",
+            "European Space Agency",
+            "European Aerospace Alliance"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-space-010",
+          "abbreviation": "JAXA",
+          "fullForm": "Japan Aerospace Exploration Agency",
+          "sector": "Space",
+          "subsector": "International Space",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of JAXA?",
+          "options": [
+            "Japan Aerospace Exploration Agency",
+            "Japanese Air and X-ray Agency",
+            "Japan Advanced X-ray Academy",
+            "Joint Aerospace Exploration Authority"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Defence",
+      "questions": [
+        {
+          "id": "ff-defence-001",
+          "abbreviation": "DRDO",
+          "fullForm": "Defence Research and Development Organisation",
+          "sector": "Defence",
+          "subsector": "Indian Defence",
+          "difficulty": "BASIC",
+          "source": "https://www.drdo.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DRDO?",
+          "options": [
+            "Department of Research and Defence Operations",
+            "Defence Research and Development Organisation",
+            "Defence Research and Design Office",
+            "Directorate of Research and Defence Organisation"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-002",
+          "abbreviation": "CISF",
+          "fullForm": "Central Industrial Security Force",
+          "sector": "Defence",
+          "subsector": "Central Armed Police Forces",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CISF?",
+          "options": [
+            "Central Industrial Security Force",
+            "Central Information Security Force",
+            "Civil Industrial Security Federation",
+            "Central Intelligence Security Force"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-003",
+          "abbreviation": "CRPF",
+          "fullForm": "Central Reserve Police Force",
+          "sector": "Defence",
+          "subsector": "Central Armed Police Forces",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CRPF?",
+          "options": [
+            "Central Riot Police Force",
+            "Central Regional Police Force",
+            "Civil Reserve Protection Force",
+            "Central Reserve Police Force"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-004",
+          "abbreviation": "BSF",
+          "fullForm": "Border Security Force",
+          "sector": "Defence",
+          "subsector": "Central Armed Police Forces",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BSF?",
+          "options": [
+            "Border Soldiers Federation",
+            "Border Surveillance Federation",
+            "Border Special Force",
+            "Border Security Force"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-005",
+          "abbreviation": "ITBP",
+          "fullForm": "Indo-Tibetan Border Police",
+          "sector": "Defence",
+          "subsector": "Central Armed Police Forces",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ITBP?",
+          "options": [
+            "Indo-Tibet Border Protection",
+            "Indian-Tibetan Border Police",
+            "International Territorial Border Patrol",
+            "Indo-Tibetan Border Police"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-006",
+          "abbreviation": "SSB",
+          "fullForm": "Sashastra Seema Bal",
+          "sector": "Defence",
+          "subsector": "Central Armed Police Forces",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SSB?",
+          "options": [
+            "Strategic Seema Battalion",
+            "Special Security Border",
+            "Sashastra Seema Bal",
+            "Sashastra Security Bureau"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-007",
+          "abbreviation": "SPG",
+          "fullForm": "Special Protection Group",
+          "sector": "Defence",
+          "subsector": "Security",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SPG?",
+          "options": [
+            "Security Protection Guard",
+            "Special Police Group",
+            "Strategic Protection Guard",
+            "Special Protection Group"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Air Force",
+      "questions": [
+        {
+          "id": "ff-indian-air-force-001",
+          "abbreviation": "IAF",
+          "fullForm": "Indian Air Force",
+          "sector": "Indian Air Force",
+          "subsector": "Indian Armed Forces",
+          "difficulty": "BASIC",
+          "source": "https://indianairforce.nic.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IAF?",
+          "options": [
+            "International Air Fleet",
+            "Indian Air Force",
+            "Indian Aviation Federation",
+            "Integrated Armed Force"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Army",
+      "questions": [
+        {
+          "id": "ff-indian-army-001",
+          "abbreviation": "IA",
+          "fullForm": "Indian Army",
+          "sector": "Indian Army",
+          "subsector": "Indian Armed Forces",
+          "difficulty": "BASIC",
+          "source": "https://joinindianarmy.nic.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IA?",
+          "options": [
+            "Indian Army",
+            "International Army",
+            "Indian Aviation",
+            "Integrated Alliance"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Navy",
+      "questions": [
+        {
+          "id": "ff-indian-navy-001",
+          "abbreviation": "IN",
+          "fullForm": "Indian Navy",
+          "sector": "Indian Navy",
+          "subsector": "Indian Armed Forces",
+          "difficulty": "BASIC",
+          "source": "https://www.joinindiannavy.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IN?",
+          "options": [
+            "Indian Navy",
+            "International Naval",
+            "Indian National Force",
+            "Integrated Navy"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Defence Technology",
+      "questions": [
+        {
+          "id": "ff-defence-technology-001",
+          "abbreviation": "HAL",
+          "fullForm": "Hindustan Aeronautics Limited",
+          "sector": "Defence Technology",
+          "subsector": "Aerospace",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of HAL?",
+          "options": [
+            "Hindustan Aircraft Laboratories",
+            "Hindustan Aeronautics Limited",
+            "Hindustan Aviation League",
+            "Hindustan Aeronautic Limited"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-technology-002",
+          "abbreviation": "BEL",
+          "fullForm": "Bharat Electronics Limited",
+          "sector": "Defence Technology",
+          "subsector": "Electronics",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BEL?",
+          "options": [
+            "Bharat Electronics Limited",
+            "Bharat Electrical Limited",
+            "Bharat Engineering Labs",
+            "Bharat Electronic League"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-technology-003",
+          "abbreviation": "BDL",
+          "fullForm": "Bharat Dynamics Limited",
+          "sector": "Defence Technology",
+          "subsector": "Missiles",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BDL?",
+          "options": [
+            "Bharat Defence Laboratories",
+            "Bharat Dynamics Limited",
+            "Bharat Design League",
+            "Bharat Defence Logistics"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-technology-004",
+          "abbreviation": "AWACS",
+          "fullForm": "Airborne Warning and Control System",
+          "sector": "Defence Technology",
+          "subsector": "Air Surveillance",
+          "difficulty": "ADVANCED",
+          "source": "https://indianairforce.nic.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AWACS?",
+          "options": [
+            "Airborne Warning and Control System",
+            "Air Warning and Command Squadron",
+            "Aerial Weapons and Control System",
+            "Advanced Warning Aircraft Centre"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-defence-technology-005",
+          "abbreviation": "LCA",
+          "fullForm": "Light Combat Aircraft",
+          "sector": "Defence Technology",
+          "subsector": "Aircraft",
+          "difficulty": "BASIC",
+          "source": "https://indianairforce.nic.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of LCA?",
+          "options": [
+            "Light Carrier Aircraft",
+            "Light Combat Aircraft",
+            "Light Combat Armament",
+            "Light Carrier Aeroplane"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Manufacturing",
+      "questions": [
+        {
+          "id": "ff-manufacturing-001",
+          "abbreviation": "BEML",
+          "fullForm": "Bharat Earth Movers Limited",
+          "sector": "Manufacturing",
+          "subsector": "Heavy Engineering",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BEML?",
+          "options": [
+            "Bharat Equipment Manufacturing Limited",
+            "Bharat Earth Movers Limited",
+            "Bharat Earth Machinery Limited",
+            "Bharat Engineering and Mining League"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-manufacturing-002",
+          "abbreviation": "BHEL",
+          "fullForm": "Bharat Heavy Electricals Limited",
+          "sector": "Manufacturing",
+          "subsector": "Heavy Engineering",
+          "difficulty": "BASIC",
+          "source": "https://www.bhel.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BHEL?",
+          "options": [
+            "Bharat Hydraulic Engineering Limited",
+            "Bharat Heavy Electric Limited",
+            "Bharat Heavy Electricals Limited",
+            "Bharat Home Electronics Limited"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "General Studies",
+      "questions": [
+        {
+          "id": "ff-general-studies-001",
+          "abbreviation": "NDRF",
+          "fullForm": "National Disaster Response Force",
+          "sector": "General Studies",
+          "subsector": "Disaster Management",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NDRF?",
+          "options": [
+            "National Disaster Relief Federation",
+            "National Defence Rescue Force",
+            "National Disaster Response Force",
+            "National Disaster Rescue Front"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "International Defence Organisations",
+      "questions": [
+        {
+          "id": "ff-international-defence-organisations-001",
+          "abbreviation": "NATO",
+          "fullForm": "North Atlantic Treaty Organization",
+          "sector": "International Defence Organisations",
+          "subsector": "Military Alliance",
+          "difficulty": "BASIC",
+          "source": "https://www.nato.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NATO?",
+          "options": [
+            "North Atlantic Treaty Organization",
+            "North Atlantic Training Organisation",
+            "National Atlantic Treaty Office",
+            "Northern Alliance Treaty Organisation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "questions": [
+        {
+          "id": "ff-computer-science-001",
+          "abbreviation": "CPU",
+          "fullForm": "Central Processing Unit",
+          "sector": "Computer Science",
+          "subsector": "Hardware",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CPU?",
+          "options": [
+            "Core Processing Unit",
+            "Central Program Utility",
+            "Central Processing Unit",
+            "Computer Personal Unit"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-002",
+          "abbreviation": "GPU",
+          "fullForm": "Graphics Processing Unit",
+          "sector": "Computer Science",
+          "subsector": "Hardware",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GPU?",
+          "options": [
+            "Graphics Protocol Unit",
+            "General Processing Unit",
+            "Graphical Program Utility",
+            "Graphics Processing Unit"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-003",
+          "abbreviation": "RAM",
+          "fullForm": "Random Access Memory",
+          "sector": "Computer Science",
+          "subsector": "Memory",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RAM?",
+          "options": [
+            "Read Active Memory",
+            "Rapid Access Memory",
+            "Random Access Memory",
+            "Random Allocation Module"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-004",
+          "abbreviation": "ROM",
+          "fullForm": "Read-Only Memory",
+          "sector": "Computer Science",
+          "subsector": "Memory",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ROM?",
+          "options": [
+            "Read Output Module",
+            "Random Output Memory",
+            "Read-Only Memory",
+            "Real Operating Memory"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-005",
+          "abbreviation": "ASCII",
+          "fullForm": "American Standard Code for Information Interchange",
+          "sector": "Computer Science",
+          "subsector": "Character Encoding",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ASCII?",
+          "options": [
+            "Automated Standard Character Input Interface",
+            "Advanced Standard Code for Internal Information",
+            "American System for Coding Internet Information",
+            "American Standard Code for Information Interchange"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-006",
+          "abbreviation": "BIOS",
+          "fullForm": "Basic Input/Output System",
+          "sector": "Computer Science",
+          "subsector": "Operating Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BIOS?",
+          "options": [
+            "Boot Input/Output Service",
+            "Binary Input Operating System",
+            "Basic Internal Operating Software",
+            "Basic Input/Output System"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-007",
+          "abbreviation": "CLI",
+          "fullForm": "Command Line Interface",
+          "sector": "Computer Science",
+          "subsector": "User Interfaces",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CLI?",
+          "options": [
+            "Computer Logic Interface",
+            "Command Line Interface",
+            "Control Language Interpreter",
+            "Client Link Interface"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-008",
+          "abbreviation": "GUI",
+          "fullForm": "Graphical User Interface",
+          "sector": "Computer Science",
+          "subsector": "User Interfaces",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GUI?",
+          "options": [
+            "Graphics Utility Interface",
+            "General User Interface",
+            "Graphical Universal Interface",
+            "Graphical User Interface"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-009",
+          "abbreviation": "IDE",
+          "fullForm": "Integrated Development Environment",
+          "sector": "Computer Science",
+          "subsector": "Software Development",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IDE?",
+          "options": [
+            "Internal Development Editor",
+            "Interactive Design Engine",
+            "Integrated Debug Environment",
+            "Integrated Development Environment"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-010",
+          "abbreviation": "SDK",
+          "fullForm": "Software Development Kit",
+          "sector": "Computer Science",
+          "subsector": "Software Development",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SDK?",
+          "options": [
+            "Standard Development Kernel",
+            "System Design Kernel",
+            "Software Deployment Kit",
+            "Software Development Kit"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-011",
+          "abbreviation": "API",
+          "fullForm": "Application Programming Interface",
+          "sector": "Computer Science",
+          "subsector": "Software Development",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of API?",
+          "options": [
+            "Application Process Integration",
+            "Automated Processing Interface",
+            "Application Programming Interface",
+            "Applied Programming Instruction"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-012",
+          "abbreviation": "REST",
+          "fullForm": "Representational State Transfer",
+          "sector": "Computer Science",
+          "subsector": "Web Services",
+          "difficulty": "ADVANCED",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of REST?",
+          "options": [
+            "Remote Execution Service Transfer",
+            "Representational State Transfer",
+            "Resource Execution State Transaction",
+            "Reliable Service Transfer"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-013",
+          "abbreviation": "JSON",
+          "fullForm": "JavaScript Object Notation",
+          "sector": "Computer Science",
+          "subsector": "Data Formats",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of JSON?",
+          "options": [
+            "JavaScript Object Notation",
+            "Java Serialized Object Network",
+            "JavaScript Object Network",
+            "Java Standard Object Notation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-014",
+          "abbreviation": "XML",
+          "fullForm": "Extensible Markup Language",
+          "sector": "Computer Science",
+          "subsector": "Data Formats",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of XML?",
+          "options": [
+            "Extended Machine Language",
+            "External Markup Language",
+            "Extensible Markup Language",
+            "Executable Markup Language"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-015",
+          "abbreviation": "OOP",
+          "fullForm": "Object-Oriented Programming",
+          "sector": "Computer Science",
+          "subsector": "Programming",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of OOP?",
+          "options": [
+            "Ordered Output Processing",
+            "Object Operation Protocol",
+            "Object-Oriented Programming",
+            "Object-Oriented Process"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-016",
+          "abbreviation": "JVM",
+          "fullForm": "Java Virtual Machine",
+          "sector": "Computer Science",
+          "subsector": "Programming Platforms",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of JVM?",
+          "options": [
+            "Java Visual Module",
+            "Java Variable Manager",
+            "Java Virtual Machine",
+            "Joint Virtual Machine"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-017",
+          "abbreviation": "JDK",
+          "fullForm": "Java Development Kit",
+          "sector": "Computer Science",
+          "subsector": "Programming Platforms",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of JDK?",
+          "options": [
+            "Java Deployment Kernel",
+            "Java Debug Kit",
+            "Java Development Kit",
+            "Java Design Kit"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-018",
+          "abbreviation": "HTML",
+          "fullForm": "HyperText Markup Language",
+          "sector": "Computer Science",
+          "subsector": "Web Technology",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of HTML?",
+          "options": [
+            "Hypertext Transfer Language",
+            "HyperText Markup Language",
+            "High-Level Text Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-019",
+          "abbreviation": "CSS",
+          "fullForm": "Cascading Style Sheets",
+          "sector": "Computer Science",
+          "subsector": "Web Technology",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CSS?",
+          "options": [
+            "Computer Style System",
+            "Cascading Style Sheets",
+            "Coded Style Sheets",
+            "Creative Style Syntax"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-computer-science-020",
+          "abbreviation": "DOM",
+          "fullForm": "Document Object Model",
+          "sector": "Computer Science",
+          "subsector": "Web Technology",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DOM?",
+          "options": [
+            "Digital Object Management",
+            "Document Object Model",
+            "Document Oriented Module",
+            "Dynamic Object Map"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "questions": [
+        {
+          "id": "ff-networking-001",
+          "abbreviation": "TCP",
+          "fullForm": "Transmission Control Protocol",
+          "sector": "Networking",
+          "subsector": "Internet Protocols",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of TCP?",
+          "options": [
+            "Transfer Communication Process",
+            "Transmission Control Protocol",
+            "Technical Control Protocol",
+            "Transmission Connection Program"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-002",
+          "abbreviation": "IP",
+          "fullForm": "Internet Protocol",
+          "sector": "Networking",
+          "subsector": "Internet Protocols",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IP?",
+          "options": [
+            "Information Packet",
+            "Internal Process",
+            "Internet Protocol",
+            "Integrated Protocol"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-003",
+          "abbreviation": "HTTP",
+          "fullForm": "Hypertext Transfer Protocol",
+          "sector": "Networking",
+          "subsector": "Web Protocols",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of HTTP?",
+          "options": [
+            "Hyperlink Transport Program",
+            "Hypertext Transmission Process",
+            "High Transfer Text Protocol",
+            "Hypertext Transfer Protocol"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-004",
+          "abbreviation": "HTTPS",
+          "fullForm": "Hypertext Transfer Protocol Secure",
+          "sector": "Networking",
+          "subsector": "Web Security",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of HTTPS?",
+          "options": [
+            "Hypertext Transmission Security",
+            "Hypertext Transfer Protocol System",
+            "Hypertext Transfer Protocol Secure",
+            "High Transfer Protocol Secure"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-005",
+          "abbreviation": "DNS",
+          "fullForm": "Domain Name System",
+          "sector": "Networking",
+          "subsector": "Internet Services",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DNS?",
+          "options": [
+            "Domain Network System",
+            "Digital Network Server",
+            "Domain Name System",
+            "Data Name Service"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-006",
+          "abbreviation": "FTP",
+          "fullForm": "File Transfer Protocol",
+          "sector": "Networking",
+          "subsector": "Internet Services",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FTP?",
+          "options": [
+            "File Transfer Protocol",
+            "Fast Transfer Process",
+            "File Transmission Program",
+            "Federal Transfer Protocol"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-007",
+          "abbreviation": "UDP",
+          "fullForm": "User Datagram Protocol",
+          "sector": "Networking",
+          "subsector": "Transport Protocols",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UDP?",
+          "options": [
+            "Universal Datagram Protocol",
+            "Uniform Data Process",
+            "User Delivery Protocol",
+            "User Datagram Protocol"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-008",
+          "abbreviation": "SMTP",
+          "fullForm": "Simple Mail Transfer Protocol",
+          "sector": "Networking",
+          "subsector": "Email Protocol",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SMTP?",
+          "options": [
+            "Simple Mail Transfer Protocol",
+            "Secure Mail Transmission Process",
+            "Simple Message Transfer Protocol",
+            "Standard Mail Transfer Program"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-009",
+          "abbreviation": "URL",
+          "fullForm": "Uniform Resource Locator",
+          "sector": "Networking",
+          "subsector": "Web Addressing",
+          "difficulty": "BASIC",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of URL?",
+          "options": [
+            "Universal Resource Link",
+            "Uniform Resource Locator",
+            "Uniform Routing Locator",
+            "Universal Record Locator"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-010",
+          "abbreviation": "LAN",
+          "fullForm": "Local Area Network",
+          "sector": "Networking",
+          "subsector": "Network Types",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of LAN?",
+          "options": [
+            "Linked Access Network",
+            "Large Area Network",
+            "Local Area Network",
+            "Local Access Node"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-011",
+          "abbreviation": "WAN",
+          "fullForm": "Wide Area Network",
+          "sector": "Networking",
+          "subsector": "Network Types",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of WAN?",
+          "options": [
+            "Wide Area Network",
+            "Wireless Access Network",
+            "World Area Network",
+            "Wide Access Node"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-012",
+          "abbreviation": "MAC",
+          "fullForm": "Media Access Control",
+          "sector": "Networking",
+          "subsector": "Data Link",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://standards.ieee.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of MAC?",
+          "options": [
+            "Machine Address Code",
+            "Media Access Control",
+            "Multiple Access Channel",
+            "Media Address Controller"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-networking-013",
+          "abbreviation": "NAT",
+          "fullForm": "Network Address Translation",
+          "sector": "Networking",
+          "subsector": "IP Addressing",
+          "difficulty": "ADVANCED",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NAT?",
+          "options": [
+            "Network Allocation Table",
+            "Network Address Translation",
+            "Network Access Terminal",
+            "Node Address Transfer"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "questions": [
+        {
+          "id": "ff-cybersecurity-001",
+          "abbreviation": "VPN",
+          "fullForm": "Virtual Private Network",
+          "sector": "Cybersecurity",
+          "subsector": "Network Security",
+          "difficulty": "BASIC",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of VPN?",
+          "options": [
+            "Virtual Protected Node",
+            "Virtual Private Network",
+            "Verified Private Network",
+            "Virtual Public Network"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-002",
+          "abbreviation": "RSA",
+          "fullForm": "Rivest-Shamir-Adleman",
+          "sector": "Cybersecurity",
+          "subsector": "Cryptography",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RSA?",
+          "options": [
+            "Remote Signature Algorithm",
+            "Random Secure Algorithm",
+            "Rivest-Secure Authentication",
+            "Rivest-Shamir-Adleman"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-003",
+          "abbreviation": "AES",
+          "fullForm": "Advanced Encryption Standard",
+          "sector": "Cybersecurity",
+          "subsector": "Cryptography",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AES?",
+          "options": [
+            "Automatic Encryption System",
+            "Advanced Encryption Standard",
+            "Advanced Electronic Security",
+            "Application Encryption Standard"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-004",
+          "abbreviation": "SSL",
+          "fullForm": "Secure Sockets Layer",
+          "sector": "Cybersecurity",
+          "subsector": "Network Security",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SSL?",
+          "options": [
+            "Secure Socket Link",
+            "Secure Service Link",
+            "System Security Layer",
+            "Secure Sockets Layer"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-005",
+          "abbreviation": "TLS",
+          "fullForm": "Transport Layer Security",
+          "sector": "Cybersecurity",
+          "subsector": "Network Security",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of TLS?",
+          "options": [
+            "Transport Layer Security",
+            "Transmission Link Service",
+            "Transport Login Security",
+            "Trusted Layer System"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-006",
+          "abbreviation": "DDoS",
+          "fullForm": "Distributed Denial of Service",
+          "sector": "Cybersecurity",
+          "subsector": "Cyber Attacks",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DDoS?",
+          "options": [
+            "Direct Denial of System",
+            "Distributed Denial of Service",
+            "Dynamic Denial of Service",
+            "Distributed Data Overflow Security"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-007",
+          "abbreviation": "XSS",
+          "fullForm": "Cross-Site Scripting",
+          "sector": "Cybersecurity",
+          "subsector": "Web Security",
+          "difficulty": "ADVANCED",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of XSS?",
+          "options": [
+            "Cross-Site Scripting",
+            "Cross-System Security",
+            "External Server Script",
+            "XML Site Security"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cybersecurity-008",
+          "abbreviation": "GDPR",
+          "fullForm": "General Data Protection Regulation",
+          "sector": "Cybersecurity",
+          "subsector": "Data Privacy",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GDPR?",
+          "options": [
+            "Global Data Privacy Regulation",
+            "General Data Protection Regulation",
+            "General Digital Protection Rules",
+            "Government Data Protection Rights"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "questions": [
+        {
+          "id": "ff-artificial-intelligence-001",
+          "abbreviation": "AI",
+          "fullForm": "Artificial Intelligence",
+          "sector": "Artificial Intelligence",
+          "subsector": "AI Fundamentals",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AI?",
+          "options": [
+            "Artificial Intelligence",
+            "Automated Interface",
+            "Advanced Information",
+            "Analytical Integration"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-artificial-intelligence-002",
+          "abbreviation": "ML",
+          "fullForm": "Machine Learning",
+          "sector": "Artificial Intelligence",
+          "subsector": "Machine Learning",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ML?",
+          "options": [
+            "Mathematical Logic",
+            "Machine Learning",
+            "Model Language",
+            "Managed Learning"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-artificial-intelligence-003",
+          "abbreviation": "NLP",
+          "fullForm": "Natural Language Processing",
+          "sector": "Artificial Intelligence",
+          "subsector": "Language Technology",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NLP?",
+          "options": [
+            "Network Language Protocol",
+            "Natural Language Processing",
+            "Natural Logic Processing",
+            "Neural Learning Program"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-artificial-intelligence-004",
+          "abbreviation": "CNN",
+          "fullForm": "Convolutional Neural Network",
+          "sector": "Artificial Intelligence",
+          "subsector": "Deep Learning",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CNN?",
+          "options": [
+            "Convolutional Network Node",
+            "Connected Neural Network",
+            "Circular Neural Node",
+            "Convolutional Neural Network"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-artificial-intelligence-005",
+          "abbreviation": "RNN",
+          "fullForm": "Recurrent Neural Network",
+          "sector": "Artificial Intelligence",
+          "subsector": "Deep Learning",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RNN?",
+          "options": [
+            "Regular Neural Network",
+            "Recursive Neural Node",
+            "Recurrent Neural Network",
+            "Random Neural Network"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-artificial-intelligence-006",
+          "abbreviation": "LLM",
+          "fullForm": "Large Language Model",
+          "sector": "Artificial Intelligence",
+          "subsector": "Generative AI",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of LLM?",
+          "options": [
+            "Large Language Model",
+            "Linear Language Module",
+            "Learning Language Machine",
+            "Logical Language Method"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "questions": [
+        {
+          "id": "ff-cloud-computing-001",
+          "abbreviation": "IaaS",
+          "fullForm": "Infrastructure as a Service",
+          "sector": "Cloud Computing",
+          "subsector": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IaaS?",
+          "options": [
+            "Infrastructure as a Service",
+            "Internet as a Service",
+            "Information as a Service",
+            "Infrastructure and Software"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cloud-computing-002",
+          "abbreviation": "PaaS",
+          "fullForm": "Platform as a Service",
+          "sector": "Cloud Computing",
+          "subsector": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PaaS?",
+          "options": [
+            "Process as a Service",
+            "Platform as a Service",
+            "Platform and Security",
+            "Public Application Service"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cloud-computing-003",
+          "abbreviation": "SaaS",
+          "fullForm": "Software as a Service",
+          "sector": "Cloud Computing",
+          "subsector": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SaaS?",
+          "options": [
+            "Software as a Service",
+            "System as a Service",
+            "Storage as a Service",
+            "Software and Storage"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-cloud-computing-004",
+          "abbreviation": "K8s",
+          "fullForm": "Kubernetes",
+          "sector": "Cloud Computing",
+          "subsector": "Containers",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of K8s?",
+          "options": [
+            "KiloBytes",
+            "Kubernetes",
+            "Kernel System",
+            "Key Storage"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Software and Cloud",
+      "questions": [
+        {
+          "id": "ff-software-and-cloud-001",
+          "abbreviation": "CI/CD",
+          "fullForm": "Continuous Integration/Continuous Deployment",
+          "sector": "Software and Cloud",
+          "subsector": "DevOps",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CI/CD?",
+          "options": [
+            "Central Integration/Central Deployment",
+            "Code Inspection/Code Delivery",
+            "Continuous Improvement/Continuous Development",
+            "Continuous Integration/Continuous Deployment"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "questions": [
+        {
+          "id": "ff-databases-001",
+          "abbreviation": "DBMS",
+          "fullForm": "Database Management System",
+          "sector": "Databases",
+          "subsector": "Database Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DBMS?",
+          "options": [
+            "Database Model Software",
+            "Data Backup Management Service",
+            "Database Management System",
+            "Digital Base Management System"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-databases-002",
+          "abbreviation": "SQL",
+          "fullForm": "Structured Query Language",
+          "sector": "Databases",
+          "subsector": "Database Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SQL?",
+          "options": [
+            "Structured Query Language",
+            "Sequential Query Logic",
+            "Standard Question Language",
+            "System Query Listing"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-databases-003",
+          "abbreviation": "RDBMS",
+          "fullForm": "Relational Database Management System",
+          "sector": "Databases",
+          "subsector": "Database Systems",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RDBMS?",
+          "options": [
+            "Resource Database Management Service",
+            "Remote Database Management System",
+            "Relational Data Backup Module",
+            "Relational Database Management System"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-databases-004",
+          "abbreviation": "NoSQL",
+          "fullForm": "Not Only SQL",
+          "sector": "Databases",
+          "subsector": "Database Systems",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NoSQL?",
+          "options": [
+            "Non-SQL",
+            "No Structured Query Language",
+            "Not Only SQL",
+            "Non Relational SQL"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "id": "ff-operating-systems-001",
+          "abbreviation": "OS",
+          "fullForm": "Operating System",
+          "sector": "Operating Systems",
+          "subsector": "System Software",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of OS?",
+          "options": [
+            "Open Source",
+            "Office Software",
+            "Output System",
+            "Operating System"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Polity",
+      "questions": [
+        {
+          "id": "ff-indian-polity-001",
+          "abbreviation": "RTE",
+          "fullForm": "Right to Education",
+          "sector": "Indian Polity",
+          "subsector": "Fundamental Rights",
+          "difficulty": "BASIC",
+          "source": "https://legislative.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RTE?",
+          "options": [
+            "Right to Education",
+            "Right to Employment",
+            "Right to Equality",
+            "Right to Environment"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-polity-002",
+          "abbreviation": "RTI",
+          "fullForm": "Right to Information",
+          "sector": "Indian Polity",
+          "subsector": "Transparency",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RTI?",
+          "options": [
+            "Right to Investigation",
+            "Right to Identity",
+            "Right to Information",
+            "Right to Inclusion"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-polity-003",
+          "abbreviation": "CJI",
+          "fullForm": "Chief Justice of India",
+          "sector": "Indian Polity",
+          "subsector": "Judiciary",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CJI?",
+          "options": [
+            "Chief Judicial Inspector",
+            "Chief Justice of India",
+            "Chief Judge of India",
+            "Central Justice of India"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-polity-004",
+          "abbreviation": "PM",
+          "fullForm": "Prime Minister",
+          "sector": "Indian Polity",
+          "subsector": "Executive",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PM?",
+          "options": [
+            "Parliamentary Member",
+            "President of Ministers",
+            "Prime Minister",
+            "Principal Minister"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-polity-005",
+          "abbreviation": "CM",
+          "fullForm": "Chief Minister",
+          "sector": "Indian Polity",
+          "subsector": "State Government",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CM?",
+          "options": [
+            "Central Minister",
+            "Chief Minister",
+            "Cabinet Member",
+            "Chief Magistrate"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Government",
+      "questions": [
+        {
+          "id": "ff-indian-government-001",
+          "abbreviation": "NITI",
+          "fullForm": "National Institution for Transforming India",
+          "sector": "Indian Government",
+          "subsector": "Policy and Planning",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NITI?",
+          "options": [
+            "National Initiative for Industrial Transformation",
+            "National Institution for Transforming India",
+            "National Institute for Technical India",
+            "New India Transformation Initiative"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-002",
+          "abbreviation": "PAN",
+          "fullForm": "Permanent Account Number",
+          "sector": "Indian Government",
+          "subsector": "Taxation",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PAN?",
+          "options": [
+            "Permanent Account Number",
+            "Public Account Number",
+            "Personal Account Network",
+            "Permanent Assessment Number"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-003",
+          "abbreviation": "EPFO",
+          "fullForm": "Employees' Provident Fund Organisation",
+          "sector": "Indian Government",
+          "subsector": "Social Security",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of EPFO?",
+          "options": [
+            "Employment Provident Fund Organisation",
+            "Employee Pension Fund Office",
+            "Employees' Provident Finance Office",
+            "Employees' Provident Fund Organisation"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-004",
+          "abbreviation": "PMJDY",
+          "fullForm": "Pradhan Mantri Jan Dhan Yojana",
+          "sector": "Indian Government",
+          "subsector": "Financial Inclusion",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PMJDY?",
+          "options": [
+            "Pradhan Mantri Jandhan Deposit Yojana",
+            "Prime Minister Jan Dhan Yojna",
+            "Pradhan Mantri Jan Dhan Yojana",
+            "Public Money Jan Dhan Yojana"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-005",
+          "abbreviation": "MGNREGA",
+          "fullForm": "Mahatma Gandhi National Rural Employment Guarantee Act",
+          "sector": "Indian Government",
+          "subsector": "Social Security",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of MGNREGA?",
+          "options": [
+            "Mahatma Gandhi National Rural Education Guarantee Act",
+            "Mahatma Gandhi National Rural Employment Generation Act",
+            "Mahatma Gandhi National Relief Employment Guarantee Agency",
+            "Mahatma Gandhi National Rural Employment Guarantee Act"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-006",
+          "abbreviation": "PM-KISAN",
+          "fullForm": "Pradhan Mantri Kisan Samman Nidhi",
+          "sector": "Indian Government",
+          "subsector": "Agriculture",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PM-KISAN?",
+          "options": [
+            "Prime Minister Kisan Suraksha Nidhi",
+            "Pradhan Mantri Kisan Samman Nidhi",
+            "Pradhan Mantri Krishi Samriddhi Nidhi",
+            "Pradhan Mantri Kisan Sahayata Nidhi"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-007",
+          "abbreviation": "Ujjwala",
+          "fullForm": "Pradhan Mantri Ujjwala Yojana",
+          "sector": "Indian Government",
+          "subsector": "Clean Cooking",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of Ujjwala?",
+          "options": [
+            "Universal Ujjwala Joint Yojana",
+            "Ujjwala Kisan Yojana",
+            "Pradhan Mantri Ujjwala Yojana",
+            "Urban LPG Yojana"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-008",
+          "abbreviation": "NSAP",
+          "fullForm": "National Social Assistance Programme",
+          "sector": "Indian Government",
+          "subsector": "Social Security",
+          "difficulty": "ADVANCED",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NSAP?",
+          "options": [
+            "National Social Assistance Policy",
+            "National Social Aid Programme",
+            "National Social Assistance Programme",
+            "National Senior Assistance Programme"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-government-009",
+          "abbreviation": "AMRUT",
+          "fullForm": "Atal Mission for Rejuvenation and Urban Transformation",
+          "sector": "Indian Government",
+          "subsector": "Urban Development",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AMRUT?",
+          "options": [
+            "Atal Mission for Rural and Urban Transport",
+            "Atal Municipal Urban Renewal and Transport",
+            "Advanced Mission for Urban Renewal",
+            "Atal Mission for Rejuvenation and Urban Transformation"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Constitutional Bodies",
+      "questions": [
+        {
+          "id": "ff-indian-constitutional-bodies-001",
+          "abbreviation": "CAG",
+          "fullForm": "Controller and Auditor General",
+          "sector": "Indian Constitutional Bodies",
+          "subsector": "Audit",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CAG?",
+          "options": [
+            "Comptroller and Auditor General of India",
+            "Controller and Auditor General",
+            "Chief Accounts and Grants",
+            "Central Auditor General"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-constitutional-bodies-002",
+          "abbreviation": "CEC",
+          "fullForm": "Chief Election Commissioner",
+          "sector": "Indian Constitutional Bodies",
+          "subsector": "Election Commission",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CEC?",
+          "options": [
+            "Central Election Chief",
+            "Chief Electoral Controller",
+            "Chief Election Commissioner",
+            "Chief Election Coordinator"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-constitutional-bodies-003",
+          "abbreviation": "UPSC",
+          "fullForm": "Union Public Service Commission",
+          "sector": "Indian Constitutional Bodies",
+          "subsector": "Recruitment",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UPSC?",
+          "options": [
+            "Union Public Service Commission",
+            "Union Public Selection Council",
+            "United Public Service Commission",
+            "Union Personnel Selection Commission"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-constitutional-bodies-004",
+          "abbreviation": "NHRC",
+          "fullForm": "National Human Rights Commission",
+          "sector": "Indian Constitutional Bodies",
+          "subsector": "Human Rights",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NHRC?",
+          "options": [
+            "National Human Relations Council",
+            "National Health Reform Commission",
+            "National Human Rights Commission",
+            "National Human Rights Council"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "questions": [
+        {
+          "id": "ff-education-001",
+          "abbreviation": "NCERT",
+          "fullForm": "National Council of Educational Research and Training",
+          "sector": "Education",
+          "subsector": "Indian Institutions",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NCERT?",
+          "options": [
+            "National Commission for Educational Research",
+            "National Centre for Engineering Research and Teaching",
+            "National Council for Exam and Results Training",
+            "National Council of Educational Research and Training"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-education-002",
+          "abbreviation": "UGC",
+          "fullForm": "University Grants Commission",
+          "sector": "Education",
+          "subsector": "Indian Institutions",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UGC?",
+          "options": [
+            "Union Grants Council",
+            "University Grants Commission",
+            "Universities Grant Committee",
+            "United Graduate Commission"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-education-003",
+          "abbreviation": "AICTE",
+          "fullForm": "All India Council for Technical Education",
+          "sector": "Education",
+          "subsector": "Technical Education",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AICTE?",
+          "options": [
+            "All India Commission for Teacher Education",
+            "All Indian Council of Technical Exams",
+            "All India Council for Technical Education",
+            "Advanced Institute Council for Technology Education"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-education-004",
+          "abbreviation": "CBSE",
+          "fullForm": "Central Board of Secondary Education",
+          "sector": "Education",
+          "subsector": "School Education",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of CBSE?",
+          "options": [
+            "Central Bureau for Secondary Examinations",
+            "Central Council for Senior Education",
+            "Central Board of School Exams",
+            "Central Board of Secondary Education"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-education-005",
+          "abbreviation": "IIT",
+          "fullForm": "Indian Institute of Technology",
+          "sector": "Education",
+          "subsector": "Indian Institutions",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IIT?",
+          "options": [
+            "Indian Institute of Technical Training",
+            "International Institute of Technology",
+            "Indian Institute of Trade",
+            "Indian Institute of Technology"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-education-006",
+          "abbreviation": "IIM",
+          "fullForm": "Indian Institute of Management",
+          "sector": "Education",
+          "subsector": "Indian Institutions",
+          "difficulty": "BASIC",
+          "source": "https://www.education.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IIM?",
+          "options": [
+            "Indian Institute of Mathematics",
+            "Indian Institute of Manufacturing",
+            "International Institute of Management",
+            "Indian Institute of Management"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Banking",
+      "questions": [
+        {
+          "id": "ff-banking-001",
+          "abbreviation": "RBI",
+          "fullForm": "Reserve Bank of India",
+          "sector": "Banking",
+          "subsector": "Indian Financial Institutions",
+          "difficulty": "BASIC",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RBI?",
+          "options": [
+            "Reserve Board of India",
+            "Regional Bank of India",
+            "Revenue Bank of India",
+            "Reserve Bank of India"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-banking-002",
+          "abbreviation": "NABARD",
+          "fullForm": "National Bank for Agriculture and Rural Development",
+          "sector": "Banking",
+          "subsector": "Development Banking",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NABARD?",
+          "options": [
+            "National Agricultural and Banking Rural Department",
+            "National Bank for Agriculture and Rural Development",
+            "National Board for Agricultural and Rural Development",
+            "National Bank for Rural Banking"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-banking-003",
+          "abbreviation": "SIDBI",
+          "fullForm": "Small Industries Development Bank of India",
+          "sector": "Banking",
+          "subsector": "Development Banking",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SIDBI?",
+          "options": [
+            "Small Industrial Development Board of India",
+            "Small Industries Development Bank of India",
+            "State Industries Development Bank of India",
+            "Small Industries Department Bank"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-banking-004",
+          "abbreviation": "EXIM Bank",
+          "fullForm": "Export-Import Bank of India",
+          "sector": "Banking",
+          "subsector": "Trade Finance",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of EXIM Bank?",
+          "options": [
+            "Export-Import Bank of India",
+            "External Investment Bank",
+            "Export Insurance Bank",
+            "Exchange and International Market Bank"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-banking-005",
+          "abbreviation": "ATM",
+          "fullForm": "Automated Teller Machine",
+          "sector": "Banking",
+          "subsector": "Banking Technology",
+          "difficulty": "BASIC",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ATM?",
+          "options": [
+            "Automatic Transaction Machine",
+            "Automated Teller Machine",
+            "Automated Transfer Module",
+            "Any-Time Money"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-banking-006",
+          "abbreviation": "KYC",
+          "fullForm": "Know Your Customer",
+          "sector": "Banking",
+          "subsector": "Compliance",
+          "difficulty": "BASIC",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of KYC?",
+          "options": [
+            "Keep Your Credit",
+            "Know Your Customer",
+            "Know Your Card",
+            "Know Your Company"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Organisations",
+      "questions": [
+        {
+          "id": "ff-indian-organisations-001",
+          "abbreviation": "SEBI",
+          "fullForm": "Securities and Exchange Board of India",
+          "sector": "Indian Organisations",
+          "subsector": "Financial Regulators",
+          "difficulty": "BASIC",
+          "source": "https://www.sebi.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SEBI?",
+          "options": [
+            "Securities and Economic Banking Institution",
+            "Securities and Exchange Board of India",
+            "State Exchange Board of India",
+            "Securities and Equity Bureau of India"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-002",
+          "abbreviation": "FSSAI",
+          "fullForm": "Food Safety and Standards Authority of India",
+          "sector": "Indian Organisations",
+          "subsector": "Food Regulation",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FSSAI?",
+          "options": [
+            "Federal Standards Authority for Safe Imports",
+            "Food Safety Standards Agency of India",
+            "Food Safety and Standards Authority of India",
+            "Food Security and Safety Authority"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-003",
+          "abbreviation": "NHAI",
+          "fullForm": "National Highways Authority of India",
+          "sector": "Indian Organisations",
+          "subsector": "Infrastructure",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NHAI?",
+          "options": [
+            "National Highways Association of India",
+            "National Highway Administrative Institute",
+            "National Highways Authority of India",
+            "National Housing Authority of India"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-004",
+          "abbreviation": "NCC",
+          "fullForm": "National Cadet Corps",
+          "sector": "Indian Organisations",
+          "subsector": "Youth and Defence",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NCC?",
+          "options": [
+            "National Cadre Corps",
+            "National Civil Cadets",
+            "National Cadet Corps",
+            "National Cadet Council"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-005",
+          "abbreviation": "NSS",
+          "fullForm": "National Service Scheme",
+          "sector": "Indian Organisations",
+          "subsector": "Youth and Volunteering",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NSS?",
+          "options": [
+            "National Student Service",
+            "National Service Scheme",
+            "National Social Service",
+            "National Security Scheme"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-006",
+          "abbreviation": "BIS",
+          "fullForm": "Bureau of Indian Standards",
+          "sector": "Indian Organisations",
+          "subsector": "Standards",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BIS?",
+          "options": [
+            "Bureau of Indian Standards",
+            "Board of Industrial Standards",
+            "Bureau of International Standards",
+            "Bharat Indian Standards"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-007",
+          "abbreviation": "FICCI",
+          "fullForm": "Federation of Indian Chambers of Commerce and Industry",
+          "sector": "Indian Organisations",
+          "subsector": "Industry Associations",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FICCI?",
+          "options": [
+            "Federation of Indian Chambers of Commerce and Industry",
+            "Federation of International Chambers of Commerce",
+            "Federation of Indian Commerce Councils",
+            "Federation of Indian Companies and Corporations"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-organisations-008",
+          "abbreviation": "ASSOCHAM",
+          "fullForm": "Associated Chambers of Commerce and Industry of India",
+          "sector": "Indian Organisations",
+          "subsector": "Industry Associations",
+          "difficulty": "ADVANCED",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ASSOCHAM?",
+          "options": [
+            "Associated Commercial Chambers of India",
+            "Association of Chambers of Commerce in India",
+            "Associated Chambers of Commerce and Industry of India",
+            "Association of Indian Chambers and Markets"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Digital Payments",
+      "questions": [
+        {
+          "id": "ff-digital-payments-001",
+          "abbreviation": "NPCI",
+          "fullForm": "National Payments Corporation of India",
+          "sector": "Digital Payments",
+          "subsector": "Payment Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.npci.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NPCI?",
+          "options": [
+            "National Payments Corporation of India",
+            "National Payment Clearing Institute",
+            "National Processing Corporation of India",
+            "Network Payments Council of India"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-digital-payments-002",
+          "abbreviation": "UPI",
+          "fullForm": "Unified Payments Interface",
+          "sector": "Digital Payments",
+          "subsector": "Payment Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.npci.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UPI?",
+          "options": [
+            "Universal Payments Interface",
+            "Universal Payment Identity",
+            "Unified Payment Integration",
+            "Unified Payments Interface"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-digital-payments-003",
+          "abbreviation": "IMPS",
+          "fullForm": "Immediate Payment Service",
+          "sector": "Digital Payments",
+          "subsector": "Payment Systems",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.npci.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IMPS?",
+          "options": [
+            "Integrated Mobile Payment Service",
+            "Immediate Money Processing System",
+            "Immediate Payment Service",
+            "International Mobile Payment Service"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-digital-payments-004",
+          "abbreviation": "NEFT",
+          "fullForm": "National Electronic Funds Transfer",
+          "sector": "Digital Payments",
+          "subsector": "Payment Systems",
+          "difficulty": "BASIC",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NEFT?",
+          "options": [
+            "National Electronic Funds Transfer",
+            "National Electronic Financial Transaction",
+            "Network Electronic Funds Transfer",
+            "National Exchange Funds Transaction"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-digital-payments-005",
+          "abbreviation": "RTGS",
+          "fullForm": "Real Time Gross Settlement",
+          "sector": "Digital Payments",
+          "subsector": "Payment Systems",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.rbi.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of RTGS?",
+          "options": [
+            "Real Time Gross Settlement",
+            "Rapid Transfer Gross Settlement",
+            "Real Transfer General System",
+            "Real Time Government Settlement"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Indian Economy",
+      "questions": [
+        {
+          "id": "ff-indian-economy-001",
+          "abbreviation": "GST",
+          "fullForm": "Goods and Services Tax",
+          "sector": "Indian Economy",
+          "subsector": "Taxation",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GST?",
+          "options": [
+            "General Sales Tax",
+            "Goods and Services Tax",
+            "Government Services Tax",
+            "Goods Sales Transaction"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-economy-002",
+          "abbreviation": "GSTIN",
+          "fullForm": "Goods and Services Tax Identification Number",
+          "sector": "Indian Economy",
+          "subsector": "Taxation",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GSTIN?",
+          "options": [
+            "Government Service Tax Invoice Number",
+            "Goods and Service Income Number",
+            "General Sales Tax Identification Number",
+            "Goods and Services Tax Identification Number"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-economy-003",
+          "abbreviation": "GDP",
+          "fullForm": "Gross Domestic Product",
+          "sector": "Indian Economy",
+          "subsector": "Economic Indicators",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GDP?",
+          "options": [
+            "General Domestic Production",
+            "Gross Domestic Product",
+            "Gross Development Product",
+            "Government Domestic Price"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-economy-004",
+          "abbreviation": "GNP",
+          "fullForm": "Gross National Product",
+          "sector": "Indian Economy",
+          "subsector": "Economic Indicators",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of GNP?",
+          "options": [
+            "General National Production",
+            "Gross National Product",
+            "Gross National Profit",
+            "Government National Product"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-indian-economy-005",
+          "abbreviation": "MSME",
+          "fullForm": "Micro, Small and Medium Enterprises",
+          "sector": "Indian Economy",
+          "subsector": "Industry",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of MSME?",
+          "options": [
+            "Micro, Small and Medium Enterprises",
+            "Medium and Small Manufacturing Enterprises",
+            "Micro, State and Municipal Enterprises",
+            "Manufacturing and Small Medium Enterprise"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "questions": [
+        {
+          "id": "ff-finance-001",
+          "abbreviation": "NPS",
+          "fullForm": "National Pension System",
+          "sector": "Finance",
+          "subsector": "Pension",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NPS?",
+          "options": [
+            "National Provident Savings",
+            "National Pension System",
+            "National Pension Scheme",
+            "New Pension Service"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "ff-economy-001",
+          "abbreviation": "FDI",
+          "fullForm": "Foreign Direct Investment",
+          "sector": "Economy",
+          "subsector": "Investment",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FDI?",
+          "options": [
+            "Foreign Development Income",
+            "Foreign Domestic Investment",
+            "Federal Direct Investment",
+            "Foreign Direct Investment"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-economy-002",
+          "abbreviation": "FPI",
+          "fullForm": "Foreign Portfolio Investment",
+          "sector": "Economy",
+          "subsector": "Investment",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FPI?",
+          "options": [
+            "Federal Portfolio Index",
+            "Foreign Public Investment",
+            "Foreign Portfolio Investment",
+            "Foreign Private Investment"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Telecommunications",
+      "questions": [
+        {
+          "id": "ff-telecommunications-001",
+          "abbreviation": "TRAI",
+          "fullForm": "Telecom Regulatory Authority of India",
+          "sector": "Telecommunications",
+          "subsector": "Regulation",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of TRAI?",
+          "options": [
+            "Telecommunication Research Authority of India",
+            "Telecom Regulatory Authority of India",
+            "Telecom Regulatory Agency",
+            "Telecom Rates Authority of India"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-telecommunications-002",
+          "abbreviation": "BSNL",
+          "fullForm": "Bharat Sanchar Nigam Limited",
+          "sector": "Telecommunications",
+          "subsector": "Indian Telecom",
+          "difficulty": "BASIC",
+          "source": "https://bsnl.co.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BSNL?",
+          "options": [
+            "Bharat System Network Limited",
+            "Bharat Satellite Network Limited",
+            "Bharat Sanchar Nigam Limited",
+            "Bharat Telephone Nigam Limited"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-telecommunications-003",
+          "abbreviation": "MTNL",
+          "fullForm": "Mahanagar Telephone Nigam Limited",
+          "sector": "Telecommunications",
+          "subsector": "Indian Telecom",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://mtnl.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of MTNL?",
+          "options": [
+            "Mahanagar Telecom Network Limited",
+            "Metro Telephone Network Limited",
+            "Mahanagar Telephone Nigam Limited",
+            "Metropolitan Telephone Nigam League"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Transportation",
+      "questions": [
+        {
+          "id": "ff-transportation-001",
+          "abbreviation": "IRCTC",
+          "fullForm": "Indian Railway Catering and Tourism Corporation",
+          "sector": "Transportation",
+          "subsector": "Indian Railways",
+          "difficulty": "BASIC",
+          "source": "https://indianrail.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IRCTC?",
+          "options": [
+            "Indian Railway Catering and Tourism Corporation",
+            "Indian Railways Catering and Ticketing Corporation",
+            "Indian Rail Communication and Tourism Council",
+            "Indian Railway Central Tourism Corporation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-transportation-002",
+          "abbreviation": "DRM",
+          "fullForm": "Divisional Railway Manager",
+          "sector": "Transportation",
+          "subsector": "Indian Railways",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://indianrail.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DRM?",
+          "options": [
+            "Divisional Railway Manager",
+            "District Railway Maintenance",
+            "Divisional Railway Manager",
+            "Director Railway Ministry"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-transportation-003",
+          "abbreviation": "DGCA",
+          "fullForm": "Directorate General of Civil Aviation",
+          "sector": "Transportation",
+          "subsector": "Civil Aviation",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DGCA?",
+          "options": [
+            "Directorate General of Commercial Aircraft",
+            "Directorate General of Civil Aviation",
+            "Department of General Civil Aviation",
+            "Directorate for Civil Aeronautics"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-transportation-004",
+          "abbreviation": "AAI",
+          "fullForm": "Airports Authority of India",
+          "sector": "Transportation",
+          "subsector": "Civil Aviation",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of AAI?",
+          "options": [
+            "Airports Authority of India",
+            "Airport Authority of India",
+            "Aviation Administration of India",
+            "Airports Association of India"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-transportation-005",
+          "abbreviation": "NHAI",
+          "fullForm": "National Highways Authority of India",
+          "sector": "Transportation",
+          "subsector": "Road Infrastructure",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NHAI?",
+          "options": [
+            "National Housing Authority of India",
+            "National Highway Administration Institute",
+            "National Highways Authority of India",
+            "National Highways Association of India"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-transportation-006",
+          "abbreviation": "DMRC",
+          "fullForm": "Delhi Metro Rail Corporation",
+          "sector": "Transportation",
+          "subsector": "Urban Transit",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DMRC?",
+          "options": [
+            "Delhi Metro Rail Corporation",
+            "Delhi Mass Rapid Corporation",
+            "Delhi Metro Railway Council",
+            "Delhi Municipal Rail Corporation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "questions": [
+        {
+          "id": "ff-healthcare-001",
+          "abbreviation": "Ayushman Bharat PM-JAY",
+          "fullForm": "Pradhan Mantri Jan Arogya Yojana",
+          "sector": "Healthcare",
+          "subsector": "Health Insurance",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of Ayushman Bharat PM-JAY?",
+          "options": [
+            "Public Medical Jan Arogya Yojana",
+            "Pradhan Mantri Jan Arogya Yojana",
+            "Prime Minister Joint Health Account",
+            "Pradhan Mantri Jan Aarogya Agency"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-healthcare-002",
+          "abbreviation": "WHO",
+          "fullForm": "World Health Organization",
+          "sector": "Healthcare",
+          "subsector": "Public Health",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "WHO stands for World Health Organization. It belongs to which sector?",
+          "options": [
+            "Healthcare",
+            "Defence",
+            "Banking",
+            "Space Research"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "United Nations",
+      "questions": [
+        {
+          "id": "ff-united-nations-001",
+          "abbreviation": "UN",
+          "fullForm": "United Nations",
+          "sector": "United Nations",
+          "subsector": "International Organisations",
+          "difficulty": "BASIC",
+          "source": "https://www.un.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UN?",
+          "options": [
+            "United National Assembly",
+            "Universal Nations",
+            "Union of Nations",
+            "United Nations"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-united-nations-002",
+          "abbreviation": "WHO",
+          "fullForm": "World Health Organization",
+          "sector": "United Nations",
+          "subsector": "Healthcare",
+          "difficulty": "BASIC",
+          "source": "https://www.who.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of WHO?",
+          "options": [
+            "World Health Organization",
+            "World Hospital Organisation",
+            "World Hygiene Office",
+            "World Health Office"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-united-nations-003",
+          "abbreviation": "UNESCO",
+          "fullForm": "United Nations Educational, Scientific and Cultural Organization",
+          "sector": "United Nations",
+          "subsector": "Education and Culture",
+          "difficulty": "BASIC",
+          "source": "https://www.unesco.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UNESCO?",
+          "options": [
+            "United Nations Economic and Social Council",
+            "United Nations Educational, Scientific and Cultural Organization",
+            "United Nations Environment and Cultural Organisation",
+            "Universal Network for Education and Science"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-united-nations-004",
+          "abbreviation": "UNICEF",
+          "fullForm": "United Nations International Children's Emergency Fund",
+          "sector": "United Nations",
+          "subsector": "Children and Development",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.unicef.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of UNICEF?",
+          "options": [
+            "Universal Network for Infant Care and Education",
+            "United Nations International Child Education Fund",
+            "United Nations Children's Education Fund",
+            "United Nations International Children's Emergency Fund"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-united-nations-005",
+          "abbreviation": "ILO",
+          "fullForm": "International Labour Organization",
+          "sector": "United Nations",
+          "subsector": "Labour",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.un.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ILO?",
+          "options": [
+            "International Logistics Office",
+            "International Legal Organisation",
+            "International Labour Organization",
+            "International Labour Office"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-united-nations-006",
+          "abbreviation": "FAO",
+          "fullForm": "Food and Agriculture Organization",
+          "sector": "United Nations",
+          "subsector": "Food and Agriculture",
+          "difficulty": "BASIC",
+          "source": "https://www.un.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of FAO?",
+          "options": [
+            "Food Aid Organization",
+            "Food and Agricultural Organisation",
+            "Federation for Agricultural Operations",
+            "Food and Agriculture Organization"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "International Organisations",
+      "questions": [
+        {
+          "id": "ff-international-organisations-001",
+          "abbreviation": "WTO",
+          "fullForm": "World Trade Organization",
+          "sector": "International Organisations",
+          "subsector": "Trade",
+          "difficulty": "BASIC",
+          "source": "https://www.wto.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of WTO?",
+          "options": [
+            "World Telecommunications Office",
+            "World Transport Organisation",
+            "World Tax Organisation",
+            "World Trade Organization"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-002",
+          "abbreviation": "IMF",
+          "fullForm": "International Monetary Fund",
+          "sector": "International Organisations",
+          "subsector": "Global Finance",
+          "difficulty": "BASIC",
+          "source": "https://www.imf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IMF?",
+          "options": [
+            "International Monetary Fund",
+            "International Market Federation",
+            "International Money Fund",
+            "International Monetary Federation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-003",
+          "abbreviation": "BRICS",
+          "fullForm": "Brazil, Russia, India, China and South Africa",
+          "sector": "International Organisations",
+          "subsector": "Economic Grouping",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BRICS?",
+          "options": [
+            "British, Russian, Indian and Chinese States",
+            "Banking Regional Institution for Commercial States",
+            "Brazil, Russia, India, China and Singapore",
+            "Brazil, Russia, India, China and South Africa"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-004",
+          "abbreviation": "SAARC",
+          "fullForm": "South Asian Association for Regional Cooperation",
+          "sector": "International Organisations",
+          "subsector": "Regional Cooperation",
+          "difficulty": "BASIC",
+          "source": "https://www.un.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SAARC?",
+          "options": [
+            "South African Association for Regional Cooperation",
+            "South Asian Alliance for Regional Commerce",
+            "South Asian Council for Regional Cooperation",
+            "South Asian Association for Regional Cooperation"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-005",
+          "abbreviation": "G20",
+          "fullForm": "Group of Twenty",
+          "sector": "International Organisations",
+          "subsector": "Economic Grouping",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of G20?",
+          "options": [
+            "Group of Twenty Nations",
+            "Global Twenty",
+            "Group of Twenty",
+            "Governing Twenty"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-006",
+          "abbreviation": "OPEC",
+          "fullForm": "Organization of the Petroleum Exporting Countries",
+          "sector": "International Organisations",
+          "subsector": "Energy",
+          "difficulty": "BASIC",
+          "source": "https://www.india.gov.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of OPEC?",
+          "options": [
+            "Organization of the Petroleum Exporting Countries",
+            "Oil Producers Economic Council",
+            "Organisation of Petroleum Export Countries",
+            "Oil and Petroleum Export Cooperation"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-007",
+          "abbreviation": "ICRC",
+          "fullForm": "International Committee of the Red Cross",
+          "sector": "International Organisations",
+          "subsector": "Humanitarian",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.icrc.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ICRC?",
+          "options": [
+            "International Council for Red Crescent",
+            "International Committee of the Red Cross",
+            "International Centre for Relief and Care",
+            "International Committee of Relief Corps"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-008",
+          "abbreviation": "WIPO",
+          "fullForm": "World Intellectual Property Organization",
+          "sector": "International Organisations",
+          "subsector": "Intellectual Property",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.wipo.int/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of WIPO?",
+          "options": [
+            "World Intellectual Partnership Organisation",
+            "World Industrial Property Office",
+            "World Innovation Patent Organization",
+            "World Intellectual Property Organization"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-international-organisations-009",
+          "abbreviation": "UN",
+          "fullForm": "United Nations",
+          "sector": "International Organisations",
+          "subsector": "United Nations",
+          "difficulty": "BASIC",
+          "source": "https://www.un.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "UN stands for United Nations. It belongs to which sector?",
+          "options": [
+            "Banking",
+            "Healthcare",
+            "Defence",
+            "International Organisations"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Technical Standards",
+      "questions": [
+        {
+          "id": "ff-technical-standards-001",
+          "abbreviation": "ISO",
+          "fullForm": "International Organization for Standardization",
+          "sector": "Technical Standards",
+          "subsector": "International Standards",
+          "difficulty": "BASIC",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ISO?",
+          "options": [
+            "Independent Standards Organization",
+            "Indian Standards Organisation",
+            "International Standards Office",
+            "International Organization for Standardization"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-technical-standards-002",
+          "abbreviation": "IEEE",
+          "fullForm": "Institute of Electrical and Electronics Engineers",
+          "sector": "Technical Standards",
+          "subsector": "Engineering Standards",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://standards.ieee.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IEEE?",
+          "options": [
+            "Institute of Electronic and Electrical Engineering",
+            "International Institute of Electrical Engineers",
+            "Institute of Electrical and Electronics Engineers",
+            "International Electronics and Engineering Federation"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-technical-standards-003",
+          "abbreviation": "IETF",
+          "fullForm": "Internet Engineering Task Force",
+          "sector": "Technical Standards",
+          "subsector": "Internet Standards",
+          "difficulty": "ADVANCED",
+          "source": "https://www.ietf.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IETF?",
+          "options": [
+            "Internet Engineering Task Force",
+            "Internet Engineering Technical Foundation",
+            "International Electronic Task Force",
+            "Internet Equipment Technical Forum"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-technical-standards-004",
+          "abbreviation": "W3C",
+          "fullForm": "World Wide Web Consortium",
+          "sector": "Technical Standards",
+          "subsector": "Web Standards",
+          "difficulty": "INTERMEDIATE",
+          "source": "https://www.w3.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of W3C?",
+          "options": [
+            "World Wide Web Consortium",
+            "World Wide Web Council",
+            "World Web Communication Committee",
+            "Worldwide Web Consortium"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-technical-standards-005",
+          "abbreviation": "PCI DSS",
+          "fullForm": "Payment Card Industry Data Security Standard",
+          "sector": "Technical Standards",
+          "subsector": "Payment Security",
+          "difficulty": "ADVANCED",
+          "source": "https://www.npci.org.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of PCI DSS?",
+          "options": [
+            "Payment Card Industry Data Security Standard",
+            "Payment Card Internet Digital Security System",
+            "Payment Compliance Industry Data Standard",
+            "Payment Card Information Data Security Standard"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-technical-standards-006",
+          "abbreviation": "SOC",
+          "fullForm": "System and Organization Controls",
+          "sector": "Technical Standards",
+          "subsector": "IT Assurance",
+          "difficulty": "ADVANCED",
+          "source": "https://www.iso.org/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of SOC?",
+          "options": [
+            "Standard Operational Compliance",
+            "Security Operations Centre",
+            "System Operations Control",
+            "System and Organization Controls"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Companies",
+      "questions": [
+        {
+          "id": "ff-companies-001",
+          "abbreviation": "TCS",
+          "fullForm": "Tata Consultancy Services",
+          "sector": "Companies",
+          "subsector": "IT Industry",
+          "difficulty": "BASIC",
+          "source": "https://www.tcs.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of TCS?",
+          "options": [
+            "Tata Computer Systems",
+            "Tata Consultancy Services",
+            "Tata Consulting Solutions",
+            "Tata Cyber Security"
+          ],
+          "answer": 1,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-companies-002",
+          "abbreviation": "Infosys",
+          "fullForm": "Infosys Limited",
+          "sector": "Companies",
+          "subsector": "IT Industry",
+          "difficulty": "BASIC",
+          "source": "https://www.infosys.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of Infosys?",
+          "options": [
+            "Infosys Limited",
+            "Information Systems Limited",
+            "Indian Systems",
+            "International Infosystems"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Energy Industry",
+      "questions": [
+        {
+          "id": "ff-energy-industry-001",
+          "abbreviation": "ONGC",
+          "fullForm": "Oil and Natural Gas Corporation",
+          "sector": "Energy Industry",
+          "subsector": "Oil and Gas",
+          "difficulty": "BASIC",
+          "source": "https://ongcindia.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of ONGC?",
+          "options": [
+            "Oil and New Gas Corporation",
+            "Oil National Gas Company",
+            "Oil and Natural Gas Corporation",
+            "Overseas Natural Gas Council"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-energy-industry-002",
+          "abbreviation": "IOCL",
+          "fullForm": "Indian Oil Corporation Limited",
+          "sector": "Energy Industry",
+          "subsector": "Oil and Gas",
+          "difficulty": "BASIC",
+          "source": "https://iocl.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of IOCL?",
+          "options": [
+            "Indian Oil Company Limited",
+            "Indian Overseas Chemical Limited",
+            "Indian Oil Chemical League",
+            "Indian Oil Corporation Limited"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-energy-industry-003",
+          "abbreviation": "BPCL",
+          "fullForm": "Bharat Petroleum Corporation Limited",
+          "sector": "Energy Industry",
+          "subsector": "Oil and Gas",
+          "difficulty": "BASIC",
+          "source": "https://www.bharatpetroleum.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of BPCL?",
+          "options": [
+            "Bharat Petroleum Company Limited",
+            "Bharat Power Corporation Limited",
+            "Bharat Petroleum Corporation Limited",
+            "Bharat Petrochemical Council"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-energy-industry-004",
+          "abbreviation": "HPCL",
+          "fullForm": "Hindustan Petroleum Corporation Limited",
+          "sector": "Energy Industry",
+          "subsector": "Oil and Gas",
+          "difficulty": "BASIC",
+          "source": "https://www.hindustanpetroleum.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of HPCL?",
+          "options": [
+            "Hindustan Petroleum Council",
+            "Hindustan Power Corporation Limited",
+            "Hindustan Petrochemical Company Limited",
+            "Hindustan Petroleum Corporation Limited"
+          ],
+          "answer": 3,
+          "type": "MCQ"
+        },
+        {
+          "id": "ff-energy-industry-005",
+          "abbreviation": "NTPC",
+          "fullForm": "NTPC Limited",
+          "sector": "Energy Industry",
+          "subsector": "Power",
+          "difficulty": "BASIC",
+          "source": "https://www.ntpc.co.in/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of NTPC?",
+          "options": [
+            "National Transmission Power Company",
+            "National Thermal Power Corporation",
+            "NTPC Limited",
+            "National Thermal Production Council"
+          ],
+          "answer": 2,
+          "type": "MCQ"
+        }
+      ]
+    },
+    {
+      "name": "Pharmaceutical Industry",
+      "questions": [
+        {
+          "id": "ff-pharmaceutical-industry-001",
+          "abbreviation": "DRL",
+          "fullForm": "Dr. Reddy's Laboratories",
+          "sector": "Pharmaceutical Industry",
+          "subsector": "Pharmaceuticals",
+          "difficulty": "BASIC",
+          "source": "https://www.drreddys.com/",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "q": "What is the full form of DRL?",
+          "options": [
+            "Dr. Reddy's Laboratories",
+            "Dr. Rao's Laboratories",
+            "Drug Research Laboratories",
+            "Dr. Reddy's Research Limited"
+          ],
+          "answer": 0,
+          "type": "MCQ"
+        }
+      ]
+    }
+  ]
+}

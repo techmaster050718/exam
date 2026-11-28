@@ -107,7 +107,8 @@
   async function fetchJSON(url) {
     let response;
     try {
-      response = await fetch(url);
+      const separator = url.includes('?') ? '&' : '?';
+      response = await fetch(`${url}${separator}v=${Date.now()}`, { cache: 'no-store' });
     } catch (err) {
       throw new FetchError(
         `Could not load "${url}".\n\nThis site uses fetch() which requires a local server on file:// URLs.\n\nPlease open this project with VS Code Live Server or run:\n  python -m http.server\nthen visit http://localhost:8000`,
@@ -163,6 +164,11 @@
       question.shift,
       question.sourceType,
       question.sourceName,
+      question.abbreviation,
+      question.fullForm,
+      question.sector,
+      question.subsector,
+      question.difficulty,
       paperMeta.title,
       paperMeta.subtitle,
       paperMeta.subject,

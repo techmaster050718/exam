@@ -1,0 +1,688 @@
+{
+  "id": "massive-english-vocabulary-30",
+  "title": "English Vocabulary — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "English Vocabulary",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "English Vocabulary — BASIC",
+      "questions": [
+        {
+          "id": "mass-english-vocabulary-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Synonyms? Expansion item 1 for English Vocabulary.",
+          "options": [
+            "The foundational, verifiable principle of Synonyms",
+            "Synonyms approach without verification",
+            "An unrelated Synonyms technique",
+            "Opposite principle in Synonyms"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Antonyms requires the use of which principle? Expansion item 2 for English Vocabulary.",
+          "options": [
+            "Antonyms approach without verification",
+            "An unrelated Antonyms technique",
+            "The foundational, verifiable principle of Antonyms",
+            "Opposite principle in Antonyms"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Idioms? Expansion item 3 for English Vocabulary.",
+          "options": [
+            "The foundational, verifiable principle of Idioms",
+            "Idioms approach without verification",
+            "An unrelated Idioms technique",
+            "Opposite principle in Idioms"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving One-word Substitution, which action is most technically and procedurally appropriate? Expansion item 4 for English Vocabulary.",
+          "options": [
+            "One-word Substitution approach without verification",
+            "An unrelated One-word Substitution technique",
+            "The foundational, verifiable principle of One-word Substitution",
+            "Opposite principle in One-word Substitution"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Contextual Usage? Expansion item 5 for English Vocabulary.",
+          "options": [
+            "The foundational, verifiable principle of Contextual Usage",
+            "Contextual Usage approach without verification",
+            "An unrelated Contextual Usage technique",
+            "Opposite principle in Contextual Usage"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Synonyms? Expansion item 6 for English Vocabulary.",
+          "options": [
+            "Synonyms approach without verification",
+            "An unrelated Synonyms technique",
+            "The foundational, verifiable principle of Synonyms",
+            "Opposite principle in Synonyms"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "English Vocabulary — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-english-vocabulary-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Antonyms? Expansion item 1 for English Vocabulary.",
+          "options": [
+            "Antonyms shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Antonyms",
+            "Superficial Antonyms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Idioms requires the use of which principle? Expansion item 2 for English Vocabulary.",
+          "options": [
+            "Idioms shortcut that ignores constraints",
+            "Superficial Idioms classification",
+            "The principle that correctly satisfies constraints in Idioms",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in One-word Substitution? Expansion item 3 for English Vocabulary.",
+          "options": [
+            "One-word Substitution shortcut that ignores constraints",
+            "Superficial One-word Substitution classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in One-word Substitution"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Contextual Usage, which action is most technically and procedurally appropriate? Expansion item 4 for English Vocabulary.",
+          "options": [
+            "The principle that correctly satisfies constraints in Contextual Usage",
+            "Contextual Usage shortcut that ignores constraints",
+            "Superficial Contextual Usage classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Synonyms? Expansion item 5 for English Vocabulary.",
+          "options": [
+            "Synonyms shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Synonyms",
+            "Superficial Synonyms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Antonyms? Expansion item 6 for English Vocabulary.",
+          "options": [
+            "Antonyms shortcut that ignores constraints",
+            "Superficial Antonyms classification",
+            "The principle that correctly satisfies constraints in Antonyms",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Idioms requires the use of which principle? Expansion item 7 for English Vocabulary.",
+          "options": [
+            "Idioms shortcut that ignores constraints",
+            "Superficial Idioms classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Idioms"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in One-word Substitution? Expansion item 8 for English Vocabulary.",
+          "options": [
+            "The principle that correctly satisfies constraints in One-word Substitution",
+            "One-word Substitution shortcut that ignores constraints",
+            "Superficial One-word Substitution classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Contextual Usage, which action is most technically and procedurally appropriate? Expansion item 9 for English Vocabulary.",
+          "options": [
+            "Contextual Usage shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Contextual Usage",
+            "Superficial Contextual Usage classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Synonyms? Expansion item 10 for English Vocabulary.",
+          "options": [
+            "Synonyms shortcut that ignores constraints",
+            "Superficial Synonyms classification",
+            "The principle that correctly satisfies constraints in Synonyms",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Antonyms? Expansion item 11 for English Vocabulary.",
+          "options": [
+            "Antonyms shortcut that ignores constraints",
+            "Superficial Antonyms classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Antonyms"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Idioms requires the use of which principle? Expansion item 12 for English Vocabulary.",
+          "options": [
+            "The principle that correctly satisfies constraints in Idioms",
+            "Idioms shortcut that ignores constraints",
+            "Superficial Idioms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in One-word Substitution? Expansion item 13 for English Vocabulary.",
+          "options": [
+            "One-word Substitution shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in One-word Substitution",
+            "Superficial One-word Substitution classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-vocabulary-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Contextual Usage, which action is most technically and procedurally appropriate? Expansion item 14 for English Vocabulary.",
+          "options": [
+            "Contextual Usage shortcut that ignores constraints",
+            "Superficial Contextual Usage classification",
+            "The principle that correctly satisfies constraints in Contextual Usage",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "English Vocabulary — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-english-vocabulary-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Idioms? Expansion item 1 for English Vocabulary.",
+          "options": [
+            "Apply Idioms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Idioms rule",
+            "Integrate the constraints and edge conditions in Idioms",
+            "Ignore an edge condition in Idioms"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in One-word Substitution requires the use of which principle? Expansion item 2 for English Vocabulary.",
+          "options": [
+            "Apply One-word Substitution in isolation without considering interactions",
+            "Use the locally valid but globally incorrect One-word Substitution rule",
+            "Ignore an edge condition in One-word Substitution",
+            "Integrate the constraints and edge conditions in One-word Substitution"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Contextual Usage? Expansion item 3 for English Vocabulary.",
+          "options": [
+            "Integrate the constraints and edge conditions in Contextual Usage",
+            "Apply Contextual Usage in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Contextual Usage rule",
+            "Ignore an edge condition in Contextual Usage"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Synonyms, which action is most technically and procedurally appropriate? Expansion item 4 for English Vocabulary.",
+          "options": [
+            "Apply Synonyms in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Synonyms",
+            "Use the locally valid but globally incorrect Synonyms rule",
+            "Ignore an edge condition in Synonyms"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Antonyms? Expansion item 5 for English Vocabulary.",
+          "options": [
+            "Apply Antonyms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Antonyms rule",
+            "Integrate the constraints and edge conditions in Antonyms",
+            "Ignore an edge condition in Antonyms"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Idioms? Expansion item 6 for English Vocabulary.",
+          "options": [
+            "Apply Idioms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Idioms rule",
+            "Ignore an edge condition in Idioms",
+            "Integrate the constraints and edge conditions in Idioms"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Idioms is supported by the relevant Idioms concept and the stated constraints.",
+          "topic": "Idioms",
+          "subtopic": "Idioms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in One-word Substitution requires the use of which principle? Expansion item 7 for English Vocabulary.",
+          "options": [
+            "Integrate the constraints and edge conditions in One-word Substitution",
+            "Apply One-word Substitution in isolation without considering interactions",
+            "Use the locally valid but globally incorrect One-word Substitution rule",
+            "Ignore an edge condition in One-word Substitution"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in One-word Substitution is supported by the relevant One-word Substitution concept and the stated constraints.",
+          "topic": "One-word Substitution",
+          "subtopic": "One-word Substitution",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Contextual Usage? Expansion item 8 for English Vocabulary.",
+          "options": [
+            "Apply Contextual Usage in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Contextual Usage",
+            "Use the locally valid but globally incorrect Contextual Usage rule",
+            "Ignore an edge condition in Contextual Usage"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Contextual Usage is supported by the relevant Contextual Usage concept and the stated constraints.",
+          "topic": "Contextual Usage",
+          "subtopic": "Contextual Usage",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Synonyms, which action is most technically and procedurally appropriate? Expansion item 9 for English Vocabulary.",
+          "options": [
+            "Apply Synonyms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Synonyms rule",
+            "Integrate the constraints and edge conditions in Synonyms",
+            "Ignore an edge condition in Synonyms"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Synonyms is supported by the relevant Synonyms concept and the stated constraints.",
+          "topic": "Synonyms",
+          "subtopic": "Synonyms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-vocabulary-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Antonyms? Expansion item 10 for English Vocabulary.",
+          "options": [
+            "Apply Antonyms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Antonyms rule",
+            "Ignore an edge condition in Antonyms",
+            "Integrate the constraints and edge conditions in Antonyms"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Antonyms is supported by the relevant Antonyms concept and the stated constraints.",
+          "topic": "Antonyms",
+          "subtopic": "Antonyms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Vocabulary"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

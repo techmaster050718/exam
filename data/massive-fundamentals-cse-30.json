@@ -1,0 +1,688 @@
+{
+  "id": "massive-fundamentals-cse-30",
+  "title": "Fundamentals CSE — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Fundamentals CSE",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Fundamentals CSE — BASIC",
+      "questions": [
+        {
+          "id": "mass-fundamentals-cse-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in CPU Architecture? Expansion item 1 for Fundamentals CSE.",
+          "options": [
+            "The foundational, verifiable principle of CPU Architecture",
+            "CPU Architecture approach without verification",
+            "An unrelated CPU Architecture technique",
+            "Opposite principle in CPU Architecture"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Data Structures requires the use of which principle? Expansion item 2 for Fundamentals CSE.",
+          "options": [
+            "Data Structures approach without verification",
+            "An unrelated Data Structures technique",
+            "The foundational, verifiable principle of Data Structures",
+            "Opposite principle in Data Structures"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Operating Systems? Expansion item 3 for Fundamentals CSE.",
+          "options": [
+            "The foundational, verifiable principle of Operating Systems",
+            "Operating Systems approach without verification",
+            "An unrelated Operating Systems technique",
+            "Opposite principle in Operating Systems"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving DBMS, which action is most technically and procedurally appropriate? Expansion item 4 for Fundamentals CSE.",
+          "options": [
+            "DBMS approach without verification",
+            "An unrelated DBMS technique",
+            "The foundational, verifiable principle of DBMS",
+            "Opposite principle in DBMS"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Networks? Expansion item 5 for Fundamentals CSE.",
+          "options": [
+            "The foundational, verifiable principle of Networks",
+            "Networks approach without verification",
+            "An unrelated Networks technique",
+            "Opposite principle in Networks"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in CPU Architecture? Expansion item 6 for Fundamentals CSE.",
+          "options": [
+            "CPU Architecture approach without verification",
+            "An unrelated CPU Architecture technique",
+            "The foundational, verifiable principle of CPU Architecture",
+            "Opposite principle in CPU Architecture"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Fundamentals CSE — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-fundamentals-cse-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Data Structures? Expansion item 1 for Fundamentals CSE.",
+          "options": [
+            "Data Structures shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Data Structures",
+            "Superficial Data Structures classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Operating Systems requires the use of which principle? Expansion item 2 for Fundamentals CSE.",
+          "options": [
+            "Operating Systems shortcut that ignores constraints",
+            "Superficial Operating Systems classification",
+            "The principle that correctly satisfies constraints in Operating Systems",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in DBMS? Expansion item 3 for Fundamentals CSE.",
+          "options": [
+            "DBMS shortcut that ignores constraints",
+            "Superficial DBMS classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in DBMS"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Networks, which action is most technically and procedurally appropriate? Expansion item 4 for Fundamentals CSE.",
+          "options": [
+            "The principle that correctly satisfies constraints in Networks",
+            "Networks shortcut that ignores constraints",
+            "Superficial Networks classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in CPU Architecture? Expansion item 5 for Fundamentals CSE.",
+          "options": [
+            "CPU Architecture shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in CPU Architecture",
+            "Superficial CPU Architecture classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Data Structures? Expansion item 6 for Fundamentals CSE.",
+          "options": [
+            "Data Structures shortcut that ignores constraints",
+            "Superficial Data Structures classification",
+            "The principle that correctly satisfies constraints in Data Structures",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Operating Systems requires the use of which principle? Expansion item 7 for Fundamentals CSE.",
+          "options": [
+            "Operating Systems shortcut that ignores constraints",
+            "Superficial Operating Systems classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Operating Systems"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in DBMS? Expansion item 8 for Fundamentals CSE.",
+          "options": [
+            "The principle that correctly satisfies constraints in DBMS",
+            "DBMS shortcut that ignores constraints",
+            "Superficial DBMS classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Networks, which action is most technically and procedurally appropriate? Expansion item 9 for Fundamentals CSE.",
+          "options": [
+            "Networks shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Networks",
+            "Superficial Networks classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in CPU Architecture? Expansion item 10 for Fundamentals CSE.",
+          "options": [
+            "CPU Architecture shortcut that ignores constraints",
+            "Superficial CPU Architecture classification",
+            "The principle that correctly satisfies constraints in CPU Architecture",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Data Structures? Expansion item 11 for Fundamentals CSE.",
+          "options": [
+            "Data Structures shortcut that ignores constraints",
+            "Superficial Data Structures classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Data Structures"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Operating Systems requires the use of which principle? Expansion item 12 for Fundamentals CSE.",
+          "options": [
+            "The principle that correctly satisfies constraints in Operating Systems",
+            "Operating Systems shortcut that ignores constraints",
+            "Superficial Operating Systems classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in DBMS? Expansion item 13 for Fundamentals CSE.",
+          "options": [
+            "DBMS shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in DBMS",
+            "Superficial DBMS classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-fundamentals-cse-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Networks, which action is most technically and procedurally appropriate? Expansion item 14 for Fundamentals CSE.",
+          "options": [
+            "Networks shortcut that ignores constraints",
+            "Superficial Networks classification",
+            "The principle that correctly satisfies constraints in Networks",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Fundamentals CSE — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-fundamentals-cse-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Operating Systems? Expansion item 1 for Fundamentals CSE.",
+          "options": [
+            "Apply Operating Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Operating Systems rule",
+            "Integrate the constraints and edge conditions in Operating Systems",
+            "Ignore an edge condition in Operating Systems"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in DBMS requires the use of which principle? Expansion item 2 for Fundamentals CSE.",
+          "options": [
+            "Apply DBMS in isolation without considering interactions",
+            "Use the locally valid but globally incorrect DBMS rule",
+            "Ignore an edge condition in DBMS",
+            "Integrate the constraints and edge conditions in DBMS"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Networks? Expansion item 3 for Fundamentals CSE.",
+          "options": [
+            "Integrate the constraints and edge conditions in Networks",
+            "Apply Networks in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Networks rule",
+            "Ignore an edge condition in Networks"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving CPU Architecture, which action is most technically and procedurally appropriate? Expansion item 4 for Fundamentals CSE.",
+          "options": [
+            "Apply CPU Architecture in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in CPU Architecture",
+            "Use the locally valid but globally incorrect CPU Architecture rule",
+            "Ignore an edge condition in CPU Architecture"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Data Structures? Expansion item 5 for Fundamentals CSE.",
+          "options": [
+            "Apply Data Structures in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Data Structures rule",
+            "Integrate the constraints and edge conditions in Data Structures",
+            "Ignore an edge condition in Data Structures"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Operating Systems? Expansion item 6 for Fundamentals CSE.",
+          "options": [
+            "Apply Operating Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Operating Systems rule",
+            "Ignore an edge condition in Operating Systems",
+            "Integrate the constraints and edge conditions in Operating Systems"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Operating Systems is supported by the relevant Operating Systems concept and the stated constraints.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in DBMS requires the use of which principle? Expansion item 7 for Fundamentals CSE.",
+          "options": [
+            "Integrate the constraints and edge conditions in DBMS",
+            "Apply DBMS in isolation without considering interactions",
+            "Use the locally valid but globally incorrect DBMS rule",
+            "Ignore an edge condition in DBMS"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in DBMS is supported by the relevant DBMS concept and the stated constraints.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Networks? Expansion item 8 for Fundamentals CSE.",
+          "options": [
+            "Apply Networks in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Networks",
+            "Use the locally valid but globally incorrect Networks rule",
+            "Ignore an edge condition in Networks"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving CPU Architecture, which action is most technically and procedurally appropriate? Expansion item 9 for Fundamentals CSE.",
+          "options": [
+            "Apply CPU Architecture in isolation without considering interactions",
+            "Use the locally valid but globally incorrect CPU Architecture rule",
+            "Integrate the constraints and edge conditions in CPU Architecture",
+            "Ignore an edge condition in CPU Architecture"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in CPU Architecture is supported by the relevant CPU Architecture concept and the stated constraints.",
+          "topic": "CPU Architecture",
+          "subtopic": "CPU Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-fundamentals-cse-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Data Structures? Expansion item 10 for Fundamentals CSE.",
+          "options": [
+            "Apply Data Structures in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Data Structures rule",
+            "Ignore an edge condition in Data Structures",
+            "Integrate the constraints and edge conditions in Data Structures"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Data Structures is supported by the relevant Data Structures concept and the stated constraints.",
+          "topic": "Data Structures",
+          "subtopic": "Data Structures",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamentals CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

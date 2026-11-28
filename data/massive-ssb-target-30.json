@@ -1,0 +1,688 @@
+{
+  "id": "massive-ssb-target-30",
+  "title": "SSB Target — Next 6 Months — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "SSB Target — Next 6 Months",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "SSB Target — Next 6 Months — BASIC",
+      "questions": [
+        {
+          "id": "mass-ssb-target-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Core Concepts? Expansion item 1 for SSB Target — Next 6 Months.",
+          "options": [
+            "The foundational, verifiable principle of Core Concepts",
+            "Core Concepts approach without verification",
+            "An unrelated Core Concepts technique",
+            "Opposite principle in Core Concepts"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Applications requires the use of which principle? Expansion item 2 for SSB Target — Next 6 Months.",
+          "options": [
+            "Applications approach without verification",
+            "An unrelated Applications technique",
+            "The foundational, verifiable principle of Applications",
+            "Opposite principle in Applications"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Analysis? Expansion item 3 for SSB Target — Next 6 Months.",
+          "options": [
+            "The foundational, verifiable principle of Analysis",
+            "Analysis approach without verification",
+            "An unrelated Analysis technique",
+            "Opposite principle in Analysis"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Problem Solving, which action is most technically and procedurally appropriate? Expansion item 4 for SSB Target — Next 6 Months.",
+          "options": [
+            "Problem Solving approach without verification",
+            "An unrelated Problem Solving technique",
+            "The foundational, verifiable principle of Problem Solving",
+            "Opposite principle in Problem Solving"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Evaluation? Expansion item 5 for SSB Target — Next 6 Months.",
+          "options": [
+            "The foundational, verifiable principle of Evaluation",
+            "Evaluation approach without verification",
+            "An unrelated Evaluation technique",
+            "Opposite principle in Evaluation"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Core Concepts? Expansion item 6 for SSB Target — Next 6 Months.",
+          "options": [
+            "Core Concepts approach without verification",
+            "An unrelated Core Concepts technique",
+            "The foundational, verifiable principle of Core Concepts",
+            "Opposite principle in Core Concepts"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "SSB Target — Next 6 Months — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-ssb-target-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Applications? Expansion item 1 for SSB Target — Next 6 Months.",
+          "options": [
+            "Applications shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Applications",
+            "Superficial Applications classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Analysis requires the use of which principle? Expansion item 2 for SSB Target — Next 6 Months.",
+          "options": [
+            "Analysis shortcut that ignores constraints",
+            "Superficial Analysis classification",
+            "The principle that correctly satisfies constraints in Analysis",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Problem Solving? Expansion item 3 for SSB Target — Next 6 Months.",
+          "options": [
+            "Problem Solving shortcut that ignores constraints",
+            "Superficial Problem Solving classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Problem Solving"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Evaluation, which action is most technically and procedurally appropriate? Expansion item 4 for SSB Target — Next 6 Months.",
+          "options": [
+            "The principle that correctly satisfies constraints in Evaluation",
+            "Evaluation shortcut that ignores constraints",
+            "Superficial Evaluation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Core Concepts? Expansion item 5 for SSB Target — Next 6 Months.",
+          "options": [
+            "Core Concepts shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Core Concepts",
+            "Superficial Core Concepts classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Applications? Expansion item 6 for SSB Target — Next 6 Months.",
+          "options": [
+            "Applications shortcut that ignores constraints",
+            "Superficial Applications classification",
+            "The principle that correctly satisfies constraints in Applications",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Analysis requires the use of which principle? Expansion item 7 for SSB Target — Next 6 Months.",
+          "options": [
+            "Analysis shortcut that ignores constraints",
+            "Superficial Analysis classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Analysis"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Problem Solving? Expansion item 8 for SSB Target — Next 6 Months.",
+          "options": [
+            "The principle that correctly satisfies constraints in Problem Solving",
+            "Problem Solving shortcut that ignores constraints",
+            "Superficial Problem Solving classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Evaluation, which action is most technically and procedurally appropriate? Expansion item 9 for SSB Target — Next 6 Months.",
+          "options": [
+            "Evaluation shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Evaluation",
+            "Superficial Evaluation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Core Concepts? Expansion item 10 for SSB Target — Next 6 Months.",
+          "options": [
+            "Core Concepts shortcut that ignores constraints",
+            "Superficial Core Concepts classification",
+            "The principle that correctly satisfies constraints in Core Concepts",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Applications? Expansion item 11 for SSB Target — Next 6 Months.",
+          "options": [
+            "Applications shortcut that ignores constraints",
+            "Superficial Applications classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Applications"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Analysis requires the use of which principle? Expansion item 12 for SSB Target — Next 6 Months.",
+          "options": [
+            "The principle that correctly satisfies constraints in Analysis",
+            "Analysis shortcut that ignores constraints",
+            "Superficial Analysis classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Problem Solving? Expansion item 13 for SSB Target — Next 6 Months.",
+          "options": [
+            "Problem Solving shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Problem Solving",
+            "Superficial Problem Solving classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-target-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Evaluation, which action is most technically and procedurally appropriate? Expansion item 14 for SSB Target — Next 6 Months.",
+          "options": [
+            "Evaluation shortcut that ignores constraints",
+            "Superficial Evaluation classification",
+            "The principle that correctly satisfies constraints in Evaluation",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "SSB Target — Next 6 Months — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-ssb-target-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Analysis? Expansion item 1 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Analysis in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Analysis rule",
+            "Integrate the constraints and edge conditions in Analysis",
+            "Ignore an edge condition in Analysis"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Problem Solving requires the use of which principle? Expansion item 2 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Problem Solving in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Problem Solving rule",
+            "Ignore an edge condition in Problem Solving",
+            "Integrate the constraints and edge conditions in Problem Solving"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Evaluation? Expansion item 3 for SSB Target — Next 6 Months.",
+          "options": [
+            "Integrate the constraints and edge conditions in Evaluation",
+            "Apply Evaluation in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Evaluation rule",
+            "Ignore an edge condition in Evaluation"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Core Concepts, which action is most technically and procedurally appropriate? Expansion item 4 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Core Concepts in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Core Concepts",
+            "Use the locally valid but globally incorrect Core Concepts rule",
+            "Ignore an edge condition in Core Concepts"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Applications? Expansion item 5 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Applications in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Applications rule",
+            "Integrate the constraints and edge conditions in Applications",
+            "Ignore an edge condition in Applications"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Analysis? Expansion item 6 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Analysis in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Analysis rule",
+            "Ignore an edge condition in Analysis",
+            "Integrate the constraints and edge conditions in Analysis"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Analysis is supported by the relevant Analysis concept and the stated constraints.",
+          "topic": "Analysis",
+          "subtopic": "Analysis",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Problem Solving requires the use of which principle? Expansion item 7 for SSB Target — Next 6 Months.",
+          "options": [
+            "Integrate the constraints and edge conditions in Problem Solving",
+            "Apply Problem Solving in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Problem Solving rule",
+            "Ignore an edge condition in Problem Solving"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Problem Solving is supported by the relevant Problem Solving concept and the stated constraints.",
+          "topic": "Problem Solving",
+          "subtopic": "Problem Solving",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Evaluation? Expansion item 8 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Evaluation in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Evaluation",
+            "Use the locally valid but globally incorrect Evaluation rule",
+            "Ignore an edge condition in Evaluation"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Evaluation is supported by the relevant Evaluation concept and the stated constraints.",
+          "topic": "Evaluation",
+          "subtopic": "Evaluation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Core Concepts, which action is most technically and procedurally appropriate? Expansion item 9 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Core Concepts in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Core Concepts rule",
+            "Integrate the constraints and edge conditions in Core Concepts",
+            "Ignore an edge condition in Core Concepts"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Core Concepts is supported by the relevant Core Concepts concept and the stated constraints.",
+          "topic": "Core Concepts",
+          "subtopic": "Core Concepts",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-target-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Applications? Expansion item 10 for SSB Target — Next 6 Months.",
+          "options": [
+            "Apply Applications in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Applications rule",
+            "Ignore an edge condition in Applications",
+            "Integrate the constraints and edge conditions in Applications"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Applications is supported by the relevant Applications concept and the stated constraints.",
+          "topic": "Applications",
+          "subtopic": "Applications",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB Target — Next 6 Months"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

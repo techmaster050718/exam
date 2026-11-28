@@ -25,9 +25,142 @@
       const subjectPapers = papers.filter((p) => App.subjectIdFor(p, subjects) === subject.id);
       await render(subject, subjectPapers);
       if (['up-police-si', 'rrb-alp'].includes(subject.id)) await renderQuestionBankSearch(subject, subjectPapers);
+      if (subject.id === 'full-forms') await renderFullFormsFilters(subject, subjectPapers);
+      if (subject.id === 'economics-india-world-trade') await renderEconomicsFilters(subject, subjectPapers);
     } catch (err) { App.showError(root, 'Could not load subject', err.message); }
   }
   async function render(subject, papers) { root.innerHTML = ''; root.append(App.el('nav', { className: 'breadcrumb', 'aria-label': 'Breadcrumb' }, App.el('a', { href: 'index.html' }, 'Home'), App.el('span', {}, '›'), App.el('span', {}, subject.title)), App.el('section', { className: 'subject-hero' }, App.el('span', { className: 'subject-icon' }, subject.icon || '📚'), App.el('div', {}, App.el('h1', {}, subject.title), App.el('p', {}, subject.description || 'Practice papers')))); const practicePapers = papers.filter((paper) => paper.contentMode !== 'EXTERNAL_SOURCE' && paper.file); const stats = getStats(practicePapers); root.appendChild(summary([[`${stats.completed}/${practicePapers.length}`, 'Papers completed'], [stats.avg === null ? '—' : `${stats.avg}%`, 'Average score'], [stats.best === null ? '—' : `${stats.best}%`, 'Best score']])); if (subject.id === 'cds') root.appendChild(renderCdsAnalysis(papers)); if (stats.completed) root.appendChild(await weakTopics(practicePapers));   root.appendChild(App.el('div', { className: 'section-header' }, App.el('h2', { className: 'section-title' }, 'Interactive practice papers and PYQ sources'))); if (['cds', 'capf-ac'].includes(subject.id)) root.appendChild(renderCdsFilters(papers)); const grid = App.el('div', { className: 'papers-grid', id: 'cds-papers-grid' }); papers.forEach((p) => grid.appendChild(paperCard(p))); if (!papers.length) grid.appendChild(App.el('p', { className: 'text-muted' }, 'Coming soon.')); root.appendChild(grid); }
+
+  async function renderEconomicsFilters(subject, papers) {
+    const indexedQuestions = (await Promise.all(papers.map(async (paper) => {
+      const data = await App.loadPaper(paper.file);
+      return App.flattenQuestions(data).map((question) => ({ paper, question }));
+    }))).flat();
+    const topics = [...new Set(indexedQuestions.map(({ question }) => question.topic).filter(Boolean))].sort();
+    const difficulties = [...new Set(indexedQuestions.map(({ question }) => question.difficulty).filter(Boolean))].sort();
+    const controls = App.el('div', { className: 'full-forms-filters' });
+    const topic = App.el('select', { 'aria-label': 'Filter by economics topic' }, new Option('Topic: All', 'all'));
+    topics.forEach((value) => topic.add(new Option(value, value)));
+    const difficulty = App.el('select', { 'aria-label': 'Filter by difficulty' }, new Option('Difficulty: All', 'all'));
+    difficulties.forEach((value) => difficulty.add(new Option(value, value)));
+    const search = App.el('input', {
+      type: 'search',
+      placeholder: 'Search economics question or concept',
+      'aria-label': 'Search economics question or concept',
+    });
+    const status = App.el('p', { className: 'bank-search-status', role: 'status' });
+    const results = App.el('div', { className: 'bank-search-results' });
+    controls.append(topic, difficulty, search);
+    const filter = () => {
+      results.innerHTML = '';
+      const query = search.value.trim().toLocaleLowerCase();
+      const matches = indexedQuestions.filter(({ question }) =>
+        (topic.value === 'all' || question.topic === topic.value) &&
+        (difficulty.value === 'all' || question.difficulty === difficulty.value) &&
+        (!query || App.getQuestionSearchText(question, {}).includes(query))
+      );
+      status.textContent = matches.length
+        ? `Showing ${Math.min(matches.length, 50)} of ${matches.length} matching economics questions.`
+        : 'No economics questions match the selected filters.';
+      matches.slice(0, 50).forEach(({ paper, question }) => {
+        const card = App.el('article', { className: 'bank-search-result' },
+          App.el('div', { className: 'bank-search-metadata' }, `${question.topic} · ${question.subtopic} · ${question.difficulty}`),
+          App.el('div', { className: 'bank-search-question' }, App.renderBilingualText(question.q)),
+          App.el('a', {
+            className: 'btn btn-primary btn-sm',
+            href: `test.html?paper=${encodeURIComponent(paper.id)}&question=${question.globalIndex}`,
+          }, 'Open question')
+        );
+        results.appendChild(card);
+      });
+    };
+    controls.addEventListener('change', filter);
+    search.addEventListener('input', filter);
+    const section = App.el('section', { className: 'glass full-forms-browser', 'aria-labelledby': 'economics-browser-title' },
+      App.el('h2', { id: 'economics-browser-title', className: 'section-title' }, 'Browse Economics'),
+      controls,
+      status,
+      results
+    );
+    const paperHeader = root.querySelector('.section-header');
+    root.insertBefore(section, paperHeader || null);
+    filter();
+  }
+
+  async function renderFullFormsFilters(subject, papers) {
+    const indexedQuestions = (await Promise.all(papers.map(async (paper) => {
+      const data = await App.loadPaper(paper.file);
+      return App.flattenQuestions(data).map((question) => ({ paper, question }));
+    }))).flat();
+
+    const sectors = [...new Set(indexedQuestions.map(({ question }) => question.sector).filter(Boolean))].sort();
+    const difficulties = [...new Set(indexedQuestions.map(({ question }) => question.difficulty).filter(Boolean))].sort();
+    const controls = App.el('div', { className: 'full-forms-filters' });
+    const sector = App.el('select', { 'aria-label': 'Filter by sector' }, new Option('Sector: All', 'all'));
+    sectors.forEach((value) => sector.add(new Option(value, value)));
+    const difficulty = App.el('select', { 'aria-label': 'Filter by difficulty' }, new Option('Difficulty: All', 'all'));
+    difficulties.forEach((value) => difficulty.add(new Option(value, value)));
+    const search = App.el('input', {
+      id: 'full-forms-search',
+      type: 'search',
+      placeholder: 'Search abbreviation or full form',
+      autocomplete: 'off',
+      'aria-label': 'Search FULL FORMS abbreviation or full form',
+    });
+    const status = App.el('p', { className: 'bank-search-status', role: 'status' });
+    const results = App.el('div', { className: 'bank-search-results' });
+    controls.append(sector, difficulty, search);
+
+    const filter = () => {
+      const query = search.value.trim().toLocaleLowerCase();
+      results.innerHTML = '';
+      const matches = indexedQuestions.filter(({ question }) =>
+        (sector.value === 'all' || question.sector === sector.value) &&
+        (difficulty.value === 'all' || question.difficulty === difficulty.value) &&
+        (!query || App.getQuestionSearchText(question, {}).includes(query))
+      );
+      status.textContent = matches.length
+        ? `Showing ${Math.min(matches.length, 50)} of ${matches.length} matching full-form questions.`
+        : 'No full-form questions match the selected filters.';
+      matches.slice(0, 50).forEach(({ paper, question }) => {
+        const card = App.el('article', { className: 'bank-search-result' });
+        card.append(
+          App.el('div', { className: 'bank-search-metadata' },
+            `${question.sector} · ${question.subsector} · ${question.difficulty}`
+          ),
+          App.el('div', { className: 'bank-search-question' }, App.renderBilingualText(question.q)),
+          App.el('div', { className: 'bank-search-options' },
+            ...question.options.map((option, index) => App.el(
+              'div',
+              { className: `bank-search-option${index === question.answer ? ' correct' : ''}` },
+              `${String.fromCharCode(65 + index)}. `,
+              App.renderBilingualText(option)
+            ))
+          ),
+          App.el('a', {
+            className: 'btn btn-primary btn-sm',
+            href: `test.html?paper=${encodeURIComponent(paper.id)}&question=${question.globalIndex}`,
+          }, 'Open question')
+        );
+        results.appendChild(card);
+      });
+    };
+    controls.addEventListener('change', filter);
+    search.addEventListener('input', filter);
+
+    const searchSection = App.el('section', {
+      className: 'glass full-forms-browser',
+      'aria-labelledby': 'full-forms-browser-title',
+    },
+      App.el('h2', { id: 'full-forms-browser-title', className: 'section-title' }, 'Browse FULL FORMS'),
+      controls,
+      status,
+      results
+    );
+    const paperHeader = root.querySelector('.section-header');
+    root.insertBefore(searchSection, paperHeader || null);
+    filter();
+  }
 
   async function renderQuestionBankSearch(subject, papers) {
     const indexedQuestions = (await Promise.all(papers.map(async (paper) => {

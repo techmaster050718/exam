@@ -1,5 +1,23 @@
 [
   {
+    "id": "special-papers",
+    "title": "SPECIAL PAPERS → ELITE LEVEL CHALLENGE",
+    "description": "Independent expert-level CSE, IT Officer, General Studies, Mathematics and Mixed Mock papers",
+    "icon": "🏆"
+  },
+  {
+    "id": "economics-india-world-trade",
+    "title": "ECONOMICS – INDIA & WORLD TRADE",
+    "description": "Indian economy, taxation, GST, RBI, government finance, imports, exports and international trade",
+    "icon": "📈"
+  },
+  {
+    "id": "full-forms",
+    "title": "FULL FORMS",
+    "description": "Comprehensive India-focused and international abbreviations, organisations, defence, IT, banking and technical full forms",
+    "icon": "🔤"
+  },
+  {
     "id": "capf-ac",
     "title": "CAPF AC — Assistant Commandants",
     "description": "Official UPSC CAPF AC paper sources and interactive Paper I MCQ practice",

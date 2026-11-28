@@ -1,0 +1,688 @@
+{
+  "id": "massive-ibps-aptitude-30",
+  "title": "IBPS - Aptitude & Reasoning — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "IBPS - Aptitude & Reasoning",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "IBPS - Aptitude & Reasoning — BASIC",
+      "questions": [
+        {
+          "id": "mass-ibps-aptitude-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Arithmetic? Expansion item 1 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Arithmetic",
+            "Arithmetic approach without verification",
+            "An unrelated Arithmetic technique",
+            "Opposite principle in Arithmetic"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Algebra requires the use of which principle? Expansion item 2 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Algebra approach without verification",
+            "An unrelated Algebra technique",
+            "The foundational, verifiable principle of Algebra",
+            "Opposite principle in Algebra"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Reasoning? Expansion item 3 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Reasoning",
+            "Reasoning approach without verification",
+            "An unrelated Reasoning technique",
+            "Opposite principle in Reasoning"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Data Interpretation, which action is most technically and procedurally appropriate? Expansion item 4 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Data Interpretation approach without verification",
+            "An unrelated Data Interpretation technique",
+            "The foundational, verifiable principle of Data Interpretation",
+            "Opposite principle in Data Interpretation"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Syllogisms? Expansion item 5 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Syllogisms",
+            "Syllogisms approach without verification",
+            "An unrelated Syllogisms technique",
+            "Opposite principle in Syllogisms"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Arithmetic? Expansion item 6 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Arithmetic approach without verification",
+            "An unrelated Arithmetic technique",
+            "The foundational, verifiable principle of Arithmetic",
+            "Opposite principle in Arithmetic"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "BASIC",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "IBPS - Aptitude & Reasoning — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-ibps-aptitude-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Algebra? Expansion item 1 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Algebra shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Algebra",
+            "Superficial Algebra classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 2 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "The principle that correctly satisfies constraints in Reasoning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Data Interpretation? Expansion item 3 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Data Interpretation shortcut that ignores constraints",
+            "Superficial Data Interpretation classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Data Interpretation"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Syllogisms, which action is most technically and procedurally appropriate? Expansion item 4 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Syllogisms",
+            "Syllogisms shortcut that ignores constraints",
+            "Superficial Syllogisms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Arithmetic? Expansion item 5 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Arithmetic shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Arithmetic",
+            "Superficial Arithmetic classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Algebra? Expansion item 6 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Algebra shortcut that ignores constraints",
+            "Superficial Algebra classification",
+            "The principle that correctly satisfies constraints in Algebra",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 7 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Data Interpretation? Expansion item 8 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Data Interpretation",
+            "Data Interpretation shortcut that ignores constraints",
+            "Superficial Data Interpretation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Syllogisms, which action is most technically and procedurally appropriate? Expansion item 9 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Syllogisms shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Syllogisms",
+            "Superficial Syllogisms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Arithmetic? Expansion item 10 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Arithmetic shortcut that ignores constraints",
+            "Superficial Arithmetic classification",
+            "The principle that correctly satisfies constraints in Arithmetic",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Algebra? Expansion item 11 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Algebra shortcut that ignores constraints",
+            "Superficial Algebra classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Algebra"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 12 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Reasoning",
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Data Interpretation? Expansion item 13 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Data Interpretation shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Data Interpretation",
+            "Superficial Data Interpretation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ibps-aptitude-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Syllogisms, which action is most technically and procedurally appropriate? Expansion item 14 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Syllogisms shortcut that ignores constraints",
+            "Superficial Syllogisms classification",
+            "The principle that correctly satisfies constraints in Syllogisms",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "IBPS - Aptitude & Reasoning — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-ibps-aptitude-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reasoning? Expansion item 1 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reasoning rule",
+            "Integrate the constraints and edge conditions in Reasoning",
+            "Ignore an edge condition in Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Data Interpretation requires the use of which principle? Expansion item 2 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Data Interpretation in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Data Interpretation rule",
+            "Ignore an edge condition in Data Interpretation",
+            "Integrate the constraints and edge conditions in Data Interpretation"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Syllogisms? Expansion item 3 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Integrate the constraints and edge conditions in Syllogisms",
+            "Apply Syllogisms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Syllogisms rule",
+            "Ignore an edge condition in Syllogisms"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Arithmetic, which action is most technically and procedurally appropriate? Expansion item 4 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Arithmetic in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Arithmetic",
+            "Use the locally valid but globally incorrect Arithmetic rule",
+            "Ignore an edge condition in Arithmetic"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Algebra? Expansion item 5 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Algebra in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Algebra rule",
+            "Integrate the constraints and edge conditions in Algebra",
+            "Ignore an edge condition in Algebra"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reasoning? Expansion item 6 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reasoning rule",
+            "Ignore an edge condition in Reasoning",
+            "Integrate the constraints and edge conditions in Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Data Interpretation requires the use of which principle? Expansion item 7 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Integrate the constraints and edge conditions in Data Interpretation",
+            "Apply Data Interpretation in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Data Interpretation rule",
+            "Ignore an edge condition in Data Interpretation"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Data Interpretation is supported by the relevant Data Interpretation concept and the stated constraints.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Syllogisms? Expansion item 8 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Syllogisms in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Syllogisms",
+            "Use the locally valid but globally incorrect Syllogisms rule",
+            "Ignore an edge condition in Syllogisms"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Syllogisms is supported by the relevant Syllogisms concept and the stated constraints.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Arithmetic, which action is most technically and procedurally appropriate? Expansion item 9 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Arithmetic in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Arithmetic rule",
+            "Integrate the constraints and edge conditions in Arithmetic",
+            "Ignore an edge condition in Arithmetic"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Arithmetic is supported by the relevant Arithmetic concept and the stated constraints.",
+          "topic": "Arithmetic",
+          "subtopic": "Arithmetic",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ibps-aptitude-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Algebra? Expansion item 10 for IBPS - Aptitude & Reasoning.",
+          "options": [
+            "Apply Algebra in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Algebra rule",
+            "Ignore an edge condition in Algebra",
+            "Integrate the constraints and edge conditions in Algebra"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Algebra is supported by the relevant Algebra concept and the stated constraints.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "IBPS - Aptitude & Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

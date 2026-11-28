@@ -1,0 +1,688 @@
+{
+  "id": "massive-cds-30",
+  "title": "CDS — Combined Defence Services — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "CDS — Combined Defence Services",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "CDS — Combined Defence Services — BASIC",
+      "questions": [
+        {
+          "id": "mass-cds-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian History? Expansion item 1 for CDS — Combined Defence Services.",
+          "options": [
+            "The foundational, verifiable principle of Indian History",
+            "Indian History approach without verification",
+            "An unrelated Indian History technique",
+            "Opposite principle in Indian History"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Geography requires the use of which principle? Expansion item 2 for CDS — Combined Defence Services.",
+          "options": [
+            "Geography approach without verification",
+            "An unrelated Geography technique",
+            "The foundational, verifiable principle of Geography",
+            "Opposite principle in Geography"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Polity? Expansion item 3 for CDS — Combined Defence Services.",
+          "options": [
+            "The foundational, verifiable principle of Polity",
+            "Polity approach without verification",
+            "An unrelated Polity technique",
+            "Opposite principle in Polity"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving General Science, which action is most technically and procedurally appropriate? Expansion item 4 for CDS — Combined Defence Services.",
+          "options": [
+            "General Science approach without verification",
+            "An unrelated General Science technique",
+            "The foundational, verifiable principle of General Science",
+            "Opposite principle in General Science"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Defence? Expansion item 5 for CDS — Combined Defence Services.",
+          "options": [
+            "The foundational, verifiable principle of Defence",
+            "Defence approach without verification",
+            "An unrelated Defence technique",
+            "Opposite principle in Defence"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian History? Expansion item 6 for CDS — Combined Defence Services.",
+          "options": [
+            "Indian History approach without verification",
+            "An unrelated Indian History technique",
+            "The foundational, verifiable principle of Indian History",
+            "Opposite principle in Indian History"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "BASIC",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "CDS — Combined Defence Services — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-cds-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Geography? Expansion item 1 for CDS — Combined Defence Services.",
+          "options": [
+            "Geography shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Geography",
+            "Superficial Geography classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Polity requires the use of which principle? Expansion item 2 for CDS — Combined Defence Services.",
+          "options": [
+            "Polity shortcut that ignores constraints",
+            "Superficial Polity classification",
+            "The principle that correctly satisfies constraints in Polity",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 3 for CDS — Combined Defence Services.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in General Science"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Defence, which action is most technically and procedurally appropriate? Expansion item 4 for CDS — Combined Defence Services.",
+          "options": [
+            "The principle that correctly satisfies constraints in Defence",
+            "Defence shortcut that ignores constraints",
+            "Superficial Defence classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian History? Expansion item 5 for CDS — Combined Defence Services.",
+          "options": [
+            "Indian History shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Indian History",
+            "Superficial Indian History classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Geography? Expansion item 6 for CDS — Combined Defence Services.",
+          "options": [
+            "Geography shortcut that ignores constraints",
+            "Superficial Geography classification",
+            "The principle that correctly satisfies constraints in Geography",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Polity requires the use of which principle? Expansion item 7 for CDS — Combined Defence Services.",
+          "options": [
+            "Polity shortcut that ignores constraints",
+            "Superficial Polity classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Polity"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 8 for CDS — Combined Defence Services.",
+          "options": [
+            "The principle that correctly satisfies constraints in General Science",
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Defence, which action is most technically and procedurally appropriate? Expansion item 9 for CDS — Combined Defence Services.",
+          "options": [
+            "Defence shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Defence",
+            "Superficial Defence classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian History? Expansion item 10 for CDS — Combined Defence Services.",
+          "options": [
+            "Indian History shortcut that ignores constraints",
+            "Superficial Indian History classification",
+            "The principle that correctly satisfies constraints in Indian History",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Geography? Expansion item 11 for CDS — Combined Defence Services.",
+          "options": [
+            "Geography shortcut that ignores constraints",
+            "Superficial Geography classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Geography"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Polity requires the use of which principle? Expansion item 12 for CDS — Combined Defence Services.",
+          "options": [
+            "The principle that correctly satisfies constraints in Polity",
+            "Polity shortcut that ignores constraints",
+            "Superficial Polity classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 13 for CDS — Combined Defence Services.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in General Science",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cds-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Defence, which action is most technically and procedurally appropriate? Expansion item 14 for CDS — Combined Defence Services.",
+          "options": [
+            "Defence shortcut that ignores constraints",
+            "Superficial Defence classification",
+            "The principle that correctly satisfies constraints in Defence",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "CDS — Combined Defence Services — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-cds-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Polity? Expansion item 1 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Polity in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Polity rule",
+            "Integrate the constraints and edge conditions in Polity",
+            "Ignore an edge condition in Polity"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in General Science requires the use of which principle? Expansion item 2 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply General Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science",
+            "Integrate the constraints and edge conditions in General Science"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Defence? Expansion item 3 for CDS — Combined Defence Services.",
+          "options": [
+            "Integrate the constraints and edge conditions in Defence",
+            "Apply Defence in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Defence rule",
+            "Ignore an edge condition in Defence"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Indian History, which action is most technically and procedurally appropriate? Expansion item 4 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Indian History in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Indian History",
+            "Use the locally valid but globally incorrect Indian History rule",
+            "Ignore an edge condition in Indian History"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Geography? Expansion item 5 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Geography in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Geography rule",
+            "Integrate the constraints and edge conditions in Geography",
+            "Ignore an edge condition in Geography"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Polity? Expansion item 6 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Polity in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Polity rule",
+            "Ignore an edge condition in Polity",
+            "Integrate the constraints and edge conditions in Polity"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in General Science requires the use of which principle? Expansion item 7 for CDS — Combined Defence Services.",
+          "options": [
+            "Integrate the constraints and edge conditions in General Science",
+            "Apply General Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Defence? Expansion item 8 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Defence in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Defence",
+            "Use the locally valid but globally incorrect Defence rule",
+            "Ignore an edge condition in Defence"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Indian History, which action is most technically and procedurally appropriate? Expansion item 9 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Indian History in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Indian History rule",
+            "Integrate the constraints and edge conditions in Indian History",
+            "Ignore an edge condition in Indian History"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Indian History is supported by the relevant Indian History concept and the stated constraints.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cds-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Geography? Expansion item 10 for CDS — Combined Defence Services.",
+          "options": [
+            "Apply Geography in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Geography rule",
+            "Ignore an edge condition in Geography",
+            "Integrate the constraints and edge conditions in Geography"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Geography is supported by the relevant Geography concept and the stated constraints.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "CDS — Combined Defence Services"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

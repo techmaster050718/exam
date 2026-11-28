@@ -657,6 +657,11 @@ img, svg { max-width: 100%; display: block; }
 .weak-topics { margin-bottom: var(--space-xl); padding: var(--space-lg); }.weak-topics p { color: var(--text-secondary); font-size: var(--text-sm); margin: var(--space-xs) 0 var(--space-sm); }.weak-topics ul { padding-left: 22px; color: var(--text-secondary); }
 .cds-filters { display:flex; flex-wrap:wrap; gap:var(--space-sm); margin-bottom:var(--space-lg); }
 .cds-filters select { min-height:40px; padding:8px 12px; border:1px solid var(--border); border-radius:var(--radius-md); background:var(--bg-surface); color:var(--text-primary); }
+.full-forms-filters { display:flex; flex-wrap:wrap; gap:var(--space-sm); margin-bottom:var(--space-md); }
+.full-forms-filters select,
+.full-forms-filters input { min-height:40px; padding:8px 12px; border:1px solid var(--border); border-radius:var(--radius-md); background:var(--bg-surface); color:var(--text-primary); }
+.full-forms-filters input { min-width:min(320px, 100%); flex:1; }
+.full-forms-browser { margin-bottom:var(--space-lg); }
 
 /* ── 8. TEST PAGE ─────────────────────────────────────────── */
 /* Timer bar */

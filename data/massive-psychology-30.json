@@ -1,0 +1,688 @@
+{
+  "id": "massive-psychology-30",
+  "title": "Psychology — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Psychology",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Psychology — BASIC",
+      "questions": [
+        {
+          "id": "mass-psychology-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Personality? Expansion item 1 for Psychology.",
+          "options": [
+            "The foundational, verifiable principle of Personality",
+            "Personality approach without verification",
+            "An unrelated Personality technique",
+            "Opposite principle in Personality"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Perception requires the use of which principle? Expansion item 2 for Psychology.",
+          "options": [
+            "Perception approach without verification",
+            "An unrelated Perception technique",
+            "The foundational, verifiable principle of Perception",
+            "Opposite principle in Perception"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Learning? Expansion item 3 for Psychology.",
+          "options": [
+            "The foundational, verifiable principle of Learning",
+            "Learning approach without verification",
+            "An unrelated Learning technique",
+            "Opposite principle in Learning"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Motivation, which action is most technically and procedurally appropriate? Expansion item 4 for Psychology.",
+          "options": [
+            "Motivation approach without verification",
+            "An unrelated Motivation technique",
+            "The foundational, verifiable principle of Motivation",
+            "Opposite principle in Motivation"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Stress Management? Expansion item 5 for Psychology.",
+          "options": [
+            "The foundational, verifiable principle of Stress Management",
+            "Stress Management approach without verification",
+            "An unrelated Stress Management technique",
+            "Opposite principle in Stress Management"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Personality? Expansion item 6 for Psychology.",
+          "options": [
+            "Personality approach without verification",
+            "An unrelated Personality technique",
+            "The foundational, verifiable principle of Personality",
+            "Opposite principle in Personality"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Psychology — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-psychology-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Perception? Expansion item 1 for Psychology.",
+          "options": [
+            "Perception shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Perception",
+            "Superficial Perception classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Learning requires the use of which principle? Expansion item 2 for Psychology.",
+          "options": [
+            "Learning shortcut that ignores constraints",
+            "Superficial Learning classification",
+            "The principle that correctly satisfies constraints in Learning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Motivation? Expansion item 3 for Psychology.",
+          "options": [
+            "Motivation shortcut that ignores constraints",
+            "Superficial Motivation classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Motivation"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Stress Management, which action is most technically and procedurally appropriate? Expansion item 4 for Psychology.",
+          "options": [
+            "The principle that correctly satisfies constraints in Stress Management",
+            "Stress Management shortcut that ignores constraints",
+            "Superficial Stress Management classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Personality? Expansion item 5 for Psychology.",
+          "options": [
+            "Personality shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Personality",
+            "Superficial Personality classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Perception? Expansion item 6 for Psychology.",
+          "options": [
+            "Perception shortcut that ignores constraints",
+            "Superficial Perception classification",
+            "The principle that correctly satisfies constraints in Perception",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Learning requires the use of which principle? Expansion item 7 for Psychology.",
+          "options": [
+            "Learning shortcut that ignores constraints",
+            "Superficial Learning classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Learning"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Motivation? Expansion item 8 for Psychology.",
+          "options": [
+            "The principle that correctly satisfies constraints in Motivation",
+            "Motivation shortcut that ignores constraints",
+            "Superficial Motivation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Stress Management, which action is most technically and procedurally appropriate? Expansion item 9 for Psychology.",
+          "options": [
+            "Stress Management shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Stress Management",
+            "Superficial Stress Management classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Personality? Expansion item 10 for Psychology.",
+          "options": [
+            "Personality shortcut that ignores constraints",
+            "Superficial Personality classification",
+            "The principle that correctly satisfies constraints in Personality",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Perception? Expansion item 11 for Psychology.",
+          "options": [
+            "Perception shortcut that ignores constraints",
+            "Superficial Perception classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Perception"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Learning requires the use of which principle? Expansion item 12 for Psychology.",
+          "options": [
+            "The principle that correctly satisfies constraints in Learning",
+            "Learning shortcut that ignores constraints",
+            "Superficial Learning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Motivation? Expansion item 13 for Psychology.",
+          "options": [
+            "Motivation shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Motivation",
+            "Superficial Motivation classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-psychology-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Stress Management, which action is most technically and procedurally appropriate? Expansion item 14 for Psychology.",
+          "options": [
+            "Stress Management shortcut that ignores constraints",
+            "Superficial Stress Management classification",
+            "The principle that correctly satisfies constraints in Stress Management",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Psychology — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-psychology-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Learning? Expansion item 1 for Psychology.",
+          "options": [
+            "Apply Learning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Learning rule",
+            "Integrate the constraints and edge conditions in Learning",
+            "Ignore an edge condition in Learning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Motivation requires the use of which principle? Expansion item 2 for Psychology.",
+          "options": [
+            "Apply Motivation in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Motivation rule",
+            "Ignore an edge condition in Motivation",
+            "Integrate the constraints and edge conditions in Motivation"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Stress Management? Expansion item 3 for Psychology.",
+          "options": [
+            "Integrate the constraints and edge conditions in Stress Management",
+            "Apply Stress Management in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Stress Management rule",
+            "Ignore an edge condition in Stress Management"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Personality, which action is most technically and procedurally appropriate? Expansion item 4 for Psychology.",
+          "options": [
+            "Apply Personality in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Personality",
+            "Use the locally valid but globally incorrect Personality rule",
+            "Ignore an edge condition in Personality"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Perception? Expansion item 5 for Psychology.",
+          "options": [
+            "Apply Perception in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Perception rule",
+            "Integrate the constraints and edge conditions in Perception",
+            "Ignore an edge condition in Perception"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Learning? Expansion item 6 for Psychology.",
+          "options": [
+            "Apply Learning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Learning rule",
+            "Ignore an edge condition in Learning",
+            "Integrate the constraints and edge conditions in Learning"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Learning is supported by the relevant Learning concept and the stated constraints.",
+          "topic": "Learning",
+          "subtopic": "Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Motivation requires the use of which principle? Expansion item 7 for Psychology.",
+          "options": [
+            "Integrate the constraints and edge conditions in Motivation",
+            "Apply Motivation in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Motivation rule",
+            "Ignore an edge condition in Motivation"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Motivation is supported by the relevant Motivation concept and the stated constraints.",
+          "topic": "Motivation",
+          "subtopic": "Motivation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Stress Management? Expansion item 8 for Psychology.",
+          "options": [
+            "Apply Stress Management in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Stress Management",
+            "Use the locally valid but globally incorrect Stress Management rule",
+            "Ignore an edge condition in Stress Management"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Stress Management is supported by the relevant Stress Management concept and the stated constraints.",
+          "topic": "Stress Management",
+          "subtopic": "Stress Management",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Personality, which action is most technically and procedurally appropriate? Expansion item 9 for Psychology.",
+          "options": [
+            "Apply Personality in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Personality rule",
+            "Integrate the constraints and edge conditions in Personality",
+            "Ignore an edge condition in Personality"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Personality is supported by the relevant Personality concept and the stated constraints.",
+          "topic": "Personality",
+          "subtopic": "Personality",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-psychology-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Perception? Expansion item 10 for Psychology.",
+          "options": [
+            "Apply Perception in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Perception rule",
+            "Ignore an edge condition in Perception",
+            "Integrate the constraints and edge conditions in Perception"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Perception is supported by the relevant Perception concept and the stated constraints.",
+          "topic": "Perception",
+          "subtopic": "Perception",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Psychology"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

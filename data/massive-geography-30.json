@@ -1,0 +1,688 @@
+{
+  "id": "massive-geography-30",
+  "title": "Geography — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Geography",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Geography — BASIC",
+      "questions": [
+        {
+          "id": "mass-geography-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Physical Geography? Expansion item 1 for Geography.",
+          "options": [
+            "The foundational, verifiable principle of Physical Geography",
+            "Physical Geography approach without verification",
+            "An unrelated Physical Geography technique",
+            "Opposite principle in Physical Geography"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Indian Geography requires the use of which principle? Expansion item 2 for Geography.",
+          "options": [
+            "Indian Geography approach without verification",
+            "An unrelated Indian Geography technique",
+            "The foundational, verifiable principle of Indian Geography",
+            "Opposite principle in Indian Geography"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Climatology? Expansion item 3 for Geography.",
+          "options": [
+            "The foundational, verifiable principle of Climatology",
+            "Climatology approach without verification",
+            "An unrelated Climatology technique",
+            "Opposite principle in Climatology"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Resources, which action is most technically and procedurally appropriate? Expansion item 4 for Geography.",
+          "options": [
+            "Resources approach without verification",
+            "An unrelated Resources technique",
+            "The foundational, verifiable principle of Resources",
+            "Opposite principle in Resources"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Population? Expansion item 5 for Geography.",
+          "options": [
+            "The foundational, verifiable principle of Population",
+            "Population approach without verification",
+            "An unrelated Population technique",
+            "Opposite principle in Population"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Physical Geography? Expansion item 6 for Geography.",
+          "options": [
+            "Physical Geography approach without verification",
+            "An unrelated Physical Geography technique",
+            "The foundational, verifiable principle of Physical Geography",
+            "Opposite principle in Physical Geography"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Geography — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-geography-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian Geography? Expansion item 1 for Geography.",
+          "options": [
+            "Indian Geography shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Indian Geography",
+            "Superficial Indian Geography classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Climatology requires the use of which principle? Expansion item 2 for Geography.",
+          "options": [
+            "Climatology shortcut that ignores constraints",
+            "Superficial Climatology classification",
+            "The principle that correctly satisfies constraints in Climatology",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Resources? Expansion item 3 for Geography.",
+          "options": [
+            "Resources shortcut that ignores constraints",
+            "Superficial Resources classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Resources"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Population, which action is most technically and procedurally appropriate? Expansion item 4 for Geography.",
+          "options": [
+            "The principle that correctly satisfies constraints in Population",
+            "Population shortcut that ignores constraints",
+            "Superficial Population classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Physical Geography? Expansion item 5 for Geography.",
+          "options": [
+            "Physical Geography shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Physical Geography",
+            "Superficial Physical Geography classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian Geography? Expansion item 6 for Geography.",
+          "options": [
+            "Indian Geography shortcut that ignores constraints",
+            "Superficial Indian Geography classification",
+            "The principle that correctly satisfies constraints in Indian Geography",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Climatology requires the use of which principle? Expansion item 7 for Geography.",
+          "options": [
+            "Climatology shortcut that ignores constraints",
+            "Superficial Climatology classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Climatology"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Resources? Expansion item 8 for Geography.",
+          "options": [
+            "The principle that correctly satisfies constraints in Resources",
+            "Resources shortcut that ignores constraints",
+            "Superficial Resources classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Population, which action is most technically and procedurally appropriate? Expansion item 9 for Geography.",
+          "options": [
+            "Population shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Population",
+            "Superficial Population classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Physical Geography? Expansion item 10 for Geography.",
+          "options": [
+            "Physical Geography shortcut that ignores constraints",
+            "Superficial Physical Geography classification",
+            "The principle that correctly satisfies constraints in Physical Geography",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian Geography? Expansion item 11 for Geography.",
+          "options": [
+            "Indian Geography shortcut that ignores constraints",
+            "Superficial Indian Geography classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Indian Geography"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Climatology requires the use of which principle? Expansion item 12 for Geography.",
+          "options": [
+            "The principle that correctly satisfies constraints in Climatology",
+            "Climatology shortcut that ignores constraints",
+            "Superficial Climatology classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Resources? Expansion item 13 for Geography.",
+          "options": [
+            "Resources shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Resources",
+            "Superficial Resources classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-geography-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Population, which action is most technically and procedurally appropriate? Expansion item 14 for Geography.",
+          "options": [
+            "Population shortcut that ignores constraints",
+            "Superficial Population classification",
+            "The principle that correctly satisfies constraints in Population",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Geography — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-geography-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Climatology? Expansion item 1 for Geography.",
+          "options": [
+            "Apply Climatology in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Climatology rule",
+            "Integrate the constraints and edge conditions in Climatology",
+            "Ignore an edge condition in Climatology"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Resources requires the use of which principle? Expansion item 2 for Geography.",
+          "options": [
+            "Apply Resources in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Resources rule",
+            "Ignore an edge condition in Resources",
+            "Integrate the constraints and edge conditions in Resources"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Population? Expansion item 3 for Geography.",
+          "options": [
+            "Integrate the constraints and edge conditions in Population",
+            "Apply Population in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Population rule",
+            "Ignore an edge condition in Population"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Physical Geography, which action is most technically and procedurally appropriate? Expansion item 4 for Geography.",
+          "options": [
+            "Apply Physical Geography in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Physical Geography",
+            "Use the locally valid but globally incorrect Physical Geography rule",
+            "Ignore an edge condition in Physical Geography"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian Geography? Expansion item 5 for Geography.",
+          "options": [
+            "Apply Indian Geography in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Indian Geography rule",
+            "Integrate the constraints and edge conditions in Indian Geography",
+            "Ignore an edge condition in Indian Geography"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Climatology? Expansion item 6 for Geography.",
+          "options": [
+            "Apply Climatology in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Climatology rule",
+            "Ignore an edge condition in Climatology",
+            "Integrate the constraints and edge conditions in Climatology"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Climatology is supported by the relevant Climatology concept and the stated constraints.",
+          "topic": "Climatology",
+          "subtopic": "Climatology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Resources requires the use of which principle? Expansion item 7 for Geography.",
+          "options": [
+            "Integrate the constraints and edge conditions in Resources",
+            "Apply Resources in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Resources rule",
+            "Ignore an edge condition in Resources"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Resources is supported by the relevant Resources concept and the stated constraints.",
+          "topic": "Resources",
+          "subtopic": "Resources",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Population? Expansion item 8 for Geography.",
+          "options": [
+            "Apply Population in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Population",
+            "Use the locally valid but globally incorrect Population rule",
+            "Ignore an edge condition in Population"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Population is supported by the relevant Population concept and the stated constraints.",
+          "topic": "Population",
+          "subtopic": "Population",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Physical Geography, which action is most technically and procedurally appropriate? Expansion item 9 for Geography.",
+          "options": [
+            "Apply Physical Geography in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Physical Geography rule",
+            "Integrate the constraints and edge conditions in Physical Geography",
+            "Ignore an edge condition in Physical Geography"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Physical Geography is supported by the relevant Physical Geography concept and the stated constraints.",
+          "topic": "Physical Geography",
+          "subtopic": "Physical Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-geography-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian Geography? Expansion item 10 for Geography.",
+          "options": [
+            "Apply Indian Geography in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Indian Geography rule",
+            "Ignore an edge condition in Indian Geography",
+            "Integrate the constraints and edge conditions in Indian Geography"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Indian Geography is supported by the relevant Indian Geography concept and the stated constraints.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Geography"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

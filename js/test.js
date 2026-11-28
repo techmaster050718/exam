@@ -225,7 +225,12 @@
     App.qs('#q-num').textContent = `Question ${idx + 1} of ${questions.length} · ${q.type || 'MCQ'} · ${marks} mark${marks === 1 ? '' : 's'}`;
 
     // Section context
-    App.qs('#q-section').textContent = q.sectionName;
+    const sectorText = q.sector
+      ? `Sector: ${q.sector}${q.subsector ? ` · Subsector: ${q.subsector}` : ''}`
+      : q.topic
+        ? `Topic: ${q.topic}${q.subtopic ? ` · Subtopic: ${q.subtopic}` : ''}`
+        : q.sectionName;
+    App.qs('#q-section').textContent = sectorText;
 
     // Question text (safe render)
     App.qs('#q-text').replaceChildren(App.renderBilingualText(q.q));

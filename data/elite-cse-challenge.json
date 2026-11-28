@@ -1,0 +1,2198 @@
+{
+  "id": "elite-cse-challenge",
+  "title": "ELITE CSE CHALLENGE",
+  "subtitle": "Elite CSE challenge",
+  "sourceType": "PRACTICE",
+  "exam": "CSE",
+  "paperType": "SPECIAL",
+  "contentMode": "INTERNAL",
+  "source": "Original expert-level practice questions; not authentic PYQ",
+  "verificationStatus": "PRACTICE — original expert-level content",
+  "sections": [
+    {
+      "name": "Advanced DSA",
+      "questions": [
+        {
+          "id": "elite-cse-001",
+          "type": "MSQ",
+          "q": "Which statements about advanced dsa are correct? Scenario 1.",
+          "options": [
+            "Binary search maintains a sorted invariant.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated advanced dsa fact is directly supported.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-002",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 2.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-003",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 3.",
+          "options": [
+            "An adjacency list uses O(V+E) space.",
+            "An adjacency list uses O(V+E) space is not guaranteed.",
+            "An adjacency list uses O(V+E) space is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "An adjacency list uses O(V+E) space.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-004",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 4.",
+          "options": [
+            "Dijkstra is for non-negative edge weights.",
+            "Dijkstra is for non-negative edge weights is not guaranteed.",
+            "Dijkstra is for non-negative edge weights is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Dijkstra is for non-negative edge weights.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-005",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 5.",
+          "options": [
+            "A strongly connected component is maximal strongly connected.",
+            "A strongly connected component is maximal strongly connected is not guaranteed.",
+            "A strongly connected component is maximal strongly connected is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A strongly connected component is maximal strongly connected.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-006",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 6.",
+          "options": [
+            "A red-black tree guarantees O(log n) height.",
+            "A red-black tree guarantees O(log n) height is not guaranteed.",
+            "A red-black tree guarantees O(log n) height is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A red-black tree guarantees O(log n) height.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-007",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 7.",
+          "options": [
+            "A trie supports prefix queries.",
+            "A trie supports prefix queries is not guaranteed.",
+            "A trie supports prefix queries is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A trie supports prefix queries.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-008",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 8.",
+          "options": [
+            "A heap supports O(log n) insertion.",
+            "A heap supports O(log n) insertion is not guaranteed.",
+            "A heap supports O(log n) insertion is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A heap supports O(log n) insertion.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-009",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 9.",
+          "options": [
+            "Kosaraju is a two-pass SCC algorithm.",
+            "Kosaraju is a two-pass SCC algorithm is not guaranteed.",
+            "Kosaraju is a two-pass SCC algorithm is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Kosaraju is a two-pass SCC algorithm.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-010",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 10.",
+          "options": [
+            "The union-find α(n) operation is amortized nearly constant.",
+            "The union-find α(n) operation is amortized nearly constant is not guaranteed.",
+            "The union-find α(n) operation is amortized nearly constant is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "The union-find α(n) operation is amortized nearly constant.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-011",
+          "type": "MSQ",
+          "q": "Which statements about advanced dsa are correct? Scenario 11.",
+          "options": [
+            "Binary search maintains a sorted invariant.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated advanced dsa fact is directly supported.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-012",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 12.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-013",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 13.",
+          "options": [
+            "An adjacency list uses O(V+E) space.",
+            "An adjacency list uses O(V+E) space is not guaranteed.",
+            "An adjacency list uses O(V+E) space is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "An adjacency list uses O(V+E) space.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-014",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 14.",
+          "options": [
+            "Dijkstra is for non-negative edge weights.",
+            "Dijkstra is for non-negative edge weights is not guaranteed.",
+            "Dijkstra is for non-negative edge weights is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Dijkstra is for non-negative edge weights.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-015",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 15.",
+          "options": [
+            "A strongly connected component is maximal strongly connected.",
+            "A strongly connected component is maximal strongly connected is not guaranteed.",
+            "A strongly connected component is maximal strongly connected is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A strongly connected component is maximal strongly connected.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-016",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 16.",
+          "options": [
+            "A red-black tree guarantees O(log n) height.",
+            "A red-black tree guarantees O(log n) height is not guaranteed.",
+            "A red-black tree guarantees O(log n) height is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A red-black tree guarantees O(log n) height.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-017",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 17.",
+          "options": [
+            "A trie supports prefix queries.",
+            "A trie supports prefix queries is not guaranteed.",
+            "A trie supports prefix queries is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A trie supports prefix queries.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-018",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 18.",
+          "options": [
+            "A heap supports O(log n) insertion.",
+            "A heap supports O(log n) insertion is not guaranteed.",
+            "A heap supports O(log n) insertion is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A heap supports O(log n) insertion.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-019",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 19.",
+          "options": [
+            "Kosaraju is a two-pass SCC algorithm.",
+            "Kosaraju is a two-pass SCC algorithm is not guaranteed.",
+            "Kosaraju is a two-pass SCC algorithm is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Kosaraju is a two-pass SCC algorithm.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-020",
+          "type": "MCQ",
+          "q": "Which statement is correct in advanced dsa? Scenario 20.",
+          "options": [
+            "The union-find α(n) operation is amortized nearly constant.",
+            "The union-find α(n) operation is amortized nearly constant is not guaranteed.",
+            "The union-find α(n) operation is amortized nearly constant is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "The union-find α(n) operation is amortized nearly constant.",
+          "topic": "Advanced DSA",
+          "subtopic": "Advanced DSA",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Algorithms and Complexity",
+      "questions": [
+        {
+          "id": "elite-cse-021",
+          "type": "MSQ",
+          "q": "Which statements about algorithms and complexity are correct? Scenario 21.",
+          "options": [
+            "Merge sort worst-case time is O(n log n).",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated algorithms and complexity fact is directly supported.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-022",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 22.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-023",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 23.",
+          "options": [
+            "Lower bound for comparison sorting is Ω(n log n).",
+            "Lower bound for comparison sorting is Ω(n log n) is not guaranteed.",
+            "Lower bound for comparison sorting is Ω(n log n) is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Lower bound for comparison sorting is Ω(n log n).",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-024",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 24.",
+          "options": [
+            "Dynamic programming stores overlapping subproblems.",
+            "Dynamic programming stores overlapping subproblems is not guaranteed.",
+            "Dynamic programming stores overlapping subproblems is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Dynamic programming stores overlapping subproblems.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-025",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 25.",
+          "options": [
+            "Greedy is not always optimal.",
+            "Greedy is not always optimal is not guaranteed.",
+            "Greedy is not always optimal is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Greedy is not always optimal.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-026",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 26.",
+          "options": [
+            "KMP preprocessing builds a prefix function.",
+            "KMP preprocessing builds a prefix function is not guaranteed.",
+            "KMP preprocessing builds a prefix function is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "KMP preprocessing builds a prefix function.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-027",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 27.",
+          "options": [
+            "Rabin-Karp compares hashes.",
+            "Rabin-Karp compares hashes is not guaranteed.",
+            "Rabin-Karp compares hashes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Rabin-Karp compares hashes.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-028",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 28.",
+          "options": [
+            "Bellman-Ford handles negative edges.",
+            "Bellman-Ford handles negative edges is not guaranteed.",
+            "Bellman-Ford handles negative edges is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Bellman-Ford handles negative edges.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-029",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 29.",
+          "options": [
+            "Ford-Fulkerson computes flow.",
+            "Ford-Fulkerson computes flow is not guaranteed.",
+            "Ford-Fulkerson computes flow is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Ford-Fulkerson computes flow.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-030",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 30.",
+          "options": [
+            "A polynomial-time reduction preserves decidability direction.",
+            "A polynomial-time reduction preserves decidability direction is not guaranteed.",
+            "A polynomial-time reduction preserves decidability direction is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A polynomial-time reduction preserves decidability direction.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-031",
+          "type": "MSQ",
+          "q": "Which statements about algorithms and complexity are correct? Scenario 31.",
+          "options": [
+            "Merge sort worst-case time is O(n log n).",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated algorithms and complexity fact is directly supported.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-032",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 32.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-033",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 33.",
+          "options": [
+            "Lower bound for comparison sorting is Ω(n log n).",
+            "Lower bound for comparison sorting is Ω(n log n) is not guaranteed.",
+            "Lower bound for comparison sorting is Ω(n log n) is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Lower bound for comparison sorting is Ω(n log n).",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-034",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 34.",
+          "options": [
+            "Dynamic programming stores overlapping subproblems.",
+            "Dynamic programming stores overlapping subproblems is not guaranteed.",
+            "Dynamic programming stores overlapping subproblems is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Dynamic programming stores overlapping subproblems.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-035",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 35.",
+          "options": [
+            "Greedy is not always optimal.",
+            "Greedy is not always optimal is not guaranteed.",
+            "Greedy is not always optimal is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Greedy is not always optimal.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-036",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 36.",
+          "options": [
+            "KMP preprocessing builds a prefix function.",
+            "KMP preprocessing builds a prefix function is not guaranteed.",
+            "KMP preprocessing builds a prefix function is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "KMP preprocessing builds a prefix function.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-037",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 37.",
+          "options": [
+            "Rabin-Karp compares hashes.",
+            "Rabin-Karp compares hashes is not guaranteed.",
+            "Rabin-Karp compares hashes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Rabin-Karp compares hashes.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-038",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 38.",
+          "options": [
+            "Bellman-Ford handles negative edges.",
+            "Bellman-Ford handles negative edges is not guaranteed.",
+            "Bellman-Ford handles negative edges is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Bellman-Ford handles negative edges.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-039",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 39.",
+          "options": [
+            "Ford-Fulkerson computes flow.",
+            "Ford-Fulkerson computes flow is not guaranteed.",
+            "Ford-Fulkerson computes flow is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Ford-Fulkerson computes flow.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-040",
+          "type": "MCQ",
+          "q": "Which statement is correct in algorithms and complexity? Scenario 40.",
+          "options": [
+            "A polynomial-time reduction preserves decidability direction.",
+            "A polynomial-time reduction preserves decidability direction is not guaranteed.",
+            "A polynomial-time reduction preserves decidability direction is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A polynomial-time reduction preserves decidability direction.",
+          "topic": "Algorithms and Complexity",
+          "subtopic": "Algorithms and Complexity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "DBMS and SQL",
+      "questions": [
+        {
+          "id": "elite-cse-041",
+          "type": "MSQ",
+          "q": "Which statements about dbms and sql are correct? Scenario 41.",
+          "options": [
+            "A transaction is atomic, consistent, isolated and durable.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated dbms and sql fact is directly supported.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-042",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 42.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-043",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 43.",
+          "options": [
+            "2PL can prevent conflicting schedules.",
+            "2PL can prevent conflicting schedules is not guaranteed.",
+            "2PL can prevent conflicting schedules is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "2PL can prevent conflicting schedules.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-044",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 44.",
+          "options": [
+            "Write-ahead logging precedes data-page writes.",
+            "Write-ahead logging precedes data-page writes is not guaranteed.",
+            "Write-ahead logging precedes data-page writes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Write-ahead logging precedes data-page writes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-045",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 45.",
+          "options": [
+            "A join can be nested-loop or hash based.",
+            "A join can be nested-loop or hash based is not guaranteed.",
+            "A join can be nested-loop or hash based is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A join can be nested-loop or hash based.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-046",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 46.",
+          "options": [
+            "BCNF removes every determinant that is not a superkey.",
+            "BCNF removes every determinant that is not a superkey is not guaranteed.",
+            "BCNF removes every determinant that is not a superkey is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "BCNF removes every determinant that is not a superkey.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-047",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 47.",
+          "options": [
+            "A serializable schedule is conflict-serializable only under some but not all models.",
+            "A serializable schedule is conflict-serializable only under some but not all models is not guaranteed.",
+            "A serializable schedule is conflict-serializable only under some but not all models is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A serializable schedule is conflict-serializable only under some but not all models.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-048",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 48.",
+          "options": [
+            "An index speeds reads and costs writes.",
+            "An index speeds reads and costs writes is not guaranteed.",
+            "An index speeds reads and costs writes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "An index speeds reads and costs writes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-049",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 49.",
+          "options": [
+            "ACID is a transaction property set.",
+            "ACID is a transaction property set is not guaranteed.",
+            "ACID is a transaction property set is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "ACID is a transaction property set.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-050",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 50.",
+          "options": [
+            "A dirty read reads uncommitted data.",
+            "A dirty read reads uncommitted data is not guaranteed.",
+            "A dirty read reads uncommitted data is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A dirty read reads uncommitted data.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-051",
+          "type": "MSQ",
+          "q": "Which statements about dbms and sql are correct? Scenario 51.",
+          "options": [
+            "A transaction is atomic, consistent, isolated and durable.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated dbms and sql fact is directly supported.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-052",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 52.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-053",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 53.",
+          "options": [
+            "2PL can prevent conflicting schedules.",
+            "2PL can prevent conflicting schedules is not guaranteed.",
+            "2PL can prevent conflicting schedules is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "2PL can prevent conflicting schedules.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-054",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 54.",
+          "options": [
+            "Write-ahead logging precedes data-page writes.",
+            "Write-ahead logging precedes data-page writes is not guaranteed.",
+            "Write-ahead logging precedes data-page writes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Write-ahead logging precedes data-page writes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-055",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 55.",
+          "options": [
+            "A join can be nested-loop or hash based.",
+            "A join can be nested-loop or hash based is not guaranteed.",
+            "A join can be nested-loop or hash based is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A join can be nested-loop or hash based.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-056",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 56.",
+          "options": [
+            "BCNF removes every determinant that is not a superkey.",
+            "BCNF removes every determinant that is not a superkey is not guaranteed.",
+            "BCNF removes every determinant that is not a superkey is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "BCNF removes every determinant that is not a superkey.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-057",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 57.",
+          "options": [
+            "A serializable schedule is conflict-serializable only under some but not all models.",
+            "A serializable schedule is conflict-serializable only under some but not all models is not guaranteed.",
+            "A serializable schedule is conflict-serializable only under some but not all models is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A serializable schedule is conflict-serializable only under some but not all models.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-058",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 58.",
+          "options": [
+            "An index speeds reads and costs writes.",
+            "An index speeds reads and costs writes is not guaranteed.",
+            "An index speeds reads and costs writes is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "An index speeds reads and costs writes.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-059",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 59.",
+          "options": [
+            "ACID is a transaction property set.",
+            "ACID is a transaction property set is not guaranteed.",
+            "ACID is a transaction property set is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "ACID is a transaction property set.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-060",
+          "type": "MCQ",
+          "q": "Which statement is correct in dbms and sql? Scenario 60.",
+          "options": [
+            "A dirty read reads uncommitted data.",
+            "A dirty read reads uncommitted data is not guaranteed.",
+            "A dirty read reads uncommitted data is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A dirty read reads uncommitted data.",
+          "topic": "DBMS and SQL",
+          "subtopic": "DBMS and SQL",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "id": "elite-cse-061",
+          "type": "MSQ",
+          "q": "Which statements about operating systems are correct? Scenario 61.",
+          "options": [
+            "A context switch saves register state.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated operating systems fact is directly supported.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-062",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 62.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-063",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 63.",
+          "options": [
+            "Round-robin uses time quantum.",
+            "Round-robin uses time quantum is not guaranteed.",
+            "Round-robin uses time quantum is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Round-robin uses time quantum.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-064",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 64.",
+          "options": [
+            "Belady anomaly affects FIFO.",
+            "Belady anomaly affects FIFO is not guaranteed.",
+            "Belady anomaly affects FIFO is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Belady anomaly affects FIFO.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-065",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 65.",
+          "options": [
+            "Virtual memory uses demand paging.",
+            "Virtual memory uses demand paging is not guaranteed.",
+            "Virtual memory uses demand paging is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Virtual memory uses demand paging.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-066",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 66.",
+          "options": [
+            "Deadlock requires four Coffman conditions.",
+            "Deadlock requires four Coffman conditions is not guaranteed.",
+            "Deadlock requires four Coffman conditions is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Deadlock requires four Coffman conditions.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-067",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 67.",
+          "options": [
+            "A TLB caches address translations.",
+            "A TLB caches address translations is not guaranteed.",
+            "A TLB caches address translations is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A TLB caches address translations.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-068",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 68.",
+          "options": [
+            "A page fault requires handling.",
+            "A page fault requires handling is not guaranteed.",
+            "A page fault requires handling is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A page fault requires handling.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-069",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 69.",
+          "options": [
+            "LRU approximates least recent use.",
+            "LRU approximates least recent use is not guaranteed.",
+            "LRU approximates least recent use is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "LRU approximates least recent use.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-070",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 70.",
+          "options": [
+            "A semaphore has wait and signal operations.",
+            "A semaphore has wait and signal operations is not guaranteed.",
+            "A semaphore has wait and signal operations is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A semaphore has wait and signal operations.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-071",
+          "type": "MSQ",
+          "q": "Which statements about operating systems are correct? Scenario 71.",
+          "options": [
+            "A context switch saves register state.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated operating systems fact is directly supported.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-072",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 72.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-073",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 73.",
+          "options": [
+            "Round-robin uses time quantum.",
+            "Round-robin uses time quantum is not guaranteed.",
+            "Round-robin uses time quantum is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Round-robin uses time quantum.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-074",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 74.",
+          "options": [
+            "Belady anomaly affects FIFO.",
+            "Belady anomaly affects FIFO is not guaranteed.",
+            "Belady anomaly affects FIFO is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Belady anomaly affects FIFO.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-075",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 75.",
+          "options": [
+            "Virtual memory uses demand paging.",
+            "Virtual memory uses demand paging is not guaranteed.",
+            "Virtual memory uses demand paging is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Virtual memory uses demand paging.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-076",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 76.",
+          "options": [
+            "Deadlock requires four Coffman conditions.",
+            "Deadlock requires four Coffman conditions is not guaranteed.",
+            "Deadlock requires four Coffman conditions is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Deadlock requires four Coffman conditions.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-077",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 77.",
+          "options": [
+            "A TLB caches address translations.",
+            "A TLB caches address translations is not guaranteed.",
+            "A TLB caches address translations is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A TLB caches address translations.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-078",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 78.",
+          "options": [
+            "A page fault requires handling.",
+            "A page fault requires handling is not guaranteed.",
+            "A page fault requires handling is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A page fault requires handling.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-079",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 79.",
+          "options": [
+            "LRU approximates least recent use.",
+            "LRU approximates least recent use is not guaranteed.",
+            "LRU approximates least recent use is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "LRU approximates least recent use.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-080",
+          "type": "MCQ",
+          "q": "Which statement is correct in operating systems? Scenario 80.",
+          "options": [
+            "A semaphore has wait and signal operations.",
+            "A semaphore has wait and signal operations is not guaranteed.",
+            "A semaphore has wait and signal operations is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A semaphore has wait and signal operations.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Networks and Architecture",
+      "questions": [
+        {
+          "id": "elite-cse-081",
+          "type": "MSQ",
+          "q": "Which statements about networks and architecture are correct? Scenario 81.",
+          "options": [
+            "TCP provides ordered reliable byte-stream service.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated networks and architecture fact is directly supported.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-082",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 82.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-083",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 83.",
+          "options": [
+            "A /26 network has 64 addresses.",
+            "A /26 network has 64 addresses is not guaranteed.",
+            "A /26 network has 64 addresses is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A /26 network has 64 addresses.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-084",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 84.",
+          "options": [
+            "TCP congestion control adapts window size.",
+            "TCP congestion control adapts window size is not guaranteed.",
+            "TCP congestion control adapts window size is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "TCP congestion control adapts window size.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-085",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 85.",
+          "options": [
+            "Cache hit rate improves with locality.",
+            "Cache hit rate improves with locality is not guaranteed.",
+            "Cache hit rate improves with locality is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Cache hit rate improves with locality.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-086",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 86.",
+          "options": [
+            "Pipeline forwarding reduces stalls.",
+            "Pipeline forwarding reduces stalls is not guaranteed.",
+            "Pipeline forwarding reduces stalls is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Pipeline forwarding reduces stalls.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-087",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 87.",
+          "options": [
+            "ARP maps IP to MAC.",
+            "ARP maps IP to MAC is not guaranteed.",
+            "ARP maps IP to MAC is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "ARP maps IP to MAC.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-088",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 88.",
+          "options": [
+            "TLS authenticates and encrypts.",
+            "TLS authenticates and encrypts is not guaranteed.",
+            "TLS authenticates and encrypts is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "TLS authenticates and encrypts.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-089",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 89.",
+          "options": [
+            "A 64-byte cache block supplies offset alignment.",
+            "A 64-byte cache block supplies offset alignment is not guaranteed.",
+            "A 64-byte cache block supplies offset alignment is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A 64-byte cache block supplies offset alignment.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-090",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 90.",
+          "options": [
+            "The network layer routes packets.",
+            "The network layer routes packets is not guaranteed.",
+            "The network layer routes packets is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "The network layer routes packets.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-091",
+          "type": "MSQ",
+          "q": "Which statements about networks and architecture are correct? Scenario 91.",
+          "options": [
+            "TCP provides ordered reliable byte-stream service.",
+            "It never has implementation trade-offs.",
+            "It is always independent of memory hierarchy.",
+            "It has no constraints."
+          ],
+          "answer": [
+            0
+          ],
+          "explanation": "Only the stated networks and architecture fact is directly supported.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-cse-092",
+          "type": "NAT",
+          "q": "For a complete binary search tree of height 3, what is the maximum number of nodes? (Height counts root as level 0.) Scenario 92.",
+          "answer": 15,
+          "tolerance": 0,
+          "explanation": "A complete binary tree with levels 0 through 3 has 1+2+4+8=15 nodes.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-cse-093",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 93.",
+          "options": [
+            "A /26 network has 64 addresses.",
+            "A /26 network has 64 addresses is not guaranteed.",
+            "A /26 network has 64 addresses is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A /26 network has 64 addresses.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-094",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 94.",
+          "options": [
+            "TCP congestion control adapts window size.",
+            "TCP congestion control adapts window size is not guaranteed.",
+            "TCP congestion control adapts window size is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "TCP congestion control adapts window size.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-095",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 95.",
+          "options": [
+            "Cache hit rate improves with locality.",
+            "Cache hit rate improves with locality is not guaranteed.",
+            "Cache hit rate improves with locality is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Cache hit rate improves with locality.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-096",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 96.",
+          "options": [
+            "Pipeline forwarding reduces stalls.",
+            "Pipeline forwarding reduces stalls is not guaranteed.",
+            "Pipeline forwarding reduces stalls is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "Pipeline forwarding reduces stalls.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-097",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 97.",
+          "options": [
+            "ARP maps IP to MAC.",
+            "ARP maps IP to MAC is not guaranteed.",
+            "ARP maps IP to MAC is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "ARP maps IP to MAC.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-098",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 98.",
+          "options": [
+            "TLS authenticates and encrypts.",
+            "TLS authenticates and encrypts is not guaranteed.",
+            "TLS authenticates and encrypts is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "TLS authenticates and encrypts.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-099",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 99.",
+          "options": [
+            "A 64-byte cache block supplies offset alignment.",
+            "A 64-byte cache block supplies offset alignment is not guaranteed.",
+            "A 64-byte cache block supplies offset alignment is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "A 64-byte cache block supplies offset alignment.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-cse-100",
+          "type": "MCQ",
+          "q": "Which statement is correct in networks and architecture? Scenario 100.",
+          "options": [
+            "The network layer routes packets.",
+            "The network layer routes packets is not guaranteed.",
+            "The network layer routes packets is never applicable.",
+            "No relationship can be inferred."
+          ],
+          "answer": 0,
+          "explanation": "The network layer routes packets.",
+          "topic": "Networks and Architecture",
+          "subtopic": "Networks and Architecture",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE CSE CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

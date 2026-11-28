@@ -1,0 +1,688 @@
+{
+  "id": "massive-up-police-si-30",
+  "title": "UP Police SI — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "UP Police SI",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "UP Police SI — BASIC",
+      "questions": [
+        {
+          "id": "mass-up-police-si-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Polity? Expansion item 1 for UP Police SI.",
+          "options": [
+            "The foundational, verifiable principle of Polity",
+            "Polity approach without verification",
+            "An unrelated Polity technique",
+            "Opposite principle in Polity"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Current Administration requires the use of which principle? Expansion item 2 for UP Police SI.",
+          "options": [
+            "Current Administration approach without verification",
+            "An unrelated Current Administration technique",
+            "The foundational, verifiable principle of Current Administration",
+            "Opposite principle in Current Administration"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Reasoning? Expansion item 3 for UP Police SI.",
+          "options": [
+            "The foundational, verifiable principle of Reasoning",
+            "Reasoning approach without verification",
+            "An unrelated Reasoning technique",
+            "Opposite principle in Reasoning"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Law, which action is most technically and procedurally appropriate? Expansion item 4 for UP Police SI.",
+          "options": [
+            "Law approach without verification",
+            "An unrelated Law technique",
+            "The foundational, verifiable principle of Law",
+            "Opposite principle in Law"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in General Science? Expansion item 5 for UP Police SI.",
+          "options": [
+            "The foundational, verifiable principle of General Science",
+            "General Science approach without verification",
+            "An unrelated General Science technique",
+            "Opposite principle in General Science"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Polity? Expansion item 6 for UP Police SI.",
+          "options": [
+            "Polity approach without verification",
+            "An unrelated Polity technique",
+            "The foundational, verifiable principle of Polity",
+            "Opposite principle in Polity"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "BASIC",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "UP Police SI — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-up-police-si-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Current Administration? Expansion item 1 for UP Police SI.",
+          "options": [
+            "Current Administration shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Current Administration",
+            "Superficial Current Administration classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 2 for UP Police SI.",
+          "options": [
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "The principle that correctly satisfies constraints in Reasoning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Law? Expansion item 3 for UP Police SI.",
+          "options": [
+            "Law shortcut that ignores constraints",
+            "Superficial Law classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Law"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving General Science, which action is most technically and procedurally appropriate? Expansion item 4 for UP Police SI.",
+          "options": [
+            "The principle that correctly satisfies constraints in General Science",
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Polity? Expansion item 5 for UP Police SI.",
+          "options": [
+            "Polity shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Polity",
+            "Superficial Polity classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Current Administration? Expansion item 6 for UP Police SI.",
+          "options": [
+            "Current Administration shortcut that ignores constraints",
+            "Superficial Current Administration classification",
+            "The principle that correctly satisfies constraints in Current Administration",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 7 for UP Police SI.",
+          "options": [
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Law? Expansion item 8 for UP Police SI.",
+          "options": [
+            "The principle that correctly satisfies constraints in Law",
+            "Law shortcut that ignores constraints",
+            "Superficial Law classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving General Science, which action is most technically and procedurally appropriate? Expansion item 9 for UP Police SI.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in General Science",
+            "Superficial General Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Polity? Expansion item 10 for UP Police SI.",
+          "options": [
+            "Polity shortcut that ignores constraints",
+            "Superficial Polity classification",
+            "The principle that correctly satisfies constraints in Polity",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Current Administration? Expansion item 11 for UP Police SI.",
+          "options": [
+            "Current Administration shortcut that ignores constraints",
+            "Superficial Current Administration classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Current Administration"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Reasoning requires the use of which principle? Expansion item 12 for UP Police SI.",
+          "options": [
+            "The principle that correctly satisfies constraints in Reasoning",
+            "Reasoning shortcut that ignores constraints",
+            "Superficial Reasoning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Law? Expansion item 13 for UP Police SI.",
+          "options": [
+            "Law shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Law",
+            "Superficial Law classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-up-police-si-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving General Science, which action is most technically and procedurally appropriate? Expansion item 14 for UP Police SI.",
+          "options": [
+            "General Science shortcut that ignores constraints",
+            "Superficial General Science classification",
+            "The principle that correctly satisfies constraints in General Science",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "UP Police SI — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-up-police-si-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reasoning? Expansion item 1 for UP Police SI.",
+          "options": [
+            "Apply Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reasoning rule",
+            "Integrate the constraints and edge conditions in Reasoning",
+            "Ignore an edge condition in Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Law requires the use of which principle? Expansion item 2 for UP Police SI.",
+          "options": [
+            "Apply Law in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Law rule",
+            "Ignore an edge condition in Law",
+            "Integrate the constraints and edge conditions in Law"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 3 for UP Police SI.",
+          "options": [
+            "Integrate the constraints and edge conditions in General Science",
+            "Apply General Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Polity, which action is most technically and procedurally appropriate? Expansion item 4 for UP Police SI.",
+          "options": [
+            "Apply Polity in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Polity",
+            "Use the locally valid but globally incorrect Polity rule",
+            "Ignore an edge condition in Polity"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Current Administration? Expansion item 5 for UP Police SI.",
+          "options": [
+            "Apply Current Administration in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Current Administration rule",
+            "Integrate the constraints and edge conditions in Current Administration",
+            "Ignore an edge condition in Current Administration"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reasoning? Expansion item 6 for UP Police SI.",
+          "options": [
+            "Apply Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reasoning rule",
+            "Ignore an edge condition in Reasoning",
+            "Integrate the constraints and edge conditions in Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Reasoning is supported by the relevant Reasoning concept and the stated constraints.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Law requires the use of which principle? Expansion item 7 for UP Police SI.",
+          "options": [
+            "Integrate the constraints and edge conditions in Law",
+            "Apply Law in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Law rule",
+            "Ignore an edge condition in Law"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Law is supported by the relevant Law concept and the stated constraints.",
+          "topic": "Law",
+          "subtopic": "Law",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in General Science? Expansion item 8 for UP Police SI.",
+          "options": [
+            "Apply General Science in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in General Science",
+            "Use the locally valid but globally incorrect General Science rule",
+            "Ignore an edge condition in General Science"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in General Science is supported by the relevant General Science concept and the stated constraints.",
+          "topic": "General Science",
+          "subtopic": "General Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Polity, which action is most technically and procedurally appropriate? Expansion item 9 for UP Police SI.",
+          "options": [
+            "Apply Polity in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Polity rule",
+            "Integrate the constraints and edge conditions in Polity",
+            "Ignore an edge condition in Polity"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Polity is supported by the relevant Polity concept and the stated constraints.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-up-police-si-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Current Administration? Expansion item 10 for UP Police SI.",
+          "options": [
+            "Apply Current Administration in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Current Administration rule",
+            "Ignore an edge condition in Current Administration",
+            "Integrate the constraints and edge conditions in Current Administration"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Current Administration is supported by the relevant Current Administration concept and the stated constraints.",
+          "topic": "Current Administration",
+          "subtopic": "Current Administration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "UP Police SI"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

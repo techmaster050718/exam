@@ -1,0 +1,688 @@
+{
+  "id": "massive-powergrid-et-30",
+  "title": "POWERGRID Executive Trainee — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "POWERGRID Executive Trainee",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "POWERGRID Executive Trainee — BASIC",
+      "questions": [
+        {
+          "id": "mass-powergrid-et-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Power Systems? Expansion item 1 for POWERGRID Executive Trainee.",
+          "options": [
+            "The foundational, verifiable principle of Power Systems",
+            "Power Systems approach without verification",
+            "An unrelated Power Systems technique",
+            "Opposite principle in Power Systems"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Electrical Machines requires the use of which principle? Expansion item 2 for POWERGRID Executive Trainee.",
+          "options": [
+            "Electrical Machines approach without verification",
+            "An unrelated Electrical Machines technique",
+            "The foundational, verifiable principle of Electrical Machines",
+            "Opposite principle in Electrical Machines"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Protection? Expansion item 3 for POWERGRID Executive Trainee.",
+          "options": [
+            "The foundational, verifiable principle of Protection",
+            "Protection approach without verification",
+            "An unrelated Protection technique",
+            "Opposite principle in Protection"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Networks, which action is most technically and procedurally appropriate? Expansion item 4 for POWERGRID Executive Trainee.",
+          "options": [
+            "Networks approach without verification",
+            "An unrelated Networks technique",
+            "The foundational, verifiable principle of Networks",
+            "Opposite principle in Networks"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Computing? Expansion item 5 for POWERGRID Executive Trainee.",
+          "options": [
+            "The foundational, verifiable principle of Computing",
+            "Computing approach without verification",
+            "An unrelated Computing technique",
+            "Opposite principle in Computing"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Power Systems? Expansion item 6 for POWERGRID Executive Trainee.",
+          "options": [
+            "Power Systems approach without verification",
+            "An unrelated Power Systems technique",
+            "The foundational, verifiable principle of Power Systems",
+            "Opposite principle in Power Systems"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "BASIC",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "POWERGRID Executive Trainee — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-powergrid-et-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Electrical Machines? Expansion item 1 for POWERGRID Executive Trainee.",
+          "options": [
+            "Electrical Machines shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Electrical Machines",
+            "Superficial Electrical Machines classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Protection requires the use of which principle? Expansion item 2 for POWERGRID Executive Trainee.",
+          "options": [
+            "Protection shortcut that ignores constraints",
+            "Superficial Protection classification",
+            "The principle that correctly satisfies constraints in Protection",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Networks? Expansion item 3 for POWERGRID Executive Trainee.",
+          "options": [
+            "Networks shortcut that ignores constraints",
+            "Superficial Networks classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Networks"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Computing, which action is most technically and procedurally appropriate? Expansion item 4 for POWERGRID Executive Trainee.",
+          "options": [
+            "The principle that correctly satisfies constraints in Computing",
+            "Computing shortcut that ignores constraints",
+            "Superficial Computing classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Power Systems? Expansion item 5 for POWERGRID Executive Trainee.",
+          "options": [
+            "Power Systems shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Power Systems",
+            "Superficial Power Systems classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Electrical Machines? Expansion item 6 for POWERGRID Executive Trainee.",
+          "options": [
+            "Electrical Machines shortcut that ignores constraints",
+            "Superficial Electrical Machines classification",
+            "The principle that correctly satisfies constraints in Electrical Machines",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Protection requires the use of which principle? Expansion item 7 for POWERGRID Executive Trainee.",
+          "options": [
+            "Protection shortcut that ignores constraints",
+            "Superficial Protection classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Protection"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Networks? Expansion item 8 for POWERGRID Executive Trainee.",
+          "options": [
+            "The principle that correctly satisfies constraints in Networks",
+            "Networks shortcut that ignores constraints",
+            "Superficial Networks classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Computing, which action is most technically and procedurally appropriate? Expansion item 9 for POWERGRID Executive Trainee.",
+          "options": [
+            "Computing shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Computing",
+            "Superficial Computing classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Power Systems? Expansion item 10 for POWERGRID Executive Trainee.",
+          "options": [
+            "Power Systems shortcut that ignores constraints",
+            "Superficial Power Systems classification",
+            "The principle that correctly satisfies constraints in Power Systems",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Electrical Machines? Expansion item 11 for POWERGRID Executive Trainee.",
+          "options": [
+            "Electrical Machines shortcut that ignores constraints",
+            "Superficial Electrical Machines classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Electrical Machines"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Protection requires the use of which principle? Expansion item 12 for POWERGRID Executive Trainee.",
+          "options": [
+            "The principle that correctly satisfies constraints in Protection",
+            "Protection shortcut that ignores constraints",
+            "Superficial Protection classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Networks? Expansion item 13 for POWERGRID Executive Trainee.",
+          "options": [
+            "Networks shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Networks",
+            "Superficial Networks classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-powergrid-et-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Computing, which action is most technically and procedurally appropriate? Expansion item 14 for POWERGRID Executive Trainee.",
+          "options": [
+            "Computing shortcut that ignores constraints",
+            "Superficial Computing classification",
+            "The principle that correctly satisfies constraints in Computing",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "POWERGRID Executive Trainee — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-powergrid-et-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Protection? Expansion item 1 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Protection in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Protection rule",
+            "Integrate the constraints and edge conditions in Protection",
+            "Ignore an edge condition in Protection"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Networks requires the use of which principle? Expansion item 2 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Networks in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Networks rule",
+            "Ignore an edge condition in Networks",
+            "Integrate the constraints and edge conditions in Networks"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Computing? Expansion item 3 for POWERGRID Executive Trainee.",
+          "options": [
+            "Integrate the constraints and edge conditions in Computing",
+            "Apply Computing in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Computing rule",
+            "Ignore an edge condition in Computing"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Power Systems, which action is most technically and procedurally appropriate? Expansion item 4 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Power Systems in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Power Systems",
+            "Use the locally valid but globally incorrect Power Systems rule",
+            "Ignore an edge condition in Power Systems"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Electrical Machines? Expansion item 5 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Electrical Machines in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Electrical Machines rule",
+            "Integrate the constraints and edge conditions in Electrical Machines",
+            "Ignore an edge condition in Electrical Machines"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Protection? Expansion item 6 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Protection in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Protection rule",
+            "Ignore an edge condition in Protection",
+            "Integrate the constraints and edge conditions in Protection"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Protection is supported by the relevant Protection concept and the stated constraints.",
+          "topic": "Protection",
+          "subtopic": "Protection",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Networks requires the use of which principle? Expansion item 7 for POWERGRID Executive Trainee.",
+          "options": [
+            "Integrate the constraints and edge conditions in Networks",
+            "Apply Networks in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Networks rule",
+            "Ignore an edge condition in Networks"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Networks is supported by the relevant Networks concept and the stated constraints.",
+          "topic": "Networks",
+          "subtopic": "Networks",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Computing? Expansion item 8 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Computing in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Computing",
+            "Use the locally valid but globally incorrect Computing rule",
+            "Ignore an edge condition in Computing"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Computing is supported by the relevant Computing concept and the stated constraints.",
+          "topic": "Computing",
+          "subtopic": "Computing",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Power Systems, which action is most technically and procedurally appropriate? Expansion item 9 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Power Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Power Systems rule",
+            "Integrate the constraints and edge conditions in Power Systems",
+            "Ignore an edge condition in Power Systems"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Power Systems is supported by the relevant Power Systems concept and the stated constraints.",
+          "topic": "Power Systems",
+          "subtopic": "Power Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-powergrid-et-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Electrical Machines? Expansion item 10 for POWERGRID Executive Trainee.",
+          "options": [
+            "Apply Electrical Machines in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Electrical Machines rule",
+            "Ignore an edge condition in Electrical Machines",
+            "Integrate the constraints and edge conditions in Electrical Machines"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Electrical Machines is supported by the relevant Electrical Machines concept and the stated constraints.",
+          "topic": "Electrical Machines",
+          "subtopic": "Electrical Machines",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "POWERGRID Executive Trainee"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

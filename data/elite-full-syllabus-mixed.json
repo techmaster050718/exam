@@ -1,0 +1,3333 @@
+{
+  "id": "elite-full-syllabus-mixed",
+  "title": "ELITE FULL SYLLABUS MIXED MOCK",
+  "subtitle": "Elite Full-Syllabus Mixed Mock",
+  "sourceType": "PRACTICE",
+  "exam": "Mixed",
+  "paperType": "SPECIAL",
+  "contentMode": "INTERNAL",
+  "source": "Original expert-level practice questions; not authentic PYQ",
+  "verificationStatus": "PRACTICE — original expert-level content",
+  "sections": [
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "elite-mixed-096",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 96.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-023",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 23.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-130",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 130.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-041",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 41.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-075",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 75.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-088",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 88.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-097",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 97.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-114",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 114.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-131",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 131.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-102",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 102.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-094",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 94.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-076",
+          "type": "NAT",
+          "q": "A economy calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 76.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-091",
+          "type": "NAT",
+          "q": "A cse calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 91.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-002",
+          "type": "MSQ",
+          "q": "In IT Officer, which statements should be verified before finalising an answer? Item 2.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-084",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 84.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "id": "elite-mixed-073",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 73.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-115",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 115.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-016",
+          "type": "NAT",
+          "q": "A economy calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 16.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-089",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 89.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-134",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 134.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-103",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 103.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-117",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 117.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-122",
+          "type": "MSQ",
+          "q": "In IT Officer, which statements should be verified before finalising an answer? Item 122.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-128",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 128.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-074",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 74.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-018",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 18.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-005",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 5.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-143",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 143.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-057",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 57.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-113",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 113.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "id": "elite-mixed-037",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 37.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-033",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 33.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-086",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 86.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-126",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 126.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-063",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 63.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-009",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 9.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-120",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 120.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-017",
+          "type": "MSQ",
+          "q": "In Science, which statements should be verified before finalising an answer? Item 17.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-039",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 39.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-121",
+          "type": "NAT",
+          "q": "A cse calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 121.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-020",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 20.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-046",
+          "type": "NAT",
+          "q": "A economy calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 46.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-109",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 109.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-132",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 132.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-058",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 58.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "id": "elite-mixed-053",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 53.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-140",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 140.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-031",
+          "type": "NAT",
+          "q": "A cse calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 31.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-056",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 56.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-045",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 45.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-003",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 3.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-066",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 66.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-136",
+          "type": "NAT",
+          "q": "A economy calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 136.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-095",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 95.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-068",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 68.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-104",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 104.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-050",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 50.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-026",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 26.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-036",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 36.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-067",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 67.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "elite-mixed-116",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 116.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-064",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 64.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-021",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 21.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-138",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 138.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-007",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 7.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-062",
+          "type": "MSQ",
+          "q": "In IT Officer, which statements should be verified before finalising an answer? Item 62.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-082",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 82.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-054",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 54.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-135",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 135.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-111",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 111.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-028",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 28.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-098",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 98.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-070",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 70.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-014",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 14.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-105",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 105.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "elite-mixed-006",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 6.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-125",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 125.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-042",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 42.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-145",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 145.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-072",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 72.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-083",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 83.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-052",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 52.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-078",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 78.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-038",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 38.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-087",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 87.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-051",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 51.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-001",
+          "type": "NAT",
+          "q": "A cse calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 1.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-142",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 142.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-047",
+          "type": "MSQ",
+          "q": "In Science, which statements should be verified before finalising an answer? Item 47.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-077",
+          "type": "MSQ",
+          "q": "In Science, which statements should be verified before finalising an answer? Item 77.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "id": "elite-mixed-013",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 13.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-123",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 123.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-010",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 10.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-011",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 11.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-149",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 149.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-150",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 150.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-008",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 8.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-027",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 27.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-099",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 99.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-048",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 48.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-061",
+          "type": "NAT",
+          "q": "A cse calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 61.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-035",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 35.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-065",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 65.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-071",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 71.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-107",
+          "type": "MSQ",
+          "q": "In Science, which statements should be verified before finalising an answer? Item 107.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        }
+      ]
+    },
+    {
+      "name": "Reasoning",
+      "questions": [
+        {
+          "id": "elite-mixed-090",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 90.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-119",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 119.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-081",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 81.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-040",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 40.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-034",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 34.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-112",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 112.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-137",
+          "type": "MSQ",
+          "q": "In Science, which statements should be verified before finalising an answer? Item 137.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-110",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 110.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-024",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 24.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-019",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 19.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-147",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 147.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-055",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 55.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-139",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 139.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-029",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 29.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-080",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 80.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "id": "elite-mixed-043",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 43.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-085",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 85.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-133",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 133.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-146",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful economy problem solving? Item 146.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-022",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 22.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-044",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 44.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-079",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 79.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-129",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 129.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-108",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 108.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-106",
+          "type": "NAT",
+          "q": "A economy calculation has 8 independent valid states and 2 invalid states. How many total states are considered? Item 106.",
+          "answer": 10,
+          "tolerance": 0,
+          "explanation": "The valid and invalid states are disjoint in the stated count, so 8+2=10.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-mixed-059",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 59.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-032",
+          "type": "MSQ",
+          "q": "In IT Officer, which statements should be verified before finalising an answer? Item 32.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-012",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful it officer problem solving? Item 12.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-144",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 144.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-069",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 69.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "id": "elite-mixed-124",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 124.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-049",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful quantitative aptitude problem solving? Item 49.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Quantitative Aptitude",
+          "subtopic": "Quantitative Aptitude",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-127",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful science problem solving? Item 127.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-148",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 148.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-092",
+          "type": "MSQ",
+          "q": "In IT Officer, which statements should be verified before finalising an answer? Item 92.",
+          "options": [
+            "The assumptions match the premise.",
+            "Units or definitions are consistent.",
+            "A correct-looking but untested conclusion is accepted.",
+            "The boundary conditions are ignored."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Assumption and boundary consistency are mandatory before selecting a result.",
+          "topic": "IT Officer",
+          "subtopic": "IT Officer",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-mixed-060",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 60.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-015",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 15.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-141",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 141.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-093",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful history problem solving? Item 93.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "History",
+          "subtopic": "History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-100",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 100.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-101",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful cse problem solving? Item 101.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "CSE",
+          "subtopic": "CSE",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-004",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful geography problem solving? Item 4.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Geography",
+          "subtopic": "Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-025",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful polity problem solving? Item 25.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-030",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful reasoning problem solving? Item 30.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Reasoning",
+          "subtopic": "Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-mixed-118",
+          "type": "MCQ",
+          "q": "Which response best demonstrates careful defence problem solving? Item 118.",
+          "options": [
+            "Check assumptions, eliminate unsupported cases, and verify the result.",
+            "Select the first plausible option.",
+            "Use a rule outside its stated domain.",
+            "Ignore units and boundary conditions."
+          ],
+          "answer": 0,
+          "explanation": "The answer requires assumptions, elimination and verification rather than superficial selection.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE FULL SYLLABUS MIXED MOCK"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

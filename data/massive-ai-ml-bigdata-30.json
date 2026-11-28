@@ -1,0 +1,688 @@
+{
+  "id": "massive-ai-ml-bigdata-30",
+  "title": "AI, ML & Big Data — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "AI, ML & Big Data",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "AI, ML & Big Data — BASIC",
+      "questions": [
+        {
+          "id": "mass-ai-ml-bigdata-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Machine Learning? Expansion item 1 for AI, ML & Big Data.",
+          "options": [
+            "The foundational, verifiable principle of Machine Learning",
+            "Machine Learning approach without verification",
+            "An unrelated Machine Learning technique",
+            "Opposite principle in Machine Learning"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Deep Learning requires the use of which principle? Expansion item 2 for AI, ML & Big Data.",
+          "options": [
+            "Deep Learning approach without verification",
+            "An unrelated Deep Learning technique",
+            "The foundational, verifiable principle of Deep Learning",
+            "Opposite principle in Deep Learning"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Statistics? Expansion item 3 for AI, ML & Big Data.",
+          "options": [
+            "The foundational, verifiable principle of Statistics",
+            "Statistics approach without verification",
+            "An unrelated Statistics technique",
+            "Opposite principle in Statistics"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Big Data, which action is most technically and procedurally appropriate? Expansion item 4 for AI, ML & Big Data.",
+          "options": [
+            "Big Data approach without verification",
+            "An unrelated Big Data technique",
+            "The foundational, verifiable principle of Big Data",
+            "Opposite principle in Big Data"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Responsible AI? Expansion item 5 for AI, ML & Big Data.",
+          "options": [
+            "The foundational, verifiable principle of Responsible AI",
+            "Responsible AI approach without verification",
+            "An unrelated Responsible AI technique",
+            "Opposite principle in Responsible AI"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Machine Learning? Expansion item 6 for AI, ML & Big Data.",
+          "options": [
+            "Machine Learning approach without verification",
+            "An unrelated Machine Learning technique",
+            "The foundational, verifiable principle of Machine Learning",
+            "Opposite principle in Machine Learning"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "AI, ML & Big Data — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-ai-ml-bigdata-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Deep Learning? Expansion item 1 for AI, ML & Big Data.",
+          "options": [
+            "Deep Learning shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Deep Learning",
+            "Superficial Deep Learning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Statistics requires the use of which principle? Expansion item 2 for AI, ML & Big Data.",
+          "options": [
+            "Statistics shortcut that ignores constraints",
+            "Superficial Statistics classification",
+            "The principle that correctly satisfies constraints in Statistics",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Big Data? Expansion item 3 for AI, ML & Big Data.",
+          "options": [
+            "Big Data shortcut that ignores constraints",
+            "Superficial Big Data classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Big Data"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Responsible AI, which action is most technically and procedurally appropriate? Expansion item 4 for AI, ML & Big Data.",
+          "options": [
+            "The principle that correctly satisfies constraints in Responsible AI",
+            "Responsible AI shortcut that ignores constraints",
+            "Superficial Responsible AI classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Machine Learning? Expansion item 5 for AI, ML & Big Data.",
+          "options": [
+            "Machine Learning shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Machine Learning",
+            "Superficial Machine Learning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Deep Learning? Expansion item 6 for AI, ML & Big Data.",
+          "options": [
+            "Deep Learning shortcut that ignores constraints",
+            "Superficial Deep Learning classification",
+            "The principle that correctly satisfies constraints in Deep Learning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Statistics requires the use of which principle? Expansion item 7 for AI, ML & Big Data.",
+          "options": [
+            "Statistics shortcut that ignores constraints",
+            "Superficial Statistics classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Statistics"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Big Data? Expansion item 8 for AI, ML & Big Data.",
+          "options": [
+            "The principle that correctly satisfies constraints in Big Data",
+            "Big Data shortcut that ignores constraints",
+            "Superficial Big Data classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Responsible AI, which action is most technically and procedurally appropriate? Expansion item 9 for AI, ML & Big Data.",
+          "options": [
+            "Responsible AI shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Responsible AI",
+            "Superficial Responsible AI classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Machine Learning? Expansion item 10 for AI, ML & Big Data.",
+          "options": [
+            "Machine Learning shortcut that ignores constraints",
+            "Superficial Machine Learning classification",
+            "The principle that correctly satisfies constraints in Machine Learning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Deep Learning? Expansion item 11 for AI, ML & Big Data.",
+          "options": [
+            "Deep Learning shortcut that ignores constraints",
+            "Superficial Deep Learning classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Deep Learning"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Statistics requires the use of which principle? Expansion item 12 for AI, ML & Big Data.",
+          "options": [
+            "The principle that correctly satisfies constraints in Statistics",
+            "Statistics shortcut that ignores constraints",
+            "Superficial Statistics classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Big Data? Expansion item 13 for AI, ML & Big Data.",
+          "options": [
+            "Big Data shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Big Data",
+            "Superficial Big Data classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ai-ml-bigdata-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Responsible AI, which action is most technically and procedurally appropriate? Expansion item 14 for AI, ML & Big Data.",
+          "options": [
+            "Responsible AI shortcut that ignores constraints",
+            "Superficial Responsible AI classification",
+            "The principle that correctly satisfies constraints in Responsible AI",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "AI, ML & Big Data — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-ai-ml-bigdata-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Statistics? Expansion item 1 for AI, ML & Big Data.",
+          "options": [
+            "Apply Statistics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Statistics rule",
+            "Integrate the constraints and edge conditions in Statistics",
+            "Ignore an edge condition in Statistics"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Big Data requires the use of which principle? Expansion item 2 for AI, ML & Big Data.",
+          "options": [
+            "Apply Big Data in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Big Data rule",
+            "Ignore an edge condition in Big Data",
+            "Integrate the constraints and edge conditions in Big Data"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Responsible AI? Expansion item 3 for AI, ML & Big Data.",
+          "options": [
+            "Integrate the constraints and edge conditions in Responsible AI",
+            "Apply Responsible AI in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Responsible AI rule",
+            "Ignore an edge condition in Responsible AI"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Machine Learning, which action is most technically and procedurally appropriate? Expansion item 4 for AI, ML & Big Data.",
+          "options": [
+            "Apply Machine Learning in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Machine Learning",
+            "Use the locally valid but globally incorrect Machine Learning rule",
+            "Ignore an edge condition in Machine Learning"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Deep Learning? Expansion item 5 for AI, ML & Big Data.",
+          "options": [
+            "Apply Deep Learning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Deep Learning rule",
+            "Integrate the constraints and edge conditions in Deep Learning",
+            "Ignore an edge condition in Deep Learning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Statistics? Expansion item 6 for AI, ML & Big Data.",
+          "options": [
+            "Apply Statistics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Statistics rule",
+            "Ignore an edge condition in Statistics",
+            "Integrate the constraints and edge conditions in Statistics"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Statistics is supported by the relevant Statistics concept and the stated constraints.",
+          "topic": "Statistics",
+          "subtopic": "Statistics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Big Data requires the use of which principle? Expansion item 7 for AI, ML & Big Data.",
+          "options": [
+            "Integrate the constraints and edge conditions in Big Data",
+            "Apply Big Data in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Big Data rule",
+            "Ignore an edge condition in Big Data"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Big Data is supported by the relevant Big Data concept and the stated constraints.",
+          "topic": "Big Data",
+          "subtopic": "Big Data",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Responsible AI? Expansion item 8 for AI, ML & Big Data.",
+          "options": [
+            "Apply Responsible AI in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Responsible AI",
+            "Use the locally valid but globally incorrect Responsible AI rule",
+            "Ignore an edge condition in Responsible AI"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Responsible AI is supported by the relevant Responsible AI concept and the stated constraints.",
+          "topic": "Responsible AI",
+          "subtopic": "Responsible AI",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Machine Learning, which action is most technically and procedurally appropriate? Expansion item 9 for AI, ML & Big Data.",
+          "options": [
+            "Apply Machine Learning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Machine Learning rule",
+            "Integrate the constraints and edge conditions in Machine Learning",
+            "Ignore an edge condition in Machine Learning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Machine Learning is supported by the relevant Machine Learning concept and the stated constraints.",
+          "topic": "Machine Learning",
+          "subtopic": "Machine Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ai-ml-bigdata-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Deep Learning? Expansion item 10 for AI, ML & Big Data.",
+          "options": [
+            "Apply Deep Learning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Deep Learning rule",
+            "Ignore an edge condition in Deep Learning",
+            "Integrate the constraints and edge conditions in Deep Learning"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Deep Learning is supported by the relevant Deep Learning concept and the stated constraints.",
+          "topic": "Deep Learning",
+          "subtopic": "Deep Learning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "AI, ML & Big Data"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

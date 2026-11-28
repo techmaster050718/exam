@@ -1,0 +1,688 @@
+{
+  "id": "massive-indian-polity-30",
+  "title": "Indian Polity — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Indian Polity",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Indian Polity — BASIC",
+      "questions": [
+        {
+          "id": "mass-indian-polity-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Constitution? Expansion item 1 for Indian Polity.",
+          "options": [
+            "The foundational, verifiable principle of Constitution",
+            "Constitution approach without verification",
+            "An unrelated Constitution technique",
+            "Opposite principle in Constitution"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Parliament requires the use of which principle? Expansion item 2 for Indian Polity.",
+          "options": [
+            "Parliament approach without verification",
+            "An unrelated Parliament technique",
+            "The foundational, verifiable principle of Parliament",
+            "Opposite principle in Parliament"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Judiciary? Expansion item 3 for Indian Polity.",
+          "options": [
+            "The foundational, verifiable principle of Judiciary",
+            "Judiciary approach without verification",
+            "An unrelated Judiciary technique",
+            "Opposite principle in Judiciary"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Federalism, which action is most technically and procedurally appropriate? Expansion item 4 for Indian Polity.",
+          "options": [
+            "Federalism approach without verification",
+            "An unrelated Federalism technique",
+            "The foundational, verifiable principle of Federalism",
+            "Opposite principle in Federalism"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Governance? Expansion item 5 for Indian Polity.",
+          "options": [
+            "The foundational, verifiable principle of Governance",
+            "Governance approach without verification",
+            "An unrelated Governance technique",
+            "Opposite principle in Governance"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Constitution? Expansion item 6 for Indian Polity.",
+          "options": [
+            "Constitution approach without verification",
+            "An unrelated Constitution technique",
+            "The foundational, verifiable principle of Constitution",
+            "Opposite principle in Constitution"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Indian Polity — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-indian-polity-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Parliament? Expansion item 1 for Indian Polity.",
+          "options": [
+            "Parliament shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Parliament",
+            "Superficial Parliament classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Judiciary requires the use of which principle? Expansion item 2 for Indian Polity.",
+          "options": [
+            "Judiciary shortcut that ignores constraints",
+            "Superficial Judiciary classification",
+            "The principle that correctly satisfies constraints in Judiciary",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Federalism? Expansion item 3 for Indian Polity.",
+          "options": [
+            "Federalism shortcut that ignores constraints",
+            "Superficial Federalism classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Federalism"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Governance, which action is most technically and procedurally appropriate? Expansion item 4 for Indian Polity.",
+          "options": [
+            "The principle that correctly satisfies constraints in Governance",
+            "Governance shortcut that ignores constraints",
+            "Superficial Governance classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Constitution? Expansion item 5 for Indian Polity.",
+          "options": [
+            "Constitution shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Constitution",
+            "Superficial Constitution classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Parliament? Expansion item 6 for Indian Polity.",
+          "options": [
+            "Parliament shortcut that ignores constraints",
+            "Superficial Parliament classification",
+            "The principle that correctly satisfies constraints in Parliament",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Judiciary requires the use of which principle? Expansion item 7 for Indian Polity.",
+          "options": [
+            "Judiciary shortcut that ignores constraints",
+            "Superficial Judiciary classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Judiciary"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Federalism? Expansion item 8 for Indian Polity.",
+          "options": [
+            "The principle that correctly satisfies constraints in Federalism",
+            "Federalism shortcut that ignores constraints",
+            "Superficial Federalism classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Governance, which action is most technically and procedurally appropriate? Expansion item 9 for Indian Polity.",
+          "options": [
+            "Governance shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Governance",
+            "Superficial Governance classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Constitution? Expansion item 10 for Indian Polity.",
+          "options": [
+            "Constitution shortcut that ignores constraints",
+            "Superficial Constitution classification",
+            "The principle that correctly satisfies constraints in Constitution",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Parliament? Expansion item 11 for Indian Polity.",
+          "options": [
+            "Parliament shortcut that ignores constraints",
+            "Superficial Parliament classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Parliament"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Judiciary requires the use of which principle? Expansion item 12 for Indian Polity.",
+          "options": [
+            "The principle that correctly satisfies constraints in Judiciary",
+            "Judiciary shortcut that ignores constraints",
+            "Superficial Judiciary classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Federalism? Expansion item 13 for Indian Polity.",
+          "options": [
+            "Federalism shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Federalism",
+            "Superficial Federalism classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-polity-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Governance, which action is most technically and procedurally appropriate? Expansion item 14 for Indian Polity.",
+          "options": [
+            "Governance shortcut that ignores constraints",
+            "Superficial Governance classification",
+            "The principle that correctly satisfies constraints in Governance",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Indian Polity — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-indian-polity-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Judiciary? Expansion item 1 for Indian Polity.",
+          "options": [
+            "Apply Judiciary in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Judiciary rule",
+            "Integrate the constraints and edge conditions in Judiciary",
+            "Ignore an edge condition in Judiciary"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Federalism requires the use of which principle? Expansion item 2 for Indian Polity.",
+          "options": [
+            "Apply Federalism in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Federalism rule",
+            "Ignore an edge condition in Federalism",
+            "Integrate the constraints and edge conditions in Federalism"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Governance? Expansion item 3 for Indian Polity.",
+          "options": [
+            "Integrate the constraints and edge conditions in Governance",
+            "Apply Governance in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Governance rule",
+            "Ignore an edge condition in Governance"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Constitution, which action is most technically and procedurally appropriate? Expansion item 4 for Indian Polity.",
+          "options": [
+            "Apply Constitution in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Constitution",
+            "Use the locally valid but globally incorrect Constitution rule",
+            "Ignore an edge condition in Constitution"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Parliament? Expansion item 5 for Indian Polity.",
+          "options": [
+            "Apply Parliament in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Parliament rule",
+            "Integrate the constraints and edge conditions in Parliament",
+            "Ignore an edge condition in Parliament"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Judiciary? Expansion item 6 for Indian Polity.",
+          "options": [
+            "Apply Judiciary in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Judiciary rule",
+            "Ignore an edge condition in Judiciary",
+            "Integrate the constraints and edge conditions in Judiciary"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Judiciary is supported by the relevant Judiciary concept and the stated constraints.",
+          "topic": "Judiciary",
+          "subtopic": "Judiciary",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Federalism requires the use of which principle? Expansion item 7 for Indian Polity.",
+          "options": [
+            "Integrate the constraints and edge conditions in Federalism",
+            "Apply Federalism in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Federalism rule",
+            "Ignore an edge condition in Federalism"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Federalism is supported by the relevant Federalism concept and the stated constraints.",
+          "topic": "Federalism",
+          "subtopic": "Federalism",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Governance? Expansion item 8 for Indian Polity.",
+          "options": [
+            "Apply Governance in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Governance",
+            "Use the locally valid but globally incorrect Governance rule",
+            "Ignore an edge condition in Governance"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Governance is supported by the relevant Governance concept and the stated constraints.",
+          "topic": "Governance",
+          "subtopic": "Governance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Constitution, which action is most technically and procedurally appropriate? Expansion item 9 for Indian Polity.",
+          "options": [
+            "Apply Constitution in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Constitution rule",
+            "Integrate the constraints and edge conditions in Constitution",
+            "Ignore an edge condition in Constitution"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Constitution is supported by the relevant Constitution concept and the stated constraints.",
+          "topic": "Constitution",
+          "subtopic": "Constitution",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-polity-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Parliament? Expansion item 10 for Indian Polity.",
+          "options": [
+            "Apply Parliament in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Parliament rule",
+            "Ignore an edge condition in Parliament",
+            "Integrate the constraints and edge conditions in Parliament"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Parliament is supported by the relevant Parliament concept and the stated constraints.",
+          "topic": "Parliament",
+          "subtopic": "Parliament",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian Polity"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,688 @@
+{
+  "id": "massive-ssb-oir-30",
+  "title": "SSB / CDS - OIR Reasoning — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "SSB / CDS - OIR Reasoning",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "SSB / CDS - OIR Reasoning — BASIC",
+      "questions": [
+        {
+          "id": "mass-ssb-oir-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Verbal Reasoning? Expansion item 1 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Verbal Reasoning",
+            "Verbal Reasoning approach without verification",
+            "An unrelated Verbal Reasoning technique",
+            "Opposite principle in Verbal Reasoning"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Numerical Reasoning requires the use of which principle? Expansion item 2 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Numerical Reasoning approach without verification",
+            "An unrelated Numerical Reasoning technique",
+            "The foundational, verifiable principle of Numerical Reasoning",
+            "Opposite principle in Numerical Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Series? Expansion item 3 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Series",
+            "Series approach without verification",
+            "An unrelated Series technique",
+            "Opposite principle in Series"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Coding-Decoding, which action is most technically and procedurally appropriate? Expansion item 4 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Coding-Decoding approach without verification",
+            "An unrelated Coding-Decoding technique",
+            "The foundational, verifiable principle of Coding-Decoding",
+            "Opposite principle in Coding-Decoding"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Classification? Expansion item 5 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The foundational, verifiable principle of Classification",
+            "Classification approach without verification",
+            "An unrelated Classification technique",
+            "Opposite principle in Classification"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Verbal Reasoning? Expansion item 6 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Verbal Reasoning approach without verification",
+            "An unrelated Verbal Reasoning technique",
+            "The foundational, verifiable principle of Verbal Reasoning",
+            "Opposite principle in Verbal Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "BASIC",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "SSB / CDS - OIR Reasoning — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-ssb-oir-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Numerical Reasoning? Expansion item 1 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Numerical Reasoning shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Numerical Reasoning",
+            "Superficial Numerical Reasoning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Series requires the use of which principle? Expansion item 2 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Series shortcut that ignores constraints",
+            "Superficial Series classification",
+            "The principle that correctly satisfies constraints in Series",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Coding-Decoding? Expansion item 3 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Coding-Decoding shortcut that ignores constraints",
+            "Superficial Coding-Decoding classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Coding-Decoding"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Classification, which action is most technically and procedurally appropriate? Expansion item 4 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Classification",
+            "Classification shortcut that ignores constraints",
+            "Superficial Classification classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Verbal Reasoning? Expansion item 5 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Verbal Reasoning shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Verbal Reasoning",
+            "Superficial Verbal Reasoning classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Numerical Reasoning? Expansion item 6 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Numerical Reasoning shortcut that ignores constraints",
+            "Superficial Numerical Reasoning classification",
+            "The principle that correctly satisfies constraints in Numerical Reasoning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Series requires the use of which principle? Expansion item 7 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Series shortcut that ignores constraints",
+            "Superficial Series classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Series"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Coding-Decoding? Expansion item 8 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Coding-Decoding",
+            "Coding-Decoding shortcut that ignores constraints",
+            "Superficial Coding-Decoding classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Classification, which action is most technically and procedurally appropriate? Expansion item 9 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Classification shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Classification",
+            "Superficial Classification classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Verbal Reasoning? Expansion item 10 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Verbal Reasoning shortcut that ignores constraints",
+            "Superficial Verbal Reasoning classification",
+            "The principle that correctly satisfies constraints in Verbal Reasoning",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Numerical Reasoning? Expansion item 11 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Numerical Reasoning shortcut that ignores constraints",
+            "Superficial Numerical Reasoning classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Numerical Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Series requires the use of which principle? Expansion item 12 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "The principle that correctly satisfies constraints in Series",
+            "Series shortcut that ignores constraints",
+            "Superficial Series classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Coding-Decoding? Expansion item 13 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Coding-Decoding shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Coding-Decoding",
+            "Superficial Coding-Decoding classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-ssb-oir-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Classification, which action is most technically and procedurally appropriate? Expansion item 14 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Classification shortcut that ignores constraints",
+            "Superficial Classification classification",
+            "The principle that correctly satisfies constraints in Classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "SSB / CDS - OIR Reasoning — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-ssb-oir-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Series? Expansion item 1 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Series in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Series rule",
+            "Integrate the constraints and edge conditions in Series",
+            "Ignore an edge condition in Series"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Coding-Decoding requires the use of which principle? Expansion item 2 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Coding-Decoding in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Coding-Decoding rule",
+            "Ignore an edge condition in Coding-Decoding",
+            "Integrate the constraints and edge conditions in Coding-Decoding"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Classification? Expansion item 3 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Integrate the constraints and edge conditions in Classification",
+            "Apply Classification in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Classification rule",
+            "Ignore an edge condition in Classification"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Verbal Reasoning, which action is most technically and procedurally appropriate? Expansion item 4 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Verbal Reasoning in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Verbal Reasoning",
+            "Use the locally valid but globally incorrect Verbal Reasoning rule",
+            "Ignore an edge condition in Verbal Reasoning"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Numerical Reasoning? Expansion item 5 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Numerical Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Numerical Reasoning rule",
+            "Integrate the constraints and edge conditions in Numerical Reasoning",
+            "Ignore an edge condition in Numerical Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Series? Expansion item 6 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Series in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Series rule",
+            "Ignore an edge condition in Series",
+            "Integrate the constraints and edge conditions in Series"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Series is supported by the relevant Series concept and the stated constraints.",
+          "topic": "Series",
+          "subtopic": "Series",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Coding-Decoding requires the use of which principle? Expansion item 7 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Integrate the constraints and edge conditions in Coding-Decoding",
+            "Apply Coding-Decoding in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Coding-Decoding rule",
+            "Ignore an edge condition in Coding-Decoding"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Coding-Decoding is supported by the relevant Coding-Decoding concept and the stated constraints.",
+          "topic": "Coding-Decoding",
+          "subtopic": "Coding-Decoding",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Classification? Expansion item 8 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Classification in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Classification",
+            "Use the locally valid but globally incorrect Classification rule",
+            "Ignore an edge condition in Classification"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Classification is supported by the relevant Classification concept and the stated constraints.",
+          "topic": "Classification",
+          "subtopic": "Classification",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Verbal Reasoning, which action is most technically and procedurally appropriate? Expansion item 9 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Verbal Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Verbal Reasoning rule",
+            "Integrate the constraints and edge conditions in Verbal Reasoning",
+            "Ignore an edge condition in Verbal Reasoning"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Verbal Reasoning is supported by the relevant Verbal Reasoning concept and the stated constraints.",
+          "topic": "Verbal Reasoning",
+          "subtopic": "Verbal Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-ssb-oir-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Numerical Reasoning? Expansion item 10 for SSB / CDS - OIR Reasoning.",
+          "options": [
+            "Apply Numerical Reasoning in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Numerical Reasoning rule",
+            "Ignore an edge condition in Numerical Reasoning",
+            "Integrate the constraints and edge conditions in Numerical Reasoning"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Numerical Reasoning is supported by the relevant Numerical Reasoning concept and the stated constraints.",
+          "topic": "Numerical Reasoning",
+          "subtopic": "Numerical Reasoning",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "SSB / CDS - OIR Reasoning"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

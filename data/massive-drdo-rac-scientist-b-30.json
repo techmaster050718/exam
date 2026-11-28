@@ -1,0 +1,688 @@
+{
+  "id": "massive-drdo-rac-scientist-b-30",
+  "title": "DRDO RAC Scientist-B — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "DRDO RAC Scientist-B",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "DRDO RAC Scientist-B — BASIC",
+      "questions": [
+        {
+          "id": "mass-drdo-rac-scientist-b-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Algorithms? Expansion item 1 for DRDO RAC Scientist-B.",
+          "options": [
+            "The foundational, verifiable principle of Algorithms",
+            "Algorithms approach without verification",
+            "An unrelated Algorithms technique",
+            "Opposite principle in Algorithms"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Distributed Systems requires the use of which principle? Expansion item 2 for DRDO RAC Scientist-B.",
+          "options": [
+            "Distributed Systems approach without verification",
+            "An unrelated Distributed Systems technique",
+            "The foundational, verifiable principle of Distributed Systems",
+            "Opposite principle in Distributed Systems"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Security? Expansion item 3 for DRDO RAC Scientist-B.",
+          "options": [
+            "The foundational, verifiable principle of Security",
+            "Security approach without verification",
+            "An unrelated Security technique",
+            "Opposite principle in Security"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving C/C++, which action is most technically and procedurally appropriate? Expansion item 4 for DRDO RAC Scientist-B.",
+          "options": [
+            "C/C++ approach without verification",
+            "An unrelated C/C++ technique",
+            "The foundational, verifiable principle of C/C++",
+            "Opposite principle in C/C++"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in System Design? Expansion item 5 for DRDO RAC Scientist-B.",
+          "options": [
+            "The foundational, verifiable principle of System Design",
+            "System Design approach without verification",
+            "An unrelated System Design technique",
+            "Opposite principle in System Design"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Algorithms? Expansion item 6 for DRDO RAC Scientist-B.",
+          "options": [
+            "Algorithms approach without verification",
+            "An unrelated Algorithms technique",
+            "The foundational, verifiable principle of Algorithms",
+            "Opposite principle in Algorithms"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "BASIC",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "DRDO RAC Scientist-B — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-drdo-rac-scientist-b-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Distributed Systems? Expansion item 1 for DRDO RAC Scientist-B.",
+          "options": [
+            "Distributed Systems shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Distributed Systems",
+            "Superficial Distributed Systems classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Security requires the use of which principle? Expansion item 2 for DRDO RAC Scientist-B.",
+          "options": [
+            "Security shortcut that ignores constraints",
+            "Superficial Security classification",
+            "The principle that correctly satisfies constraints in Security",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in C/C++? Expansion item 3 for DRDO RAC Scientist-B.",
+          "options": [
+            "C/C++ shortcut that ignores constraints",
+            "Superficial C/C++ classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in C/C++"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving System Design, which action is most technically and procedurally appropriate? Expansion item 4 for DRDO RAC Scientist-B.",
+          "options": [
+            "The principle that correctly satisfies constraints in System Design",
+            "System Design shortcut that ignores constraints",
+            "Superficial System Design classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Algorithms? Expansion item 5 for DRDO RAC Scientist-B.",
+          "options": [
+            "Algorithms shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Algorithms",
+            "Superficial Algorithms classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Distributed Systems? Expansion item 6 for DRDO RAC Scientist-B.",
+          "options": [
+            "Distributed Systems shortcut that ignores constraints",
+            "Superficial Distributed Systems classification",
+            "The principle that correctly satisfies constraints in Distributed Systems",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Security requires the use of which principle? Expansion item 7 for DRDO RAC Scientist-B.",
+          "options": [
+            "Security shortcut that ignores constraints",
+            "Superficial Security classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Security"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in C/C++? Expansion item 8 for DRDO RAC Scientist-B.",
+          "options": [
+            "The principle that correctly satisfies constraints in C/C++",
+            "C/C++ shortcut that ignores constraints",
+            "Superficial C/C++ classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving System Design, which action is most technically and procedurally appropriate? Expansion item 9 for DRDO RAC Scientist-B.",
+          "options": [
+            "System Design shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in System Design",
+            "Superficial System Design classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Algorithms? Expansion item 10 for DRDO RAC Scientist-B.",
+          "options": [
+            "Algorithms shortcut that ignores constraints",
+            "Superficial Algorithms classification",
+            "The principle that correctly satisfies constraints in Algorithms",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Distributed Systems? Expansion item 11 for DRDO RAC Scientist-B.",
+          "options": [
+            "Distributed Systems shortcut that ignores constraints",
+            "Superficial Distributed Systems classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Distributed Systems"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Security requires the use of which principle? Expansion item 12 for DRDO RAC Scientist-B.",
+          "options": [
+            "The principle that correctly satisfies constraints in Security",
+            "Security shortcut that ignores constraints",
+            "Superficial Security classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in C/C++? Expansion item 13 for DRDO RAC Scientist-B.",
+          "options": [
+            "C/C++ shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in C/C++",
+            "Superficial C/C++ classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving System Design, which action is most technically and procedurally appropriate? Expansion item 14 for DRDO RAC Scientist-B.",
+          "options": [
+            "System Design shortcut that ignores constraints",
+            "Superficial System Design classification",
+            "The principle that correctly satisfies constraints in System Design",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "DRDO RAC Scientist-B — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-drdo-rac-scientist-b-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Security? Expansion item 1 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Security in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Security rule",
+            "Integrate the constraints and edge conditions in Security",
+            "Ignore an edge condition in Security"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in C/C++ requires the use of which principle? Expansion item 2 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply C/C++ in isolation without considering interactions",
+            "Use the locally valid but globally incorrect C/C++ rule",
+            "Ignore an edge condition in C/C++",
+            "Integrate the constraints and edge conditions in C/C++"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in System Design? Expansion item 3 for DRDO RAC Scientist-B.",
+          "options": [
+            "Integrate the constraints and edge conditions in System Design",
+            "Apply System Design in isolation without considering interactions",
+            "Use the locally valid but globally incorrect System Design rule",
+            "Ignore an edge condition in System Design"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Algorithms, which action is most technically and procedurally appropriate? Expansion item 4 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Algorithms in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Algorithms",
+            "Use the locally valid but globally incorrect Algorithms rule",
+            "Ignore an edge condition in Algorithms"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Distributed Systems? Expansion item 5 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Distributed Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Distributed Systems rule",
+            "Integrate the constraints and edge conditions in Distributed Systems",
+            "Ignore an edge condition in Distributed Systems"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Security? Expansion item 6 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Security in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Security rule",
+            "Ignore an edge condition in Security",
+            "Integrate the constraints and edge conditions in Security"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in C/C++ requires the use of which principle? Expansion item 7 for DRDO RAC Scientist-B.",
+          "options": [
+            "Integrate the constraints and edge conditions in C/C++",
+            "Apply C/C++ in isolation without considering interactions",
+            "Use the locally valid but globally incorrect C/C++ rule",
+            "Ignore an edge condition in C/C++"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in C/C++ is supported by the relevant C/C++ concept and the stated constraints.",
+          "topic": "C/C++",
+          "subtopic": "C/C++",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in System Design? Expansion item 8 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply System Design in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in System Design",
+            "Use the locally valid but globally incorrect System Design rule",
+            "Ignore an edge condition in System Design"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in System Design is supported by the relevant System Design concept and the stated constraints.",
+          "topic": "System Design",
+          "subtopic": "System Design",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Algorithms, which action is most technically and procedurally appropriate? Expansion item 9 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Algorithms in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Algorithms rule",
+            "Integrate the constraints and edge conditions in Algorithms",
+            "Ignore an edge condition in Algorithms"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Algorithms is supported by the relevant Algorithms concept and the stated constraints.",
+          "topic": "Algorithms",
+          "subtopic": "Algorithms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-drdo-rac-scientist-b-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Distributed Systems? Expansion item 10 for DRDO RAC Scientist-B.",
+          "options": [
+            "Apply Distributed Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Distributed Systems rule",
+            "Ignore an edge condition in Distributed Systems",
+            "Integrate the constraints and edge conditions in Distributed Systems"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "DRDO RAC Scientist-B"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

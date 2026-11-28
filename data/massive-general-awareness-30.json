@@ -1,0 +1,688 @@
+{
+  "id": "massive-general-awareness-30",
+  "title": "General & Defence Awareness — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "General & Defence Awareness",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "General & Defence Awareness — BASIC",
+      "questions": [
+        {
+          "id": "mass-general-awareness-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian Economy? Expansion item 1 for General & Defence Awareness.",
+          "options": [
+            "The foundational, verifiable principle of Indian Economy",
+            "Indian Economy approach without verification",
+            "An unrelated Indian Economy technique",
+            "Opposite principle in Indian Economy"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Defence requires the use of which principle? Expansion item 2 for General & Defence Awareness.",
+          "options": [
+            "Defence approach without verification",
+            "An unrelated Defence technique",
+            "The foundational, verifiable principle of Defence",
+            "Opposite principle in Defence"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Science? Expansion item 3 for General & Defence Awareness.",
+          "options": [
+            "The foundational, verifiable principle of Science",
+            "Science approach without verification",
+            "An unrelated Science technique",
+            "Opposite principle in Science"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Environment, which action is most technically and procedurally appropriate? Expansion item 4 for General & Defence Awareness.",
+          "options": [
+            "Environment approach without verification",
+            "An unrelated Environment technique",
+            "The foundational, verifiable principle of Environment",
+            "Opposite principle in Environment"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in International Affairs? Expansion item 5 for General & Defence Awareness.",
+          "options": [
+            "The foundational, verifiable principle of International Affairs",
+            "International Affairs approach without verification",
+            "An unrelated International Affairs technique",
+            "Opposite principle in International Affairs"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Indian Economy? Expansion item 6 for General & Defence Awareness.",
+          "options": [
+            "Indian Economy approach without verification",
+            "An unrelated Indian Economy technique",
+            "The foundational, verifiable principle of Indian Economy",
+            "Opposite principle in Indian Economy"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "General & Defence Awareness — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-general-awareness-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Defence? Expansion item 1 for General & Defence Awareness.",
+          "options": [
+            "Defence shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Defence",
+            "Superficial Defence classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Science requires the use of which principle? Expansion item 2 for General & Defence Awareness.",
+          "options": [
+            "Science shortcut that ignores constraints",
+            "Superficial Science classification",
+            "The principle that correctly satisfies constraints in Science",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 3 for General & Defence Awareness.",
+          "options": [
+            "Environment shortcut that ignores constraints",
+            "Superficial Environment classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Environment"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving International Affairs, which action is most technically and procedurally appropriate? Expansion item 4 for General & Defence Awareness.",
+          "options": [
+            "The principle that correctly satisfies constraints in International Affairs",
+            "International Affairs shortcut that ignores constraints",
+            "Superficial International Affairs classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian Economy? Expansion item 5 for General & Defence Awareness.",
+          "options": [
+            "Indian Economy shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Indian Economy",
+            "Superficial Indian Economy classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Defence? Expansion item 6 for General & Defence Awareness.",
+          "options": [
+            "Defence shortcut that ignores constraints",
+            "Superficial Defence classification",
+            "The principle that correctly satisfies constraints in Defence",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Science requires the use of which principle? Expansion item 7 for General & Defence Awareness.",
+          "options": [
+            "Science shortcut that ignores constraints",
+            "Superficial Science classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Science"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 8 for General & Defence Awareness.",
+          "options": [
+            "The principle that correctly satisfies constraints in Environment",
+            "Environment shortcut that ignores constraints",
+            "Superficial Environment classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving International Affairs, which action is most technically and procedurally appropriate? Expansion item 9 for General & Defence Awareness.",
+          "options": [
+            "International Affairs shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in International Affairs",
+            "Superficial International Affairs classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Indian Economy? Expansion item 10 for General & Defence Awareness.",
+          "options": [
+            "Indian Economy shortcut that ignores constraints",
+            "Superficial Indian Economy classification",
+            "The principle that correctly satisfies constraints in Indian Economy",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Defence? Expansion item 11 for General & Defence Awareness.",
+          "options": [
+            "Defence shortcut that ignores constraints",
+            "Superficial Defence classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Defence"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Science requires the use of which principle? Expansion item 12 for General & Defence Awareness.",
+          "options": [
+            "The principle that correctly satisfies constraints in Science",
+            "Science shortcut that ignores constraints",
+            "Superficial Science classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 13 for General & Defence Awareness.",
+          "options": [
+            "Environment shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Environment",
+            "Superficial Environment classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-awareness-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving International Affairs, which action is most technically and procedurally appropriate? Expansion item 14 for General & Defence Awareness.",
+          "options": [
+            "International Affairs shortcut that ignores constraints",
+            "Superficial International Affairs classification",
+            "The principle that correctly satisfies constraints in International Affairs",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "General & Defence Awareness — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-general-awareness-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Science? Expansion item 1 for General & Defence Awareness.",
+          "options": [
+            "Apply Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Science rule",
+            "Integrate the constraints and edge conditions in Science",
+            "Ignore an edge condition in Science"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Environment requires the use of which principle? Expansion item 2 for General & Defence Awareness.",
+          "options": [
+            "Apply Environment in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Environment rule",
+            "Ignore an edge condition in Environment",
+            "Integrate the constraints and edge conditions in Environment"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in International Affairs? Expansion item 3 for General & Defence Awareness.",
+          "options": [
+            "Integrate the constraints and edge conditions in International Affairs",
+            "Apply International Affairs in isolation without considering interactions",
+            "Use the locally valid but globally incorrect International Affairs rule",
+            "Ignore an edge condition in International Affairs"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Indian Economy, which action is most technically and procedurally appropriate? Expansion item 4 for General & Defence Awareness.",
+          "options": [
+            "Apply Indian Economy in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Indian Economy",
+            "Use the locally valid but globally incorrect Indian Economy rule",
+            "Ignore an edge condition in Indian Economy"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Defence? Expansion item 5 for General & Defence Awareness.",
+          "options": [
+            "Apply Defence in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Defence rule",
+            "Integrate the constraints and edge conditions in Defence",
+            "Ignore an edge condition in Defence"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Science? Expansion item 6 for General & Defence Awareness.",
+          "options": [
+            "Apply Science in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Science rule",
+            "Ignore an edge condition in Science",
+            "Integrate the constraints and edge conditions in Science"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Science is supported by the relevant Science concept and the stated constraints.",
+          "topic": "Science",
+          "subtopic": "Science",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Environment requires the use of which principle? Expansion item 7 for General & Defence Awareness.",
+          "options": [
+            "Integrate the constraints and edge conditions in Environment",
+            "Apply Environment in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Environment rule",
+            "Ignore an edge condition in Environment"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in International Affairs? Expansion item 8 for General & Defence Awareness.",
+          "options": [
+            "Apply International Affairs in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in International Affairs",
+            "Use the locally valid but globally incorrect International Affairs rule",
+            "Ignore an edge condition in International Affairs"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in International Affairs is supported by the relevant International Affairs concept and the stated constraints.",
+          "topic": "International Affairs",
+          "subtopic": "International Affairs",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Indian Economy, which action is most technically and procedurally appropriate? Expansion item 9 for General & Defence Awareness.",
+          "options": [
+            "Apply Indian Economy in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Indian Economy rule",
+            "Integrate the constraints and edge conditions in Indian Economy",
+            "Ignore an edge condition in Indian Economy"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Indian Economy is supported by the relevant Indian Economy concept and the stated constraints.",
+          "topic": "Indian Economy",
+          "subtopic": "Indian Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-awareness-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Defence? Expansion item 10 for General & Defence Awareness.",
+          "options": [
+            "Apply Defence in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Defence rule",
+            "Ignore an edge condition in Defence",
+            "Integrate the constraints and edge conditions in Defence"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Defence is supported by the relevant Defence concept and the stated constraints.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General & Defence Awareness"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

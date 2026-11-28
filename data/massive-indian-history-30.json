@@ -1,0 +1,688 @@
+{
+  "id": "massive-indian-history-30",
+  "title": "Indian History — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Indian History",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Indian History — BASIC",
+      "questions": [
+        {
+          "id": "mass-indian-history-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Ancient India? Expansion item 1 for Indian History.",
+          "options": [
+            "The foundational, verifiable principle of Ancient India",
+            "Ancient India approach without verification",
+            "An unrelated Ancient India technique",
+            "Opposite principle in Ancient India"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Medieval India requires the use of which principle? Expansion item 2 for Indian History.",
+          "options": [
+            "Medieval India approach without verification",
+            "An unrelated Medieval India technique",
+            "The foundational, verifiable principle of Medieval India",
+            "Opposite principle in Medieval India"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Modern India? Expansion item 3 for Indian History.",
+          "options": [
+            "The foundational, verifiable principle of Modern India",
+            "Modern India approach without verification",
+            "An unrelated Modern India technique",
+            "Opposite principle in Modern India"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Freedom Movement, which action is most technically and procedurally appropriate? Expansion item 4 for Indian History.",
+          "options": [
+            "Freedom Movement approach without verification",
+            "An unrelated Freedom Movement technique",
+            "The foundational, verifiable principle of Freedom Movement",
+            "Opposite principle in Freedom Movement"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Cultural History? Expansion item 5 for Indian History.",
+          "options": [
+            "The foundational, verifiable principle of Cultural History",
+            "Cultural History approach without verification",
+            "An unrelated Cultural History technique",
+            "Opposite principle in Cultural History"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Ancient India? Expansion item 6 for Indian History.",
+          "options": [
+            "Ancient India approach without verification",
+            "An unrelated Ancient India technique",
+            "The foundational, verifiable principle of Ancient India",
+            "Opposite principle in Ancient India"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Indian History — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-indian-history-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Medieval India? Expansion item 1 for Indian History.",
+          "options": [
+            "Medieval India shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Medieval India",
+            "Superficial Medieval India classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Modern India requires the use of which principle? Expansion item 2 for Indian History.",
+          "options": [
+            "Modern India shortcut that ignores constraints",
+            "Superficial Modern India classification",
+            "The principle that correctly satisfies constraints in Modern India",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Freedom Movement? Expansion item 3 for Indian History.",
+          "options": [
+            "Freedom Movement shortcut that ignores constraints",
+            "Superficial Freedom Movement classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Freedom Movement"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Cultural History, which action is most technically and procedurally appropriate? Expansion item 4 for Indian History.",
+          "options": [
+            "The principle that correctly satisfies constraints in Cultural History",
+            "Cultural History shortcut that ignores constraints",
+            "Superficial Cultural History classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Ancient India? Expansion item 5 for Indian History.",
+          "options": [
+            "Ancient India shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Ancient India",
+            "Superficial Ancient India classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Medieval India? Expansion item 6 for Indian History.",
+          "options": [
+            "Medieval India shortcut that ignores constraints",
+            "Superficial Medieval India classification",
+            "The principle that correctly satisfies constraints in Medieval India",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Modern India requires the use of which principle? Expansion item 7 for Indian History.",
+          "options": [
+            "Modern India shortcut that ignores constraints",
+            "Superficial Modern India classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Modern India"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Freedom Movement? Expansion item 8 for Indian History.",
+          "options": [
+            "The principle that correctly satisfies constraints in Freedom Movement",
+            "Freedom Movement shortcut that ignores constraints",
+            "Superficial Freedom Movement classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Cultural History, which action is most technically and procedurally appropriate? Expansion item 9 for Indian History.",
+          "options": [
+            "Cultural History shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Cultural History",
+            "Superficial Cultural History classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Ancient India? Expansion item 10 for Indian History.",
+          "options": [
+            "Ancient India shortcut that ignores constraints",
+            "Superficial Ancient India classification",
+            "The principle that correctly satisfies constraints in Ancient India",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Medieval India? Expansion item 11 for Indian History.",
+          "options": [
+            "Medieval India shortcut that ignores constraints",
+            "Superficial Medieval India classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Medieval India"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Modern India requires the use of which principle? Expansion item 12 for Indian History.",
+          "options": [
+            "The principle that correctly satisfies constraints in Modern India",
+            "Modern India shortcut that ignores constraints",
+            "Superficial Modern India classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Freedom Movement? Expansion item 13 for Indian History.",
+          "options": [
+            "Freedom Movement shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Freedom Movement",
+            "Superficial Freedom Movement classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-indian-history-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Cultural History, which action is most technically and procedurally appropriate? Expansion item 14 for Indian History.",
+          "options": [
+            "Cultural History shortcut that ignores constraints",
+            "Superficial Cultural History classification",
+            "The principle that correctly satisfies constraints in Cultural History",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Indian History — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-indian-history-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Modern India? Expansion item 1 for Indian History.",
+          "options": [
+            "Apply Modern India in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Modern India rule",
+            "Integrate the constraints and edge conditions in Modern India",
+            "Ignore an edge condition in Modern India"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Freedom Movement requires the use of which principle? Expansion item 2 for Indian History.",
+          "options": [
+            "Apply Freedom Movement in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Freedom Movement rule",
+            "Ignore an edge condition in Freedom Movement",
+            "Integrate the constraints and edge conditions in Freedom Movement"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Cultural History? Expansion item 3 for Indian History.",
+          "options": [
+            "Integrate the constraints and edge conditions in Cultural History",
+            "Apply Cultural History in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Cultural History rule",
+            "Ignore an edge condition in Cultural History"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Ancient India, which action is most technically and procedurally appropriate? Expansion item 4 for Indian History.",
+          "options": [
+            "Apply Ancient India in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Ancient India",
+            "Use the locally valid but globally incorrect Ancient India rule",
+            "Ignore an edge condition in Ancient India"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Medieval India? Expansion item 5 for Indian History.",
+          "options": [
+            "Apply Medieval India in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Medieval India rule",
+            "Integrate the constraints and edge conditions in Medieval India",
+            "Ignore an edge condition in Medieval India"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Modern India? Expansion item 6 for Indian History.",
+          "options": [
+            "Apply Modern India in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Modern India rule",
+            "Ignore an edge condition in Modern India",
+            "Integrate the constraints and edge conditions in Modern India"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Modern India is supported by the relevant Modern India concept and the stated constraints.",
+          "topic": "Modern India",
+          "subtopic": "Modern India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Freedom Movement requires the use of which principle? Expansion item 7 for Indian History.",
+          "options": [
+            "Integrate the constraints and edge conditions in Freedom Movement",
+            "Apply Freedom Movement in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Freedom Movement rule",
+            "Ignore an edge condition in Freedom Movement"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Freedom Movement is supported by the relevant Freedom Movement concept and the stated constraints.",
+          "topic": "Freedom Movement",
+          "subtopic": "Freedom Movement",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Cultural History? Expansion item 8 for Indian History.",
+          "options": [
+            "Apply Cultural History in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Cultural History",
+            "Use the locally valid but globally incorrect Cultural History rule",
+            "Ignore an edge condition in Cultural History"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Cultural History is supported by the relevant Cultural History concept and the stated constraints.",
+          "topic": "Cultural History",
+          "subtopic": "Cultural History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Ancient India, which action is most technically and procedurally appropriate? Expansion item 9 for Indian History.",
+          "options": [
+            "Apply Ancient India in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Ancient India rule",
+            "Integrate the constraints and edge conditions in Ancient India",
+            "Ignore an edge condition in Ancient India"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Ancient India is supported by the relevant Ancient India concept and the stated constraints.",
+          "topic": "Ancient India",
+          "subtopic": "Ancient India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-indian-history-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Medieval India? Expansion item 10 for Indian History.",
+          "options": [
+            "Apply Medieval India in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Medieval India rule",
+            "Ignore an edge condition in Medieval India",
+            "Integrate the constraints and edge conditions in Medieval India"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Medieval India is supported by the relevant Medieval India concept and the stated constraints.",
+          "topic": "Medieval India",
+          "subtopic": "Medieval India",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Indian History"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

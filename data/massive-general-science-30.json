@@ -1,0 +1,688 @@
+{
+  "id": "massive-general-science-30",
+  "title": "General Science — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "General Science",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "General Science — BASIC",
+      "questions": [
+        {
+          "id": "mass-general-science-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Physics? Expansion item 1 for General Science.",
+          "options": [
+            "The foundational, verifiable principle of Physics",
+            "Physics approach without verification",
+            "An unrelated Physics technique",
+            "Opposite principle in Physics"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Chemistry requires the use of which principle? Expansion item 2 for General Science.",
+          "options": [
+            "Chemistry approach without verification",
+            "An unrelated Chemistry technique",
+            "The foundational, verifiable principle of Chemistry",
+            "Opposite principle in Chemistry"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Biology? Expansion item 3 for General Science.",
+          "options": [
+            "The foundational, verifiable principle of Biology",
+            "Biology approach without verification",
+            "An unrelated Biology technique",
+            "Opposite principle in Biology"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Environment, which action is most technically and procedurally appropriate? Expansion item 4 for General Science.",
+          "options": [
+            "Environment approach without verification",
+            "An unrelated Environment technique",
+            "The foundational, verifiable principle of Environment",
+            "Opposite principle in Environment"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Scientific Method? Expansion item 5 for General Science.",
+          "options": [
+            "The foundational, verifiable principle of Scientific Method",
+            "Scientific Method approach without verification",
+            "An unrelated Scientific Method technique",
+            "Opposite principle in Scientific Method"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Physics? Expansion item 6 for General Science.",
+          "options": [
+            "Physics approach without verification",
+            "An unrelated Physics technique",
+            "The foundational, verifiable principle of Physics",
+            "Opposite principle in Physics"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "BASIC",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "General Science — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-general-science-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Chemistry? Expansion item 1 for General Science.",
+          "options": [
+            "Chemistry shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Chemistry",
+            "Superficial Chemistry classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Biology requires the use of which principle? Expansion item 2 for General Science.",
+          "options": [
+            "Biology shortcut that ignores constraints",
+            "Superficial Biology classification",
+            "The principle that correctly satisfies constraints in Biology",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 3 for General Science.",
+          "options": [
+            "Environment shortcut that ignores constraints",
+            "Superficial Environment classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Environment"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Scientific Method, which action is most technically and procedurally appropriate? Expansion item 4 for General Science.",
+          "options": [
+            "The principle that correctly satisfies constraints in Scientific Method",
+            "Scientific Method shortcut that ignores constraints",
+            "Superficial Scientific Method classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Physics? Expansion item 5 for General Science.",
+          "options": [
+            "Physics shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Physics",
+            "Superficial Physics classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Chemistry? Expansion item 6 for General Science.",
+          "options": [
+            "Chemistry shortcut that ignores constraints",
+            "Superficial Chemistry classification",
+            "The principle that correctly satisfies constraints in Chemistry",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Biology requires the use of which principle? Expansion item 7 for General Science.",
+          "options": [
+            "Biology shortcut that ignores constraints",
+            "Superficial Biology classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Biology"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 8 for General Science.",
+          "options": [
+            "The principle that correctly satisfies constraints in Environment",
+            "Environment shortcut that ignores constraints",
+            "Superficial Environment classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Scientific Method, which action is most technically and procedurally appropriate? Expansion item 9 for General Science.",
+          "options": [
+            "Scientific Method shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Scientific Method",
+            "Superficial Scientific Method classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Physics? Expansion item 10 for General Science.",
+          "options": [
+            "Physics shortcut that ignores constraints",
+            "Superficial Physics classification",
+            "The principle that correctly satisfies constraints in Physics",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Chemistry? Expansion item 11 for General Science.",
+          "options": [
+            "Chemistry shortcut that ignores constraints",
+            "Superficial Chemistry classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Chemistry"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Biology requires the use of which principle? Expansion item 12 for General Science.",
+          "options": [
+            "The principle that correctly satisfies constraints in Biology",
+            "Biology shortcut that ignores constraints",
+            "Superficial Biology classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Environment? Expansion item 13 for General Science.",
+          "options": [
+            "Environment shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Environment",
+            "Superficial Environment classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-general-science-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Scientific Method, which action is most technically and procedurally appropriate? Expansion item 14 for General Science.",
+          "options": [
+            "Scientific Method shortcut that ignores constraints",
+            "Superficial Scientific Method classification",
+            "The principle that correctly satisfies constraints in Scientific Method",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "General Science — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-general-science-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Biology? Expansion item 1 for General Science.",
+          "options": [
+            "Apply Biology in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Biology rule",
+            "Integrate the constraints and edge conditions in Biology",
+            "Ignore an edge condition in Biology"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Environment requires the use of which principle? Expansion item 2 for General Science.",
+          "options": [
+            "Apply Environment in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Environment rule",
+            "Ignore an edge condition in Environment",
+            "Integrate the constraints and edge conditions in Environment"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Scientific Method? Expansion item 3 for General Science.",
+          "options": [
+            "Integrate the constraints and edge conditions in Scientific Method",
+            "Apply Scientific Method in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Scientific Method rule",
+            "Ignore an edge condition in Scientific Method"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Physics, which action is most technically and procedurally appropriate? Expansion item 4 for General Science.",
+          "options": [
+            "Apply Physics in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Physics",
+            "Use the locally valid but globally incorrect Physics rule",
+            "Ignore an edge condition in Physics"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Chemistry? Expansion item 5 for General Science.",
+          "options": [
+            "Apply Chemistry in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Chemistry rule",
+            "Integrate the constraints and edge conditions in Chemistry",
+            "Ignore an edge condition in Chemistry"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Biology? Expansion item 6 for General Science.",
+          "options": [
+            "Apply Biology in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Biology rule",
+            "Ignore an edge condition in Biology",
+            "Integrate the constraints and edge conditions in Biology"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Biology is supported by the relevant Biology concept and the stated constraints.",
+          "topic": "Biology",
+          "subtopic": "Biology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Environment requires the use of which principle? Expansion item 7 for General Science.",
+          "options": [
+            "Integrate the constraints and edge conditions in Environment",
+            "Apply Environment in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Environment rule",
+            "Ignore an edge condition in Environment"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Environment is supported by the relevant Environment concept and the stated constraints.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Scientific Method? Expansion item 8 for General Science.",
+          "options": [
+            "Apply Scientific Method in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Scientific Method",
+            "Use the locally valid but globally incorrect Scientific Method rule",
+            "Ignore an edge condition in Scientific Method"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Scientific Method is supported by the relevant Scientific Method concept and the stated constraints.",
+          "topic": "Scientific Method",
+          "subtopic": "Scientific Method",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Physics, which action is most technically and procedurally appropriate? Expansion item 9 for General Science.",
+          "options": [
+            "Apply Physics in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Physics rule",
+            "Integrate the constraints and edge conditions in Physics",
+            "Ignore an edge condition in Physics"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Physics is supported by the relevant Physics concept and the stated constraints.",
+          "topic": "Physics",
+          "subtopic": "Physics",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-general-science-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Chemistry? Expansion item 10 for General Science.",
+          "options": [
+            "Apply Chemistry in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Chemistry rule",
+            "Ignore an edge condition in Chemistry",
+            "Integrate the constraints and edge conditions in Chemistry"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Chemistry is supported by the relevant Chemistry concept and the stated constraints.",
+          "topic": "Chemistry",
+          "subtopic": "Chemistry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "General Science"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

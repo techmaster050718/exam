@@ -1,0 +1,688 @@
+{
+  "id": "massive-english-language-30",
+  "title": "English Language — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "English Language",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "English Language — BASIC",
+      "questions": [
+        {
+          "id": "mass-english-language-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Grammar? Expansion item 1 for English Language.",
+          "options": [
+            "The foundational, verifiable principle of Grammar",
+            "Grammar approach without verification",
+            "An unrelated Grammar technique",
+            "Opposite principle in Grammar"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Vocabulary requires the use of which principle? Expansion item 2 for English Language.",
+          "options": [
+            "Vocabulary approach without verification",
+            "An unrelated Vocabulary technique",
+            "The foundational, verifiable principle of Vocabulary",
+            "Opposite principle in Vocabulary"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Reading Comprehension? Expansion item 3 for English Language.",
+          "options": [
+            "The foundational, verifiable principle of Reading Comprehension",
+            "Reading Comprehension approach without verification",
+            "An unrelated Reading Comprehension technique",
+            "Opposite principle in Reading Comprehension"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Sentence Rearrangement, which action is most technically and procedurally appropriate? Expansion item 4 for English Language.",
+          "options": [
+            "Sentence Rearrangement approach without verification",
+            "An unrelated Sentence Rearrangement technique",
+            "The foundational, verifiable principle of Sentence Rearrangement",
+            "Opposite principle in Sentence Rearrangement"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Error Detection? Expansion item 5 for English Language.",
+          "options": [
+            "The foundational, verifiable principle of Error Detection",
+            "Error Detection approach without verification",
+            "An unrelated Error Detection technique",
+            "Opposite principle in Error Detection"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Grammar? Expansion item 6 for English Language.",
+          "options": [
+            "Grammar approach without verification",
+            "An unrelated Grammar technique",
+            "The foundational, verifiable principle of Grammar",
+            "Opposite principle in Grammar"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "BASIC",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "English Language — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-english-language-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Vocabulary? Expansion item 1 for English Language.",
+          "options": [
+            "Vocabulary shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Vocabulary",
+            "Superficial Vocabulary classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Reading Comprehension requires the use of which principle? Expansion item 2 for English Language.",
+          "options": [
+            "Reading Comprehension shortcut that ignores constraints",
+            "Superficial Reading Comprehension classification",
+            "The principle that correctly satisfies constraints in Reading Comprehension",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Sentence Rearrangement? Expansion item 3 for English Language.",
+          "options": [
+            "Sentence Rearrangement shortcut that ignores constraints",
+            "Superficial Sentence Rearrangement classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Sentence Rearrangement"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Error Detection, which action is most technically and procedurally appropriate? Expansion item 4 for English Language.",
+          "options": [
+            "The principle that correctly satisfies constraints in Error Detection",
+            "Error Detection shortcut that ignores constraints",
+            "Superficial Error Detection classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Grammar? Expansion item 5 for English Language.",
+          "options": [
+            "Grammar shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Grammar",
+            "Superficial Grammar classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Vocabulary? Expansion item 6 for English Language.",
+          "options": [
+            "Vocabulary shortcut that ignores constraints",
+            "Superficial Vocabulary classification",
+            "The principle that correctly satisfies constraints in Vocabulary",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Reading Comprehension requires the use of which principle? Expansion item 7 for English Language.",
+          "options": [
+            "Reading Comprehension shortcut that ignores constraints",
+            "Superficial Reading Comprehension classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Reading Comprehension"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Sentence Rearrangement? Expansion item 8 for English Language.",
+          "options": [
+            "The principle that correctly satisfies constraints in Sentence Rearrangement",
+            "Sentence Rearrangement shortcut that ignores constraints",
+            "Superficial Sentence Rearrangement classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Error Detection, which action is most technically and procedurally appropriate? Expansion item 9 for English Language.",
+          "options": [
+            "Error Detection shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Error Detection",
+            "Superficial Error Detection classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Grammar? Expansion item 10 for English Language.",
+          "options": [
+            "Grammar shortcut that ignores constraints",
+            "Superficial Grammar classification",
+            "The principle that correctly satisfies constraints in Grammar",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Vocabulary? Expansion item 11 for English Language.",
+          "options": [
+            "Vocabulary shortcut that ignores constraints",
+            "Superficial Vocabulary classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Vocabulary"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Reading Comprehension requires the use of which principle? Expansion item 12 for English Language.",
+          "options": [
+            "The principle that correctly satisfies constraints in Reading Comprehension",
+            "Reading Comprehension shortcut that ignores constraints",
+            "Superficial Reading Comprehension classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Sentence Rearrangement? Expansion item 13 for English Language.",
+          "options": [
+            "Sentence Rearrangement shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Sentence Rearrangement",
+            "Superficial Sentence Rearrangement classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-english-language-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Error Detection, which action is most technically and procedurally appropriate? Expansion item 14 for English Language.",
+          "options": [
+            "Error Detection shortcut that ignores constraints",
+            "Superficial Error Detection classification",
+            "The principle that correctly satisfies constraints in Error Detection",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "English Language — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-english-language-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reading Comprehension? Expansion item 1 for English Language.",
+          "options": [
+            "Apply Reading Comprehension in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reading Comprehension rule",
+            "Integrate the constraints and edge conditions in Reading Comprehension",
+            "Ignore an edge condition in Reading Comprehension"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Sentence Rearrangement requires the use of which principle? Expansion item 2 for English Language.",
+          "options": [
+            "Apply Sentence Rearrangement in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Sentence Rearrangement rule",
+            "Ignore an edge condition in Sentence Rearrangement",
+            "Integrate the constraints and edge conditions in Sentence Rearrangement"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Error Detection? Expansion item 3 for English Language.",
+          "options": [
+            "Integrate the constraints and edge conditions in Error Detection",
+            "Apply Error Detection in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Error Detection rule",
+            "Ignore an edge condition in Error Detection"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Grammar, which action is most technically and procedurally appropriate? Expansion item 4 for English Language.",
+          "options": [
+            "Apply Grammar in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Grammar",
+            "Use the locally valid but globally incorrect Grammar rule",
+            "Ignore an edge condition in Grammar"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Vocabulary? Expansion item 5 for English Language.",
+          "options": [
+            "Apply Vocabulary in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Vocabulary rule",
+            "Integrate the constraints and edge conditions in Vocabulary",
+            "Ignore an edge condition in Vocabulary"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Reading Comprehension? Expansion item 6 for English Language.",
+          "options": [
+            "Apply Reading Comprehension in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Reading Comprehension rule",
+            "Ignore an edge condition in Reading Comprehension",
+            "Integrate the constraints and edge conditions in Reading Comprehension"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Reading Comprehension is supported by the relevant Reading Comprehension concept and the stated constraints.",
+          "topic": "Reading Comprehension",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Sentence Rearrangement requires the use of which principle? Expansion item 7 for English Language.",
+          "options": [
+            "Integrate the constraints and edge conditions in Sentence Rearrangement",
+            "Apply Sentence Rearrangement in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Sentence Rearrangement rule",
+            "Ignore an edge condition in Sentence Rearrangement"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Sentence Rearrangement is supported by the relevant Sentence Rearrangement concept and the stated constraints.",
+          "topic": "Sentence Rearrangement",
+          "subtopic": "Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Error Detection? Expansion item 8 for English Language.",
+          "options": [
+            "Apply Error Detection in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Error Detection",
+            "Use the locally valid but globally incorrect Error Detection rule",
+            "Ignore an edge condition in Error Detection"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Error Detection is supported by the relevant Error Detection concept and the stated constraints.",
+          "topic": "Error Detection",
+          "subtopic": "Error Detection",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Grammar, which action is most technically and procedurally appropriate? Expansion item 9 for English Language.",
+          "options": [
+            "Apply Grammar in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Grammar rule",
+            "Integrate the constraints and edge conditions in Grammar",
+            "Ignore an edge condition in Grammar"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Grammar is supported by the relevant Grammar concept and the stated constraints.",
+          "topic": "Grammar",
+          "subtopic": "Grammar",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-english-language-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Vocabulary? Expansion item 10 for English Language.",
+          "options": [
+            "Apply Vocabulary in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Vocabulary rule",
+            "Ignore an edge condition in Vocabulary",
+            "Integrate the constraints and edge conditions in Vocabulary"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Vocabulary is supported by the relevant Vocabulary concept and the stated constraints.",
+          "topic": "Vocabulary",
+          "subtopic": "Vocabulary",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "English Language"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

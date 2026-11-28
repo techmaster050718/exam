@@ -1,0 +1,2220 @@
+{
+  "id": "elite-math-reasoning",
+  "title": "ELITE MATHEMATICS & REASONING",
+  "subtitle": "Elite Mathematics and Reasoning",
+  "sourceType": "PRACTICE",
+  "exam": "Mathematics",
+  "paperType": "SPECIAL",
+  "contentMode": "INTERNAL",
+  "source": "Original expert-level practice questions; not authentic PYQ",
+  "verificationStatus": "PRACTICE — original expert-level content",
+  "sections": [
+    {
+      "name": "Probability",
+      "questions": [
+        {
+          "id": "elite-math-001",
+          "type": "NAT",
+          "q": "A fair die is rolled twice. What is the probability of exactly one six? Give your answer as a decimal rounded to 4 decimal places. Variant 1.",
+          "answer": 0.2778,
+          "tolerance": 0.0001,
+          "explanation": "Exactly one six has 10 ordered outcomes out of 36, so 10/36 = 0.277777..., rounded to 0.2778.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-math-002",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 2.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-003",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 3.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-004",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 4.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-005",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 5.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-006",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 6.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-007",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 7.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-008",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 8.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-009",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 9.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-010",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step probability problem? Variant 10.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Probability",
+          "subtopic": "Probability",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-011",
+          "type": "NAT",
+          "q": "How many 3-person committees can be formed from 8 people? Variant 11.",
+          "answer": 56,
+          "tolerance": 0,
+          "explanation": "C(8,3)=8×7×6/(3×2×1)=56.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-math-012",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 12.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-013",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 13.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-014",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 14.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-015",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 15.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-016",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 16.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-017",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 17.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-018",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 18.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-019",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 19.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-020",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step combinations problem? Variant 20.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Combinations",
+          "subtopic": "Combinations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Time and Work",
+      "questions": [
+        {
+          "id": "elite-math-021",
+          "type": "NAT",
+          "q": "A completes a job in 12 days and B in 18 days. Working together, how many days do they need? Variant 21.",
+          "answer": 7.2,
+          "tolerance": 0.01,
+          "explanation": "Combined rate is 1/12+1/18=5/36, hence time 36/5=7.2 days.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-math-022",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 22.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-023",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 23.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-024",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 24.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-025",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 25.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-026",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 26.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-027",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 27.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-028",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 28.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-029",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 29.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-030",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step time and work problem? Variant 30.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Time and Work",
+          "subtopic": "Time and Work",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-031",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 31.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-032",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 32.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-033",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 33.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-034",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 34.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-035",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 35.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-036",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 36.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-037",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 37.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-038",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 38.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-039",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 39.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-040",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step speed and distance problem? Variant 40.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Speed and Distance",
+          "subtopic": "Speed and Distance",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "questions": [
+        {
+          "id": "elite-math-041",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 41.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-042",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 42.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-043",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 43.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-044",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 44.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-045",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 45.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-046",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 46.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-047",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 47.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-048",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 48.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-049",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 49.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-050",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step algebra problem? Variant 50.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Algebra",
+          "subtopic": "Algebra",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-051",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 51.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-052",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 52.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-053",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 53.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-054",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 54.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-055",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 55.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-056",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 56.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-057",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 57.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-058",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 58.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-059",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 59.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-060",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step geometry problem? Variant 60.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Geometry",
+          "subtopic": "Geometry",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Mensuration",
+      "questions": [
+        {
+          "id": "elite-math-061",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 61.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-062",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 62.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-063",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 63.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-064",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 64.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-065",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 65.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-066",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 66.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-067",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 67.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-068",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 68.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-069",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 69.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-070",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step mensuration problem? Variant 70.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Mensuration",
+          "subtopic": "Mensuration",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-071",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 71.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-072",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 72.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-073",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 73.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-074",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 74.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-075",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 75.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-076",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 76.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-077",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 77.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-078",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 78.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-079",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 79.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-080",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step data interpretation problem? Variant 80.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Data Interpretation",
+          "subtopic": "Data Interpretation",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Arrangements",
+      "questions": [
+        {
+          "id": "elite-math-081",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 81.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-082",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 82.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-083",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 83.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-084",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 84.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-085",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 85.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-086",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 86.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-087",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 87.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-088",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 88.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-089",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 89.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-090",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step arrangements problem? Variant 90.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Arrangements",
+          "subtopic": "Arrangements",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-091",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 91.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-092",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 92.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-093",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 93.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-094",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 94.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-095",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 95.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-096",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 96.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-097",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 97.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-098",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 98.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-099",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 99.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-math-100",
+          "type": "MCQ",
+          "q": "Which method is valid for solving a multi-step syllogisms problem? Variant 100.",
+          "options": [
+            "Identify constraints, apply the governing formula, then verify boundary conditions.",
+            "Choose the most familiar formula without checking units.",
+            "Ignore the most restrictive condition.",
+            "Assume all cases are symmetric."
+          ],
+          "answer": 0,
+          "explanation": "A valid solution identifies constraints, applies the correct relation and verifies the result.",
+          "topic": "Syllogisms",
+          "subtopic": "Syllogisms",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE MATHEMATICS & REASONING"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

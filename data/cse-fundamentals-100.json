@@ -103,6 +103,46 @@
             "Storing it in BIOS ROM"
           ],
           "answer": 1
+        },
+        {
+          "id": "cse-exp-01",
+          "type": "MCQ",
+          "q": "In IEEE 754 single precision, the exponent bias is:",
+          "answer": 0,
+          "explanation": "IEEE 754 binary32 uses an 8-bit exponent with a bias of 127.",
+          "topic": "Computer Fundamentals",
+          "subtopic": "Data representation",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "127",
+            "128",
+            "1023",
+            "255"
+          ]
+        },
+        {
+          "id": "cse-exp-02",
+          "type": "MCQ",
+          "q": "Which cache mapping has each main-memory block restricted to exactly one cache line?",
+          "answer": 0,
+          "explanation": "Direct-mapped cache places each block in only one determined set/line.",
+          "topic": "Computer Architecture",
+          "subtopic": "Cache",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Direct mapped",
+            "Fully associative",
+            "2-way set associative",
+            "Victim cache"
+          ]
         }
       ]
     },
@@ -313,6 +353,46 @@
             "function declaration"
           ],
           "answer": 1
+        },
+        {
+          "id": "cse-exp-03",
+          "type": "MCQ",
+          "q": "What is the output of Python: print(type([]) is list)?",
+          "answer": 0,
+          "explanation": "[] creates a list object, and type([]) is exactly list, so the identity comparison is True.",
+          "topic": "Programming",
+          "subtopic": "Python",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "True",
+            "False",
+            "list",
+            "None"
+          ]
+        },
+        {
+          "id": "cse-exp-04",
+          "type": "MCQ",
+          "q": "Which C declaration best describes a pointer to a function taking int and returning int?",
+          "answer": 1,
+          "explanation": "int (*f)(int) declares f as a pointer to a function accepting int and returning int.",
+          "topic": "Programming",
+          "subtopic": "C/C++",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "int f(int)",
+            "int (*f)(int)",
+            "int *f(int)",
+            "int (&f)(int)"
+          ]
         }
       ]
     },
@@ -418,6 +498,46 @@
             "T(n) = T(n/2) + O(n)"
           ],
           "answer": 3
+        },
+        {
+          "id": "cse-exp-05",
+          "type": "MCQ",
+          "q": "The worst-case time complexity of binary search on a sorted array is:",
+          "answer": 1,
+          "explanation": "Binary search halves the remaining search interval, giving O(log n) time.",
+          "topic": "Algorithms",
+          "subtopic": "Searching",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n log n)"
+          ]
+        },
+        {
+          "id": "cse-exp-06",
+          "type": "MCQ",
+          "q": "Which traversal visits a binary tree in left-subtree, root, right-subtree order?",
+          "answer": 1,
+          "explanation": "Inorder traversal visits left subtree, then node, then right subtree.",
+          "topic": "Data Structures",
+          "subtopic": "Trees",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Preorder",
+            "Inorder",
+            "Postorder",
+            "Level order"
+          ]
         }
       ]
     },
@@ -523,6 +643,26 @@
             "The compiler optimization level"
           ],
           "answer": 1
+        },
+        {
+          "id": "cse-exp-07",
+          "type": "MCQ",
+          "q": "Which condition must hold for an address-space page to be resident before execution can access it?",
+          "answer": 0,
+          "explanation": "A valid resident page-table entry points to a physical frame and permits the address translation.",
+          "topic": "Operating Systems",
+          "subtopic": "Paging",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Page-table valid bit is 1",
+            "TLB has no entry",
+            "Swap partition is empty",
+            "Process is in waiting state"
+          ]
         }
       ]
     },
@@ -628,6 +768,26 @@
             "A routing path through a gateway/router"
           ],
           "answer": 3
+        },
+        {
+          "id": "cse-exp-08",
+          "type": "MCQ",
+          "q": "In the address 192.168.50.200/26, what is the network address?",
+          "answer": 1,
+          "explanation": "A /26 block starts every 64 addresses. 200 is in the 192-255 range, so the network address is 192.168.50.192.",
+          "topic": "Computer Networks",
+          "subtopic": "Subnetting",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "192.168.50.128",
+            "192.168.50.192",
+            "192.168.50.0",
+            "192.168.50.200"
+          ]
         }
       ]
     },
@@ -733,6 +893,26 @@
             "They are candidate columns but cannot form a key"
           ],
           "answer": 1
+        },
+        {
+          "id": "cse-exp-09",
+          "type": "MCQ",
+          "q": "Which SQL operation combines rows from two compatible result sets and removes duplicates?",
+          "answer": 0,
+          "explanation": "UNION appends compatible result sets and removes duplicate rows; UNION ALL preserves duplicates.",
+          "topic": "DBMS",
+          "subtopic": "SQL",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "UNION",
+            "UNION ALL",
+            "INTERSECT ALL",
+            "CROSS JOIN"
+          ]
         }
       ]
     },
@@ -838,6 +1018,26 @@
             "Use parameterized queries and validate input"
           ],
           "answer": 3
+        },
+        {
+          "id": "cse-exp-10",
+          "type": "MCQ",
+          "q": "Which control is the best first response after a system is identified as infected by ransomware?",
+          "answer": 1,
+          "explanation": "Isolation prevents lateral movement while preserving evidence and enabling recovery planning.",
+          "topic": "Cybersecurity",
+          "subtopic": "Incident response",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Fundamental CSE"
+          ],
+          "sourceType": "PRACTICE",
+          "options": [
+            "Pay the attacker",
+            "Isolate the affected system",
+            "Delete all log files",
+            "Reconnect it to the backup server"
+          ]
         }
       ]
     },

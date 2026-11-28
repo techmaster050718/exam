@@ -1,0 +1,2238 @@
+{
+  "id": "elite-general-studies-challenge",
+  "title": "ELITE GENERAL STUDIES CHALLENGE",
+  "subtitle": "Elite General Studies challenge",
+  "sourceType": "PRACTICE",
+  "exam": "General Studies",
+  "paperType": "SPECIAL",
+  "contentMode": "INTERNAL",
+  "source": "Original expert-level practice questions; not authentic PYQ",
+  "verificationStatus": "PRACTICE — original expert-level content",
+  "sections": [
+    {
+      "name": "Indian History",
+      "questions": [
+        {
+          "id": "elite-gs-001",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 1.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-002",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 2.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-003",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 3.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-004",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 4.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-005",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 5.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-006",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 6.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-007",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 7.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-008",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 8.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-009",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 9.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-010",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 10.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-011",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 11.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-012",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 12.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-013",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 13.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-014",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 14.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-015",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 15.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-016",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 16.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-017",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 17.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-018",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 18.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-019",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 19.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-020",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 20.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "International Relations",
+      "questions": [
+        {
+          "id": "elite-gs-021",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 21.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-022",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 22.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-023",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 23.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-024",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 24.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-025",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 25.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-026",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 26.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-027",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 27.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-028",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 28.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-029",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 29.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-030",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 30.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-031",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 31.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-032",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 32.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-033",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 33.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-034",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 34.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-035",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 35.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-036",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 36.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-037",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 37.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-038",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 38.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-039",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 39.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-040",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 40.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Defence",
+      "questions": [
+        {
+          "id": "elite-gs-041",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 41.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-042",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 42.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-043",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 43.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-044",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 44.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-045",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 45.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-046",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 46.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-047",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 47.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-048",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 48.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-049",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 49.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-050",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 50.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-051",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 51.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-052",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 52.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-053",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 53.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-054",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 54.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-055",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 55.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-056",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 56.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-057",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 57.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-058",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 58.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-059",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 59.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-060",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 60.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Environment",
+      "questions": [
+        {
+          "id": "elite-gs-061",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 61.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-062",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 62.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-063",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 63.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-064",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 64.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-065",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 65.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-066",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 66.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-067",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 67.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-068",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 68.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-069",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 69.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-070",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 70.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-071",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 71.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-072",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 72.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-073",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 73.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-074",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 74.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-075",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 75.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-076",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 76.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-077",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 77.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-078",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 78.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-079",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 79.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-080",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 80.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "questions": [
+        {
+          "id": "elite-gs-081",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 81.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-082",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 82.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-083",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 83.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-084",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 84.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-085",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 85.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-086",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 86.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-087",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 87.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-088",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 88.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-089",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 89.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-090",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 90.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-091",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 91.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-092",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 92.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-093",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 93.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-094",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Polity? Case 94.",
+          "options": [
+            "The factually established constitutional or historical principle in Polity",
+            "A related but incorrect Polity claim",
+            "An anachronistic Polity description",
+            "A general statement without Polity support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Polity facts and avoids overgeneralisation.",
+          "topic": "Polity",
+          "subtopic": "Polity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-095",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Economy? Case 95.",
+          "options": [
+            "The factually established constitutional or historical principle in Economy",
+            "A related but incorrect Economy claim",
+            "An anachronistic Economy description",
+            "A general statement without Economy support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Economy facts and avoids overgeneralisation.",
+          "topic": "Economy",
+          "subtopic": "Economy",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-096",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Environment? Case 96.",
+          "options": [
+            "The factually established constitutional or historical principle in Environment",
+            "A related but incorrect Environment claim",
+            "An anachronistic Environment description",
+            "A general statement without Environment support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Environment facts and avoids overgeneralisation.",
+          "topic": "Environment",
+          "subtopic": "Environment",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-097",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Defence? Case 97.",
+          "options": [
+            "The factually established constitutional or historical principle in Defence",
+            "A related but incorrect Defence claim",
+            "An anachronistic Defence description",
+            "A general statement without Defence support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Defence facts and avoids overgeneralisation.",
+          "topic": "Defence",
+          "subtopic": "Defence",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-098",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of International Relations? Case 98.",
+          "options": [
+            "The factually established constitutional or historical principle in International Relations",
+            "A related but incorrect International Relations claim",
+            "An anachronistic International Relations description",
+            "A general statement without International Relations support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative International Relations facts and avoids overgeneralisation.",
+          "topic": "International Relations",
+          "subtopic": "International Relations",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-099",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian History? Case 99.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian History",
+            "A related but incorrect Indian History claim",
+            "An anachronistic Indian History description",
+            "A general statement without Indian History support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian History facts and avoids overgeneralisation.",
+          "topic": "Indian History",
+          "subtopic": "Indian History",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-gs-100",
+          "type": "MCQ",
+          "q": "Which analytical statement is most defensible in the context of Indian Geography? Case 100.",
+          "options": [
+            "The factually established constitutional or historical principle in Indian Geography",
+            "A related but incorrect Indian Geography claim",
+            "An anachronistic Indian Geography description",
+            "A general statement without Indian Geography support"
+          ],
+          "answer": 0,
+          "explanation": "The first statement is constrained by authoritative Indian Geography facts and avoids overgeneralisation.",
+          "topic": "Indian Geography",
+          "subtopic": "Indian Geography",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE GENERAL STUDIES CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

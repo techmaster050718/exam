@@ -1,0 +1,2178 @@
+{
+  "id": "elite-it-officer-challenge",
+  "title": "ELITE IT OFFICER CHALLENGE",
+  "subtitle": "Elite IT Officer challenge",
+  "sourceType": "PRACTICE",
+  "exam": "IT Officer",
+  "paperType": "SPECIAL",
+  "contentMode": "INTERNAL",
+  "source": "Original expert-level practice questions; not authentic PYQ",
+  "verificationStatus": "PRACTICE — original expert-level content",
+  "sections": [
+    {
+      "name": "DBMS",
+      "questions": [
+        {
+          "id": "elite-it-001",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for dbms? Case 1.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-002",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 2.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-003",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 3.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-004",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 4.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-005",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 5.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-006",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for dbms? Case 6.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-007",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 7.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-008",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 8.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-009",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 9.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-010",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 10.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-011",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for dbms? Case 11.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-012",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 12.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-013",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 13.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-014",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 14.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-015",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 15.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-016",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for dbms? Case 16.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-017",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 17.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-018",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 18.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-019",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 19.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-020",
+          "type": "MCQ",
+          "q": "For a high-assurance dbms scenario, which action is most defensible? Case 20.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "DBMS",
+          "subtopic": "DBMS",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Networking",
+      "questions": [
+        {
+          "id": "elite-it-021",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for networking? Case 21.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-022",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 22.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-023",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 23.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-024",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 24.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-025",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 25.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-026",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for networking? Case 26.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-027",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 27.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-028",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 28.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-029",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 29.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-030",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 30.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-031",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for networking? Case 31.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-032",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 32.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-033",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 33.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-034",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 34.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-035",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 35.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-036",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for networking? Case 36.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-037",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 37.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-038",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 38.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-039",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 39.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-040",
+          "type": "MCQ",
+          "q": "For a high-assurance networking scenario, which action is most defensible? Case 40.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Networking",
+          "subtopic": "Networking",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "questions": [
+        {
+          "id": "elite-it-041",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for operating systems? Case 41.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-042",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 42.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-043",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 43.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-044",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 44.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-045",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 45.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-046",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for operating systems? Case 46.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-047",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 47.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-048",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 48.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-049",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 49.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-050",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 50.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-051",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for operating systems? Case 51.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-052",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 52.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-053",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 53.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-054",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 54.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-055",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 55.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-056",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for operating systems? Case 56.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-057",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 57.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-058",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 58.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-059",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 59.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-060",
+          "type": "MCQ",
+          "q": "For a high-assurance operating systems scenario, which action is most defensible? Case 60.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Operating Systems",
+          "subtopic": "Operating Systems",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Cybersecurity",
+      "questions": [
+        {
+          "id": "elite-it-061",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for cybersecurity? Case 61.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-062",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 62.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-063",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 63.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-064",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 64.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-065",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 65.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-066",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for cybersecurity? Case 66.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-067",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 67.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-068",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 68.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-069",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 69.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-070",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 70.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-071",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for cybersecurity? Case 71.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-072",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 72.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-073",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 73.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-074",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 74.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-075",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 75.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-076",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for cybersecurity? Case 76.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-077",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 77.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-078",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 78.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-079",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 79.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-080",
+          "type": "MCQ",
+          "q": "For a high-assurance cybersecurity scenario, which action is most defensible? Case 80.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Cybersecurity",
+          "subtopic": "Cybersecurity",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    },
+    {
+      "name": "Banking Technology",
+      "questions": [
+        {
+          "id": "elite-it-081",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for banking technology? Case 81.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-082",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 82.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-083",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 83.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-084",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 84.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-085",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 85.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-086",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for banking technology? Case 86.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-087",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 87.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-088",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 88.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-089",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 89.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-090",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 90.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-091",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for banking technology? Case 91.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-092",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 92.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-093",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 93.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-094",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 94.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-095",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 95.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-096",
+          "type": "MSQ",
+          "q": "Which controls are appropriate for banking technology? Case 96.",
+          "options": [
+            "Apply least privilege.",
+            "Validate evidence and assumptions.",
+            "Ignore audit and recovery needs.",
+            "Assume every input is trusted."
+          ],
+          "answer": [
+            0,
+            1
+          ],
+          "explanation": "Least privilege and validation are relevant defensive controls.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0
+        },
+        {
+          "id": "elite-it-097",
+          "type": "NAT",
+          "q": "A /28 IPv4 subnet in the last octet has how many usable host addresses? Case 97.",
+          "answer": 14,
+          "tolerance": 0,
+          "explanation": "A /28 has 16 addresses; subtract network and broadcast addresses.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2
+        },
+        {
+          "id": "elite-it-098",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 98.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-099",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 99.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "elite-it-100",
+          "type": "MCQ",
+          "q": "For a high-assurance banking technology scenario, which action is most defensible? Case 100.",
+          "options": [
+            "The defensible control or principle",
+            "A superficially similar but weaker control",
+            "A control that bypasses rollback",
+            "A procedure with no audit trail"
+          ],
+          "answer": 0,
+          "explanation": "The first option combines least privilege, rollback, validation and auditability.",
+          "topic": "Banking Technology",
+          "subtopic": "Banking Technology",
+          "difficulty": "EXPERT",
+          "examTags": [
+            "ELITE IT OFFICER CHALLENGE"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}

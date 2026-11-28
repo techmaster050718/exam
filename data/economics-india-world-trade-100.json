@@ -1,0 +1,2733 @@
+{
+  "id": "economics-india-world-trade-100",
+  "title": "ECONOMICS – INDIA & WORLD TRADE",
+  "subtitle": "100 practical questions on the Indian economy, taxation, RBI, trade and international economic organisations",
+  "sourceType": "PRACTICE",
+  "exam": "Economics",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based questions with official reference metadata",
+  "verificationStatus": "PRACTICE — official-source metadata; calculation and concept verification completed",
+  "sections": [
+    {
+      "name": "Indian Economy – Fundamentals",
+      "questions": [
+        {
+          "id": "econ-iwt-1-001",
+          "type": "MCQ",
+          "q": "Which concept measures the final value of goods and services produced within a country's domestic territory during a period?",
+          "explanation": "GDP measures final output produced within the domestic territory over a specified period.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "National income",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Gross Domestic Product",
+            "Public debt",
+            "Fiscal deficit",
+            "Consumer expenditure"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-002",
+          "type": "MCQ",
+          "q": "Real GDP differs from nominal GDP because real GDP:",
+          "explanation": "Real GDP uses constant prices, while nominal GDP uses current prices.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Nominal and real GDP",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Uses base-year prices to adjust for inflation",
+            "Includes only exports",
+            "Measures only government spending",
+            "Excludes final goods"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-003",
+          "type": "MCQ",
+          "q": "A rise in the general price level while quantities remain unchanged would generally:",
+          "explanation": "Higher prices increase the value measure of nominal GDP, while real GDP depends on constant-price quantities.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Nominal and real GDP",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Raise nominal GDP but not necessarily real GDP",
+            "Lower nominal GDP",
+            "Leave both unchanged",
+            "Eliminate GDP growth"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-004",
+          "type": "MCQ",
+          "q": "Per capita income is calculated by dividing national income or output by:",
+          "explanation": "Per capita income relates aggregate income or output to the population.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Per capita income",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Population",
+            "Government spending",
+            "Number of firms",
+            "Exports"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-005",
+          "type": "MCQ",
+          "q": "Economic development differs from economic growth because development also includes:",
+          "explanation": "Development is broader and considers improvements in welfare and human capabilities.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Growth versus development",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Living standards, health and social welfare",
+            "Only increases in output",
+            "Only higher exports",
+            "Only higher tax revenue"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-006",
+          "type": "MCQ",
+          "q": "Agriculture and allied activities generally belong to the:",
+          "explanation": "The primary sector directly uses natural resources, including agriculture.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Economic sectors",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Primary sector",
+            "Secondary sector",
+            "Tertiary sector",
+            "Financial sector only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-007",
+          "type": "MCQ",
+          "q": "Manufacturing most clearly belongs to the:",
+          "explanation": "Manufacturing converts raw or intermediate products into finished goods.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Economic sectors",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Secondary sector",
+            "Primary sector",
+            "Tertiary sector",
+            "Informal household sector"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-008",
+          "type": "MCQ",
+          "q": "A firm with no formal registration or accounting records is most likely to operate in the:",
+          "explanation": "Informality is characterised by limited or absent formal registration and regulated employment/accounting arrangements.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Formal and informal economy",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Informal economy",
+            "Public sector",
+            "Capital account",
+            "Primary deficit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-009",
+          "type": "MCQ",
+          "q": "The public sector mainly consists of:",
+          "explanation": "Public-sector units are owned or controlled by central, state or local governments.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Public and private sectors",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Government-owned or controlled institutions",
+            "Only privately listed companies",
+            "Only household production",
+            "Foreign consumers"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-010",
+          "type": "MCQ",
+          "q": "Fiscal deficit is the excess of total government expenditure over:",
+          "explanation": "Fiscal deficit measures borrowing requirement and equals expenditure over receipts excluding borrowings.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Fiscal deficit",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Revenue and non-debt capital receipts",
+            "Only interest payments",
+            "Only tax revenue",
+            "Only borrowing"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-011",
+          "type": "MCQ",
+          "q": "Revenue deficit arises when:",
+          "explanation": "Revenue deficit compares revenue expenditure with revenue receipts.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Revenue deficit",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Revenue expenditure exceeds revenue receipts",
+            "Capital expenditure exceeds capital receipts",
+            "Tax receipts exceed total expenditure",
+            "Government borrowing is zero"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-012",
+          "type": "NAT",
+          "q": "If national income is ₹1,00,000 crore and population is 25 crore, national income per person is:",
+          "explanation": "Divide 1,00,000 crore by 25 crore: ₹4000 per person.",
+          "topic": "Indian Economy – Fundamentals",
+          "subtopic": "Per capita income",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance / Ministry of Statistics and Programme Implementation",
+          "sourceReference": "https://www.mospi.gov.in/",
+          "sourceDescription": "National accounts and Indian economic statistics",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "answer": 4000,
+          "tolerance": 0
+        }
+      ]
+    },
+    {
+      "name": "Indian Tax System",
+      "questions": [
+        {
+          "id": "econ-iwt-1-013",
+          "type": "MCQ",
+          "q": "A tax is compulsory payment to government and ordinarily:",
+          "explanation": "Tax is a compulsory contribution made for public expenditure without a direct individual return.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax fundamentals",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Does not provide an individual-specific quid pro quo",
+            "Creates an individual debt equal to benefits received",
+            "Is optional for citizens",
+            "Is always a penalty"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-014",
+          "type": "MCQ",
+          "q": "Income tax is primarily a:",
+          "explanation": "Income tax is paid directly by the taxpayer on taxable income.",
+          "topic": "Indian Tax System",
+          "subtopic": "Direct and indirect taxes",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Direct tax",
+            "Indirect tax",
+            "Customs duty",
+            "Excise duty"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-015",
+          "type": "MCQ",
+          "q": "GST paid at the point of purchase is generally:",
+          "explanation": "GST is levied on supply and collected in the transaction chain rather than directly assessed on personal income.",
+          "topic": "Indian Tax System",
+          "subtopic": "Direct and indirect taxes",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "An indirect tax on consumption",
+            "A direct tax on salary",
+            "A customs receipt only",
+            "A personal income tax"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-016",
+          "type": "MCQ",
+          "q": "Corporate tax is levied on:",
+          "explanation": "Corporate tax applies to taxable company income/profits under direct-tax law.",
+          "topic": "Indian Tax System",
+          "subtopic": "Corporate tax",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Taxable profits of companies",
+            "An individual's purchases",
+            "All imports only",
+            "Household savings only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-017",
+          "type": "MCQ",
+          "q": "Capital gains tax applies to profit arising from:",
+          "explanation": "Capital gains are changes resulting from transfer of qualifying capital assets.",
+          "topic": "Indian Tax System",
+          "subtopic": "Capital gains",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Transfer of specified capital assets",
+            "Ordinary purchases of groceries",
+            "GST registration",
+            "Bank account opening"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-018",
+          "type": "MCQ",
+          "q": "TDS is:",
+          "explanation": "TDS is withheld by the person making specified payments and remitted to the tax authority.",
+          "topic": "Indian Tax System",
+          "subtopic": "TDS",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Tax deducted by payer and deposited to government",
+            "A customs discount",
+            "A tax-free subsidy",
+            "Tax paid only at year-end by every taxpayer"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-019",
+          "type": "MCQ",
+          "q": "TCS ordinarily means:",
+          "explanation": "TCS requires specified sellers/collectors to collect tax on covered transactions.",
+          "topic": "Indian Tax System",
+          "subtopic": "TCS",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Tax collected at source on specified transactions",
+            "Tax credit for states",
+            "Tax paid by customs only",
+            "Tax-free capital subsidy"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-020",
+          "type": "MCQ",
+          "q": "The old and new income-tax regimes differ mainly in:",
+          "explanation": "The regimes apply different provisions on slabs and eligible deductions/exemptions.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax regimes",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Available deductions/exemptions and applicable slab structures",
+            "Whether income tax is a direct tax",
+            "Who owns the RBI",
+            "Whether customs duty exists"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-021",
+          "type": "MCQ",
+          "q": "A tax deduction from taxable income generally:",
+          "explanation": "A lawful deduction reduces the taxable base, subject to eligibility conditions.",
+          "topic": "Indian Tax System",
+          "subtopic": "Deductions and exemptions",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Reduces taxable income if conditions are met",
+            "Always refunds the full deduction",
+            "Replaces GST",
+            "Increases tax liability automatically"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-022",
+          "type": "MCQ",
+          "q": "An exemption in direct tax means:",
+          "explanation": "Exemption excludes qualifying income or transactions from taxable scope under the governing provision.",
+          "topic": "Indian Tax System",
+          "subtopic": "Deductions and exemptions",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "The specified income or category is excluded from tax under the law",
+            "The payer must charge GST",
+            "The taxpayer pays no customs duty only",
+            "The tax authority waives all future tax"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-023",
+          "type": "MCQ",
+          "q": "Tax evasion is:",
+          "explanation": "Tax evasion uses illegal concealment or misstatement rather than lawful planning.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax compliance",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Illegal concealment or understatement to avoid tax",
+            "Choosing a lawful deduction",
+            "Claiming a refund correctly",
+            "Paying tax in instalments"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-024",
+          "type": "MCQ",
+          "q": "Tax avoidance differs from evasion because avoidance:",
+          "explanation": "Avoidance is within the legal framework; evasion involves unlawful concealment or misrepresentation.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax planning",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Uses legally permissible provisions to reduce tax",
+            "Always involves false invoices",
+            "Is automatically criminal",
+            "Applies only to customs"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-025",
+          "type": "MCQ",
+          "q": "A progressive tax is one in which:",
+          "explanation": "Progressive taxation increases the applicable rate or burden with ability to pay.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax structures",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Higher income groups generally face a higher marginal rate",
+            "The same fixed amount applies to everyone",
+            "Everyone pays the same percentage",
+            "Only imports are taxed"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-026",
+          "type": "MCQ",
+          "q": "A proportional tax charges:",
+          "explanation": "Proportional tax uses a constant rate on the relevant tax base.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax structures",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "The same rate on the taxable base",
+            "No tax below a threshold",
+            "A higher rate at every income level",
+            "Different rates depending on customs origin"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-027",
+          "type": "MCQ",
+          "q": "A regressive tax can mean:",
+          "explanation": "A regressive burden is relatively heavier for lower-income taxpayers.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax structures",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Its burden takes a larger share of lower incomes",
+            "It always has a rising marginal rate",
+            "It applies only to corporations",
+            "It is not paid as money"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-028",
+          "type": "MCQ",
+          "q": "Income tax is generally administered as a:",
+          "explanation": "Income tax other than agricultural income is levied by the Union.",
+          "topic": "Indian Tax System",
+          "subtopic": "Central and state taxes",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Union subject",
+            "State-only tax",
+            "Municipal service charge",
+            "Customs receipt"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-029",
+          "type": "NAT",
+          "q": "A salaried person receives ₹50,000 and has a lawful deduction of ₹5,000. Taxable salary for that simple illustration is:",
+          "explanation": "Taxable salary is ₹50,000 minus the ₹5,000 deduction, giving ₹45,000.",
+          "topic": "Indian Tax System",
+          "subtopic": "Practical tax calculation",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "answer": 45000,
+          "tolerance": 0
+        },
+        {
+          "id": "econ-iwt-1-030",
+          "type": "MCQ",
+          "q": "Tax revenue contributes mainly to:",
+          "explanation": "Tax revenue finances public goods and government programmes.",
+          "topic": "Indian Tax System",
+          "subtopic": "Tax revenue and public services",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Income Tax Department",
+          "sourceReference": "https://www.incometax.gov.in/",
+          "sourceDescription": "Direct-tax concepts and taxpayer guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Public services and government expenditure",
+            "Only private company profits",
+            "Only stock-market dividends",
+            "Only foreign reserve accumulation"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "GST and Customs Duty",
+      "questions": [
+        {
+          "id": "econ-iwt-1-031",
+          "type": "MCQ",
+          "q": "GST is a tax on:",
+          "explanation": "GST is levied on specified supplies of goods or services.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "GST fundamentals",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Supply of goods and services",
+            "Only agricultural land",
+            "Only salaries",
+            "Only imported crude oil"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-032",
+          "type": "MCQ",
+          "q": "For a supply within one Indian state, CGST and SGST generally apply instead of IGST:",
+          "explanation": "An intra-state supply ordinarily attracts CGST and SGST; IGST applies to inter-state supplies.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Intra-state and inter-state GST",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "True",
+            "False",
+            "True only for imports",
+            "True only for services"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-033",
+          "type": "MCQ",
+          "q": "Goods sold from Maharashtra to Uttar Pradesh are ordinarily:",
+          "explanation": "Cross-state supply is inter-state and ordinarily attracts IGST.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Intra-state and inter-state GST",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "An inter-state supply attracting IGST",
+            "An intra-state supply attracting only CGST",
+            "Outside GST",
+            "Subject only to income tax"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-034",
+          "type": "MCQ",
+          "q": "Input Tax Credit allows a registered taxpayer to:",
+          "explanation": "ITC offsets eligible taxes paid on inputs against GST output liability, subject to conditions.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Input Tax Credit",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Set eligible input tax against output tax liability",
+            "Avoid GST registration",
+            "Replace customs duty",
+            "Receive a refund in every case"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-035",
+          "type": "MCQ",
+          "q": "GST registration becomes relevant when:",
+          "explanation": "Registration depends on business liability, threshold and mandatory provisions.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Registration",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A person meets applicable threshold or mandatory registration conditions",
+            "A person makes any personal purchase",
+            "Only a bank account is opened",
+            "Only imported gold is consumed"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-036",
+          "type": "MCQ",
+          "q": "A GST invoice primarily provides:",
+          "explanation": "A GST invoice records supply and tax details required for invoicing and input tax credit.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "GST invoice",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Supply, tax and party details for compliance",
+            "Only the seller's logo",
+            "No tax information",
+            "Proof of customs exemption only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-037",
+          "type": "MCQ",
+          "q": "The GST Council is responsible for:",
+          "explanation": "The GST Council includes Union and State representation and recommends GST policy.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "GST Council",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Recommendations on GST policy and structure",
+            "Issuing all passports",
+            "Fixing RBI repo rates",
+            "Managing customs ports"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-038",
+          "type": "MCQ",
+          "q": "GST collection is deposited by:",
+          "explanation": "Registered taxable persons collect GST and remit it through the GST system.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "GST collection",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Registered suppliers through the GST framework",
+            "Only customs officers",
+            "Only the Ministry of Commerce",
+            "Only State treasuries directly from consumers"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-039",
+          "type": "MCQ",
+          "q": "Customs duty is imposed primarily on:",
+          "explanation": "Customs duty regulates and taxes specified goods crossing customs borders.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Customs duty",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Cross-border import or export of specified goods",
+            "Only salaries earned in India",
+            "Only domestic retail sales",
+            "Only share dividends"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-040",
+          "type": "MCQ",
+          "q": "Import duty generally:",
+          "explanation": "Import duty is part of the landed-cost burden on specified imports.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Import duty",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Adds to the cost of an imported product",
+            "Always lowers the world price",
+            "Is only a corporate income tax",
+            "Is never charged at customs"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-041",
+          "type": "MCQ",
+          "q": "Export duty is:",
+          "explanation": "Export duty applies to selected goods exported outside India.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "Export duty",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A customs duty on specified exports",
+            "A tax on only inter-state domestic sales",
+            "An RBI policy rate",
+            "GST input tax credit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-042",
+          "type": "MCQ",
+          "q": "CGST is the component collected for:",
+          "explanation": "CGST represents the Central Government share on intra-state supplies.",
+          "topic": "GST and Customs Duty",
+          "subtopic": "CGST and SGST",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "CBIC / GST Council",
+          "sourceReference": "https://www.cbic.gov.in/",
+          "sourceDescription": "GST, customs and indirect-tax guidance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "The Union share on an intra-state GST supply",
+            "The entire IGST share",
+            "Import-only customs",
+            "Corporate dividend tax"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Union Budget",
+      "questions": [
+        {
+          "id": "econ-iwt-1-043",
+          "type": "MCQ",
+          "q": "The Union Budget presents:",
+          "explanation": "The Union Budget sets proposed government revenue and expenditure.",
+          "topic": "Union Budget",
+          "subtopic": "Budget fundamentals",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Government receipts and proposed expenditure for the financial year",
+            "Only RBI profit",
+            "Only company balance sheets",
+            "Only exports by category"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-044",
+          "type": "MCQ",
+          "q": "Tax receipts are an example of:",
+          "explanation": "Tax revenue is recurring and generally classified as revenue receipt.",
+          "topic": "Union Budget",
+          "subtopic": "Revenue and capital receipts",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Revenue receipt",
+            "Capital receipt only",
+            "Fiscal reserve",
+            "External debt stock"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-045",
+          "type": "MCQ",
+          "q": "Loan recovery by government is normally:",
+          "explanation": "Loan recoveries are asset-related inflows and form capital receipts.",
+          "topic": "Union Budget",
+          "subtopic": "Revenue and capital receipts",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A capital receipt",
+            "A recurring revenue receipt",
+            "A customs duty",
+            "A revenue expenditure"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-046",
+          "type": "MCQ",
+          "q": "Building a bridge is usually:",
+          "explanation": "Creation or acquisition of an asset is generally capital expenditure.",
+          "topic": "Union Budget",
+          "subtopic": "Revenue and capital expenditure",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Capital expenditure",
+            "Revenue expenditure",
+            "Tax deduction",
+            "GST input credit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-047",
+          "type": "MCQ",
+          "q": "Salaries paid to regular public officials are generally:",
+          "explanation": "Recurring employee compensation is revenue expenditure.",
+          "topic": "Union Budget",
+          "subtopic": "Expenditure",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Revenue expenditure",
+            "Capital expenditure",
+            "Capital receipt",
+            "Fiscal deficit"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-048",
+          "type": "MCQ",
+          "q": "A subsidy is:",
+          "explanation": "Subsidies transfer resources to reduce specified costs or support policy objectives.",
+          "topic": "Union Budget",
+          "subtopic": "Subsidies",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Government financial support to reduce a cost or price",
+            "A tax on imports",
+            "A foreign reserve",
+            "Always a loan recovery"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-049",
+          "type": "MCQ",
+          "q": "Infrastructure spending is often treated as:",
+          "explanation": "Infrastructure spending is public investment in physical or social assets.",
+          "topic": "Union Budget",
+          "subtopic": "Infrastructure",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Public investment that creates assets or capacity",
+            "Only an income-tax deduction",
+            "A customs barrier",
+            "An export incentive"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-050",
+          "type": "MCQ",
+          "q": "Government borrowing increases:",
+          "explanation": "Borrowing creates a liability that becomes part of public debt.",
+          "topic": "Union Budget",
+          "subtopic": "Borrowing and debt",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Public debt and/or associated liabilities",
+            "Only private consumption automatically",
+            "Only GST rates",
+            "Foreign trade policy"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-051",
+          "type": "MCQ",
+          "q": "The Union Budget is presented by:",
+          "explanation": "The Union Finance Minister presents the Union Budget on behalf of the government.",
+          "topic": "Union Budget",
+          "subtopic": "Institutional role",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "The Ministry of Finance / Union Finance Minister",
+            "The RBI Governor alone",
+            "The GST Council alone",
+            "The Directorate General of Foreign Trade"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-052",
+          "type": "NAT",
+          "q": "If expenditure is ₹100 crore and receipts excluding borrowing are ₹90 crore, fiscal deficit is:",
+          "explanation": "Fiscal deficit = expenditure minus receipts excluding borrowing: ₹100 crore minus ₹90 crore = ₹10 crore.",
+          "topic": "Union Budget",
+          "subtopic": "Fiscal deficit",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Ministry of Finance",
+          "sourceReference": "https://www.indiabudget.gov.in/",
+          "sourceDescription": "Union Budget and government finance",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "answer": 10,
+          "tolerance": 0
+        }
+      ]
+    },
+    {
+      "name": "RBI and Banking",
+      "questions": [
+        {
+          "id": "econ-iwt-1-053",
+          "type": "MCQ",
+          "q": "The RBI is India's:",
+          "explanation": "The Reserve Bank of India is the country's central bank.",
+          "topic": "RBI and Banking",
+          "subtopic": "RBI role",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Central bank",
+            "Commercial bank regulator only",
+            "Only tax authority",
+            "Only export promotion agency"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-054",
+          "type": "MCQ",
+          "q": "When the RBI raises the repo rate, commercial banks may face:",
+          "explanation": "Repo-rate increases raise costs for secured short-term central-bank borrowing and can transmit to lending rates.",
+          "topic": "RBI and Banking",
+          "subtopic": "Repo rate",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Higher short-term borrowing costs and potentially higher lending rates",
+            "Lower deposit safety",
+            "Automatic GST exemption",
+            "Higher customs duty"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-055",
+          "type": "MCQ",
+          "q": "CRR refers to:",
+          "explanation": "CRR is the minimum portion of specified bank liabilities that banks maintain as central-bank cash reserve.",
+          "topic": "RBI and Banking",
+          "subtopic": "CRR",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Cash Reserve Ratio",
+            "Capital Revenue Receipt",
+            "Current Repo Revenue",
+            "Central Road Reserve"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-056",
+          "type": "MCQ",
+          "q": "SLR requires banks to maintain a proportion of specified liabilities in:",
+          "explanation": "Statutory Liquidity Ratio requires maintenance in approved liquid assets.",
+          "topic": "RBI and Banking",
+          "subtopic": "SLR",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Approved liquid assets such as government securities and cash",
+            "Only foreign currency",
+            "Only corporate loans",
+            "Only unlisted shares"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-057",
+          "type": "MCQ",
+          "q": "Monetary policy mainly uses instruments to influence:",
+          "explanation": "Monetary policy seeks to manage liquidity and monetary conditions.",
+          "topic": "RBI and Banking",
+          "subtopic": "Monetary policy",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Money, credit and interest-rate conditions",
+            "Corporate income-tax slabs",
+            "Customs tariff codes",
+            "GST Council seats"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-058",
+          "type": "MCQ",
+          "q": "If food, fuel and other representative consumer prices rise broadly and persistently, the economy is experiencing:",
+          "explanation": "Broad, sustained increases in consumer prices indicate inflation.",
+          "topic": "RBI and Banking",
+          "subtopic": "Inflation",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Inflation",
+            "Deflation",
+            "A customs surplus",
+            "Fiscal consolidation"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-059",
+          "type": "MCQ",
+          "q": "Deflation means:",
+          "explanation": "Deflation is a broad, sustained decline in prices.",
+          "topic": "RBI and Banking",
+          "subtopic": "Deflation",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A sustained decrease in the general price level",
+            "A rise in inflation",
+            "A rise in GDP only",
+            "A loss of foreign reserves only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-060",
+          "type": "MCQ",
+          "q": "CPI is used especially to track:",
+          "explanation": "Consumer Price Index measures changes in a representative consumer basket.",
+          "topic": "RBI and Banking",
+          "subtopic": "CPI",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Changes in consumer goods and services prices",
+            "Only wholesale commodity prices",
+            "Only stock prices",
+            "Only government borrowing"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-061",
+          "type": "MCQ",
+          "q": "WPI primarily measures:",
+          "explanation": "Wholesale Price Index tracks prices at the wholesale stage.",
+          "topic": "RBI and Banking",
+          "subtopic": "WPI",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Changes in wholesale transaction prices",
+            "Consumer rent only",
+            "Only stock market returns",
+            "Only customs collections"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-062",
+          "type": "MCQ",
+          "q": "The bank rate is:",
+          "explanation": "Bank rate is an RBI policy/reference rate for designated central-bank lending windows.",
+          "topic": "RBI and Banking",
+          "subtopic": "Bank rate",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A rate at which RBI lends to banks under applicable RBI facilities",
+            "The interest on every savings deposit",
+            "A customs import duty",
+            "GST charged to customers"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-063",
+          "type": "MCQ",
+          "q": "Financial inclusion aims to:",
+          "explanation": "Financial inclusion expands access to appropriate financial services.",
+          "topic": "RBI and Banking",
+          "subtopic": "Financial inclusion",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Provide usable and affordable financial services to underserved people",
+            "Eliminate all commercial banks",
+            "Restrict digital payments",
+            "Replace taxation"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-064",
+          "type": "MCQ",
+          "q": "If policy interest rates rise for a borrower on a floating-rate loan, monthly interest cost generally:",
+          "explanation": "A floating-rate loan linked to a rising benchmark usually has a higher interest cost.",
+          "topic": "RBI and Banking",
+          "subtopic": "Interest rates",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Monetary policy, banking and inflation",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Increases if the loan rate is fully linked and benchmarked",
+            "Always becomes zero",
+            "Cannot change",
+            "Is fixed by GST"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Foreign Trade",
+      "questions": [
+        {
+          "id": "econ-iwt-1-065",
+          "type": "MCQ",
+          "q": "An import is:",
+          "explanation": "Imports enter the domestic economy from foreign sources.",
+          "topic": "Foreign Trade",
+          "subtopic": "Imports and exports",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Purchase of a good or service from abroad",
+            "Sale of a domestic good abroad",
+            "Domestic barter only",
+            "A bank deposit in India"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-066",
+          "type": "MCQ",
+          "q": "An export is:",
+          "explanation": "Exports are sold to buyers outside the domestic economy.",
+          "topic": "Foreign Trade",
+          "subtopic": "Imports and exports",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Sale of domestic goods or services to foreign buyers",
+            "Purchase from abroad",
+            "A customs return",
+            "Domestic tax payment"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-067",
+          "type": "MCQ",
+          "q": "Why does India import substantial crude oil?",
+          "explanation": "India depends materially on crude imports for petroleum product demand.",
+          "topic": "Foreign Trade",
+          "subtopic": "Energy imports",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Domestic production is insufficient to meet refinery and fuel demand",
+            "Crude oil cannot be used in India",
+            "India bans all crude production",
+            "Oil imports have no cost"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-068",
+          "type": "MCQ",
+          "q": "Major Indian exports include:",
+          "explanation": "India exports a diversified range, including medicines, textiles and services.",
+          "topic": "Foreign Trade",
+          "subtopic": "Export categories",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Pharmaceutical products, textiles and IT services",
+            "Only crude oil",
+            "Only imported gold",
+            "Only domestic real estate"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-069",
+          "type": "MCQ",
+          "q": "Major Indian imports include:",
+          "explanation": "India imports energy and capital/consumer products in significant categories.",
+          "topic": "Foreign Trade",
+          "subtopic": "Import categories",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Crude oil, gold and machinery/electronics",
+            "Only mangoes",
+            "Only Indian software",
+            "Only local rail tickets"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-070",
+          "type": "MCQ",
+          "q": "Merchandise trade concerns:",
+          "explanation": "Merchandise trade refers to physical goods; services trade is separately classified.",
+          "topic": "Foreign Trade",
+          "subtopic": "Merchandise and services",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Physical goods",
+            "Only digital services",
+            "Only patents",
+            "Only tourism"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-071",
+          "type": "MCQ",
+          "q": "A trade deficit occurs when merchandise imports exceed merchandise exports:",
+          "explanation": "The merchandise trade deficit is the excess of merchandise imports over exports.",
+          "topic": "Foreign Trade",
+          "subtopic": "Trade balance",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "True",
+            "False",
+            "True only for exports",
+            "True only for services trade"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-072",
+          "type": "MCQ",
+          "q": "India may have a trade deficit even while:",
+          "explanation": "The trade and services/current-account balances are separate but related components.",
+          "topic": "Foreign Trade",
+          "subtopic": "Trade and services",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Its services exports are strong",
+            "It has no imports",
+            "It has no foreign payments",
+            "Its currency is never exchanged"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-073",
+          "type": "MCQ",
+          "q": "A tariff is:",
+          "explanation": "Tariffs alter the price of traded goods through customs duties.",
+          "topic": "Foreign Trade",
+          "subtopic": "Tariffs",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A tax on imported or sometimes exported goods",
+            "A subsidy paid to every consumer",
+            "An exchange reserve",
+            "A customs invoice only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-074",
+          "type": "MCQ",
+          "q": "A non-tariff barrier can include:",
+          "explanation": "Non-tariff barriers regulate trade without an ordinary tariff.",
+          "topic": "Foreign Trade",
+          "subtopic": "Trade barriers",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Licensing, standards and import restrictions",
+            "Only customs duty",
+            "Only corporate tax",
+            "Only GST on cinema tickets"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-075",
+          "type": "MCQ",
+          "q": "Export incentives may aim to:",
+          "explanation": "Export incentives include schemes supporting competitiveness and specified exports.",
+          "topic": "Foreign Trade",
+          "subtopic": "Export incentives",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Improve export competitiveness or promote specified sectors",
+            "Reduce every import",
+            "Eliminate the exchange market",
+            "Replace customs at all borders"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-076",
+          "type": "MCQ",
+          "q": "Ports and logistics improve trade by:",
+          "explanation": "Efficient ports and logistics move goods faster and at lower delivered cost.",
+          "topic": "Foreign Trade",
+          "subtopic": "Logistics",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Reducing transport delay and transaction cost",
+            "Eliminating all tariffs",
+            "Replacing exchange rates",
+            "Preventing exports"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-077",
+          "type": "MCQ",
+          "q": "International trade creates jobs primarily through:",
+          "explanation": "Trade expands production and service employment across export and logistics chains.",
+          "topic": "Foreign Trade",
+          "subtopic": "Employment",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Export industries, logistics and related services",
+            "Only customs head offices",
+            "Only foreign tourism",
+            "Only currency printing"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-078",
+          "type": "NAT",
+          "q": "If imports cost $200 million and exports earn $170 million, the merchandise trade deficit is:",
+          "explanation": "Merchandise trade deficit equals imports minus exports: 200 minus 170 = $30 million.",
+          "topic": "Foreign Trade",
+          "subtopic": "Trade balance",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce / DGFT",
+          "sourceReference": "https://www.commerce.gov.in/",
+          "sourceDescription": "Foreign trade policy and trade data",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "answer": 30,
+          "tolerance": 0
+        }
+      ]
+    },
+    {
+      "name": "India's Trading Partners",
+      "questions": [
+        {
+          "id": "econ-iwt-1-079",
+          "type": "MCQ",
+          "q": "The United States is strategically important for India primarily because of:",
+          "explanation": "India has extensive trade, technology and services links with the US.",
+          "topic": "India's Trading Partners",
+          "subtopic": "United States",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Large trade and services/economic links",
+            "No trade with India",
+            "Only defence spending",
+            "Only weather cooperation"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-080",
+          "type": "MCQ",
+          "q": "China is a major source for India of:",
+          "explanation": "China supplies varied manufactured and intermediate products to India.",
+          "topic": "India's Trading Partners",
+          "subtopic": "China",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Machinery and electronics among other goods",
+            "No manufactured goods",
+            "Only Indian rupee notes",
+            "Only petroleum from Indian refineries"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-081",
+          "type": "MCQ",
+          "q": "The UAE is important in India–West Asia trade because it is:",
+          "explanation": "The UAE is a major trade, logistics and energy-related partner for India.",
+          "topic": "India's Trading Partners",
+          "subtopic": "United Arab Emirates",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A major commercial and re-export hub and energy trade partner",
+            "An inland neighbour with no ports",
+            "A member of India's Parliament",
+            "A customs-free domestic state"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-082",
+          "type": "MCQ",
+          "q": "Russia remains strategically relevant to India’s trade due in part to:",
+          "explanation": "Russia has commercial links with India spanning energy and strategic sectors.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Russia",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Energy, defence and strategic commodities trade",
+            "Only tourism",
+            "No bilateral trade",
+            "Only domestic Indian banking"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-083",
+          "type": "MCQ",
+          "q": "Saudi Arabia is significant for India mainly because of:",
+          "explanation": "Saudi Arabia is an important energy supplier and investment/commerce partner.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Saudi Arabia",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Energy supplies and economic cooperation",
+            "No energy exports",
+            "Only agricultural trade",
+            "Only digital services"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-084",
+          "type": "MCQ",
+          "q": "Singapore is important for India as:",
+          "explanation": "Singapore supports trade, shipping and regional financial and commercial links.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Singapore",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A trade, logistics and financial-services hub",
+            "A landlocked state",
+            "An Indian state",
+            "A commodity-producing island without connectivity"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-085",
+          "type": "MCQ",
+          "q": "The European Union is for trade purposes:",
+          "explanation": "The EU is a 27-member economic and political union with a coordinated trade policy.",
+          "topic": "India's Trading Partners",
+          "subtopic": "European Union",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A grouping of 27 European member states",
+            "A single Indian state",
+            "Only a military alliance",
+            "A global customs-free currency only"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-086",
+          "type": "MCQ",
+          "q": "Japan is closely relevant to India through:",
+          "explanation": "Japan and India cooperate across technology, investment and infrastructure.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Japan",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Technology, investment and infrastructure cooperation",
+            "Only crude-oil supply",
+            "No economic relationship",
+            "Only a visa-free border"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-087",
+          "type": "MCQ",
+          "q": "Bangladesh is an important trade partner for India mainly due to:",
+          "explanation": "India and Bangladesh conduct substantial regional trade across a shared border.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Bangladesh",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Geographic proximity and cross-border trade",
+            "No common border",
+            "Only defence aircraft exports",
+            "Only gold imports"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-088",
+          "type": "MCQ",
+          "q": "Australia is relevant to India’s trade and resources because of:",
+          "explanation": "Australia has growing trade, resources and education/services links with India.",
+          "topic": "India's Trading Partners",
+          "subtopic": "Australia",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Department of Commerce",
+          "sourceReference": "https://commerce.gov.in/trade-statistics/",
+          "sourceDescription": "India's trade relationships",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Economic, critical minerals and services cooperation",
+            "No universities or services",
+            "Only landlocked trade",
+            "No bilateral trade framework"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "International Organisations and Trade Agreements",
+      "questions": [
+        {
+          "id": "econ-iwt-1-089",
+          "type": "MCQ",
+          "q": "The WTO sets rules and provides a forum for:",
+          "explanation": "The WTO administers trade agreements and dispute settlement.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "WTO",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Multilateral international trade negotiations and dispute settlement",
+            "Only central-bank interest rates",
+            "Only customs duty collection in India",
+            "Only military alliances"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-090",
+          "type": "MCQ",
+          "q": "The IMF primarily assists members with:",
+          "explanation": "The IMF provides surveillance and financial support for balance-of-payments difficulties.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "IMF",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Balance-of-payments support and economic policy surveillance",
+            "Only customs clearance",
+            "Only export subsidies",
+            "Only national election administration"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-091",
+          "type": "MCQ",
+          "q": "The World Bank group mainly provides:",
+          "explanation": "World Bank institutions support development through finance and knowledge.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "World Bank",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Development finance and advisory support",
+            "Military command",
+            "GST registration",
+            "Corporate tax assessment"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-092",
+          "type": "MCQ",
+          "q": "The Asian Development Bank supports:",
+          "explanation": "ADB provides development finance and technical support in Asia.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "ADB",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Economic development and regional cooperation in Asia",
+            "Only NATO defence spending",
+            "Only Indian customs",
+            "Only private retail payments"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-093",
+          "type": "MCQ",
+          "q": "BRICS is:",
+          "explanation": "BRICS is a cooperation forum involving Brazil, Russia, India, China and South Africa.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "BRICS",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "A multilateral economic and political cooperation grouping",
+            "A customs union for Indian states",
+            "A central-bank reserve rate",
+            "A WTO court"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-094",
+          "type": "MCQ",
+          "q": "An FTA mainly seeks to:",
+          "explanation": "Free trade agreements reduce tariffs or barriers under negotiated rules.",
+          "topic": "International Organisations and Trade Agreements",
+          "subtopic": "Trade agreements",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "World Trade Organization / IMF / World Bank",
+          "sourceReference": "https://www.wto.org/",
+          "sourceDescription": "International organisations and trade rules",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Reduce or eliminate specified trade barriers among participants",
+            "Create a common currency always",
+            "Close all borders",
+            "Replace every domestic tax"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "name": "Foreign Exchange and Rupee",
+      "questions": [
+        {
+          "id": "econ-iwt-1-095",
+          "type": "MCQ",
+          "q": "An exchange rate is:",
+          "explanation": "Exchange rate specifies how many units of one currency exchange for another.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "Exchange rates",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "The price of one currency in terms of another",
+            "A customs duty",
+            "A stock-market index",
+            "A tax exemption"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-096",
+          "type": "MCQ",
+          "q": "If the rupee depreciates against the dollar while the dollar price of crude oil is unchanged, India's crude import bill in rupees generally:",
+          "explanation": "The same dollar outlay requires more rupees when the rupee depreciates.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "Rupee depreciation",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Increases",
+            "Decreases",
+            "Becomes fixed",
+            "Disappears"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-097",
+          "type": "MCQ",
+          "q": "Rupee depreciation can make Indian exports:",
+          "explanation": "Depreciation can lower the foreign-currency price of domestic exports, subject to costs and demand.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "Rupee depreciation",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Potentially more competitive in foreign-currency terms",
+            "Automatically less competitive",
+            "Entirely customs-free",
+            "Unconnected to trade"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-098",
+          "type": "MCQ",
+          "q": "Foreign exchange reserves are:",
+          "explanation": "Forex reserves are external assets held to support monetary and external-sector stability.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "Forex reserves",
+          "difficulty": "BASIC",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Foreign assets held by the central bank and public-authority institutions",
+            "Only Indian rupee notes",
+            "Only customs revenue",
+            "Only foreign direct investment applications"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-099",
+          "type": "MCQ",
+          "q": "FDI differs from FPI mainly because FDI:",
+          "explanation": "Foreign direct investment reflects a lasting interest and influence/control; FPI is portfolio investment.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "FDI and FPI",
+          "difficulty": "INTERMEDIATE",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "options": [
+            "Usually involves lasting interest and control in an enterprise",
+            "Is a short-term tourist payment",
+            "Always includes only imports",
+            "Is prohibited in India"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "econ-iwt-1-100",
+          "type": "NAT",
+          "q": "An ₹80 crore export receipt is converted at ₹83 per US dollar. Approximately how many million US dollars are received?",
+          "explanation": "Divide ₹800 million by ₹83 per dollar, giving approximately USD 9.6386 million.",
+          "topic": "Foreign Exchange and Rupee",
+          "subtopic": "Exchange conversion",
+          "difficulty": "ADVANCED",
+          "sourceType": "PRACTICE",
+          "sourceName": "Reserve Bank of India",
+          "sourceReference": "https://www.rbi.org.in/",
+          "sourceDescription": "Exchange rates, reserves and balance of payments",
+          "verificationStatus": "VERIFIED_OFFICIAL_SOURCE",
+          "verificationDate": "2026-11-28",
+          "examTags": [
+            "Economics",
+            "General Studies",
+            "Banking"
+          ],
+          "answer": 9.6386,
+          "tolerance": 0.01
+        }
+      ]
+    }
+  ]
+}

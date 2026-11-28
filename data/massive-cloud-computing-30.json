@@ -1,0 +1,688 @@
+{
+  "id": "massive-cloud-computing-30",
+  "title": "Cloud Computing — 30-Question Expansion Set",
+  "subtitle": "Original application-based expansion; 6 Basic, 14 Intermediate and 10 Advanced questions",
+  "sourceType": "PRACTICE",
+  "exam": "Cloud Computing",
+  "paperType": "PRACTICE",
+  "contentMode": "INTERNAL",
+  "source": "Original syllabus-based practice question set",
+  "verificationStatus": "PRACTICE — original content",
+  "sections": [
+    {
+      "name": "Cloud Computing — BASIC",
+      "questions": [
+        {
+          "id": "mass-cloud-computing-1-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Virtualization? Expansion item 1 for Cloud Computing.",
+          "options": [
+            "The foundational, verifiable principle of Virtualization",
+            "Virtualization approach without verification",
+            "An unrelated Virtualization technique",
+            "Opposite principle in Virtualization"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-1-02",
+          "type": "MCQ",
+          "q": "A practical problem in Cloud Models requires the use of which principle? Expansion item 2 for Cloud Computing.",
+          "options": [
+            "Cloud Models approach without verification",
+            "An unrelated Cloud Models technique",
+            "The foundational, verifiable principle of Cloud Models",
+            "Opposite principle in Cloud Models"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-1-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Containers? Expansion item 3 for Cloud Computing.",
+          "options": [
+            "The foundational, verifiable principle of Containers",
+            "Containers approach without verification",
+            "An unrelated Containers technique",
+            "Opposite principle in Containers"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-1-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Security, which action is most technically and procedurally appropriate? Expansion item 4 for Cloud Computing.",
+          "options": [
+            "Security approach without verification",
+            "An unrelated Security technique",
+            "The foundational, verifiable principle of Security",
+            "Opposite principle in Security"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-1-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Distributed Systems? Expansion item 5 for Cloud Computing.",
+          "options": [
+            "The foundational, verifiable principle of Distributed Systems",
+            "Distributed Systems approach without verification",
+            "An unrelated Distributed Systems technique",
+            "Opposite principle in Distributed Systems"
+          ],
+          "answer": 0,
+          "explanation": "The foundational, verifiable principle of Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-1-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Virtualization? Expansion item 6 for Cloud Computing.",
+          "options": [
+            "Virtualization approach without verification",
+            "An unrelated Virtualization technique",
+            "The foundational, verifiable principle of Virtualization",
+            "Opposite principle in Virtualization"
+          ],
+          "answer": 2,
+          "explanation": "The foundational, verifiable principle of Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "BASIC",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing — INTERMEDIATE",
+      "questions": [
+        {
+          "id": "mass-cloud-computing-2-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Cloud Models? Expansion item 1 for Cloud Computing.",
+          "options": [
+            "Cloud Models shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Cloud Models",
+            "Superficial Cloud Models classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-02",
+          "type": "MCQ",
+          "q": "A practical problem in Containers requires the use of which principle? Expansion item 2 for Cloud Computing.",
+          "options": [
+            "Containers shortcut that ignores constraints",
+            "Superficial Containers classification",
+            "The principle that correctly satisfies constraints in Containers",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Security? Expansion item 3 for Cloud Computing.",
+          "options": [
+            "Security shortcut that ignores constraints",
+            "Superficial Security classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Security"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Distributed Systems, which action is most technically and procedurally appropriate? Expansion item 4 for Cloud Computing.",
+          "options": [
+            "The principle that correctly satisfies constraints in Distributed Systems",
+            "Distributed Systems shortcut that ignores constraints",
+            "Superficial Distributed Systems classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Virtualization? Expansion item 5 for Cloud Computing.",
+          "options": [
+            "Virtualization shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Virtualization",
+            "Superficial Virtualization classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Cloud Models? Expansion item 6 for Cloud Computing.",
+          "options": [
+            "Cloud Models shortcut that ignores constraints",
+            "Superficial Cloud Models classification",
+            "The principle that correctly satisfies constraints in Cloud Models",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-07",
+          "type": "MCQ",
+          "q": "A practical problem in Containers requires the use of which principle? Expansion item 7 for Cloud Computing.",
+          "options": [
+            "Containers shortcut that ignores constraints",
+            "Superficial Containers classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Containers"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Security? Expansion item 8 for Cloud Computing.",
+          "options": [
+            "The principle that correctly satisfies constraints in Security",
+            "Security shortcut that ignores constraints",
+            "Superficial Security classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Distributed Systems, which action is most technically and procedurally appropriate? Expansion item 9 for Cloud Computing.",
+          "options": [
+            "Distributed Systems shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Distributed Systems",
+            "Superficial Distributed Systems classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Virtualization? Expansion item 10 for Cloud Computing.",
+          "options": [
+            "Virtualization shortcut that ignores constraints",
+            "Superficial Virtualization classification",
+            "The principle that correctly satisfies constraints in Virtualization",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-11",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Cloud Models? Expansion item 11 for Cloud Computing.",
+          "options": [
+            "Cloud Models shortcut that ignores constraints",
+            "Superficial Cloud Models classification",
+            "Rule valid only in a different context",
+            "The principle that correctly satisfies constraints in Cloud Models"
+          ],
+          "answer": 3,
+          "explanation": "The principle that correctly satisfies constraints in Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-12",
+          "type": "MCQ",
+          "q": "A practical problem in Containers requires the use of which principle? Expansion item 12 for Cloud Computing.",
+          "options": [
+            "The principle that correctly satisfies constraints in Containers",
+            "Containers shortcut that ignores constraints",
+            "Superficial Containers classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 0,
+          "explanation": "The principle that correctly satisfies constraints in Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-13",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Security? Expansion item 13 for Cloud Computing.",
+          "options": [
+            "Security shortcut that ignores constraints",
+            "The principle that correctly satisfies constraints in Security",
+            "Superficial Security classification",
+            "Rule valid only in a different context"
+          ],
+          "answer": 1,
+          "explanation": "The principle that correctly satisfies constraints in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        },
+        {
+          "id": "mass-cloud-computing-2-14",
+          "type": "MCQ",
+          "q": "In a scenario involving Distributed Systems, which action is most technically and procedurally appropriate? Expansion item 14 for Cloud Computing.",
+          "options": [
+            "Distributed Systems shortcut that ignores constraints",
+            "Superficial Distributed Systems classification",
+            "The principle that correctly satisfies constraints in Distributed Systems",
+            "Rule valid only in a different context"
+          ],
+          "answer": 2,
+          "explanation": "The principle that correctly satisfies constraints in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "INTERMEDIATE",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 1,
+          "negativeMark": 0.33
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing — ADVANCED",
+      "questions": [
+        {
+          "id": "mass-cloud-computing-3-01",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Containers? Expansion item 1 for Cloud Computing.",
+          "options": [
+            "Apply Containers in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Containers rule",
+            "Integrate the constraints and edge conditions in Containers",
+            "Ignore an edge condition in Containers"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-02",
+          "type": "MCQ",
+          "q": "A practical problem in Security requires the use of which principle? Expansion item 2 for Cloud Computing.",
+          "options": [
+            "Apply Security in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Security rule",
+            "Ignore an edge condition in Security",
+            "Integrate the constraints and edge conditions in Security"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-03",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Distributed Systems? Expansion item 3 for Cloud Computing.",
+          "options": [
+            "Integrate the constraints and edge conditions in Distributed Systems",
+            "Apply Distributed Systems in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Distributed Systems rule",
+            "Ignore an edge condition in Distributed Systems"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-04",
+          "type": "MCQ",
+          "q": "In a scenario involving Virtualization, which action is most technically and procedurally appropriate? Expansion item 4 for Cloud Computing.",
+          "options": [
+            "Apply Virtualization in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Virtualization",
+            "Use the locally valid but globally incorrect Virtualization rule",
+            "Ignore an edge condition in Virtualization"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-05",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Cloud Models? Expansion item 5 for Cloud Computing.",
+          "options": [
+            "Apply Cloud Models in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Cloud Models rule",
+            "Integrate the constraints and edge conditions in Cloud Models",
+            "Ignore an edge condition in Cloud Models"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-06",
+          "type": "MCQ",
+          "q": "Which statement best describes the core concept in Containers? Expansion item 6 for Cloud Computing.",
+          "options": [
+            "Apply Containers in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Containers rule",
+            "Ignore an edge condition in Containers",
+            "Integrate the constraints and edge conditions in Containers"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Containers is supported by the relevant Containers concept and the stated constraints.",
+          "topic": "Containers",
+          "subtopic": "Containers",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-07",
+          "type": "MCQ",
+          "q": "A practical problem in Security requires the use of which principle? Expansion item 7 for Cloud Computing.",
+          "options": [
+            "Integrate the constraints and edge conditions in Security",
+            "Apply Security in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Security rule",
+            "Ignore an edge condition in Security"
+          ],
+          "answer": 0,
+          "explanation": "Integrate the constraints and edge conditions in Security is supported by the relevant Security concept and the stated constraints.",
+          "topic": "Security",
+          "subtopic": "Security",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-08",
+          "type": "MCQ",
+          "q": "Which comparison is correct for two commonly confused ideas in Distributed Systems? Expansion item 8 for Cloud Computing.",
+          "options": [
+            "Apply Distributed Systems in isolation without considering interactions",
+            "Integrate the constraints and edge conditions in Distributed Systems",
+            "Use the locally valid but globally incorrect Distributed Systems rule",
+            "Ignore an edge condition in Distributed Systems"
+          ],
+          "answer": 1,
+          "explanation": "Integrate the constraints and edge conditions in Distributed Systems is supported by the relevant Distributed Systems concept and the stated constraints.",
+          "topic": "Distributed Systems",
+          "subtopic": "Distributed Systems",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-09",
+          "type": "MCQ",
+          "q": "In a scenario involving Virtualization, which action is most technically and procedurally appropriate? Expansion item 9 for Cloud Computing.",
+          "options": [
+            "Apply Virtualization in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Virtualization rule",
+            "Integrate the constraints and edge conditions in Virtualization",
+            "Ignore an edge condition in Virtualization"
+          ],
+          "answer": 2,
+          "explanation": "Integrate the constraints and edge conditions in Virtualization is supported by the relevant Virtualization concept and the stated constraints.",
+          "topic": "Virtualization",
+          "subtopic": "Virtualization",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        },
+        {
+          "id": "mass-cloud-computing-3-10",
+          "type": "MCQ",
+          "q": "Which edge case is most important to verify in Cloud Models? Expansion item 10 for Cloud Computing.",
+          "options": [
+            "Apply Cloud Models in isolation without considering interactions",
+            "Use the locally valid but globally incorrect Cloud Models rule",
+            "Ignore an edge condition in Cloud Models",
+            "Integrate the constraints and edge conditions in Cloud Models"
+          ],
+          "answer": 3,
+          "explanation": "Integrate the constraints and edge conditions in Cloud Models is supported by the relevant Cloud Models concept and the stated constraints.",
+          "topic": "Cloud Models",
+          "subtopic": "Cloud Models",
+          "difficulty": "ADVANCED",
+          "examTags": [
+            "Cloud Computing"
+          ],
+          "sourceType": "PRACTICE",
+          "marks": 2,
+          "negativeMark": 0.67
+        }
+      ]
+    }
+  ]
+}
