@@ -69,7 +69,7 @@
       section.questions.forEach((question) => {
         const entry = byId.get(question.id);
         if (!entry) return;
-        const optionIndex = { A: 0, B: 1, C: 2, D: 3 }[entry.correct_answer];
+        const optionIndex = { A: 0, B: 1, C: 2, D: 3, E: 4 }[entry.correct_answer];
         question.answer = optionIndex;
         question.explanation = entry.explanation;
       });

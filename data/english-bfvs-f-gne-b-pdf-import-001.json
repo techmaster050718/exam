@@ -1,0 +1,3591 @@
+{
+  "id": "english-bfvs-f-gne-b-pdf-import-001",
+  "title": "English Test Booklet (T.B.C. BFVS-F-GNE, Series B) - PDF Imported",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "sourceDocument": "New_Doc_09-14-2026_11_09.pdf",
+  "answerSourceNote": "No official answer key in the PDF. Pencil ticks are a candidate's attempt (often wrong) and stored only as 'handwritten_mark'. correct_answer is derived from subject knowledge; ambiguous items are flagged NEEDS_REVIEW.",
+  "questionCount": 120,
+  "source": {
+    "document": "New_Doc_09-14-2026_11_09.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED_WITH_REVIEW_ITEMS",
+  "sections": [
+    {
+      "name": "Spotting Errors",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0001",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher asked / that who was absent / in the class that day.",
+          "options": [
+            "The teacher asked",
+            "that who was absent",
+            "in the class that day.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Asked' already introduces the indirect question 'who was absent'; the conjunction 'that' is redundant.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0002",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Neither of the two boys / have done / his homework.",
+          "options": [
+            "Neither of the two boys",
+            "have done",
+            "his homework.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Neither' takes a singular verb: 'has done'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0003",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "I recommended / that he would reduce / his expenditure.",
+          "options": [
+            "I recommended",
+            "that he would reduce",
+            "his expenditure.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'recommend', the subjunctive/base form is used: 'that he reduce his expenditure'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0004",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am looking forward / to meet you / next month.",
+          "options": [
+            "I am looking forward",
+            "to meet you",
+            "next month.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Look forward to' is followed by a gerund: 'to meeting you'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0005",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "She said that / she will help me / in this matter.",
+          "options": [
+            "She said that",
+            "she will help me",
+            "in this matter.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Reported speech after a past reporting verb needs backshift: 'she would help me'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0006",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "He insisted / on knowing / the reason of my absence.",
+          "options": [
+            "He insisted",
+            "on knowing",
+            "the reason of my absence.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The noun 'reason' takes 'for': 'the reason for my absence'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 6
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0007",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "In your quotidian life / you wouldn't find an elephant / in the supermarket.",
+          "options": [
+            "In your quotidian life",
+            "you wouldn't find an elephant",
+            "in the supermarket.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A general statement about everyday life needs 'won't find'; 'wouldn't' implies an unstated condition.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 7
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0008",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "I often dreamed / of being famous / in my prime.",
+          "options": [
+            "I often dreamed",
+            "of being famous",
+            "in my prime.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Dream of + gerund' and the other parts are acceptable; no clear error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 8
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0009",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "These shoes designed / for regular runners / like yourself.",
+          "options": [
+            "These shoes designed",
+            "for regular runners",
+            "like yourself.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence lacks a finite verb: 'These shoes are designed for regular runners'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 9
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0010",
+          "section": "Spotting Errors",
+          "topic": "Grammar",
+          "subtopic": "Spotting Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Walk down our street / any day you will / see children playing.",
+          "options": [
+            "Walk down our street",
+            "any day you will",
+            "see children playing.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The imperative and the result clause need a connector: 'any day and you will see'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 2,
+            "question_number": 10
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section has a sentence with three underlined parts labelled (a), (b) and (c). Read each sentence to determine whether there is an error in any underlined part and indicate your response on the answer sheet against the above-mentioned corresponding letter. If there is no error, indicate your response as (d).",
+          "handwrittenMark": "A"
+        }
+      ]
+    },
+    {
+      "name": "Idioms and Phrases",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0011",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "To overplay one's hand",
+          "options": [
+            "To spoil one's chance of success due to overconfidence",
+            "To play card games for too long",
+            "To play exceedingly well with one hand",
+            "To be a strong arm-wrestler"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Overplay one's hand' means to overestimate one's position and spoil one's chance through overconfidence.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0012",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Pass the buck",
+          "options": [
+            "To treat someone badly",
+            "To deflect blame",
+            "To refuse money",
+            "To accept an unpleasant result"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Pass the buck' means to shift responsibility or blame to someone else.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0013",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Over one's head",
+          "options": [
+            "Protective covering worn as a hat",
+            "Bypassing authority surreptitiously",
+            "Appreciably taller than one",
+            "Beyond one's ability to understand"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Over one's head' means too difficult for one to understand.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0014",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Have a finger in every pie",
+          "options": [
+            "To be familiar with the most recent developments",
+            "To gorge on food",
+            "To be able to do something very well",
+            "To be involved in different activities"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom means being involved in many different activities.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0015",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "To go out on a limb",
+          "options": [
+            "Adopt a convenient position that aligns with the popular view",
+            "Adopt a convenient position that goes against the popular view",
+            "Adopt a daring position that goes against the popular view",
+            "Adopt a daring position that aligns with the popular view"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To 'go out on a limb' is to take a risky position, often against prevailing opinion.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0016",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Live on your nerves",
+          "options": [
+            "To be continually anxious",
+            "To live life to the fullest",
+            "To live without fear",
+            "To be steely nerved"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Live on one's nerves' means to be constantly tense or anxious.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0017",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Lilly-livered",
+          "options": [
+            "Cowardly",
+            "Weak",
+            "Inebriated",
+            "Triumphant"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Lily-livered' means cowardly.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0018",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "To spill the beans",
+          "options": [
+            "To be bursting with energy and health",
+            "To let a secret slip out",
+            "To be laidback and easy-going",
+            "To let food go waste"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Spill the beans' means to reveal a secret.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 3,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0019",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "To make one's peace",
+          "options": [
+            "To experience serenity",
+            "To avoid violence at any cost",
+            "To put an end to a quarrel",
+            "To keep silent amidst adversity"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Make one's peace (with someone)' means to end a quarrel and reconcile.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 4,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0020",
+          "section": "Idioms and Phrases",
+          "topic": "Vocabulary",
+          "subtopic": "Idioms and Phrases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Fall by the wayside",
+          "options": [
+            "To trip on the footpath",
+            "To lose one's sense of direction",
+            "To weaken moral values",
+            "To drop out of a pursuit"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Fall by the wayside' means to fail to continue or drop out of an endeavour.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 4,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Given below are idioms/phrases. Choose the most appropriate meaning and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        }
+      ]
+    },
+    {
+      "name": "Similar Sounding Words",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0021",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Weather, Whether, Whither\n1. Weather permitting, we'll have the gathering outside.\n2. Whether conditions are likely to improve by Thursday.\n3. They didn't know whither they should go.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "2 and 3 only",
+            "1 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "1 is correct ('weather permitting'); 2 needs 'Weather' (conditions); 3 is correct as 'whither' means 'to where'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 4,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0022",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Quiet, Quite, Quit\n1. He plays quiet well.\n2. They had a quite wedding.\n3. He has decided to quit as the manager of the team.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "1 and 3 only",
+            "3 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "1 needs 'quite' (very); 2 needs 'quiet' (calm); only 3 uses 'quit' correctly.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 4,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0023",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Way, Weigh, Whey\n1. I'm not happy with this way of working.\n2. How much does it weigh ?\n3. Whey is the thin liquid that separates from the solid parts when milk is curdled.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "2 and 3 only",
+            "2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "All three words are used correctly: way (manner), weigh (measure weight), whey (liquid from curdled milk).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 4,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0024",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Weave, Wave, Waive\n1. She loves to wave stories.\n2. Unfortunately, he had to waive his rights.\n3. A huge weave broke on the shore.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "1 and 3 only",
+            "2 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Waive' (give up) is right in 2; stories are 'woven' and it is a 'wave' that breaks on a shore.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 5,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0025",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Peak, Peek, Pique\n1. Traffic reaches its peak between 8 and 9 in the morning.\n2. She peeked at the audience from behind the curtain.\n3. When he realised nobody was listening to him, he left in a fit of pique.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "1 and 3 only",
+            "1 only",
+            "1 and 2 only",
+            "1, 2 and 3"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Peak (highest point), peek (glance furtively), pique (irritation) are all correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 5,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0026",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Sent, Scent, Cent\n1. A one minute phone call to the UK costs one sent.\n2. The air was filled with the scent of wild flowers.\n3. The dogs following him must have lost his cent.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "1 and 2 only",
+            "2 only",
+            "2 and 3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Only 2 is right; 1 needs 'cent' (coin) and 3 needs 'scent' (smell trail).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 5,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0027",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Aisle, Ale, Isle\n1. I always prefer the isle seat in an aeroplane.\n2. He always began his day with a glass of ginger ale.\n3. While on a picnic we discovered a small aisle in the middle of a lake.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "2 and 3 only",
+            "2 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "1 needs 'aisle' (passage between seats); 3 needs 'isle' (small island); only 2 is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 5,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0028",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Rein, Reign, Arraign\n1. Queen Elizabeth II had a long rein as a British monarch.\n2. One needs to reign in their impulses at times.\n3. He was arraigned before the judge yesterday.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "2 and 3 only",
+            "3 only",
+            "1 and 3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "1 needs 'reign' (rule of a monarch); 2 needs 'rein in' (restrain); only 3 is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 6,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0029",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Ascend, Ascent, Assent\n1. She made the ascend to the top of the mountains seem effortless.\n2. The Prince waited a long time to ascent the throne.\n3. She gave her tacit assent to the transfer of power.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "1 and 3 only",
+            "2 only",
+            "3 only",
+            "1, 2 and 3"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "1 needs the noun 'ascent'; 2 needs the verb 'ascend'; 3 uses 'assent' (agreement) correctly.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 6,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0030",
+          "section": "Similar Sounding Words",
+          "topic": "Vocabulary",
+          "subtopic": "Similar Sounding Words",
+          "difficulty": "INTERMEDIATE",
+          "q": "Brawl, Bawl, Bowl\n1. The brawl caused utter confusion inside the train compartment.\n2. The host served a bawl of fresh garden fruit to the guests.\n3. The little kid started to bowl noisily.\nIn which of the sentences given above have the underlined words been used correctly ?",
+          "options": [
+            "2 only",
+            "1 and 2 only",
+            "1 only",
+            "1, 2 and 3"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Only 1 is right; 2 needs 'bowl' (dish) and 3 needs 'bawl' (cry loudly).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 6,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items similar sounding words are given, followed by sentences wherein these words has been used, and underlined. You are required to identify those sentences in which these words have been used most appropriately and mark your response in the Answer Sheet accordingly.",
+          "handwrittenMark": null
+        }
+      ]
+    },
+    {
+      "name": "Sentence Co-relationship",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0031",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. Many students failed in the examination.\nS2. However, those who attended extra classes did not fail.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S2 restricts the general claim in S1 by noting an exception group, i.e. it qualifies it.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 6,
+            "question_number": 31
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0032",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. The medicine was supposed to reduce his fever.\nS2. Even after taking it, his temperature continued to rise.\nThe second sentence :",
+          "options": [
+            "negates the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S2 shows the expected effect in S1 did not occur, i.e. it negates it.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 6,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0033",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. Mohan enjoys classical music.\nS2. Sohan likes popular musical genres.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Two different people with different tastes: S2 contrasts with S1.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0034",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. Global warming is accelerating with each passing year.\nS2. Recent studies indicate that temperatures are rising across continents.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The studies provide supporting evidence, so S2 confirms S1.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0035",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. Sarah recently contended that she has never visited Paris.\nS2. Someone shared a photograph that shows Sarah standing underneath the Eiffel Tower.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The photograph directly disproves her claim: S2 contradicts S1.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0036",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. The Indian team won the championship.\nS2. They were struggling in the preliminary rounds.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Both can be true; S2 sets an earlier poor phase against the final success, i.e. it contrasts.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0037",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. Geeta is an excellent public speaker.\nS2. She received a standing ovation after her speech.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "affirms the first",
+            "qualifies the first"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The ovation supports S1, so S2 affirms it.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0038",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. The city is known for its modern architecture.\nS2. The neighbouring villages maintain their traditional buildings.\nThe second sentence :",
+          "options": [
+            "affirms the first",
+            "contrasts with the first",
+            "confirms the first",
+            "quantifies the first"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Modern city versus traditional villages: S2 contrasts with S1.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 7,
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0039",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. The train is usually on time.\nS2. The train was delayed by an hour today.\nThe second sentence :",
+          "options": [
+            "qualifies the first",
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S2 gives an exception to the general statement 'usually on time', i.e. qualifies it.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 39
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0040",
+          "section": "Sentence Co-relationship",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Co-relationship",
+          "difficulty": "ADVANCED",
+          "q": "S1. This vaccine is highly effective.\nS2. Notably however, its effect decreases slightly in older adults.\nThe second sentence :",
+          "options": [
+            "contradicts the first",
+            "contrasts with the first",
+            "confirms the first",
+            "qualifies the first"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S2 limits the broad claim in S1, i.e. it qualifies it.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a pair of sentences (S1, S2) is given. Select the most appropriate and relevant co-relationship of the second sentence to the first from among the options (a), (b), (c) and (d), and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        }
+      ]
+    },
+    {
+      "name": "Antonyms",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0041",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "Her experience is requisite for the job.",
+          "options": [
+            "essential",
+            "obligatory",
+            "vital",
+            "optional"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Requisite' means required; its opposite is 'optional'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0042",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "They were given rudimentary training for the job.",
+          "options": [
+            "fundamental",
+            "advanced",
+            "basic",
+            "elementary"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Rudimentary' means basic; the opposite is 'advanced'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0043",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "She sat there looking morose.",
+          "options": [
+            "cheerful",
+            "melancholic",
+            "disinterested",
+            "sullen"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Morose' means gloomy; the opposite is 'cheerful'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0044",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "If you listen carefully you'll discover that the soundtrack is fuzzy in places.",
+          "options": [
+            "noisy",
+            "distorted",
+            "clear",
+            "vague"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Fuzzy' means indistinct; the opposite is 'clear'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0045",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "The shopkeeper is known to charge exorbitant rates for the articles in his shop.",
+          "options": [
+            "high",
+            "affordable",
+            "outrageous",
+            "ridiculous"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Exorbitant' means excessively high; the opposite is 'affordable'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0046",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "If you ponder the matter you are likely to arrive at the appropriate conclusion.",
+          "options": [
+            "mull",
+            "ignore",
+            "defer",
+            "rethink"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Ponder' means to consider carefully; the opposite is 'ignore'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 8,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0047",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "ADVANCED",
+          "q": "The diagnosis based on radiological evidence determined the condition to be mortiferous.",
+          "options": [
+            "exacerbating",
+            "degenerative",
+            "benign",
+            "lethal"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Mortiferous' means deadly; the opposite is 'benign' (harmless).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0048",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "The party president chose to placate his critics within the party.",
+          "options": [
+            "prime",
+            "persuade",
+            "pacify",
+            "provoke"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Placate' means to appease; the opposite is 'provoke'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0049",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "The magician hoodwinked the children.",
+          "options": [
+            "cheated",
+            "fooled",
+            "disabused",
+            "unhooked"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Hoodwink' means to deceive; 'disabuse' means to free from a false belief.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0050",
+          "section": "Antonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Antonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "She led a precarious life as a theatre artist.",
+          "options": [
+            "insecure",
+            "precious",
+            "precipitous",
+            "stable"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Precarious' means unstable/insecure; the opposite is 'stable'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item in this section consists of a sentence with an underlined word followed by four words or groups of words. Select the option that is opposite in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        }
+      ]
+    },
+    {
+      "name": "Fill in the Blanks",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0051",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "Switzerland lies ______ France, Germany, Austria and Italy.",
+          "options": [
+            "among",
+            "between",
+            "with",
+            "besides"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Between' is used for a position bounded by several distinct countries.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0052",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "May I pay ______ credit card ?",
+          "options": [
+            "by",
+            "with",
+            "in",
+            "on"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom is 'pay by credit card'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 9,
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0053",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "The information is available ______ the Internet.",
+          "options": [
+            "from",
+            "with",
+            "in",
+            "on"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'On the Internet' is the standard collocation.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 53
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0054",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "Didn't you borrow ______ books of mine ?",
+          "options": [
+            "some",
+            "any",
+            "few",
+            "many"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A negative question that expects a 'yes' uses 'some'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 54
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0055",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "If you have any leftover milk, could you spare me ______ ?",
+          "options": [
+            "little",
+            "a little",
+            "an little",
+            "any"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'A little' means a small amount (positive sense).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 55
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0056",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "He sat ______ her all night.",
+          "options": [
+            "aside",
+            "beside",
+            "besides",
+            "asides"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Beside' means next to.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 56
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0057",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "Talk me ______ your plans.",
+          "options": [
+            "for",
+            "around",
+            "about",
+            "through"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Talk me through' means explain step by step.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 57
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0058",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "______ people make their own bread today than in earlier times.",
+          "options": [
+            "Lesser",
+            "Fewer",
+            "Few",
+            "Less"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Fewer' is used with countable plural nouns.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 58
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0059",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "This beautiful historical building shall soon be restored to its ______ state.",
+          "options": [
+            "normal",
+            "pristine",
+            "degenerate",
+            "dilapidated"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Pristine' means original/unspoiled condition.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 59
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0060",
+          "section": "Fill in the Blanks",
+          "topic": "Grammar",
+          "subtopic": "Fill in the Blanks",
+          "difficulty": "BASIC",
+          "q": "I don't like being stared ______ .",
+          "options": [
+            "to",
+            "at",
+            "on",
+            "about"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Stare at' is the correct phrasal combination.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 10,
+            "question_number": 60
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each of the following sentences in this section has a blank space with four options. Select the most appropriate option to fill in the blank and indicate your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        }
+      ]
+    },
+    {
+      "name": "Match the Following",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0061",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-2, B-4, C-3, D-1",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Discreet-Tactful, Discrete-Separate, Desecrate-Defile, Decrepit-Decaying.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 11,
+            "question_number": 61
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0062",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-4, B-2, C-3, D-1",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-1, B-4, C-3, D-2"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Inflation-Expansion, Indentation-Depression, Infiltration-Permeation, Inflection-Declension.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 11,
+            "question_number": 62
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0063",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Polyglot-many languages, Polymorphous-many forms, Polysemy-many meanings, Polymath-varied learning.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 11,
+            "question_number": 63
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0064",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-3, B-2, C-1, D-4",
+            "A-3, B-4, C-1, D-2",
+            "A-3, B-4, C-2, D-1",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Philatelist-stamps, Philanthropist-helps the needy, Philologist-studies language, Philistine-no value for art.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 12,
+            "question_number": 64
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0065",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-2, B-4, C-3, D-1",
+            "A-4, B-3, C-2, D-1",
+            "A-1, B-3, C-2, D-4",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Tabernacle-place of worship, Tenuous-flimsy, Tempestuous-stormy, Tendentious-biased.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 12,
+            "question_number": 65
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0066",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-3, B-4, C-1, D-2",
+            "A-2, B-3, C-4, D-1",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-1, C-4, D-2"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sacred-Consecrated, Desecration-Defilement, Sacrosanct-Inviolable, Sacrifice-Oblation.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 12,
+            "question_number": 66
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": null
+        },
+        {
+          "id": "ENG-PDF1-0067",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-4, B-1, C-2, D-3",
+            "A-2, B-3, C-4, D-1",
+            "A-2, B-4, C-1, D-3",
+            "A-3, B-1, C-4, D-2"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Triumph-notable success, Triumphant-proud after victory, Triumphal-celebrating victory, Triumphalism-smug superiority.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 12,
+            "question_number": 67
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0068",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-1, B-4, C-2, D-3",
+            "A-4, B-3, C-2, D-1",
+            "A-2, B-1, C-4, D-3",
+            "A-3, B-4, C-1, D-2"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Revel-make merry, Revelry-unrestrained merriment, Reveal-disclose, Reveller-boisterous merrymaker.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 13,
+            "question_number": 68
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0069",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-3, B-4, C-2, D-1",
+            "A-4, B-2, C-3, D-1",
+            "A-2, B-4, C-1, D-3",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Transmit-send a signal, Transmute-change, Transpire-happen, Transient-short-lived.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 13,
+            "question_number": 69
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0070",
+          "section": "Match the Following",
+          "topic": "Vocabulary",
+          "subtopic": "Match the Following",
+          "difficulty": "ADVANCED",
+          "q": "Match List I (Word/Term) with List II (Meaning).",
+          "options": [
+            "A-3, B-4, C-2, D-1",
+            "A-4, B-2, C-1, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-3, C-1, D-2"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Emanated-Originated, Emancipated-Liberated, Empathised-Commiserated, Emaciated-Starved.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 13,
+            "question_number": 70
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Match List I with List II and select the answer using the code given below the Lists:",
+          "handwrittenMark": null
+        }
+      ]
+    },
+    {
+      "name": "PASSAGE-I",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0071",
+          "section": "PASSAGE-I",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-I",
+          "difficulty": "INTERMEDIATE",
+          "q": "In this passage, \"women's suffrage\" refers to :",
+          "options": [
+            "Women's suffering",
+            "Women's inability to read",
+            "Women's right to vote in political elections",
+            "Women's anger at political rallies"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Suffrage' means the right to vote; it appears alongside the Progressive movements as a political cause.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 14,
+            "question_number": 71
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below based solely on the passage:",
+          "handwrittenMark": "A",
+          "passageId": "PASSAGE-I"
+        },
+        {
+          "id": "ENG-PDF1-0072",
+          "section": "PASSAGE-I",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-I",
+          "difficulty": "INTERMEDIATE",
+          "q": "In this passage, \"grassroots\" refers to :",
+          "options": [
+            "The common people at a local level",
+            "The common problems faced by people",
+            "The root cause of poverty",
+            "The gentry in the cities"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'At the grassroots' means at the level of ordinary people in local communities.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 14,
+            "question_number": 72
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below based solely on the passage:",
+          "handwrittenMark": "B",
+          "passageId": "PASSAGE-I"
+        },
+        {
+          "id": "ENG-PDF1-0073",
+          "section": "PASSAGE-I",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-I",
+          "difficulty": "INTERMEDIATE",
+          "q": "Which of the following is the correct noun form of \"subversive\" ?",
+          "options": [
+            "Subvert",
+            "Subverting",
+            "Subversion",
+            "Subvention"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The noun corresponding to 'subversive' is 'subversion'; 'subvert' is a verb.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 14,
+            "question_number": 73
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below based solely on the passage:",
+          "handwrittenMark": "C",
+          "passageId": "PASSAGE-I"
+        },
+        {
+          "id": "ENG-PDF1-0074",
+          "section": "PASSAGE-I",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-I",
+          "difficulty": "INTERMEDIATE",
+          "q": "In this passage, \"canonical literature\" refers to :",
+          "options": [
+            "War literature",
+            "Nonsensical literature",
+            "Influential and significant literature",
+            "Pretentious and bombastic literature"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage contrasts it with popular culture and calls it 'highbrow'; canonical works are the established, significant ones.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 15,
+            "question_number": 74
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below based solely on the passage:",
+          "handwrittenMark": "C",
+          "passageId": "PASSAGE-I"
+        },
+        {
+          "id": "ENG-PDF1-0075",
+          "section": "PASSAGE-I",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-I",
+          "difficulty": "INTERMEDIATE",
+          "q": "Which of the following words is opposite in meaning to the word \"resistant\" ?",
+          "options": [
+            "pliant",
+            "hesitant",
+            "persistent",
+            "defiant"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Resistant' means unyielding; 'pliant' (yielding) is its opposite.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 15,
+            "question_number": 75
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below based solely on the passage:",
+          "handwrittenMark": "A",
+          "passageId": "PASSAGE-I"
+        }
+      ]
+    },
+    {
+      "name": "PASSAGE-II",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0076",
+          "section": "PASSAGE-II",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-II",
+          "difficulty": "INTERMEDIATE",
+          "q": "This passage traces the history of ...",
+          "options": [
+            "the arrival of the potato in South America from Europe",
+            "the arrival of the potato in Europe from India",
+            "the arrival of the potato in India from Europe",
+            "the arrival of the potato in India from South America"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage follows the potato from South America via Europe/the Dutch and British to India.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 15,
+            "question_number": 76
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below:",
+          "handwrittenMark": "D",
+          "passageId": "PASSAGE-II"
+        },
+        {
+          "id": "ENG-PDF1-0077",
+          "section": "PASSAGE-II",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-II",
+          "difficulty": "INTERMEDIATE",
+          "q": "According to this passage, how long ago was the potato domesticated in South America ?",
+          "options": [
+            "Two thousand years ago",
+            "Two to five thousand years ago",
+            "Four to seven thousand years ago",
+            "Ten thousand years ago"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage dates domestication to between 5000 and 2000 BC, i.e. roughly four to seven thousand years before today.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 15,
+            "question_number": 77
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below:",
+          "handwrittenMark": "B",
+          "passageId": "PASSAGE-II"
+        },
+        {
+          "id": "ENG-PDF1-0078",
+          "section": "PASSAGE-II",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-II",
+          "difficulty": "INTERMEDIATE",
+          "q": "In this passage the word \"culture\" refers to",
+          "options": [
+            "The arts, music, literature and other intellectual achievements",
+            "All the knowledge and values shared by a society",
+            "The practices of the Maya and Inca civilisations",
+            "Certain techniques of raising plants for propagation"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Culture of potatoes' here means cultivation, i.e. techniques of raising plants.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 78
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below:",
+          "handwrittenMark": "D",
+          "passageId": "PASSAGE-II"
+        },
+        {
+          "id": "ENG-PDF1-0079",
+          "section": "PASSAGE-II",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-II",
+          "difficulty": "INTERMEDIATE",
+          "q": "Which form of the word \"settlement\" can be used both as a verb and as an adjective ?",
+          "options": [
+            "Settled",
+            "Settling",
+            "Settler",
+            "Settle"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Settled' is the past form of the verb and also an adjective ('a settled life'); 'settling' is rarely adjectival.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 79
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below:",
+          "handwrittenMark": "A",
+          "passageId": "PASSAGE-II"
+        },
+        {
+          "id": "ENG-PDF1-0080",
+          "section": "PASSAGE-II",
+          "topic": "Comprehension",
+          "subtopic": "PASSAGE-II",
+          "difficulty": "INTERMEDIATE",
+          "q": "The word \"terraced\" has been formed by changing",
+          "options": [
+            "A noun to a verb",
+            "A verb to a noun",
+            "An adjective to a noun",
+            "A noun to an adjective"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Terrace' (noun) becomes the adjective 'terraced' (having terraces).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 80
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Read the passage carefully and answer the questions given below:",
+          "handwrittenMark": "D",
+          "passageId": "PASSAGE-II"
+        }
+      ]
+    },
+    {
+      "name": "Word Meanings",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0081",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Codex",
+          "options": [
+            "an ancient manuscript in book form",
+            "a member of a monastic community",
+            "an algorithm for cracking codes",
+            "an ancient time-measuring device"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A codex is an ancient manuscript bound in book form.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 81
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0082",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Ergonomics",
+          "options": [
+            "the study of market relations",
+            "the non SI unit for energy",
+            "the study of human efficiency in the workplace",
+            "the study of agricultural economics"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Ergonomics studies efficiency of people in their working environment.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 82
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0083",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Sobriquet",
+          "options": [
+            "a thin broth or gruel",
+            "an assumed name",
+            "a broken piece of glass",
+            "an image or likeness of something"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A sobriquet is a nickname or assumed name.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 83
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0084",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Viticulture",
+          "options": [
+            "the making of vinegar",
+            "the activation of any fermentable liquid",
+            "the process of making wine",
+            "the cultivation of grapevines"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Viticulture is grape cultivation; making wine is viniculture/winemaking.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 16,
+            "question_number": 84
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0085",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Communiqué",
+          "options": [
+            "Official order with retrospective effect",
+            "Official order with prospective effect",
+            "Official retraction of an order",
+            "Official announcement or statement"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A communiqué is an official announcement.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 85
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": null
+        },
+        {
+          "id": "ENG-PDF1-0086",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Sub-judice",
+          "options": [
+            "Matter under judicial consideration",
+            "Not showing or allowing any doubt regarding the legality of a matter",
+            "Legal authority over an important matter",
+            "A view that is untenable in the eyes of law"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Sub judice' means under consideration by a court.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 86
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0087",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Manifesto",
+          "options": [
+            "Written, printed or typed copy of words that have been spoken",
+            "Written statements that describe the policies, goals, and positions of a person or group",
+            "Written laws that are formally created by a government",
+            "Written description of an organisation's functions and responsibilities"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A manifesto publicly declares the policies and aims of a person or group.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 87
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0088",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Tapestry",
+          "options": [
+            "An engraved design on the surface of a plate",
+            "An artwork using various materials",
+            "A hand-dyed painting on fabrics",
+            "A heavy decorative cloth hung on a wall"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A tapestry is a woven decorative textile used as a wall hanging.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 88
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0089",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Connotation",
+          "options": [
+            "The suggested implications beyond the literal meaning",
+            "Language that describes something as better or worse than it really is",
+            "A main subject that is elaborated upon in a piece of writing",
+            "A literal or the primary meaning of a word"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Connotation is the implied meaning beyond the literal (denotative) sense.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 89
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0090",
+          "section": "Word Meanings",
+          "topic": "Vocabulary",
+          "subtopic": "Word Meanings",
+          "difficulty": "ADVANCED",
+          "q": "Alibi",
+          "options": [
+            "Proven fact of having been elsewhere at the time of the commitment of a crime",
+            "A witness in court who speaks in favour of the defendant",
+            "Presenting a proxy to obviate punishment",
+            "Proving to be someone other than the accused and escaping thereby"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An alibi is proof that the accused was elsewhere when the crime occurred.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 17,
+            "question_number": 90
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Identify the most appropriate meaning for the words given below and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": null
+        }
+      ]
+    },
+    {
+      "name": "Para Jumbles / Sentence Rearrangement",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0091",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: In a typical Indian village today, one is certain to find groups of women talking about finance.\nS6: In a society where women play significant but never-recognised roles, being a part of an SHG which gives them such financial power is indeed a matter of pride.\nP: Sitting there, they might proudly introduce themselves by saying that they are members of a self-help group (SHG).\nQ: Alternatively, they might lend money at reasonable interest rates to members for starting small businesses.\nR: They can be seen sitting under a tree, in an abandoned school building, or in the front yard of a village resident's dilapidated home, holding thick notebooks.\nS: An SHG is usually a community group of 10-12 women from similar socio-economic background who pool their financial resources for taking up joint economic activities.",
+          "options": [
+            "Q S P R",
+            "R P S Q",
+            "R Q S P",
+            "S Q P R"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "R introduces the scene; P follows ('Sitting there'); S explains SHG; Q ('Alternatively') adds their activity; then S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 18,
+            "question_number": 91
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0092",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: For much of history, surnames, or last names, were not considered necessary.\nS6: These two pieces of medieval bureaucracy meant that virtually everyone had to settle on a definite and fixed surname.\nP: The other was the enactment of the Statute of Additions in 1413, which required that all legal documents to contain not just the person's given name, but also his or her occupation and place of abode.\nQ: One was the introduction of a poll tax in 1379, which led the government to collect the name of every person aged sixteen or over.\nR: But sometimes, the process was accelerated such as in England where two events gave a boost to the adoption of surnames.\nS: The business of acquiring surnames was a long one that evolved over centuries rather than years.",
+          "options": [
+            "R S P Q",
+            "Q P R S",
+            "R S Q P",
+            "S R Q P"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S gives the general slow process; R ('But sometimes') introduces England; Q ('One') then P ('The other'); S6 refers to 'these two pieces'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 18,
+            "question_number": 92
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0093",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: The first American settlers happened to live in the midst of perhaps the most exciting period in the history of the English language.\nS6: Had the settlers gone a quarter of a century earlier, America might well have preserved those previous forms, as it preserved many other archaisms.\nP: Similarly, thee and thou pronoun forms were also dying out.\nQ: This was a time when 12,000 words were being added to the language.\nR: One such change which these first settlers had already adopted was to use the s form on verbs, saying has rather than hath, runs rather than runneth.\nS: It was also a time of considerable change in the structure of the language.",
+          "options": [
+            "R P Q S",
+            "Q S R P",
+            "S Q P R",
+            "Q P R S"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Q (12,000 words) follows S1; S (structure change); R (one such change); P ('Similarly'); S6 refers to 'previous forms'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 19,
+            "question_number": 93
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0094",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: In 1984, two small clay tablets of vaguely rectangular shape were found in Tell Brak, Syria, dating from the fourth millennium BCE.\nS6: All our history begins with these two modest tablets as they are among the oldest examples of writing we know.\nP: One of the animals may have been a goat, in which case, the other probably was a sheep.\nQ: Lying there were these simple, unimpressive objects, each bearing a few discrete markings : a small indentation near the top and some sort of stick-drawn animal in the centre.\nR: The indentation, on the other hand, represents, according to archaeologists, the number ten.\nS: These two tablets were seen by an expert the year before the Gulf War, in an unostentatious display case in the Archaeological Museum of Baghdad.",
+          "options": [
+            "S Q P R",
+            "Q S P R",
+            "Q S R P",
+            "S Q R P"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S introduces the expert's viewing; Q describes what lay there; P (animals); R ('on the other hand' the indentation).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 19,
+            "question_number": 94
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0095",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: For generations, the Balaraju pond remained the primary water source of Perakalapudi village in Guntur district of Andhra Pradesh.\nS6: It was only after major restoration work was carried out to restore the pond's storage capacity that the community could return to its traditional livelihood.\nP: By the 2000s, decades of water mismanagement led to a rapid drop in the groundwater table as well.\nQ: However, overexploitation caused the pond to shrink to half its original size and reduced its water storage capacity by 60 per cent.\nR: The pond, spread across 2.4 hectares, supported irrigation, sustained the fishing community, met household needs and remained home to a wide variety of flora and fauna.\nS: As the pond disappeared, the households relied on groundwater to meet their daily needs.",
+          "options": [
+            "Q R P S",
+            "Q P R S",
+            "R Q S P",
+            "R Q P S"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "R describes the pond's role; Q ('However') its decline; S households shift to groundwater; P ('as well') groundwater also falls.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 20,
+            "question_number": 95
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0096",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: While most people are comfortable talking about colour, the concept of luminance - even though it is more fundamental - seems less familiar.\nS6: This is something the Impressionist artists were able to master and it gave a shimmering, lively quality to many of their paintings.\nP: For example, given two patches of grey, they can easily tell which is lighter.\nQ: As the artist and art teacher Josef Albers states, just as a musician should be able to distinguish between a higher tone and a lower tone, an artist should be able to distinguish between higher and lower light intensity between different colours.\nR: Artists, however, must learn to distinguish differences in luminance, independent of colour.\nS: But given two patches of different colours, it is often difficult to make the same distinction.",
+          "options": [
+            "P S R Q",
+            "P S Q R",
+            "R Q S P",
+            "Q R S P"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "P (grey patches example) and S (but with colours it is hard) illustrate S1; R (artists must learn) then Q (Albers) lead to S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 20,
+            "question_number": 96
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0097",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: Wooden furniture is durable and long-lasting, reducing the need for frequent replacement.\nS6: A still better and sustainable, though slow, way is to plant new trees to maintain the forest cover.\nP: Some of these negative impacts are deforestation and the loss of habitat for numerous species of animals.\nQ: Deforestation in turn disrupts water-cycles and accelerates the pace of climate change.\nR: However, its use causes several negative ecological impacts.\nS: One way of reducing the use of wood is to recycle it as much as possible.",
+          "options": [
+            "R P Q S",
+            "Q S P R",
+            "S Q R P",
+            "P R S Q"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "R ('However') introduces impacts; P names them; Q develops deforestation; S gives a remedy leading to S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 21,
+            "question_number": 97
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0098",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: Circadian rhythm is a term used to refer to the physical, mental and behavioural changes an organism experiences over a 24-hour cycle.\nS6: Maintaining a good circadian rhythm through appropriate exposure to natural light, consistent sleep schedules and times of eating, and adequate physical exercise during the day can allow an organism to live a healthy life.\nP: Prolonged disruption, moreover, can cause long-term damages such as metabolic diseases, cardio-vascular problems, and mental health issues.\nQ: Light and dark (daytime and night-time) have the biggest influence on these circadian rhythms.\nR: Circadian rhythms are also affected by food intake, stress, physical activity, social environment and temperature.\nS: When any one or more than one of these cause the circadian rhythm to be disrupted, it can lead to sleep problems, drowsiness and poor focus.",
+          "options": [
+            "R Q S P",
+            "Q R S P",
+            "Q R P S",
+            "R Q P S"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Q (main influence) then R ('also affected'); S (when disrupted) then P (prolonged disruption); then S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 21,
+            "question_number": 98
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0099",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: All the different parts of our eye help us to see.\nS6: These electrical signals then travel through the optic nerve to the brain which in turn converts these signals into the images we see.\nP: The iris, which is the coloured part of the eye, controls how much light the pupil lets in.\nQ: Next, light passes through the lens, the clear inner part of the eye, which focuses this light on the retina.\nR: First, light passes through the cornea, the clear front layer of the eye, and enters the eye through an opening called the pupil.\nS: When it hits the retina, special cells called photoreceptors convert the light into electrical signals.",
+          "options": [
+            "R P S Q",
+            "R Q P S",
+            "R Q S P",
+            "R P Q S"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Light path: cornea/pupil (R), iris control (P), lens focus (Q), retina signals (S), then S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 22,
+            "question_number": 99
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0100",
+          "section": "Para Jumbles / Sentence Rearrangement",
+          "topic": "Verbal Ability",
+          "subtopic": "Para Jumbles / Sentence Rearrangement",
+          "difficulty": "ADVANCED",
+          "q": "S1: Humans in colder climates first began wearing some form of sturdy foot covering at least 40,000 years ago.\nS6: Today, minimalistic barefoot shoes are becoming popular because they allow the wearer to feel the ground beneath their feet while still offering some protection and support.\nP: Unfortunately, modern shoes have also had a negative impact on feet due to bad design such as a narrow toe box, difference in heel to toe drop, however slight, and stiff soles.\nQ: Earlier skeletons had very robust little toes that could bend and grip surfaces.\nR: These gradually evolved to become less substantial than the big toe because shoe-like coverings reduced the mechanical stress on them and made them weaker.\nS: The evidence for this comes from the study of changes in the structure of the toe bones of foot skeletons from that time.",
+          "options": [
+            "S Q R P",
+            "Q S R P",
+            "Q S P R",
+            "P S Q R"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "S supplies the evidence for S1's claim; Q and R follow ('These gradually evolved'); P ('Unfortunately') leads into S6.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 22,
+            "question_number": 100
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In this section each item consists of six sentences that comprise a passage. The first and sixth sentences are given in the beginning as S1 and S6. The sequence of the middle four sentences has been jumbled up and labelled as P, Q, R and S. You are required to find the proper sequence of the four sentences and mark your response accordingly on the Answer Sheet.",
+          "handwrittenMark": "B"
+        }
+      ]
+    },
+    {
+      "name": "Pairs of Words",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0101",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Presumptive and Presumptuous",
+          "options": [
+            "Presumptive means something likely to be true, and Presumptuous means to be disrespectfully bold",
+            "Presumptive means to be disrespectfully bold, and Presumptuous means something likely to be true",
+            "Presumptive means to exist, and Presumptuous means something very important",
+            "Presumptive means something very important, and Presumptuous means to exist"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Presumptive' = presumed/likely; 'presumptuous' = overbold.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 23,
+            "question_number": 101
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0102",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Tempestuous and Temperamental",
+          "options": [
+            "Tempestuous means unpredictable behaviour, and Temperamental means displaying violent behaviour",
+            "Tempestuous means displaying violent behaviour, and Temperamental means unpredictable behaviour",
+            "Tempestuous means transitory, and Temperamental means determined by temperature",
+            "Tempestuous means determined by temperature, and Temperamental means transitory"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Tempestuous' = stormy/violent; 'temperamental' = moody/unpredictable.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 23,
+            "question_number": 102
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0103",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Voyager and Voyeur",
+          "options": [
+            "Voyager means a travel writer, and Voyeur means an emotionally vulnerable person",
+            "Voyager means an emotionally vulnerable person, and Voyeur means a travel writer",
+            "Voyager means a person who enjoys watching the private life of others, and Voyeur means a traveller",
+            "Voyager means a traveller, and Voyeur means a person who enjoys watching the private life of others"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A voyager travels; a voyeur secretly watches others' private lives.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 23,
+            "question_number": 103
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0104",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Differ and Defer",
+          "options": [
+            "Differ means to diffuse, and Defer means to be respectful",
+            "Differ means to be respectful, and Defer means to diffuse",
+            "Differ means to be different from something, and Defer means to delay action",
+            "Differ means to delay action, and Defer means to be different from something"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Differ' = be unlike; 'defer' = postpone (also yield respectfully).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 23,
+            "question_number": 104
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        },
+        {
+          "id": "ENG-PDF1-0105",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Elegy and Eulogy",
+          "options": [
+            "Elegy means a mournful poem, and Eulogy means a tribute to the dead",
+            "Elegy means a tribute to the dead, and Eulogy means a mournful poem",
+            "Elegy means an inscription on a gravestone, and Eulogy means a contemptuous utterance",
+            "Elegy means an allegation, and Eulogy means an inscription on the gravestone"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An elegy is a mournful poem; a eulogy is a speech of praise, esp. for the dead.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 105
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0106",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Concord and Concourse",
+          "options": [
+            "Concord means unity and harmony, and Concourse means the large open space in a building for people to gather",
+            "Concord means convergence, and Concourse means to move jointly",
+            "Concord means collaboration, and Concourse means goodwill",
+            "Concord means to cohere, and Concourse means to unify diverse positions"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Concord = harmony; concourse = open gathering space (e.g. in a station).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 106
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": null
+        },
+        {
+          "id": "ENG-PDF1-0107",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Edify and Educe",
+          "options": [
+            "Edify means to be elated, and Educe means to subtract",
+            "Edify means to improve and uplift, and Educe means to extract information",
+            "Edify means to enlighten, and Educe means to reduce",
+            "Edify means to delight, and Educe means to be tolerant"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Edify' = morally/intellectually uplift; 'educe' = draw out.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 107
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": null
+        },
+        {
+          "id": "ENG-PDF1-0108",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Flaunt and Flinch",
+          "options": [
+            "Flaunt means to be flamboyant, and Flinch means to be impertinent",
+            "Flaunt means to strut about, and Flinch means to boast",
+            "Flaunt means to display with flamboyance, and Flinch means to shy away",
+            "Flaunt means to exhibit, and Flinch means to breach"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Flaunt' = show off; 'flinch' = recoil.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 108
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0109",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Ingenious and Ingenuous",
+          "options": [
+            "Ingenious means to be resourceful, and Ingenuous means to be rooted",
+            "Ingenious means to be artless, and Ingenuous means to be inventive",
+            "Ingenious means to be naturally talented, and Ingenuous means to be genuine",
+            "Ingenious means to be creative, and Ingenuous means to be naively trusting"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Ingenious' = clever/inventive; 'ingenuous' = innocent, naively trusting.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 109
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0110",
+          "section": "Pairs of Words",
+          "topic": "Vocabulary",
+          "subtopic": "Pairs of Words",
+          "difficulty": "ADVANCED",
+          "q": "Nefarious and Nebulous",
+          "options": [
+            "Nefarious means scandalous, and Nebulous means indistinct",
+            "Nefarious means destitute, and Nebulous means vague",
+            "Nefarious means wicked, and Nebulous means unpleasant",
+            "Nefarious means fastidious, and Nebulous means exposed"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Nebulous' means vague/indistinct, and only (a) gets it right; 'nefarious' means wicked, which 'scandalous' approximates. Option (c) has 'nebulous' wrong.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 24,
+            "question_number": 110
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items, a pair of words is provided. You are required to select the option that most appropriately describes the meaning of both the words and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "C"
+        }
+      ]
+    },
+    {
+      "name": "Synonyms",
+      "questions": [
+        {
+          "id": "ENG-PDF1-0111",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "As a child she displayed a precocious talent for music.",
+          "options": [
+            "mildly unobtrusive",
+            "unusually advanced",
+            "markedly reluctant",
+            "somewhat diffident"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Precocious' means unusually advanced for one's age.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 111
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0112",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "He spoke with a tremulous voice.",
+          "options": [
+            "steady",
+            "quivering",
+            "sturdy",
+            "calm"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Tremulous' means trembling.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 112
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0113",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "These days there is a lot of gratuitous violence on television.",
+          "options": [
+            "unjustified",
+            "gratifying",
+            "grating",
+            "unqualified"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Gratuitous' means uncalled for/unjustified.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 113
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0114",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "His incendiary remarks precipitated disaffection among the group.",
+          "options": [
+            "insensitive",
+            "boastful",
+            "sequestering",
+            "provocative"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Incendiary' remarks inflame or provoke.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 114
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0115",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "Her career as a gymnast has been blighted by the decisions taken by her coach.",
+          "options": [
+            "shortened",
+            "ruined",
+            "extended",
+            "accelerated"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Blight' means to spoil or ruin.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 115
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "D"
+        },
+        {
+          "id": "ENG-PDF1-0116",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "The office staff were left absolutely nonplussed by the unexpected question posed by the boss.",
+          "options": [
+            "exacerbated",
+            "disaffected",
+            "perplexed",
+            "petrified"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Nonplussed' means bewildered/perplexed.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 25,
+            "question_number": 116
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0117",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "He had not completed the mandatory training for his promotion to the level of senior manager.",
+          "options": [
+            "perfunctory",
+            "compulsory",
+            "recommendatory",
+            "introductory"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Mandatory' means compulsory.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 26,
+            "question_number": 117
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        },
+        {
+          "id": "ENG-PDF1-0118",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "One ought not to be dogmatic about one's beliefs.",
+          "options": [
+            "rigid",
+            "amenable",
+            "deterministic",
+            "unassuming"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Dogmatic' means inflexibly opinionated, i.e. rigid.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 26,
+            "question_number": 118
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0119",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "Guests visiting the professor are inevitably treated to a scrumptious meal.",
+          "options": [
+            "lavish",
+            "sustainable",
+            "delectable",
+            "abstemious"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Scrumptious' means delicious, i.e. delectable.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 26,
+            "question_number": 119
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "A"
+        },
+        {
+          "id": "ENG-PDF1-0120",
+          "section": "Synonyms",
+          "topic": "Vocabulary",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "The menu for the birthday party comprised only savoury items, which took the gathered children by surprise.",
+          "options": [
+            "salty",
+            "blanched",
+            "sugary",
+            "spicy"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Savoury' means salty/piquant rather than sweet; 'salty' is the nearest option.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "New_Doc_09-14-2026_11_09.pdf",
+            "page": 26,
+            "question_number": 120
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "In the following items a sentence or a phrase is given with a word that is underlined, followed by four words or groups of words. Select the option that is nearest in meaning to the underlined word and mark your response on the Answer Sheet accordingly.",
+          "handwrittenMark": "B"
+        }
+      ]
+    }
+  ],
+  "bookletInfo": {
+    "tbc": "BFVS-F-GNE",
+    "series": "B",
+    "maximum_marks": 100,
+    "time_allowed": "Two Hours",
+    "negative_marking": "one-third of marks per wrong answer",
+    "note": "Exam name/year not printed in the PDF, so questions are labelled PDF_IMPORTED, not REAL_PYQ."
+  },
+  "passages": [
+    {
+      "passage_id": "PASSAGE-I",
+      "source_page": 14,
+      "text": "When Elizabeth Long began investigating women's book groups in the mid-1980s, her research plan provoked two profoundly different sets of reactions. Women, who had themselves participated in such groups, as well as men whose mothers and grandmothers had done so, immediately grasped the importance of her project: \"You will never know what a difference it made\" was the phrase she heard again and again. But among her academic colleagues, common readers seemed to be occupying a zone of cultural invisibility. They were not of interest to literature departments, whose major focus is on books and authors, not readers. They were not of interest to sociologists or political scientists because women's reading groups do not pursue activities with any obvious relationship to formal political processes. Long, however, went on to show that such groups had mobilised the women's suffrage and Progressive movements at the grassroots. Scholars of popular culture had not found reading groups interesting because the groups read canonized fiction and did not transform their cultural consumption into a 'resistant' subcultural style. It had not yet occurred to them that the so-called highbrow canonical literature could be immensely popular and devilishly subversive. David Vincent's Bread, Knowledge and Freedom (1981) had already demonstrated the important role of reading in inspiring working-class consciousness in early nineteenth-century Britain. As a sociologist, Long concluded that the really important question that needed answering was why academics did not care about readers."
+    },
+    {
+      "passage_id": "PASSAGE-II",
+      "source_page": 15,
+      "text": "Christopher Columbus of Spain set foot in the New World in 1492. Six years later, Vasco da Gama of Portugal reached India. During the next two centuries the Spaniards and the Portuguese actively transferred, not only to Europe but to many parts of Asia as well, a number of plant species which they encountered in South and central America, in expectation of their potential either as food or as medicine. These plants had been developed to a high degree by the Maya and Inca civilizations of these regions. Of these, the potato (Solanum tuberosum) is believed to have been domesticated in terraced slopes on the high plateau of Bolivia-Peru in South America, sometime between 5000 and 2000 BC. Europeans first saw potatoes in South America in 1537, and around 1570 a Spanish ship brought the first potatoes to Europe. Though termed papa in South America, they were incorrectly called batata (the name for the sweet potato) when John Gerard first described them in English in 1597, and this name stuck. An 1860 report states that by 1780, potatoes, peas and beans were in high repute as foods in Calcutta, and that the Dutch are said to have been the first to introduce the culture of potatoes, which was received from their settlement of the Cape of Good Hope. From there the British received annually the seeds of every kind of vegetable useful at the table, as well as several plants of which there appears to be much need, especially various kinds of pot herbs."
+    }
+  ]
+}

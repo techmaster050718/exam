@@ -1,0 +1,802 @@
+{
+  "id": "english-adjective-errors-001",
+  "title": "English Adjective Errors Question Bank - Part 1",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 30,
+  "source": {
+    "document": "Adjective Errors.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Adjective Errors",
+      "questions": [
+        {
+          "id": "ENG-PDF-0001",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Anurag is eclipsed by his wife, (b) who is cleverer and (c) amusing than he is. (d) No error",
+          "options": [
+            "Anurag is eclipsed by his wife,",
+            "who is cleverer and",
+            "amusing than he is.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The adjective 'amusing' should be in the comparative degree 'more amusing' to maintain parallelism with 'cleverer'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0002",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The two first to arrive (b) were the lucky recipients (c) of a surprise gift. (d) No error",
+          "options": [
+            "The two first to arrive",
+            "were the lucky recipients",
+            "of a surprise gift.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The two first' is incorrect word order. It should be 'The first two'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0003",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Of the billions of stars in the galaxy, (b) how much are (c) suitable for life? (d) No error",
+          "options": [
+            "Of the billions of stars in the galaxy,",
+            "how much are",
+            "suitable for life?",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Stars' is a countable noun, so 'how much' should be replaced with 'how many'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0004",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) A few word of (b) gratitude are enough (c) to express your (d) feelings sincerely. (e) No error.",
+          "options": [
+            "A few word of",
+            "gratitude are enough",
+            "to express your",
+            "feelings sincerely.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'A few' is used with plural countable nouns. 'word' should be 'words'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0005",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He feels his troubles (b) as much or (c) even more than they. (d) No error",
+          "options": [
+            "He feels his troubles",
+            "as much or",
+            "even more than they.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The comparison is incomplete. It should be 'than they do' to properly compare the action of feeling troubles.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0006",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) I like reading (b) more than (c) to play games. (d) No error",
+          "options": [
+            "I like reading",
+            "more than",
+            "to play games.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Parallelism requires gerunds to be matched. 'to play' should be 'playing' to match 'reading'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0007",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) There is not many traffic (b) along the street (c) where I live. (d) No error",
+          "options": [
+            "There is not many traffic",
+            "along the street",
+            "where I live.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Traffic' is an uncountable noun, so 'many' should be replaced with 'much'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0008",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The police arrived and discovered (b) a large number of hoarded sugar (c) in his shop. (d) No error",
+          "options": [
+            "The police arrived and discovered",
+            "a large number of hoarded sugar",
+            "in his shop.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Sugar' is uncountable, so 'a large number of' should be 'a large amount of'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0009",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) As a dramatist (b) Shaw is superior than (c) any other twentieth century writer. (d) No error",
+          "options": [
+            "As a dramatist",
+            "Shaw is superior than",
+            "any other twentieth century writer.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The adjective 'superior' takes the preposition 'to', not 'than'. It should be 'superior to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0010",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Of the two great cities (b) the former is (c) biggest. (d) No error",
+          "options": [
+            "Of the two great cities",
+            "the former is",
+            "biggest.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When comparing exactly two items, the comparative degree 'bigger' must be used, not the superlative 'biggest'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0011",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) A non banking financial company is a (b) financial institution similarly to a bank (c) but it cannot issue cheque books to customers. (d) No error",
+          "options": [
+            "A non banking financial company is a",
+            "financial institution similarly to a bank",
+            "but it cannot issue cheque books to customers.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Similarly to' is incorrect here. The adjective 'similar' should be used: 'similar to a bank'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0012",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Everyone agrees that (b) the Ganga is the holiest (c) of all other rivers of India. (d) No error.",
+          "options": [
+            "Everyone agrees that",
+            "the Ganga is the holiest",
+            "of all other rivers of India.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The Ganga is a river in India, so it cannot be the holiest of 'all other' rivers (which excludes it). It should be 'holiest of all rivers' or 'holier than all other rivers'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0013",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Krishna ran to the (b) nearing grocery store to (c) buy biscuits as his parents were expecting guests. (d) No error",
+          "options": [
+            "Krishna ran to the",
+            "nearing grocery store to",
+            "buy biscuits as his parents were expecting guests.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Nearing' is a participle indicating motion towards. The correct adjective for location is 'nearby'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0014",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) While giving a loan (b) you must check (c) if the borrower has sufficiently collateral to repay it. (d) No error",
+          "options": [
+            "While giving a loan",
+            "you must check",
+            "if the borrower has sufficiently collateral to repay it.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Collateral' is a noun and requires an adjective modifier, not an adverb. 'Sufficiently' should be 'sufficient'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0015",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Although his speech (b) was not very clearly everyone understood (c) the underlying meaning. (d) No error",
+          "options": [
+            "Although his speech",
+            "was not very clearly everyone understood",
+            "the underlying meaning.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After the linking verb 'was', an adjective is required, not an adverb. 'Clearly' should be 'clear'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0016",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He is the most (b) intelligent and also (c) the very talented student of the college. (d) No error",
+          "options": [
+            "He is the most",
+            "intelligent and also",
+            "the very talented student of the college.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrasing is awkward and inconsistent. It should be 'the most talented' to parallel 'the most intelligent', or 'a very talented'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0017",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Having been found (b) guilty of the theft (c) Sunny was sentenced to five year's imprisonment. (d) No error",
+          "options": [
+            "Having been found",
+            "guilty of the theft",
+            "Sunny was sentenced to five year's imprisonment.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For a plural possessive, the apostrophe comes after the 's'. It should be 'five years' imprisonment'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0018",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The Railways have made (b) crossing the tracks (c) a punished offence. (d) No error",
+          "options": [
+            "The Railways have made",
+            "crossing the tracks",
+            "a punished offence.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An offence that can be punished is a 'punishable' offence, not a 'punished' offence.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0019",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Alms (b) are given (c) to the poors. (d) No error",
+          "options": [
+            "Alms",
+            "are given",
+            "to the poors.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When an adjective is used with 'the' to represent a class of people, it remains singular in form. 'Poors' should be 'poor'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0020",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Lasers are (b) indispensable tools (c) for the delicate eyes surgery. (d) No error",
+          "options": [
+            "Lasers are",
+            "indispensable tools",
+            "for the delicate eyes surgery.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a noun is used as an adjective (noun adjunct), it is typically singular. 'Eyes surgery' should be 'eye surgery'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0021",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The number of applications has risen (b) this year by (c) as many as 50%. (d) No error",
+          "options": [
+            "The number of applications has risen",
+            "this year by",
+            "as many as 50%.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A percentage representing a singular amount or degree of increase takes 'much', not 'many'. It should be 'as much as 50%'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0022",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Two lakh of people (b) attended the meeting (c) held in parade ground. (d) No error",
+          "options": [
+            "Two lakh of people",
+            "attended the meeting",
+            "held in parade ground.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific number precedes 'lakh', 'hundred', 'thousand', etc., 'of' is not used. It should be 'Two lakh people'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0023",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) These sort of men (b) attain success by hook or by crook (c) so they do not deserve any applause. (d) No error",
+          "options": [
+            "These sort of men",
+            "attain success by hook or by crook",
+            "so they do not deserve any applause.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Sort' is singular, so it must be paired with the singular demonstrative 'This', not 'These'. It should be 'This sort of men'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0024",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Can you tell me how (b) many eggs and (c) milk he has brought (d) No error",
+          "options": [
+            "Can you tell me how",
+            "many eggs and",
+            "milk he has brought",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Eggs' is countable (many), but 'milk' is uncountable and requires 'much'. The phrasing should be 'how many eggs and how much milk'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0025",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Whole the chapter (b) is full of printing errors which are the outcome (c) of the proof reader's carelessness. (d) No error",
+          "options": [
+            "Whole the chapter",
+            "is full of printing errors which are the outcome",
+            "of the proof reader's carelessness.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct word order is 'The whole chapter', not 'Whole the chapter'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0026",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Her black long (b) hair adds (c) glamour to her looks. (d) No error",
+          "options": [
+            "Her black long",
+            "hair adds",
+            "glamour to her looks.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In the order of adjectives, size/length comes before color. It should be 'long black hair'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0027",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) I trembled when I saw (b) a sharp long knife (c) in his hand. (d) No error",
+          "options": [
+            "I trembled when I saw",
+            "a sharp long knife",
+            "in his hand.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Size/length ('long') should precede physical quality ('sharp'). It should be 'a long sharp knife'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0028",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) I saw (b) an anxious pale girl (c) who was fidgetting near the ICU (d) No error",
+          "options": [
+            "I saw",
+            "an anxious pale girl",
+            "who was fidgetting near the ICU",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Coordinate adjectives describing the same noun should be separated by a comma, or ordered strictly. 'Anxious, pale girl' is the correct punctuation and flow.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0029",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Mumbai is (b) further from (c) Delhi than (d) Patna. (e) No error",
+          "options": [
+            "Mumbai is",
+            "further from",
+            "Delhi than",
+            "Patna.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For physical, measurable distance, 'farther' is preferred over 'further' (which is for metaphorical or abstract degree).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0030",
+          "section": "Adjective Errors",
+          "topic": "Grammar",
+          "subtopic": "Adjective Errors",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) This book is (b) undoubtedly preferable than (c) that and its printing (d) is also comparatively good. (e) No error",
+          "options": [
+            "This book is",
+            "undoubtedly preferable than",
+            "that and its printing",
+            "is also comparatively good.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The adjective 'preferable' takes the preposition 'to', not 'than'. It should be 'preferable to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Adjective Errors.pdf",
+            "page": 1,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ]
+}

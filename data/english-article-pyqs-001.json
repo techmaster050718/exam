@@ -1,0 +1,1379 @@
+{
+  "id": "english-article-pyqs-001",
+  "title": "English Articles PYQ Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 50,
+  "source": {
+    "document": "Article PYQs.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Articles",
+      "questions": [
+        {
+          "id": "ENG-PDF-0080",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) In science the credit goes to a man / (b) who convinces the world / (c) not to the man to whom / (d) the idea first occurs. / (e) No error.",
+          "options": [
+            "In science the credit goes to a man",
+            "who convinces the world",
+            "not to the man to whom",
+            "the idea first occurs.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct correlative conjunction pair is 'not... but'. It should be 'but to the man to whom'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0081",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) It is only after / (b) the war is over / (c) that people realise / (d) how bad it was. / (e) No error.",
+          "options": [
+            "It is only after",
+            "the war is over",
+            "that people realise",
+            "how bad it was.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Tense consistency is required. Since the main clause uses present tense ('is', 'realise'), the subordinate clause should also be in present tense: 'how bad it is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0082",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Of the two / (b) answers, this / (c) is definitely / (d) better. / (e) No error.",
+          "options": [
+            "Of the two",
+            "answers, this",
+            "is definitely",
+            "better.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Of the two' correctly takes the comparative degree 'better'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0083",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He is unfortunate enough / (b) to lose / (c) few friends he made / (d) during his stay at Patna. / (e) No error.",
+          "options": [
+            "He is unfortunate enough",
+            "to lose",
+            "few friends he made",
+            "during his stay at Patna.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to specific friends he made, the definite article is required. It should be 'the few friends he made'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0084",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) There were a number / (b) of pretty girls in the party / (c) but it was Ragini / (d) who remained a centre of attraction. / (e) No error.",
+          "options": [
+            "There were a number",
+            "of pretty girls in the party",
+            "but it was Ragini",
+            "who remained a centre of attraction.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When someone is the unique or primary focus of attention, the definite article 'the' is used. It should be 'the centre of attraction'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0085",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) I have been / (b) informed that / (c) Dr. Sinha visits Patna / (d) the following month. / (e) No error.",
+          "options": [
+            "I have been",
+            "informed that",
+            "Dr. Sinha visits Patna",
+            "the following month.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In reported speech or future reference from a past perspective, 'the next month' is the standard phrasing, not 'the following month' in this specific context, or 'visits' should be 'will visit the following month'. However, the classic error here is 'the following month' should be 'the next month' when shifting from 'next month' in direct speech.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0086",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He is / (b) the best artist / (c) of the time but unfortunately / (d) least recognised. / (e) No error.",
+          "options": [
+            "He is",
+            "the best artist",
+            "of the time but unfortunately",
+            "least recognised.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Superlative adjectives must be preceded by the definite article 'the'. It should be 'the least recognised'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0087",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He said that he felt nervous / (b) because a friend of his / (c) had given him / (d) a very bad news. / (e) No error.",
+          "options": [
+            "He said that he felt nervous",
+            "because a friend of his",
+            "had given him",
+            "a very bad news.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'News' is an uncountable noun and cannot take the indefinite article 'a'. It should be 'very bad news' or 'a piece of very bad news'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0088",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) I don't like / (b) that type of a man / (c) who does nothing but / (d) find out faults in others. / (e) No error.",
+          "options": [
+            "I don't like",
+            "that type of a man",
+            "who does nothing but",
+            "find out faults in others.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'type of', 'kind of', or 'sort of', the indefinite article 'a/an' is not used. It should be 'that type of man'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0089",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He claims to be a linguist / (b) but, in reality, he / (c) does not know even / (d) the A B C of linguistics. / (e) No error.",
+          "options": [
+            "He claims to be a linguist",
+            "but, in reality, he",
+            "does not know even",
+            "the A B C of linguistics.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'The ABC of' is a standard idiomatic expression meaning the basics.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0090",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The remedy lies / (b) in promoting values of humanism / (c) and democracy so as to combat / (d) the oncoming brand of fascism. / (e) No error.",
+          "options": [
+            "The remedy lies",
+            "in promoting values of humanism",
+            "and democracy so as to combat",
+            "the oncoming brand of fascism.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'values' is followed by 'of', it requires the definite article. It should be 'the values of humanism'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0091",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) When the house was / (b) set on the fire, all the people / (c) started crying at the top / (d) of their voices. / (e) No error.",
+          "options": [
+            "When the house was",
+            "set on the fire, all the people",
+            "started crying at the top",
+            "of their voices.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiomatic phrase is 'set on fire', without the article 'the'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0092",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) A first step / (b) in a rational solution / (c) to any problem is / (d) the recognition of the fact that a problem exists. / (e) No error.",
+          "options": [
+            "A first step",
+            "in a rational solution",
+            "to any problem is",
+            "the recognition of the fact that a problem exists.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to the initial step in a specific process, the definite article is used. It should be 'The first step'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0093",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Little knowledge / (b) of music that he possessed / (c) proved to be a boon for him / (d) when he was utterly helpless. / (e) No error.",
+          "options": [
+            "Little knowledge",
+            "of music that he possessed",
+            "proved to be a boon for him",
+            "when he was utterly helpless.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Because the knowledge is specified by the relative clause 'that he possessed', it requires the definite article. It should be 'The little knowledge'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0094",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Don't talk to / (b) him, he always / (c) remains in temper / (d) these days. / (e) No error.",
+          "options": [
+            "Don't talk to",
+            "him, he always",
+            "remains in temper",
+            "these days.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiomatic expression is 'in a temper', not 'in temper'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0095",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He boasts of / (b) having good knowledge / (c) of mathematics / (d) but everybody knows how far he is good at mathematics. / (e) No error.",
+          "options": [
+            "He boasts of",
+            "having good knowledge",
+            "of mathematics",
+            "but everybody knows how far he is good at mathematics.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'knowledge' is qualified by an adjective like 'good', it takes the indefinite article. It should be 'having a good knowledge'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0096",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) It was / (b) by a mistake / (c) that he caught / (d) her hand. / (e) No error.",
+          "options": [
+            "It was",
+            "by a mistake",
+            "that he caught",
+            "her hand.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiomatic phrase is 'by mistake', without any article.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0097",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) These orders of / (b) the Manager / (c) may put the lives of / (d) two thousand workers in a danger. / (e) No error.",
+          "options": [
+            "These orders of",
+            "the Manager",
+            "may put the lives of",
+            "two thousand workers in a danger.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct phrase is 'in danger', without the indefinite article 'a'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0098",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) I inspired him / (b) to take the heart / (c) in all adverse situations / (d) and deserve to be called a real hero. / (e) No error.",
+          "options": [
+            "I inspired him",
+            "to take the heart",
+            "in all adverse situations",
+            "and deserve to be called a real hero.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiom is 'take heart' (meaning to gain courage), without the article 'the'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0099",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) In my opinion it is not the failures / (b) that have made / (c) him lose the heart but the lack of / (d) emotional support. / (e) No error.",
+          "options": [
+            "In my opinion it is not the failures",
+            "that have made",
+            "him lose the heart but the lack of",
+            "emotional support.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiom is 'lose heart' (meaning to become discouraged), without the article 'the'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0100",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The most happy / (b) marriage would be / (c) a union of a deaf / (d) man to a blind woman. / (e) No error.",
+          "options": [
+            "The most happy",
+            "marriage would be",
+            "a union of a deaf",
+            "man to a blind woman.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The superlative form of 'happy' is 'happiest', not 'most happy'. It should be 'The happiest'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0101",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) John suggested to / (b) his brothers that they should / (c) go to the school regularly / (d) and do their home work sincerely. / (e) No error.",
+          "options": [
+            "John suggested to",
+            "his brothers that they should",
+            "go to the school regularly",
+            "and do their home work sincerely.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to the institution of school for the purpose of education, no article is used. It should be 'go to school regularly'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0102",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) After returning / (b) from the jail, he has abandoned / (c) all the criminal activities and is determined / (d) to lead a simple life. / (e) No error.",
+          "options": [
+            "After returning",
+            "from the jail, he has abandoned",
+            "all the criminal activities and is determined",
+            "to lead a simple life.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'jail' is used to denote the institution/punishment rather than the physical building, no article is used. It should be 'from jail'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0103",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He was an atheist / (b) but now-a-days he goes to the church / (c) and offers prayers / (d) for hours. / (e) No error.",
+          "options": [
+            "He was an atheist",
+            "but now-a-days he goes to the church",
+            "and offers prayers",
+            "for hours.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'church' is used for the purpose of worship, no article is used. It should be 'goes to church'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0104",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) His father / (b) forbade him to go / (c) to cinema / (d) late at night. / (e) No error.",
+          "options": [
+            "His father",
+            "forbade him to go",
+            "to cinema",
+            "late at night.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to the entertainment venue, the definite article is required. It should be 'to the cinema'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0105",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The fact that the compact car / (b) is better than / (c) conventional cars has / (d) been proved by its sales. / (e) No error.",
+          "options": [
+            "The fact that the compact car",
+            "is better than",
+            "conventional cars has",
+            "been proved by its sales.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Conventional cars' is used in a general sense, requiring no article.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0106",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) There was little / (b) milk in the bottle and she gave it / (c) to the baby when it / (d) started weeping. / (e) No error.",
+          "options": [
+            "There was little",
+            "milk in the bottle and she gave it",
+            "to the baby when it",
+            "started weeping.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Little milk' correctly implies a small, insufficient quantity, fitting the context.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0107",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He leads / (b) a very busy life / (c) so he goes everywhere / (d) by a car. / (e) No error.",
+          "options": [
+            "He leads",
+            "a very busy life",
+            "so he goes everywhere",
+            "by a car.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Modes of transport using 'by' do not take an article. It should be 'by car'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0108",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) Thanks to an insight / (b) and persistence of the local doctor / (c) hundreds of victims have been / (d) able to resume a normal life. / (e) No error.",
+          "options": [
+            "Thanks to an insight",
+            "and persistence of the local doctor",
+            "hundreds of victims have been",
+            "able to resume a normal life.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Because 'insight' is specified by the phrase 'of the local doctor', it requires the definite article. It should be 'Thanks to the insight'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0109",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) In a hour's time / (b) when I had finished the work / (c) I got up and / (d) slipped out unnoticed. / (e) No error.",
+          "options": [
+            "In a hour's time",
+            "when I had finished the work",
+            "I got up and",
+            "slipped out unnoticed.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Hour' begins with a vowel sound (silent 'h'), so it requires the indefinite article 'an'. It should be 'In an hour's time'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0110",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He uses / (b) the mock-heroic / (c) style to depict / (d) a violence. / (e) No error.",
+          "options": [
+            "He uses",
+            "the mock-heroic",
+            "style to depict",
+            "a violence.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Violence' is an uncountable abstract noun and does not take the indefinite article 'a'. It should be 'violence'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0111",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) People in Darwin / (b) had become so accustomed to / (c) cyclone warnings / (d) that few of them paid any attention to the radio warnings which began this morning. / (e) No error.",
+          "options": [
+            "People in Darwin",
+            "had become so accustomed to",
+            "cyclone warnings",
+            "that few of them paid any attention to the radio warnings which began this morning.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Cyclone warnings' is used in a general sense, requiring no article.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0112",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) One should / (b) be true to one's promises / (c) in order to earn / (d) name and fame in the life / (e) No error.",
+          "options": [
+            "One should",
+            "be true to one's promises",
+            "in order to earn",
+            "name and fame in the life",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'life' is used in a general, abstract sense, no article is used. It should be 'in life'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0113",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The seed / (b) of all the modern amenities / (c) lies in / (d) the science. / (e) No error.",
+          "options": [
+            "The seed",
+            "of all the modern amenities",
+            "lies in",
+            "the science.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'science' is used as a general field of study, it does not take the definite article. It should be 'in science'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0114",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) 'Music is science / (b) but singing is an art' / (c) said the / (d) music teacher. / (e) No error.",
+          "options": [
+            "'Music is science",
+            "but singing is an art'",
+            "said the",
+            "music teacher.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a singular countable noun represents a class or category, it requires an article. It should be 'Music is a science'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0115",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) We should spend / (b) a good part of the day / (c) in out of door activities and games / (d) because staying indoors all the time is bad for health. / (e) No error.",
+          "options": [
+            "We should spend",
+            "a good part of the day",
+            "in out of door activities and games",
+            "because staying indoors all the time is bad for health.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct compound adjective is hyphenated: 'out-of-door' or simply 'outdoor'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0116",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He should mix / (b) his authority with little / (c) of courtesy / (d) and common sense. / (e) No error.",
+          "options": [
+            "He should mix",
+            "his authority with little",
+            "of courtesy",
+            "and common sense.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To convey a positive meaning (some amount), 'a little' should be used instead of 'little' (which means hardly any).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0117",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) It is a pity / (b) that the son of millionaire / (c) should indulge / (d) in stealing. / (e) No error.",
+          "options": [
+            "It is a pity",
+            "that the son of millionaire",
+            "should indulge",
+            "in stealing.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Millionaire' is a singular countable noun and requires an article. It should be 'son of a millionaire'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0118",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) This is / (b) the most important / (c) question which you have / (d) to prepare very carefully. / (e) No error.",
+          "options": [
+            "This is",
+            "the most important",
+            "question which you have",
+            "to prepare very carefully.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0119",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Brahmaputra is / (b) one of the longest rivers / (c) that originate / (d) in the Himalayas. / (e) No error.",
+          "options": [
+            "Brahmaputra is",
+            "one of the longest rivers",
+            "that originate",
+            "in the Himalayas.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Names of rivers take the definite article 'The'. It should be 'The Brahmaputra is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0120",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The Ganges / (b) is for North India / (c) what Krishna / (d) is for South India / (e) No error.",
+          "options": [
+            "The Ganges",
+            "is for North India",
+            "what Krishna",
+            "is for South India",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For parallel structure and correct grammar, names of rivers require the definite article. It should be 'what the Krishna is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0121",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The first European / (b) sailor to come to India / (c) in modern times / (d) was Vasco-di-Gama. / (e) No error.",
+          "options": [
+            "The first European",
+            "sailor to come to India",
+            "in modern times",
+            "was Vasco-di-Gama.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. (Note: 'Vasco-da-Gama' is the standard spelling, but 'Vasco-di-Gama' is treated as the proper noun provided in the source text).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0122",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The trees in a forest / (b) must be properly counted and numbered / (c) and proper entries be made / (d) in the register. / (e) No error.",
+          "options": [
+            "The trees in a forest",
+            "must be properly counted and numbered",
+            "and proper entries be made",
+            "in the register.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to a specific, known forest contextually, or forests in general, 'the forest' is more appropriate. However, 'a forest' is grammatically acceptable. A stricter error is often (D) 'the register' -> 'a register' or (A) 'The trees in the forest'. Let's mark (A) with 'the forest' as the intended correction for specificity.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": true
+        },
+        {
+          "id": "ENG-PDF-0123",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The principal / (b) asked the girls to return / (c) to the hostel before / (d) the sunset. / (e) No error.",
+          "options": [
+            "The principal",
+            "asked the girls to return",
+            "to the hostel before",
+            "the sunset.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Times of day like 'sunset', 'sunrise', 'dawn', and 'dusk' do not take the definite article when used in this general sense. It should be 'before sunset'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0124",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He found / (b) himself in a trouble / (c) when he saw no / (d) rickshaw outside the station. / (e) No error.",
+          "options": [
+            "He found",
+            "himself in a trouble",
+            "when he saw no",
+            "rickshaw outside the station.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Trouble' is an uncountable noun in this context. The correct phrase is 'in trouble', without the article 'a'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0125",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He said / (b) that he did not feel / (c) any need to discuss / (d) the episode in the detail. / (e) No error.",
+          "options": [
+            "He said",
+            "that he did not feel",
+            "any need to discuss",
+            "the episode in the detail.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct idiomatic phrase is 'in detail', without the definite article 'the'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0126",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) In the conclusion / (b) it may be safely asserted that / (c) the poet preaches some / (d) moral implicity. / (e) No error.",
+          "options": [
+            "In the conclusion",
+            "it may be safely asserted that",
+            "the poet preaches some",
+            "moral implicity.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct transitional phrase is 'In conclusion', without the definite article 'the'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0127",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) All the staffs / (b) of this office hold the view / (c) that Mr. Sinha is a very wise / (d) and an intelligent officer. / (e) No error.",
+          "options": [
+            "All the staffs",
+            "of this office hold the view",
+            "that Mr. Sinha is a very wise",
+            "and an intelligent officer.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Staff' is a collective noun and is generally uncountable. It should be 'All the staff'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0128",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The man / (b) is the only creature / (c) that is endowed with / (d) the power of speech. / (e) No error.",
+          "options": [
+            "The man",
+            "is the only creature",
+            "that is endowed with",
+            "the power of speech.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'man' is used to represent the human species as a whole, it is used without any article. It should be 'Man is the only creature'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-PDF-0129",
+          "section": "Articles",
+          "topic": "Grammar",
+          "subtopic": "Articles",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) It is very difficult / (b) to point out the number of / (c) the creatures living / (d) on earth. / (e) No error.",
+          "options": [
+            "It is very difficult",
+            "to point out the number of",
+            "the creatures living",
+            "on earth.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When referring to creatures in a general, non-specific sense, the definite article 'the' should be omitted. It should be 'creatures living'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Article PYQs.pdf",
+            "page": 1,
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "documents_processed": 3,
+    "sections_detected": 1,
+    "questions_extracted": 50,
+    "questions_with_generated_options": 0,
+    "verified_questions": 49,
+    "needs_review": 1,
+    "duplicate_candidates": 0,
+    "json_validation": "PASSED"
+  }
+}

@@ -274,7 +274,7 @@
 
   function renderReviewCards(container) {
     container.innerHTML = '';
-    const keys = ['A', 'B', 'C', 'D'];
+    const keys = ['A', 'B', 'C', 'D', 'E'];
     const marked = state.marked || [];
 
     let count = 0;

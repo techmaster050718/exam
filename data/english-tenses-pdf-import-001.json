@@ -1,0 +1,3320 @@
+{
+  "id": "english-tenses-pdf-import-001",
+  "title": "English Tenses and Time PDF Imported Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 129,
+  "declaredQuestionCount": 129,
+  "source": {
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Tenses",
+      "questions": [
+        {
+          "id": "ENG-TENSE-PDF-0001",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The best thing about your father is that he is always taking life with a positive attitude. Find out the error, if any.",
+          "options": [
+            "The best thing about your father is that",
+            "he is always taking",
+            "life with a positive",
+            "attitude.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The simple present tense should be used for habitual actions. 'is always taking' should be replaced with 'always takes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0002",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "You are coming so late sometimes that it becomes very difficult for me to manage such a huge number of students. Find out the error, if any.",
+          "options": [
+            "You are coming so late",
+            "sometimes that it becomes",
+            "very difficult for me to manage",
+            "such a huge number of students.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For habitual actions indicated by 'sometimes', the simple present tense 'come' should be used instead of the present continuous 'are coming'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0003",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I go to the office only twice a week these days because I have got to supervise the on-going construction work at the different sites. Find out the error, if any.",
+          "options": [
+            "I go to the office only",
+            "twice a week these days",
+            "because I have got to supervise",
+            "the on-going construction work at the different sites.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'these days' indicates a temporary situation, so the present continuous tense 'am going' should be used instead of the simple present 'go'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0004",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "My mother goes out for a morning walk everyday because the doctor has advised her to do so if she really wants to get well soon. Find out the error, if any.",
+          "options": [
+            "My mother goes out for a morning",
+            "walk everyday because",
+            "the doctor has advised her",
+            "to do so if she really wants to get well soon.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Everyday' (one word) is an adjective meaning commonplace. The adverbial phrase 'every day' (two words) should be used here to mean 'each day'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0005",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "She is sneezing again, so I think she has a cold. Find out the error, if any.",
+          "options": [
+            "She is",
+            "sneezing again,",
+            "so I think",
+            "she has a cold.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sneezing is a momentary action. For a recently completed action with present relevance, the present perfect 'has sneezed' is more appropriate than the present continuous 'is sneezing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0006",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am not able to answer any of your questions because they did not give me enough information or data on it yet. Find out the error, if any.",
+          "options": [
+            "I am not able to answer any of your",
+            "questions because they",
+            "did not give me enough",
+            "information or data on it yet.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'yet' indicates an action continuing up to the present, requiring the present perfect tense 'have not given' instead of the simple past 'did not give'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0007",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "You always come late and now I am not going to tolerate it any more. Find out the error, if any.",
+          "options": [
+            "You always come",
+            "late and now",
+            "I am not going to",
+            "tolerate it any more.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To express annoyance or irritation about a habitual action, the present continuous tense with 'always' ('are always coming') is used.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0008",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "People know that India can be a superpower only when they will work honestly and sincerely. Find out the error, if any.",
+          "options": [
+            "People know that",
+            "India can be a superpower",
+            "only when they",
+            "will work honestly and sincerely.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In adverbial clauses of time introduced by 'when', the simple present tense is used to refer to the future, not the future tense. 'will work' should be 'work'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0009",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Unless they come up and do not take up the responsibility of taking care of these pets, I cannot think of going away for any sort of pilgrimage. Find out the error, if any.",
+          "options": [
+            "Unless they come up",
+            "and do not take up the responsibility",
+            "of taking care of these pets,",
+            "I cannot think of going away for any sort of pilgrimage.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Unless' already carries a negative meaning ('if not'). Using 'do not' creates a double negative. It should be 'and take up the responsibility'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0010",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am sorry to say that I cannot say anything unless I go through the entire documents. Find out the error, if any.",
+          "options": [
+            "I am sorry to say",
+            "that I cannot say anything",
+            "unless I go through",
+            "the entire documents.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The adjective 'entire' is singular and should modify a singular noun. 'documents' should be changed to 'document'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0011",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Unless you have the thorough analysis of the project, you can't say whether it can be finished within the given period of time or not. Find out the error, if any.",
+          "options": [
+            "Unless you have the thorough",
+            "analysis of the project,",
+            "you can't say whether it can be",
+            "finished within the given period of time or not.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The definite article 'the' is inappropriate here as it refers to a non-specific analysis. It should be 'a thorough analysis'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0012",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "You will have everything that you desire, provided that you work hard with some extra effort. Find out the error, if any.",
+          "options": [
+            "You will have everything",
+            "that you desire,",
+            "provided that you work hard",
+            "with some extra effort.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Provided that' is correctly followed by the simple present tense to indicate a condition for the future.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0013",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He will call you up as soon as he will finish the work and move to another one. Find out the error, if any.",
+          "options": [
+            "He will call you up",
+            "as soon as he will finish",
+            "the work and",
+            "move to another one.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In time clauses introduced by 'as soon as', the simple present tense is used for future reference, not the future tense. 'will finish' should be 'finishes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0014",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Everybody is talking about the latest movie produced by Vidhu Vinod Chopra, as it is bringing out the real face of Indian politics. Find out the error, if any.",
+          "options": [
+            "Everybody is talking",
+            "about the latest movie produced by Vidhu Vinod Chopra,",
+            "as it is bringing out",
+            "the real face of Indian politics.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For a permanent characteristic or general truth revealed by the movie, the simple present tense 'brings out' is more appropriate than the present continuous 'is bringing out'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0015",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "There are a number of books on History, which has focussed on the social scourge that has been coming down for ages in India. Find out the error, if any.",
+          "options": [
+            "There are a number of books on History,",
+            "which has focussed on",
+            "the social scourge that",
+            "has been coming down for ages in India.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The relative pronoun 'which' refers to the plural noun 'books', so the verb must be plural. 'has focussed' should be 'have focussed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0016",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Most of the newspapers today are saying that the common wealth game, 2010 has proved highly advantageous for the politicians and the bureaucrats who have been aspiring to be millionaires. Find out the error, if any.",
+          "options": [
+            "Most of the newspapers today are saying that",
+            "the common wealth game, 2010 has proved",
+            "highly advantageous for the politicians",
+            "and the bureaucrats who have been aspiring to be millionaires.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The event is the 'Commonwealth Games' (plural), so the verb should be plural 'have proved'. Also, 'common wealth' should be 'Commonwealth'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0017",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "A book which was published in 1980 said that Indira Gandhi belonged to a Muslim family in reality. Find out the error, if any.",
+          "options": [
+            "A book which was published",
+            "in 1980 said",
+            "that Indira Gandhi belonged",
+            "to a Muslim family in reality.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When stating a universal truth or a permanent fact, the simple present tense is used even if the main verb is in the past. 'belonged' should be 'belongs'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0018",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I always admire the great man who said that one is wiser after an event. Find out the error, if any.",
+          "options": [
+            "I always admire",
+            "the great man",
+            "who said that",
+            "one is wiser after an event.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The tenses are used appropriately to express a general admiration and a reported universal truth.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0019",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Now-a-days, film makers do not make that kind of movie which they made earlier. Find out the error, if any.",
+          "options": [
+            "Now-a-days, film makers",
+            "do not make that kind",
+            "of movie which",
+            "they made earlier.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To express a past habit that is no longer true, 'used to make' is more appropriate than the simple past 'made'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0020",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When she asked me what I do these days, I started wondering if I should come out with the truth. Find out the error, if any.",
+          "options": [
+            "When she asked me",
+            "what I do these days,",
+            "I started wondering",
+            "if I should come out with the truth.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Due to the sequence of tenses, the reported speech should match the past tense of the reporting verb 'asked'. 'do' should be changed to 'was doing' or 'did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0021",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When you will find out any solution to this problem you will become able to finalise the project. Find out the error, if any.",
+          "options": [
+            "When you will find out",
+            "any solution to this problem",
+            "you will become able",
+            "to finalise the project.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In adverbial clauses of time introduced by 'when', the simple present tense is used for future reference. 'will find out' should be 'find out'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0022",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Whenever you are coming here, you bring a lot of sweets for me. Find out the error, if any.",
+          "options": [
+            "Whenever",
+            "you are coming here,",
+            "you bring a lot of",
+            "sweets for me.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For habitual actions indicated by 'whenever', the simple present tense 'come' should be used instead of the present continuous 'are coming'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0023",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is appearing to me that you are plotting against your friends and their parents. Find out the error, if any.",
+          "options": [
+            "It is appearing to me",
+            "that you are plotting",
+            "against your",
+            "friends and their parents.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The verb 'appear' (meaning 'seem') is a stative verb and is not typically used in the continuous form. It should be 'It appears to me'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0024",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The old man who is sitting in that room lived here for more than a month but he has never created any problem. Find out the error, if any.",
+          "options": [
+            "The old man who is sitting in that room",
+            "lived here for more than",
+            "a month but he has never created",
+            "any problem.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of living here started in the past and continues to the present (as he is still sitting in the room), so the present perfect 'has lived' should be used.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0025",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "A mysogynist is a person who is hating woman but a philogynist is a person who loves woman. Find out the error, if any.",
+          "options": [
+            "A mysogynist is a person",
+            "who is hating woman",
+            "but a philogynist is a person",
+            "who loves woman.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Hate' is a stative verb expressing a state of mind, not an action, so it should be in the simple present tense 'hates'. Also, 'women' (plural) is more appropriate than 'woman'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0026",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The secret of his good health lies in the fact that he is getting up before sunrise and has a two-mile walk every morning. Find out the error, if any.",
+          "options": [
+            "The secret of his good",
+            "health lies in the fact that",
+            "he is getting up before sunrise",
+            "and has a two- mile walk every morning.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "For a habitual daily routine ('every morning'), the simple present tense 'gets up' should be used instead of the present continuous 'is getting up'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0027",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "Now-a-days he teaches physics becuase the teacher of physics has been absenting himself for a month. Find out the error, if any.",
+          "options": [
+            "Now-a-days he teaches physics",
+            "becuase the teacher of physics",
+            "has been absenting himself",
+            "for a month.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Absent' is primarily an adjective or a transitive verb, but 'has been absent' is the correct stative construction. 'Has been absenting himself' is non-standard; 'has been absent' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0028",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He seems to be happy because his parents had come from London to live with him. Find out the error, if any.",
+          "options": [
+            "He seems to be happy",
+            "because his parents",
+            "had come from London",
+            "to live with him.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The present perfect 'have come' should be used because the action of coming has a present result (they are now living with him, making him happy).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0029",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "\"It is high time you are starting this work,\" my friend said to me. Find out the error, if any.",
+          "options": [
+            "\"It is high time",
+            "you are starting",
+            "this work,\"",
+            "my friend said to me.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After the expression 'It is high time', the verb in the following clause must be in the simple past tense to indicate that something should be done immediately. 'are starting' should be 'started'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0030",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have come to know that your father has died last week. Find out the error, if any.",
+          "options": [
+            "I have come",
+            "to know that your",
+            "father has died",
+            "last week.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific past time ('last week') is mentioned, the simple past tense must be used. 'has died' should be 'died'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0031",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Many of my friends wished to come here today but none of them arrived yet. Find out the error, if any.",
+          "options": [
+            "Many of my friends",
+            "wished to come here",
+            "today but",
+            "none of them arrived yet.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'yet' indicates an action continuing up to the present, requiring the present perfect tense 'have arrived' instead of the simple past 'arrived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0032",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She says that she will take her umbrella in case it will rain. Find out the error, if any.",
+          "options": [
+            "She says",
+            "that she will take",
+            "her umbrella",
+            "in case it will rain.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In conditional clauses introduced by 'in case', the simple present tense is used for future reference. 'will rain' should be 'rains'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0033",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I will let you know as soon as I will get any information about your promotion. Find out the error, if any.",
+          "options": [
+            "I will let you know",
+            "as soon as I will get",
+            "any information",
+            "about your promotion.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In time clauses introduced by 'as soon as', the simple present tense is used for future reference. 'will get' should be 'get'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0034",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When I will be thirty most of my friends will be above thirty five. Find out the error, if any.",
+          "options": [
+            "When I will be thirty",
+            "most of my friends",
+            "will be above thirty",
+            "five.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In adverbial clauses of time introduced by 'when', the simple present tense is used for future reference. 'will be' should be 'am'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0035",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This is, indeed, the first time in my life that I hear such an interesting story. Find out the error, if any.",
+          "options": [
+            "This is, indeed,",
+            "the first time in my life that",
+            "I hear",
+            "such an interesting story.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'This is the first time', the present perfect tense is used. 'hear' should be 'have heard'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0036",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "Before the alarm had stopped ringing Veera had pulled up the shade. Find out the error, if any.",
+          "options": [
+            "Before the alarm",
+            "had stopped ringing",
+            "Veera had pulled up",
+            "the shade.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of the alarm stopping is a single completed event in the past, so the simple past 'stopped' should be used, not the past perfect.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0037",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I have been knowing him for ten years but I don't know where he lives. Find out the error, if any.",
+          "options": [
+            "I have been knowing",
+            "him for ten years",
+            "but I don't know",
+            "where he lives.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Know' is a stative verb and is not used in the continuous form. 'have been knowing' should be 'have known'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0038",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He uses to study at least till ten o'clock at night and then he goes to bed. Find out the error, if any.",
+          "options": [
+            "He uses to study",
+            "at least till ten o'clock",
+            "at night and then",
+            "he goes to bed.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The correct phrase for a past habit is 'used to', not 'uses to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0039",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If he had a few hours to spare, he would spend them in a public library. Find out the error, if any.",
+          "options": [
+            "If he had",
+            "a few hours to spare,",
+            "he would spend",
+            "them in a public library.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is a correct second conditional structure (If + past simple, would + base verb). No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0040",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "All the flowers in his garden will surely die before the rains will fall. Find out the error, if any.",
+          "options": [
+            "All the flowers",
+            "in his garden will surely die",
+            "before the rains",
+            "will fall.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In time clauses introduced by 'before', the simple present tense is used for future reference. 'will fall' should be 'fall'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0041",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If I would have done this, I would have done wrong and would have disappointed many of my friends. Find out the error, if any.",
+          "options": [
+            "If I would have done this,",
+            "I would have done wrong",
+            "and would have disappointed",
+            "many of my friends.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In third conditional 'if' clauses, the past perfect tense is used, not 'would have'. 'would have done' should be 'had done'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0042",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "If she had told me that her husband never lived within his means, I would not have lent him the money. Find out the error, if any.",
+          "options": [
+            "If she had told me that",
+            "her husband never lived",
+            "within his means, I would not",
+            "have lent him the money.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When stating a general truth or permanent habit within reported speech, the simple present tense is preferred. 'never lived' should be 'never lives'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0043",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I wish he saw you when you were living in England. Find out the error, if any.",
+          "options": [
+            "I wish",
+            "he saw you",
+            "when you were",
+            "living in England",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To express a regret about a past event after 'I wish', the past perfect tense is used. 'saw' should be 'had seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0044",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "The judge had not given any dicision until he had studied the case. Find out the error, if any.",
+          "options": [
+            "The judge had not given",
+            "any dicision",
+            "until he had",
+            "studied the case.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of not giving a decision is a simple past event preceding another past action. 'had not given' should be 'did not give'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0045",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I lived here since 1980, therefore I know everything about this city. Find out the error, if any.",
+          "options": [
+            "I lived",
+            "here since 1980,",
+            "therefore I know everything",
+            "about this city.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An action starting in the past and continuing to the present requires the present perfect tense. 'lived' should be 'have lived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0046",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I have been working for this organisation for the last ten years. Find out the error, if any.",
+          "options": [
+            "I have been",
+            "working for this",
+            "organisation for",
+            "the last ten years.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence correctly uses the present perfect continuous tense to describe an action that started in the past and continues to the present.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0047",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "If we had Mohan in our team, we would have won the match against your team. Find out the error, if any.",
+          "options": [
+            "If we had Mohan",
+            "in our team, we",
+            "would have won the match",
+            "against your team.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "This is a mixed conditional or third conditional error. To match 'would have won', the 'if' clause must be in the past perfect: 'If we had had Mohan'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0048",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Radha came to the meeting much later than I expect. Find out the error, if any.",
+          "options": [
+            "Radha came",
+            "to the meeting",
+            "much later",
+            "than I expect.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'came' is in the past tense, so the subordinate clause should also be in the past tense. 'expect' should be 'expected'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0049",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If I was you I would have told the Chairman to keep his mouth shut. Find out the error, if any.",
+          "options": [
+            "If I was you",
+            "I would have told",
+            "the Chairman to keep",
+            "his mouth shut.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In hypothetical 'if' clauses, 'were' is used for all persons. 'was' should be 'were'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0050",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I want you to pick up the box of eggs gently and kept it in the corner carefully. Find out the error, if any.",
+          "options": [
+            "I want you to",
+            "pick up the box",
+            "of eggs gently and",
+            "kept it in the corner carefully.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The verbs 'pick up' and 'keep' are parallel infinitives following 'want you to'. 'kept' should be 'keep'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0051",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The victim tried to tell us what has happened but his words were not audible. Find out the error, if any.",
+          "options": [
+            "The victim tried to tell us",
+            "what has happened",
+            "but his words",
+            "were not audible.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'tried' is in the past tense, so the reported event should be in the past perfect. 'has happened' should be 'had happened'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0052",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "We got everything ready for all of them long before they arrived. Find out the error, if any.",
+          "options": [
+            "We got",
+            "everything ready for all",
+            "of them long",
+            "before they arrived.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of getting everything ready happened before another past action ('arrived'), so the past perfect 'had got' or 'had gotten' should be used.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0053",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She was with me uptil now, so don't rebuke her for getting late. Find out the error, if any.",
+          "options": [
+            "She was with",
+            "me uptil now,",
+            "so don't rebuke her",
+            "for getting late.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'up till now' indicates a period continuing to the present, requiring the present perfect tense. 'was' should be 'has been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0054",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "I have been adoring her for the voice with which she is gifted. Find out the error, if any.",
+          "options": [
+            "I have been adoring",
+            "her for",
+            "the voice with",
+            "which she is gifted.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Adore' is a stative verb expressing a state of mind and is not typically used in the continuous form. 'have been adoring' should be 'have adored'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0055",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Had he come even a moment earlier, he would have found me there. Find out the error, if any.",
+          "options": [
+            "Had he come",
+            "even a moment earlier,",
+            "he would have",
+            "found me there.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is a correct inverted third conditional structure. No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0056",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Many observations indicate that the number of the drug addicts is grew day by day. Find out the error, if any.",
+          "options": [
+            "Many observations indicate",
+            "that the number of the drug",
+            "addicts is grew",
+            "day by day.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The present continuous tense is required here to show an ongoing trend. 'is grew' is grammatically incorrect and should be 'is growing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0057",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Newspapers told us about the events that happen all over the world. Find out the error, if any.",
+          "options": [
+            "Newspapers told",
+            "us about the events",
+            "that happen",
+            "all over the world.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Newspapers regularly report current events, so the simple present tense 'tell' should be used instead of the past tense 'told'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0058",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "\"Here is coming my friend!\", said Manju when she was anxious. Find out the error, if any.",
+          "options": [
+            "\"Here is coming",
+            "my friend!\", said Manju when",
+            "she was anxious.",
+            "No Error.",
+            ""
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With verbs of motion like 'come' or 'go' used with 'here' or 'there', the simple present tense is used for immediate actions. 'is coming' should be 'comes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0059",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He advised me to do as he did but I did not pay any attention to his advice. Find out the error, if any.",
+          "options": [
+            "He advised me",
+            "to do as he did",
+            "but I did not pay any attention",
+            "to his advice.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The tenses are used appropriately to describe past advice and a past reaction.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0060",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By this time next year he has had settled himself in London. Find out the error, if any.",
+          "options": [
+            "By this time next year he",
+            "has had",
+            "settled himself",
+            "in London.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'By this time next year' requires the future perfect tense. 'has had' should be 'will have'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0061",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is about time you have taken you children to shcool. Find out the error, if any.",
+          "options": [
+            "It is about time",
+            "you have taken",
+            "you children",
+            "to shcool.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'It is about time', the verb in the following clause must be in the simple past tense. 'have taken' should be 'took'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0062",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "I had hoped that I would see you the other day, but unfortunately I fell ill. Find out the error, if any.",
+          "options": [
+            "I had hoped",
+            "that I would see",
+            "you the other day, but",
+            "unfortunately I fell ill.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence correctly uses the past perfect 'had hoped' to express an unfulfilled expectation in the past.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0063",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The thief was caught after he has disposed of the stolen goods. Find out the error, if any.",
+          "options": [
+            "The thief was caught",
+            "after he has disposed of",
+            "the stolen",
+            "goods.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of disposing of the goods happened before the past action of being caught, so the past perfect 'had disposed' should be used.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0064",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Sushma arrived here, did all the preparations and then has called on one of her intimate friends. Find out the error, if any.",
+          "options": [
+            "Sushma arrived here,",
+            "did all the preparations",
+            "and then has called",
+            "on one of her intimate friends.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sequence of past actions requires the simple past tense. 'has called' should be 'called' to maintain parallelism with 'arrived' and 'did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0065",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I could not recall what she has told me about her concern with Moti. Find out the error, if any.",
+          "options": [
+            "I could not recall",
+            "what she has told",
+            "me about her",
+            "concern with Moti.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'could not recall' is in the past tense, so the reported speech should be in the past perfect. 'has told' should be 'had told'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0066",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "That two and two always made four cannot be doubted. Find out the error, if any.",
+          "options": [
+            "That two and two",
+            "always made",
+            "four cannot",
+            "be doubted.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Universal truths or mathematical facts are always expressed in the simple present tense. 'made' should be 'makes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0067",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Nobody knows when death will knock at his door. Find out the error, if any.",
+          "options": [
+            "Nobody knows",
+            "when death",
+            "will knock at",
+            "his door.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The future tense is appropriately used in the noun clause.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0068",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Dipu hopes to become an officer after he will complete his higher education. Find out the error, if any.",
+          "options": [
+            "Dipu hopes to become",
+            "an officer after",
+            "he will complete",
+            "his higher education.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In time clauses introduced by 'after', the simple present tense is used for future reference. 'will complete' should be 'completes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0069",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Meenu along with her parents is going to Mumbai tonight because her eldest brother is ill there. Find out the error, if any.",
+          "options": [
+            "Meenu along with her parents",
+            "is going to Mumbai tonight",
+            "because her eldest brother",
+            "is ill there.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Along with' does not change the singular subject 'Meenu', so 'is going' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0070",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "My friend said to me, \"When have you come here?\" Find out the error, if any.",
+          "options": [
+            "My friend",
+            "said to me,",
+            "\"When have",
+            "you come here?\"",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When asking about a specific completed past action, the simple past tense is used. 'have' should be 'did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0071",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He would not have done all this if he had not been instigated by his wife. Find out the error, if any.",
+          "options": [
+            "He would not have",
+            "done all this",
+            "if he had not been",
+            "instigated by his wife.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is a correct third conditional structure. No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0072",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher said to us that we should stay at home if it rains. Find out the error, if any.",
+          "options": [
+            "The teacher said",
+            "to us that we",
+            "should stay at home",
+            "if it rains.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Due to the sequence of tenses, the conditional clause should match the past tense of the reporting verb. 'rains' should be 'rained'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0073",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I have not seen him since twenty years and so I cannot say with certainty whether he is alive or dead. Find out the error, if any.",
+          "options": [
+            "I have not seen him since twenty years",
+            "and so I cannot say with certainty",
+            "whether he is alive or dead.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' is used with a specific point in time, while 'for' is used with a period of time. 'since twenty years' should be 'for twenty years'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0074",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When he did not find his cook in the kitchen he asked his wife where had he gone. Find out the error, if any.",
+          "options": [
+            "When he did not find his cook in the kitchen",
+            "he asked his wife",
+            "where had he gone.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In reported speech or indirect questions, the subject must precede the verb. 'where had he gone' should be 'where he had gone'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0075",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Although I am playing cricket for more than three years I have not been able to score a century. Find out the error, if any.",
+          "options": [
+            "Although I am playing cricket",
+            "for more than three years",
+            "I have not been able to score a century",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An action starting in the past and continuing to the present requires the present perfect continuous tense. 'am playing' should be 'have been playing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0076",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I do not know where could he have gone so early in the morning. Find out the error, if any.",
+          "options": [
+            "I do not know where could he have gone",
+            "so early",
+            "in the morning.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In indirect questions, the subject must precede the auxiliary verb. 'where could he have gone' should be 'where he could have gone'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0077",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By the time we got our tickets and entered the cinema theatre, the show was already begun. Find out the error, if any.",
+          "options": [
+            "By the time",
+            "we got our tickets and entered the cinema theatre,",
+            "the show was already begun.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An action completed before another past action requires the past perfect tense. 'was already begun' should be 'had already begun'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0078",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "By the time we will get our tickets and enter the cinema theatre, the show will have already begun. Find out the error, if any.",
+          "options": [
+            "By the time",
+            "we will get our tickets and enter the cinema theatre,",
+            "the show will have already begun.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'By the time' is correctly followed by the simple present for future reference, and the main clause uses the future perfect.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0079",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Gowri told me his name after he left. Find out the error, if any.",
+          "options": [
+            "Gowri told me",
+            "his name after",
+            "he left.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of leaving happened before the action of telling, so the past perfect tense should be used. 'left' should be 'had left'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0080",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "we have been celebrating many festivals since centuries. Find out the error, if any.",
+          "options": [
+            "we have been",
+            "celebrating many festivals",
+            "since centuries.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' is used with a specific point in time, while 'for' is used with a period of time. 'since centuries' should be 'for centuries'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0081",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Old age and infirmity had began to catch up with him. Find out the error, if any.",
+          "options": [
+            "Old age and infirmity",
+            "had began to",
+            "catch up with him.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The past participle of 'begin' is 'begun', not 'began'. 'had began' should be 'had begun'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0082",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The passer-by told us where was the marriage hall and even led us to it. Find out the error, if any.",
+          "options": [
+            "The passer-by told us",
+            "where was the marriage hall",
+            "and even led us to it.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In indirect questions, the subject must precede the verb. 'where was the marriage hall' should be 'where the marriage hall was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0083",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I have passed the examination two years ago. Find out the error, if any.",
+          "options": [
+            "I have passed",
+            "the examination",
+            "two years ago",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific past time ('two years ago') is mentioned, the simple past tense must be used. 'have passed' should be 'passed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0084",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Since he joined this post, he did not take any bribe. Find out the error, if any.",
+          "options": [
+            "Since he joined",
+            "this post, he did not take",
+            "any bribe.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'since' indicates a period from the past to the present, requiring the present perfect tense in the main clause. 'did not take' should be 'has not taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0085",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Perhaps you know that I have passed the examination in 1990. Find out the error, if any.",
+          "options": [
+            "Perhaps you know",
+            "that I have passed",
+            "the examination in 1990.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific past time ('in 1990') is mentioned, the simple past tense must be used. 'have passed' should be 'passed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0086",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "He has read four plays written by Shakespeare by the end of his vacation. Find out the error, if any.",
+          "options": [
+            "He has read four plays",
+            "written by Shakespeare",
+            "by the end of his vacation.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'by the end of his vacation' refers to a future or past deadline. Assuming future, it should be 'will have read'. If past, 'had read'. 'has read' is incorrect.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0087",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When they stole the money and where did they hide it?. Find out the error, if any.",
+          "options": [
+            "When they stole",
+            "the money",
+            "and where did they hide it?.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In indirect or embedded questions, the subject must precede the verb, and the auxiliary 'did' is not used. 'where did they hide it' should be 'where they hid it'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0088",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "The teacher has took the responsibility. Find out the error, if any.",
+          "options": [
+            "The teacher",
+            "has took",
+            "the responsibility",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The past participle of 'take' is 'taken', not 'took'. 'has took' should be 'has taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0089",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "For time immemorial sea shells have been used by man in many ways. Find out the error, if any.",
+          "options": [
+            "For time immemorial",
+            "sea shells have been used by man",
+            "in many ways.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The present perfect passive is appropriately used for an action continuing from the past to the present.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0090",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "The river is in spate and it has overflown its banks. Find out the error, if any.",
+          "options": [
+            "The river is in spate",
+            "and it has overflown",
+            "its banks.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The past participle of 'overflow' is 'overflowed', not 'overflown'. 'has overflown' should be 'has overflowed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0091",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "The little boy had been waiting for his turn since a long time. Find out the error, if any.",
+          "options": [
+            "The little boy",
+            "had been waiting for his turn",
+            "since a long time.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' is used with a specific point in time, while 'for' is used with a period of time. 'since a long time' should be 'for a long time'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0092",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This T.V. serial is going on for 3 years. Find out the error, if any.",
+          "options": [
+            "This T.V. serial",
+            "is going on",
+            "for 3 years.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "An action starting in the past and continuing to the present requires the present perfect continuous tense. 'is going on' should be 'has been going on'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0093",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "In the early years of the renaissance of Bharatanatyam, hereditary dancers have their own set of accompanists who lived with the dancers and travelled with them from place to place when they gave performances. Find out the error, if any.",
+          "options": [
+            "In the early years of the renaissance of Bharatanatyam, hereditary dancers have their own set of accompanists",
+            "who lived with the dancers and travelled with them from place to place",
+            "when they gave performances.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The context is in the past ('early years', 'lived', 'travelled'), so the verb should be in the past tense. 'have' should be 'had'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0094",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This is turned out to be one of our most successful projects and we have made quite a large profit from it. Find out the error, if any.",
+          "options": [
+            "This is turned out to be",
+            "one of our most successful projects",
+            "and we have made quite",
+            "a large profit from it.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Turn out' is an intransitive verb and does not take the passive voice. 'is turned out' should be 'has turned out'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0095",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He is given me a lot of documents to read before the presentation tomorrow. Find out the error, if any.",
+          "options": [
+            "He is given me",
+            "a lot of documents",
+            "to read before",
+            "the presentation tomorrow.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The present perfect tense is required here. 'is given' should be 'has given'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0096",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Since the trip home was expensive I did not went home during the holidays. Find out the error, if any.",
+          "options": [
+            "Since the trip home",
+            "was expensive I",
+            "did not went home",
+            "during the holidays.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After the auxiliary 'did', the base form of the verb must be used. 'went' should be 'go'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0097",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "As she is late for work yesterday she decided to skip breakfast and leave for office. Find out the error, if any.",
+          "options": [
+            "As she is late",
+            "for work yesterday she decided",
+            "to skip breakfast and",
+            "leave for office.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The time marker 'yesterday' requires the past tense. 'is late' should be 'was late'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0098",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "As soon as the CEO entered the office, the union leaders approached him and report the matter to him. Find out the error, if any.",
+          "options": [
+            "As soon as the CEO entered the office, the",
+            "union leaders approached him",
+            "and report the matter to him.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sequence of past actions requires parallel verb forms. 'report' should be 'reported' to match 'entered' and 'approached'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0099",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The college is running a computer course since 2007. Find out the error, if any.",
+          "options": [
+            "The college",
+            "is running a computer course",
+            "since 2007.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'since' indicates a period from the past to the present, requiring the present perfect continuous tense. 'is running' should be 'has been running'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0100",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Did he tell you why he hasn't come yesterday? Find out the error, if any.",
+          "options": [
+            "Did he tell you",
+            "why he hasn't",
+            "come yesterday?",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific past time ('yesterday') is mentioned, the simple past tense must be used. 'hasn't come' should be 'didn't come'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0101",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Last night I dream I was a Sheikh on the 169th floor of Burj Khalifa. Find out the error, if any.",
+          "options": [
+            "Last night I dream",
+            "I was a Sheikh on the 169th floor",
+            "of Burj Khalifa.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The time marker 'Last night' requires the past tense. 'dream' should be 'dreamed' or 'dreamt'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0102",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She and her sister were working here since 1983. Find out the error, if any.",
+          "options": [
+            "She and her sister",
+            "were working here",
+            "since 1983.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'since' indicates a period from the past to the present, requiring the present perfect continuous tense. 'were working' should be 'have been working'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0103",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Nobody saw him since the fire broke in his locality. Find out the error, if any.",
+          "options": [
+            "Nobody saw him",
+            "since the fire broke",
+            "in his locality.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'since' indicates a period from the past to the present, requiring the present perfect tense in the main clause. 'saw' should be 'has seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0104",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By this time next year Ramesh will take his degree. Find out the error, if any.",
+          "options": [
+            "By this time next year",
+            "Ramesh will take",
+            "his degree.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'By this time next year' requires the future perfect tense. 'will take' should be 'will have taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0105",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The families are living in Gulmohar Park for the last two decades. Find out the error, if any.",
+          "options": [
+            "The families",
+            "are living in Gulmohar Park",
+            "for the last two decades.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'for the last two decades' indicates a period continuing to the present, requiring the present perfect continuous tense. 'are living' should be 'have been living'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0106",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "My uncle has left for Bombay last Saturday. Find out the error, if any.",
+          "options": [
+            "My uncle",
+            "has left",
+            "for Bombay last Saturday.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When a specific past time ('last Saturday') is mentioned, the simple past tense must be used. 'has left' should be 'left'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0107",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Good heavens ! How has she grown ! Find out the error, if any.",
+          "options": [
+            "Good heavens !",
+            "How has she",
+            "grown !",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The present perfect is appropriately used to express a change that has occurred up to the present.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0108",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I ate nothing since morning. Find out the error, if any.",
+          "options": [
+            "I ate",
+            "nothing",
+            "since morning",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'since' indicates a period from the past to the present, requiring the present perfect tense. 'ate' should be 'have eaten'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0109",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He is having many friends here. Find out the error, if any.",
+          "options": [
+            "He",
+            "is having",
+            "many friends here",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Have' (meaning possession) is a stative verb and is not used in the continuous form. 'is having' should be 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0110",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When I went there Charles is playing a game of chess. Find out the error, if any.",
+          "options": [
+            "When I went there",
+            "Charles is playing",
+            "a game of chess",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main clause 'When I went there' is in the past tense, so the subordinate clause should also be in the past continuous. 'is playing' should be 'was playing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0111",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "The vaccine when hit the market is dogged by controversy. Find out the error, if any.",
+          "options": [
+            "The vaccine",
+            "when hit the market",
+            "is dogged by controversy",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of hitting the market is in the past, so the main verb should also be in the past tense. 'is dogged' should be 'was dogged'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0112",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The victim tried to tell us what has happened but his voice was not audible. Find out the error, if any.",
+          "options": [
+            "The victim tried to tell us",
+            "what has happened but",
+            "his voice was not audible.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'tried' is in the past tense, so the reported event should be in the past perfect. 'has happened' should be 'had happened'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0113",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "Our history can be seen as a long evolutionary dialectical development in which there have been a painstaking forging of rational and moral self. Find out the error, if any.",
+          "options": [
+            "Our history can be seen as a long evolutionary dialectical development",
+            "in which there have been",
+            "a painstaking forging of rational and moral self.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The present perfect 'have been' agrees with the plural sense of the development process, or 'has been' could be argued, but 'have been' is acceptable for 'developments'. Let's assume No Error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0114",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Last year two Italian prisoners of war escapes from a prison camp in Kenya during the war. Find out the error, if any.",
+          "options": [
+            "Last year two Italian prisoners of war",
+            "escapes from a prison camp",
+            "in Kenya during the war.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The time marker 'Last year' requires the past tense. 'escapes' should be 'escaped'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0115",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Madhuri Dixit is having a large fan following. Find out the error, if any.",
+          "options": [
+            "Madhuri Dixit",
+            "is having",
+            "a large fan following.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Have' (meaning possession) is a stative verb and is not used in the continuous form. 'is having' should be 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0116",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "No one heard anything about him since he left India for good. Find out the error, if any.",
+          "options": [
+            "No one heard anything",
+            "about him since",
+            "he left India for good.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Since' is correctly used with the past tense in the subordinate clause and present perfect (implied 'has heard' or acceptable past in some contexts, but 'has heard' is better. Wait, 'No one has heard' is better. Let's mark (A) as error: 'has heard'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0117",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Before the teacher could finish the question the students gave the correct answer. Find out the error, if any.",
+          "options": [
+            "Before the teacher",
+            "could finish the question",
+            "the students gave the correct answer.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. The tenses are used appropriately to describe a past sequence of events.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0118",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "She did not prepare her breakfast yet. Find out the error, if any.",
+          "options": [
+            "She did not prepare",
+            "her",
+            "breakfast yet.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'yet' indicates an action continuing up to the present, requiring the present perfect tense. 'did not prepare' should be 'has not prepared'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0119",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Perhaps you do not know I am owning a farm house besides two bungalows. Find out the error, if any.",
+          "options": [
+            "Perhaps you do not know",
+            "I am owning",
+            "a farm house besides two bungalows.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Own' is a stative verb and is not used in the continuous form. 'am owning' should be 'own'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0120",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When Anand reached his village he found that the news about him preceded him. Find out the error, if any.",
+          "options": [
+            "When Anand reached his village",
+            "he found that",
+            "the news about him preceded him.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The action of the news preceding him happened before he reached the village, so the past perfect tense should be used. 'preceded' should be 'had preceded'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0121",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "She will already return home when he arrives. Find out the error, if any.",
+          "options": [
+            "She will already return",
+            "home",
+            "when he arrives.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase 'when he arrives' indicates a future deadline, requiring the future perfect tense in the main clause. 'will already return' should be 'will have already returned'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0122",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Each one of them has have his share of joy and sorrow. Find out the error, if any.",
+          "options": [
+            "Each one of them",
+            "has have his share",
+            "of joy and sorrow.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The verb phrase 'has have' is grammatically incorrect. It should be simply 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0123",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "This custom has come down since times immemorial. Find out the error, if any.",
+          "options": [
+            "This custom",
+            "has come down",
+            "since times immemorial.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' is used with a specific point in time, while 'from' is used with a starting point in a phrase like 'times immemorial'. 'since' should be 'from'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0124",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Since his arrival in India, he is visiting as many villages as he can to acquire a firsthand knowledge of the rural India. Find out the error, if any.",
+          "options": [
+            "Since his arrival in India,",
+            "he is visiting as many villages as he can",
+            "to acquire a firsthand knowledge of the rural India.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The word 'Since' indicates a period from the past to the present, requiring the present perfect continuous tense. 'is visiting' should be 'has been visiting'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0125",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Believe me, I am believing whatever you have said. Find out the error, if any.",
+          "options": [
+            "Believe me, I",
+            "am believing",
+            "whatever you have said.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Believe' is a stative verb and is not used in the continuous form. 'am believing' should be 'believe'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 53
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0126",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is time we should have done something useful. Find out the error, if any.",
+          "options": [
+            "It is time",
+            "we should have done",
+            "something useful",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'It is time', the verb in the following clause must be in the simple past tense. 'should have done' should be 'did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 54
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0127",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Mother said, \"Son, you have finished your homework?\" Find out the error, if any.",
+          "options": [
+            "Mother said,",
+            "\"Son,",
+            "you have finished your homework?\"",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In a direct question, the auxiliary verb must precede the subject. 'you have finished' should be 'have you finished'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 55
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0128",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I am going to buy a computer when the prices comes down. Find out the error, if any.",
+          "options": [
+            "I am going to buy",
+            "a computer",
+            "when the prices comes down.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject 'prices' is plural, so the verb must be plural. 'comes' should be 'come'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 56
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0129",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I wish I have learnt swimming when I was young. Find out the error, if any.",
+          "options": [
+            "I wish",
+            "I have learnt swimming",
+            "when I was young.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "To express a regret about a past event after 'I wish', the past perfect tense is used. 'have learnt' should be 'had learnt'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "question_number": 57
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ]
+}

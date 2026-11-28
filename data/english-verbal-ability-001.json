@@ -1,0 +1,501 @@
+{
+  "id": "english-verbal-ability-001",
+  "title": "English Verbal Ability Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 17,
+  "source": {
+    "document": "2026-10-03 01-05-25.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Para-jumbles",
+      "questions": [
+        {
+          "id": "VA-PDF-0001",
+          "section": "Para-jumbles",
+          "topic": "Verbal Ability",
+          "subtopic": "Para-jumbles",
+          "difficulty": "INTERMEDIATE",
+          "q": "The first and the last sentences (S1 and S4) of a passage are given, whereas some sentences (S2 and S3) are missing. Identify the alternatives that will meaningfully fill in the blanks against S2 and S3, respectively.\nS1. A train journey changed Gandhi's life, and eventually the course of history.\nS2. ___\nS3. ___\nS4. \"But I have a first-class ticket,\" Gandhi said. \"That doesn't matter,\" replied the conductor. \"No coloureds!\"\nAlternatives:\nP. Mahatma Gandhi pushed the Brits out of India with some unorthodox methods that we often take for granted.\nQ. The conductor insisted Gandhi to move to third class.\nR. It was 1893, late at night in South Africa that a barrister named MK Gandhi was travelling first class when a white passenger entered the compartment, took one look at him and summoned the conductor.\nS. Should he retreat to India or remain in South Africa and fight injustices like the one he had just experienced?",
+          "options": [
+            "QR",
+            "PS",
+            "RQ",
+            "SP"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence R sets the scene (1893, South Africa, first class), which logically follows S1. Sentence Q (the conductor insisting he move) directly leads into S4 where Gandhi protests. Therefore, the correct order is RQ.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0002",
+          "section": "Para-jumbles",
+          "topic": "Verbal Ability",
+          "subtopic": "Para-jumbles",
+          "difficulty": "ADVANCED",
+          "q": "Sentences of a paragraph are given below. While the first and the last sentences (S1 and S4) are given, some sentences (S2 and S3) are missing. Identify the alternatives that will meaningfully fill in the gaps.\nS1. Galen of Pergamon was a Greek physician, surgeon, and philosopher in the Roman Empire.\nS2. ___\nS3. ___\nS4. And yet Galen never conducted anything resembling an experiment.\nAlternatives:\nP. His writings were the indisputable source of medical authority for more than a thousand years.\nQ. It will be a field marred with arrogance, hubris, and a sheer lack of scientific rigour.\nR. Doubt is not a fearful thing and, as we'll soon learn, it's in fact what propels science forward.\nS. Considered to be one of the most accomplished of all medical researchers, Galen influenced the development of various scientific disciplines, including anatomy, physiology, pathology, pharmacology, and neurology.",
+          "options": [
+            "RP",
+            "QS",
+            "SP",
+            "PQ"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence S expands on S1 by detailing Galen's accomplishments. Sentence P follows by stating the long-lasting authority of his writings. This sets up the contrast in S4 ('And yet Galen never conducted anything resembling an experiment'). Thus, SP is the correct order.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0003",
+          "section": "Para-jumbles",
+          "topic": "Verbal Ability",
+          "subtopic": "Para-jumbles",
+          "difficulty": "BASIC",
+          "q": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. Raja was a shoeshine boy.\nB. Raja was hard working and wanted to take care of his family.\nC. So, after school, he would sit near a cinema hall and polish shoes for a living.\nD. He lived with his mother and sister in a small jhuggi.",
+          "options": [
+            "ADBC",
+            "CBDA",
+            "ABDC",
+            "BACD"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence A introduces Raja. Sentence D provides background on his living situation. Sentence B explains his motivation (hardworking, taking care of family). Sentence C is the logical conclusion showing the action he took (polishing shoes after school). Order: ADBC.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Sentence Improvement",
+      "questions": [
+        {
+          "id": "VA-PDF-0004",
+          "section": "Sentence Improvement",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Improvement",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate option that can substitute the underlined segment in the given sentence.\nWe live in a society that is not bound or connected to a religion or a religious body.",
+          "options": [
+            "orthodox",
+            "rudimentary",
+            "organic",
+            "secular"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Secular' means denoting attitudes, activities, or other things that have no religious or spiritual basis, which perfectly substitutes 'not bound or connected to a religion'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0005",
+          "section": "Sentence Improvement",
+          "topic": "Verbal Ability",
+          "subtopic": "Sentence Improvement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Select the most appropriate option to substitute the underlined segment in the given sentence.\nSujata may not be with us in this world anymore, her mark, however, remains impossible to forget or remove.",
+          "options": [
+            "invincible",
+            "fallible",
+            "gullible",
+            "indelible"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Indelible' means making marks that cannot be removed, or (of an event or fact) not able to be forgotten or removed. This perfectly matches 'impossible to forget or remove'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Idioms",
+      "questions": [
+        {
+          "id": "VA-PDF-0006",
+          "section": "Idioms",
+          "topic": "Verbal Ability",
+          "subtopic": "Idioms",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate meaning of the underlined idiom.\nMy brother loves Sundays because on that day he can be a couch-potato.",
+          "options": [
+            "A person who eats potatoes",
+            "A lazy person",
+            "A person who sleeps whole day",
+            "Is allowed to use the sofa"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A 'couch potato' is an idiom referring to a person who takes little or no exercise and watches a lot of television; a lazy person.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0007",
+          "section": "Idioms",
+          "topic": "Verbal Ability",
+          "subtopic": "Idioms",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate meaning of the underlined idiom.\nShe was head and shoulders above the others in her dance performance.",
+          "options": [
+            "much taller than",
+            "far superior than",
+            "quite odd from",
+            "very jealous of"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom 'head and shoulders above' means to be much better or far superior to others.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Synonyms",
+      "questions": [
+        {
+          "id": "VA-PDF-0008",
+          "section": "Synonyms",
+          "topic": "Verbal Ability",
+          "subtopic": "Synonyms",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate synonym of the given word.\nComprise",
+          "options": [
+            "Include",
+            "Reject",
+            "Exclude",
+            "Abandon"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Comprise' means to consist of or be made up of, which is synonymous with 'include'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0009",
+          "section": "Synonyms",
+          "topic": "Verbal Ability",
+          "subtopic": "Synonyms",
+          "difficulty": "INTERMEDIATE",
+          "q": "Select the most appropriate synonym of the given word.\nKnave",
+          "options": [
+            "Fraud",
+            "Idealist",
+            "Selfish",
+            "Paragon"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A 'knave' is a dishonest or unscrupulous man, making 'fraud' the closest synonym among the options.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0015",
+          "section": "Synonyms",
+          "topic": "Verbal Ability",
+          "subtopic": "Synonyms",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate synonym of the given word.\nTraits",
+          "options": [
+            "Actions",
+            "Qualities",
+            "Components",
+            "Routines"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A 'trait' is a distinguishing quality or characteristic, making 'qualities' the most appropriate synonym.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Error Spotting",
+      "questions": [
+        {
+          "id": "VA-PDF-0010",
+          "section": "Error Spotting",
+          "topic": "Verbal Ability",
+          "subtopic": "Error Spotting",
+          "difficulty": "BASIC",
+          "q": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\nThe moon was a good two hours / higher than when I had last seen / the sky, and the night, though rainy, / was much light.",
+          "options": [
+            "The moon was a good two hours",
+            "higher than when I had last seen",
+            "the sky, and the night, though rainy,",
+            "was much light"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The comparative form is required here to show a change from the previous state. 'Much light' should be 'much lighter'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0011",
+          "section": "Error Spotting",
+          "topic": "Verbal Ability",
+          "subtopic": "Error Spotting",
+          "difficulty": "BASIC",
+          "q": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\nOne Sunday when the lady had chained / him up as usual and was about half-way / through the forest, she suddenly thought / she hears the cracking of a tree-branch.",
+          "options": [
+            "One Sunday when the lady had chained",
+            "him up as usual and was about half-way",
+            "through the forest, she suddenly thought",
+            "she hears the cracking of a tree-branch"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is in the past tense ('had chained', 'was', 'thought'). Therefore, 'hears' is a tense inconsistency and should be 'heard'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0012",
+          "section": "Error Spotting",
+          "topic": "Verbal Ability",
+          "subtopic": "Error Spotting",
+          "difficulty": "BASIC",
+          "q": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error.\nIt was said that if you / yawned beneath the tree, / the pret would jumped down / your throat and ruin your digestion.",
+          "options": [
+            "It was said that if you",
+            "yawned beneath the tree,",
+            "the pret would jumped down",
+            "your throat and ruin your digestion"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After the modal auxiliary 'would', the base form of the verb must be used. 'Would jumped' is incorrect; it should be 'would jump'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Reading Comprehension",
+      "questions": [
+        {
+          "id": "VA-PDF-0013",
+          "section": "Reading Comprehension",
+          "topic": "Verbal Ability",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the given passage and answer the question that follows.\n[Passage about Gregor Mendel's experiments on pea plants, his background, and his discovery of traits coming in pairs without mixing.]\nWhich of the following is the most appropriate title for this passage?",
+          "options": [
+            "The Colour of Peas",
+            "An Amazing Discovery!",
+            "A Rare Quality!",
+            "Gardening in the Monastery"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage culminates in highlighting Mendel's groundbreaking realization about inherited traits, ending with 'What a discovery!'. 'An Amazing Discovery!' best captures the central theme and tone of the entire passage.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0016",
+          "section": "Reading Comprehension",
+          "topic": "Verbal Ability",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "BASIC",
+          "q": "Read the given passage and answer the question that follows.\n[Passage about Gregor Mendel...]\nWhy did Mendel join a monastery?",
+          "options": [
+            "Because he was interested in religion",
+            "Because he was too nervous to pass examinations",
+            "Because he wanted to continue his experiments there",
+            "Because he didn't have money to study further"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage explicitly states: 'He did not have money to study at the University so he thought of becoming a monk in a monastery. He thought from there he would be sent to study further.'",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "VA-PDF-0017",
+          "section": "Reading Comprehension",
+          "topic": "Verbal Ability",
+          "subtopic": "Reading Comprehension",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the given passage and answer the question that follows.\n[Passage about Gregor Mendel...]\nSelect the statement which is NOT correct.",
+          "options": [
+            "Mendel conducted experiments for seven years on 28,000 plants.",
+            "Mendel found that every pea has seeds which are either smooth or rough.",
+            "Mendel found that the seeds of the next generation are in mixed new shades.",
+            "Mendel found that the seeds of the next generation are rough or smooth."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The passage explicitly contradicts option C, stating: 'There is no seed which is mixed—a bit smooth and a bit rough... The next generation does not have seeds with a mixed new colour made from both green and yellow.'",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Antonyms",
+      "questions": [
+        {
+          "id": "VA-PDF-0014",
+          "section": "Antonyms",
+          "topic": "Verbal Ability",
+          "subtopic": "Antonyms",
+          "difficulty": "BASIC",
+          "q": "Select the most appropriate ANTONYM of the given word.\nHeight",
+          "options": [
+            "Length",
+            "Stature",
+            "Depth",
+            "Figure"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Height' refers to the measurement from base to top. Its direct opposite in spatial measurement is 'Depth' (measurement from top to base or surface downwards).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "2026-10-03 01-05-25.pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "documents_processed": 5,
+    "sections_detected": 1,
+    "questions_extracted": 17,
+    "questions_with_generated_options": 0,
+    "verified_questions": 17,
+    "needs_review": 0,
+    "duplicate_candidates": 0,
+    "json_validation": "PASSED"
+  }
+}

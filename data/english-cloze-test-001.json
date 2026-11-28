@@ -1,0 +1,544 @@
+{
+  "id": "english-cloze-test-001",
+  "title": "English Cloze Test Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 20,
+  "declaredQuestionCount": 103,
+  "source": {
+    "document": "Cloze test.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Cloze Test",
+      "questions": [
+        {
+          "id": "CLOZE-PDF-0001",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (1):\n\nThe ...(1)... age is the age of machines. From the ..(2)... the Industrial Revolution began in Europe. Man's life has been changing ...(3).. many ways. At first the change was ...(4)... . Now machines have become ...(5)... of our daily lives.",
+          "options": [
+            "modern",
+            "new",
+            "civilised",
+            "present"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Modern' is the most appropriate adjective to describe the current age of machines.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0002",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (2):\n\nThe ...(1)... age is the age of machines. From the ..(2)... the Industrial Revolution began in Europe. Man's life has been changing ...(3).. many ways. At first the change was ...(4)... . Now machines have become ...(5)... of our daily lives.",
+          "options": [
+            "birth",
+            "time",
+            "beginning",
+            "start"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'From the time' is the correct idiomatic expression to denote the period when something began.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0003",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (3):\n\nThe ...(1)... age is the age of machines. From the ..(2)... the Industrial Revolution began in Europe. Man's life has been changing ...(3).. many ways. At first the change was ...(4)... . Now machines have become ...(5)... of our daily lives.",
+          "options": [
+            "into",
+            "to",
+            "in",
+            "with"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'In many ways' is the correct prepositional phrase.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0004",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (4):\n\nThe ...(1)... age is the age of machines. From the ..(2)... the Industrial Revolution began in Europe. Man's life has been changing ...(3).. many ways. At first the change was ...(4)... . Now machines have become ...(5)... of our daily lives.",
+          "options": [
+            "slow",
+            "steady",
+            "fast",
+            "stagnant"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The contrast with 'Now' implies that initially the change was 'slow'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0005",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (5):\n\nThe ...(1)... age is the age of machines. From the ..(2)... the Industrial Revolution began in Europe. Man's life has been changing ...(3).. many ways. At first the change was ...(4)... . Now machines have become ...(5)... of our daily lives.",
+          "options": [
+            "component",
+            "part",
+            "necessity",
+            "support"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Part of our daily lives' is the standard and most natural collocation.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0006",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (1):\n\nAt the time The White House was as serene as a resort hotel out of season. The corridors were ...(1)... in the various offices. ...(2)... gray men on waistcoats talked to one another in low-pitched voices. The only colour or choler, curiously enough, was provided by President Eisenhower himself. Apparently, his ...(3)... was easily set off; he scowled when he ...(4)... the corridors.",
+          "options": [
+            "striking",
+            "hollow",
+            "empty",
+            "white"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Empty' fits the context of a serene, out-of-season resort-like atmosphere.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0007",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (2):\n\nAt the time The White House was as serene as a resort hotel out of season. The corridors were ...(1)... in the various offices. ...(2)... gray men on waistcoats talked to one another in low-pitched voices. The only colour or choler, curiously enough, was provided by President Eisenhower himself. Apparently, his ...(3)... was easily set off; he scowled when he ...(4)... the corridors.",
+          "options": [
+            "Quiet",
+            "Faded",
+            "Loud",
+            "Stentorian"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Quiet' aligns with 'low-pitched voices' and the serene atmosphere.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0008",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (3):\n\nAt the time The White House was as serene as a resort hotel out of season. The corridors were ...(1)... in the various offices. ...(2)... gray men on waistcoats talked to one another in low-pitched voices. The only colour or choler, curiously enough, was provided by President Eisenhower himself. Apparently, his ...(3)... was easily set off; he scowled when he ...(4)... the corridors.",
+          "options": [
+            "laughter",
+            "curiosity",
+            "humour",
+            "temper"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Temper' is something that can be 'set off' and leads to scowling.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0009",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (4):\n\nAt the time The White House was as serene as a resort hotel out of season. The corridors were ...(1)... in the various offices. ...(2)... gray men on waistcoats talked to one another in low-pitched voices. The only colour or choler, curiously enough, was provided by President Eisenhower himself. Apparently, his ...(3)... was easily set off; he scowled when he ...(4)... the corridors.",
+          "options": [
+            "paced",
+            "strolled",
+            "stormed",
+            "prowled"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Paced' is the most appropriate verb for walking through corridors, especially when agitated.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0010",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (1) [labeled (v) in source]:\n\nHow, the domestication of animals began is not known. Perhaps, there were large numbers of animals in areas near water where men also were...(i)... . Here, man could observe the animals and study their habits and this knowledge must have ...(ii)... him to tame them. It was again, easy for any ...(iii)... people to domesticate animals and feed them on the husks of the grain that were left after threshing. In any event, sheep and goats, pigs horses and asses were tamed and kept in pens. Man, thus,...(iv)... food from the soil and also from animal. In the pens, the animals could be observed even more closely. Calves suckling milk must have given man the idea that he too could get food other than meat from cows and goats. This practice which combines agriculture with the raising of animals is known as...(v)... farming.",
+          "options": [
+            "mixed",
+            "united",
+            "blended",
+            "joined"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Mixed farming' is the standard agricultural term for combining crop cultivation with animal raising.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0011",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (2) [labeled (i) in source]:\n\nHow, the domestication of animals began is not known. Perhaps, there were large numbers of animals in areas near water where men also were...(i)... . Here, man could observe the animals and study their habits and this knowledge must have ...(ii)... him to tame them. It was again, easy for any ...(iii)... people to domesticate animals and feed them on the husks of the grain that were left after threshing. In any event, sheep and goats, pigs horses and asses were tamed and kept in pens. Man, thus,...(iv)... food from the soil and also from animal. In the pens, the animals could be observed even more closely. Calves suckling milk must have given man the idea that he too could get food other than meat from cows and goats. This practice which combines agriculture with the raising of animals is known as...(v)... farming.",
+          "options": [
+            "intensified",
+            "amassed",
+            "strengthened",
+            "concentrated"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Concentrated' means gathered or located in a specific area, fitting the context of men and animals near water.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0012",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (3) [labeled (ii) in source]:\n\nHow, the domestication of animals began is not known. Perhaps, there were large numbers of animals in areas near water where men also were...(i)... . Here, man could observe the animals and study their habits and this knowledge must have ...(ii)... him to tame them. It was again, easy for any ...(iii)... people to domesticate animals and feed them on the husks of the grain that were left after threshing. In any event, sheep and goats, pigs horses and asses were tamed and kept in pens. Man, thus,...(iv)... food from the soil and also from animal. In the pens, the animals could be observed even more closely. Calves suckling milk must have given man the idea that he too could get food other than meat from cows and goats. This practice which combines agriculture with the raising of animals is known as...(v)... farming.",
+          "options": [
+            "rendered",
+            "enabled",
+            "authorised",
+            "modified"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Enabled' means gave him the ability or means to do something.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0013",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (4) [labeled (iii) in source]:\n\nHow, the domestication of animals began is not known. Perhaps, there were large numbers of animals in areas near water where men also were...(i)... . Here, man could observe the animals and study their habits and this knowledge must have ...(ii)... him to tame them. It was again, easy for any ...(iii)... people to domesticate animals and feed them on the husks of the grain that were left after threshing. In any event, sheep and goats, pigs horses and asses were tamed and kept in pens. Man, thus,...(iv)... food from the soil and also from animal. In the pens, the animals could be observed even more closely. Calves suckling milk must have given man the idea that he too could get food other than meat from cows and goats. This practice which combines agriculture with the raising of animals is known as...(v)... farming.",
+          "options": [
+            "farming",
+            "agricultural",
+            "business",
+            "rural"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Rural people' is the most appropriate descriptor for early agricultural communities.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0014",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (5) [labeled (iv) in source]:\n\nHow, the domestication of animals began is not known. Perhaps, there were large numbers of animals in areas near water where men also were...(i)... . Here, man could observe the animals and study their habits and this knowledge must have ...(ii)... him to tame them. It was again, easy for any ...(iii)... people to domesticate animals and feed them on the husks of the grain that were left after threshing. In any event, sheep and goats, pigs horses and asses were tamed and kept in pens. Man, thus,...(iv)... food from the soil and also from animal. In the pens, the animals could be observed even more closely. Calves suckling milk must have given man the idea that he too could get food other than meat from cows and goats. This practice which combines agriculture with the raising of animals is known as...(v)... farming.",
+          "options": [
+            "gained",
+            "achieved",
+            "attained",
+            "obtained"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Obtained' is the most natural verb for acquiring food from the soil and animals.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0015",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "INTERMEDIATE",
+          "q": "Read the passage and fill in the blank (1):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "rarely",
+            "the",
+            "only"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Only' emphasizes the small, limited number of villages affected.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0016",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (2):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "in",
+            "about",
+            "of"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'In the preceding eight weeks' is the correct prepositional phrase for a time period.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0017",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (3):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "necessarily",
+            "importantly",
+            "urgently"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'More importantly' is a standard transitional phrase used to highlight a significant point.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0018",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (4):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "found",
+            "remembered",
+            "known"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Known case' is the standard medical and epidemiological term.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0019",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "BASIC",
+          "q": "Read the passage and fill in the blank (5):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "Because",
+            "When",
+            "While"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Because' introduces the reason why the disease can be eliminated.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "CLOZE-PDF-0020",
+          "section": "Cloze Test",
+          "topic": "Verbal Ability",
+          "subtopic": "Cloze Test",
+          "difficulty": "ADVANCED",
+          "q": "Read the passage and fill in the blank (6):\n\nSmallpox, the most devastating and feared pestilence in human history, is making its last stand in two remote areas of Ethiopia, one in the desert and one in the mountains. As of the end of August, ...(1)... five villages had experienced cases...(2)... the preceding eight weeks. More...(3)..., the onset of the last ...(4)... case was on 9th August....(5)... man is the only known...(6)... of the smallpox virus, the disease should be eliminated forever when the last infected person recovers.",
+          "options": [
+            "culprit",
+            "reservoir",
+            "producer"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In epidemiology, a 'reservoir' is the long-term host of a pathogen.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Cloze test.pdf",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "documents_processed": 4,
+    "sections_detected": 1,
+    "questions_extracted": 20,
+    "questions_with_generated_options": 0,
+    "verified_questions": 20,
+    "needs_review": 0,
+    "duplicate_candidates": 0,
+    "json_validation": "PASSED"
+  }
+}

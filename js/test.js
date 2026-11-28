@@ -249,7 +249,7 @@
     const answerEntry = App.qs('#answer-entry');
     optList.innerHTML = '';
     answerEntry.replaceChildren();
-    const keys = ['A', 'B', 'C', 'D'];
+    const keys = ['A', 'B', 'C', 'D', 'E'];
     const rawSelected = state.answers[idx] ?? state.answers[String(idx)];
     const selectedOptions = Array.isArray(rawSelected) ? rawSelected.map(Number) : [];
     const questionType = q.type || 'MCQ';

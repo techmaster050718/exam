@@ -1,0 +1,1500 @@
+{
+  "id": "english-noun-cases-error-spotting-pdf-import-003",
+  "title": "Noun and Cases - Spotting the Error (PPTX Imported)",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "sourceDocument": "Noun_and_Cases_-.pptx",
+  "answerSourceNote": "No answer key in the source file. correct_answer derived from grammar rules; items flagged needs_review are ambiguous.",
+  "questionCount": 51,
+  "source": {
+    "document": "Noun_and_Cases_-.pptx",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED_WITH_REVIEW_ITEMS",
+  "sections": [
+    {
+      "name": "Nouns and Cases",
+      "questions": [
+        {
+          "id": "ENG-PDF3-0001",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "You know it well / that your success in life / depends not on my advice / but on somebody else.",
+          "options": [
+            "You know it well",
+            "that your success in life",
+            "depends not on my advice",
+            "but on somebody else.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The possessive is needed with 'somebody else': 'on somebody else's (advice)'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0002",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He informed me / that he had gone to / one of the Minister's residences / and stayed there all night.",
+          "options": [
+            "He informed me",
+            "that he had gone to",
+            "one of the Minister's residences",
+            "and stayed there all night.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One of the Minister's residences' is acceptable: several residences of a single minister.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 2,
+            "question_number": 2
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0003",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The building's roof / needs repairing otherwise / it may fall down and / result into many persons' death.",
+          "options": [
+            "The building's roof",
+            "needs repairing otherwise",
+            "it may fall down and",
+            "result into many persons' death.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Result in' (not 'result into'); 'many persons' deaths'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 3,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0004",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I visited / John's and Mary's house / twice but / found the couple absent.",
+          "options": [
+            "I visited",
+            "John's and Mary's house",
+            "twice but",
+            "found the couple absent.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Joint possession puts 's on the last name only: 'John and Mary's house'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 4,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0005",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "A ton's weight / is too heavy for / anyone to / carry on his head.",
+          "options": [
+            "A ton's weight",
+            "is too heavy for",
+            "anyone to",
+            "carry on his head.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'A ton's weight' is a correct possessive of measure.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 5,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0006",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I stopped / his going out late at night / because the situation / in the town was very tense.",
+          "options": [
+            "I stopped",
+            "his going out late at night",
+            "because the situation",
+            "in the town was very tense.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A possessive before a gerund ('his going out') is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 6,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0007",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He did not approve / of his son raising / stupid questions and thereby / vexing the teacher.",
+          "options": [
+            "He did not approve",
+            "of his son raising",
+            "stupid questions and thereby",
+            "vexing the teacher.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive before a gerund: 'approve of his son's raising'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 7,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0008",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "America's problems / are, however, / not so serious / and awful as India.",
+          "options": [
+            "America's problems",
+            "are, however,",
+            "not so serious",
+            "and awful as India.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Compare like with like: 'as that of India' or 'as India's'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 8,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0009",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Your tone of speaking / as well as your friends / is really extremely sarcastic / yet we never take it seriously.",
+          "options": [
+            "Your tone of speaking",
+            "as well as your friends",
+            "is really extremely sarcastic",
+            "yet we never take it seriously.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Compare 'your tone' with 'your friends'': a possessive is needed.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 9,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0010",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The Finance Minister / boasts of improving / the economic condition of / the country's.",
+          "options": [
+            "The Finance Minister",
+            "boasts of improving",
+            "the economic condition of",
+            "the country's.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The country's' is wrongly possessive: 'the economic condition of the country'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 10,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0011",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The life of the rich / is not in many / ways as peaceful / as that of the poor's.",
+          "options": [
+            "The life of the rich",
+            "is not in many",
+            "ways as peaceful",
+            "as that of the poor's.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'That of the poor' already shows possession; 'poor's' is wrong.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 11,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0012",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "For your sake / as well as for your wife / we all wish / that you may get that job.",
+          "options": [
+            "For your sake",
+            "as well as for your wife",
+            "we all wish",
+            "that you may get that job.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'For your wife's sake': the possessive is required after 'sake'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 12,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0013",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The expert mason reported to / the owner of the hotel that / there was no question / of the wall's falling down.",
+          "options": [
+            "The expert mason reported to",
+            "the owner of the hotel that",
+            "there was no question",
+            "of the wall's falling down.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Of the wall's falling down' is correct possessive + gerund.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 13,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0014",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The officer said / that he appreciated / his staffs / coming on time and co-operating him.",
+          "options": [
+            "The officer said",
+            "that he appreciated",
+            "his staffs",
+            "coming on time and co-operating him.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Staff' is collective; possessive before gerund: 'his staff's coming' (and 'co-operating with him').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 14,
+            "question_number": 14
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0015",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "As we are told, / this idea of Mrs. Gandhi's / was totally valid in the / present condition of India.",
+          "options": [
+            "As we are told,",
+            "this idea of Mrs. Gandhi's",
+            "was totally valid in the",
+            "present condition of India.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'This idea of Mrs. Gandhi's' is a correct double possessive.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 15,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0016",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is true / that I met / the Chief Minister / at one of my friend's houses.",
+          "options": [
+            "It is true",
+            "that I met",
+            "the Chief Minister",
+            "at one of my friend's houses.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One of my friends' houses' needs the plural possessive.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 16,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0017",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher said / to us that one ought / to work hard in order / to attain one goal.",
+          "options": [
+            "The teacher said",
+            "to us that one ought",
+            "to work hard in order",
+            "to attain one goal.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One' takes 'one's': 'to attain one's goal'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 17,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0018",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Being sure of his / success, he told his friends that / he would never forget / even his enemies names.",
+          "options": [
+            "Being sure of his",
+            "success, he told his friends that",
+            "he would never forget",
+            "even his enemies names.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Plural possessive: 'enemies' names'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 18,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0019",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The survey gives / us much knowledge of the / public's opinion / on the matter of terrorism.",
+          "options": [
+            "The survey gives",
+            "us much knowledge of the",
+            "public's opinion",
+            "on the matter of terrorism.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Public opinion' is the fixed expression, not 'public's opinion'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 19,
+            "question_number": 19
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0020",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Very few soldiers / dared to turn / a deaf ear to their / Commander's-in-Chief orders.",
+          "options": [
+            "Very few soldiers",
+            "dared to turn",
+            "a deaf ear to their",
+            "Commander's-in-Chief orders.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "In compound nouns the 's goes on the last word: 'Commander-in-Chief's orders'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 20,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0021",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Your son's-in-law's / friend is seriously ill / and he wants you / to see him as soon as possible.",
+          "options": [
+            "Your son's-in-law's",
+            "friend is seriously ill",
+            "and he wants you",
+            "to see him as soon as possible.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Compound noun: 'son-in-law's friend'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 21,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0022",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I appreciate you / helping the poor / who are really the most ignored and completely deprived / section of our society.",
+          "options": [
+            "I appreciate you",
+            "helping the poor",
+            "who are really the most ignored and completely deprived",
+            "section of our society.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive before a gerund: 'appreciate your helping'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 22,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0023",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have read / many plays of Shaw's / who is called the / Shakespeare of our age.",
+          "options": [
+            "I have read",
+            "many plays of Shaw's",
+            "who is called the",
+            "Shakespeare of our age.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Plays of Shaw's' is a correct double possessive.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 23,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0024",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I do not want / to bring her to my home / because her rashness / is quite intolerable.",
+          "options": [
+            "I do not want",
+            "to bring her to my home",
+            "because her rashness",
+            "is quite intolerable.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 24,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0025",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He is chiefly concerned / with his own problems / but you say / that his is not.",
+          "options": [
+            "He is chiefly concerned",
+            "with his own problems",
+            "but you say",
+            "that his is not.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'His' stands correctly for 'his (problems)'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 25,
+            "question_number": 25
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0026",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "A friend of my / wife came to me / yesterday and / asked me for some money.",
+          "options": [
+            "A friend of my",
+            "wife came to me",
+            "yesterday and",
+            "asked me for some money.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Double possessive: 'a friend of my wife's'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 26,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0027",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Unfortunately for me / the root cause of my frustration lies / in the Governments / dubious policy.",
+          "options": [
+            "Unfortunately for me",
+            "the root cause of my frustration lies",
+            "in the Governments",
+            "dubious policy.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Government's' needs the apostrophe.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 27,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0028",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He suggested to me / that I should go to the nursery / to bring some beautiful / summer's flowers.",
+          "options": [
+            "He suggested to me",
+            "that I should go to the nursery",
+            "to bring some beautiful",
+            "summer's flowers.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Season used as an adjective: 'summer flowers'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 28,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0029",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He came to his wits / end when he found / that his younger / brother had slapped his wife.",
+          "options": [
+            "He came to his wits",
+            "end when he found",
+            "that his younger",
+            "brother had slapped his wife.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom is 'wits' end' and needs the apostrophe.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 29,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0030",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "When Jaya and Shyama / came across Jyoti, they / caught one another hands / and talked for a while.",
+          "options": [
+            "When Jaya and Shyama",
+            "came across Jyoti, they",
+            "caught one another hands",
+            "and talked for a while.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Reciprocal pronoun takes the possessive: 'one another's hands'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 30,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0031",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The former P. M. of India's / Mr. P. V. Narasimha Rao's / visit to Japan strengthened the relationship / between India and Japan.",
+          "options": [
+            "The former P. M. of India's",
+            "Mr. P. V. Narasimha Rao's",
+            "visit to Japan strengthened the relationship",
+            "between India and Japan.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Apposition needs a comma: 'The former P.M. of India, Mr. P. V. Narasimha Rao's visit'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 31,
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0032",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "It was India's / past glory / that attracted / a number of invaders in the remote past.",
+          "options": [
+            "It was India's",
+            "past glory",
+            "that attracted",
+            "a number of invaders in the remote past.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 32,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0033",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Everybody should be careful / to fulfil the society's / demands and thereby show his / attachment to it.",
+          "options": [
+            "Everybody should be careful",
+            "to fulfil the society's",
+            "demands and thereby show his",
+            "attachment to it.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 33,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0034",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "'Everybody's business / is nobody's business', / said the teacher / to the students.",
+          "options": [
+            "'Everybody's business",
+            "is nobody's business',",
+            "said the teacher",
+            "to the students.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: both possessives are correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 34,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0035",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "I postponed him / going to Delhi tonight as / I wanted him to deal with / one of my major problems.",
+          "options": [
+            "I postponed him",
+            "going to Delhi tonight as",
+            "I wanted him to deal with",
+            "one of my major problems.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive before a gerund: 'postponed his going'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 35,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0036",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He told her / that he had ever seen / her with his / mind's eye.",
+          "options": [
+            "He told her",
+            "that he had ever seen",
+            "her with his",
+            "mind's eye.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Mind's eye' is a correct possessive idiom.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 36,
+            "question_number": 36
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0037",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "When I arrived / at the gate of his / house, I found his / locking up the door.",
+          "options": [
+            "When I arrived",
+            "at the gate of his",
+            "house, I found his",
+            "locking up the door.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'found', the object pronoun is needed: 'found him locking up'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 37,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0038",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "India and China's present / condition clearly indicate / that both the countries / will face a lot of problems in the coming time.",
+          "options": [
+            "India and China's present",
+            "condition clearly indicate",
+            "that both the countries",
+            "will face a lot of problems in the coming time.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Each noun takes its own possessive: 'India's and China's present conditions'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 38,
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0039",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Keeping in view / the public's demands, / the company has declared to improve the quality and lower / the prices of its products.",
+          "options": [
+            "Keeping in view",
+            "the public's demands,",
+            "the company has declared to improve the quality and lower",
+            "the prices of its products.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Declared to improve' is faulty; 'declared its intention to improve'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 39,
+            "question_number": 39
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0040",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "His maid servant / behaviour is undoubtedly / indecent but I don't / understand how he tolerates it.",
+          "options": [
+            "His maid servant",
+            "behaviour is undoubtedly",
+            "indecent but I don't",
+            "understand how he tolerates it.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive needed: 'His maid servant's behaviour'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 40,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0041",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "These buildings decoration / is not as much / impressive as it / ought to be.",
+          "options": [
+            "These buildings decoration",
+            "is not as much",
+            "impressive as it",
+            "ought to be.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Plural possessive: 'These buildings' decoration'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 41,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0042",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Delhi's water supply / system is certainly / as good as is expected / in a capital town.",
+          "options": [
+            "Delhi's water supply",
+            "system is certainly",
+            "as good as is expected",
+            "in a capital town.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 42,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0043",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Yeats's poetry is characterised / by his unique style / which he developed / during the long span of his life.",
+          "options": [
+            "Yeats's poetry is characterised",
+            "by his unique style",
+            "which he developed",
+            "during the long span of his life.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 43,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0044",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Brutus role in 'Julius Caesar' / is very attractive as / well as important as far as / the action of the play is concerned.",
+          "options": [
+            "Brutus role in 'Julius Caesar'",
+            "is very attractive as",
+            "well as important as far as",
+            "the action of the play is concerned.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive of a name ending in s: 'Brutus's role'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 44,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0045",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The blind's life / is really very miserable / because they / can't see what happens around them.",
+          "options": [
+            "The blind's life",
+            "is really very miserable",
+            "because they",
+            "can't see what happens around them.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The blind' takes 'of': 'the life of the blind'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 45,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0046",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "He did not know even / the name of the scientist / who discovered / the laws of the earth gravitational force.",
+          "options": [
+            "He did not know even",
+            "the name of the scientist",
+            "who discovered",
+            "the laws of the earth gravitational force.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive needed: 'the earth's gravitational force'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 46,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0047",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "'This blade's edge / is sharper than any / other blade's', / said the sales representative of the company.",
+          "options": [
+            "'This blade's edge",
+            "is sharper than any",
+            "other blade's',",
+            "said the sales representative of the company.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 47,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0048",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Many of the questions' / given in this question paper / are so difficult that / many of the students may fail.",
+          "options": [
+            "Many of the questions'",
+            "given in this question paper",
+            "are so difficult that",
+            "many of the students may fail.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No possessive after 'questions': 'Many of the questions given'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 48,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0049",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "The President of India / constitutional power is limitless / but it is the P. M. who is, / indeed, powerful.",
+          "options": [
+            "The President of India",
+            "constitutional power is limitless",
+            "but it is the P. M. who is,",
+            "indeed, powerful.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Possessive needed: 'The President of India's constitutional power'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 49,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0050",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Many a man's life is in danger / if the Government / does not take / any serious action to safeguard us.",
+          "options": [
+            "Many a man's life is in danger",
+            "if the Government",
+            "does not take",
+            "any serious action to safeguard us.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 50,
+            "question_number": 50
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF3-0051",
+          "section": "Nouns and Cases",
+          "topic": "Grammar",
+          "subtopic": "Nouns and Cases",
+          "difficulty": "INTERMEDIATE",
+          "q": "Nobody's claim / to be a permanent member / of the club is valid / in the eyes of the committee.",
+          "options": [
+            "Nobody's claim",
+            "to be a permanent member",
+            "of the club is valid",
+            "in the eyes of the committee.",
+            "No error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Noun_and_Cases_-.pptx",
+            "page": 51,
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        }
+      ]
+    }
+  ]
+}

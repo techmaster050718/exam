@@ -1,0 +1,1467 @@
+{
+  "id": "english-question-tags-sva-001",
+  "title": "English Question Tags and Subject-Verb Agreement Question Bank - Part 1",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 55,
+  "source": {
+    "documents": [
+      "Question_Tags_25_Questions.pptx",
+      "Subject Verb Agreement PYQs.pdf"
+    ],
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Question Tags",
+      "questions": [
+        {
+          "id": "QT-PDF-0001",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Everybody was watching the cricket match on TV, ______?",
+          "options": [
+            "weren't they",
+            "wasn't he",
+            "didn't they",
+            "were they"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Everybody' takes a plural pronoun ('they') and plural verb in the question tag. A positive statement requires a negative tag.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0002",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "He is a very wise man, ______?",
+          "options": [
+            "isn't he",
+            "is he",
+            "doesn't he",
+            "wasn't he"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement is positive and uses the verb 'is', so the tag must be negative: 'isn't he'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0003",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Mrs Meena is a good teacher, ______?",
+          "options": [
+            "isn't she",
+            "is she",
+            "doesn't she",
+            "wasn't she"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'is' requires the negative tag 'isn't she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0004",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "We saw a rainbow in the sky, yesterday, ______?",
+          "options": [
+            "didn't we",
+            "weren't we",
+            "don't we",
+            "haven't we"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'saw' is in the simple past tense, so the auxiliary 'did' is used in the negative tag: 'didn't we'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0005",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Sita is a beautiful girl, ______?",
+          "options": [
+            "isn't she",
+            "is she",
+            "doesn't she",
+            "wasn't she"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'is' requires the negative tag 'isn't she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0006",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "You should not smoke, ______?",
+          "options": [
+            "should you",
+            "shouldn't you",
+            "do you",
+            "don't you"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement is negative ('should not'), so the question tag must be positive: 'should you'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0007",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Miss Neha does not play tennis, ______?",
+          "options": [
+            "does she",
+            "doesn't she",
+            "is she",
+            "isn't she"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement is negative ('does not'), so the tag must be positive: 'does she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0008",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "I am older than you, ______?",
+          "options": [
+            "aren't I",
+            "amn't I",
+            "don't I",
+            "wasn't I"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The standard question tag for 'I am' in a positive statement is 'aren't I'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0009",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "INTERMEDIATE",
+          "q": "You always have your lunch at 1 o'clock, ______?",
+          "options": [
+            "don't you",
+            "haven't you",
+            "aren't you",
+            "didn't you"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Have' is used here as a main verb (not an auxiliary), so the tag uses 'do': 'don't you'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0010",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "I can do it for you, ______?",
+          "options": [
+            "can't I",
+            "can I",
+            "don't I",
+            "won't I"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with modal 'can' requires the negative tag 'can't I'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0011",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "She doesn't want to go to college today, ______?",
+          "options": [
+            "does she",
+            "doesn't she",
+            "is she",
+            "isn't she"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement is negative ('doesn't'), so the tag must be positive: 'does she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0012",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Let's pray to Almighty, ______?",
+          "options": [
+            "shall we",
+            "will we",
+            "do we",
+            "shan't we"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Suggestions starting with 'Let's' always take the question tag 'shall we'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0013",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "He had met you before, ______?",
+          "options": [
+            "hadn't he",
+            "didn't he",
+            "hasn't he",
+            "wasn't he"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement uses the past perfect auxiliary 'had', so the negative tag is 'hadn't he'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0014",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "We couldn't enjoy the picnic, ______?",
+          "options": [
+            "could we",
+            "couldn't we",
+            "did we",
+            "didn't we"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The statement is negative ('couldn't'), so the tag must be positive: 'could we'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0015",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "She was a teacher, ______?",
+          "options": [
+            "wasn't she",
+            "was she",
+            "didn't she",
+            "doesn't she"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'was' requires the negative tag 'wasn't she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0016",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Tomorrow we will attend our college, ______?",
+          "options": [
+            "shall we",
+            "will we",
+            "won't we",
+            "shouldn't you"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'will' requires the negative tag 'won't we'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0017",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "The Bishnois of Rajasthan protect trees and animals, ______?",
+          "options": [
+            "have they",
+            "weren't they",
+            "do they",
+            "don't they"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'protect' is in the simple present tense, so the auxiliary 'do' is used in the negative tag: 'don't they'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0018",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "INTERMEDIATE",
+          "q": "Everyone wanted a ticket, ______?",
+          "options": [
+            "didn't they",
+            "didn't he",
+            "weren't they",
+            "haven't they"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Everyone' takes a plural pronoun ('they') in the question tag. The past tense 'wanted' requires 'didn't'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0019",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Let's take a little rest before we start again, ______?",
+          "options": [
+            "will we",
+            "should we",
+            "shall we",
+            "needn't we"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Suggestions starting with 'Let's' always take the question tag 'shall we'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0020",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Anjali dances very well, ______?",
+          "options": [
+            "does she",
+            "doesn't she",
+            "aren't she",
+            "isn't she"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The main verb 'dances' is in the simple present tense, so the negative tag uses 'doesn't she'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0021",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Both Ram and Shyam are engineers, ______?",
+          "options": [
+            "isn't he",
+            "isn't she",
+            "are they",
+            "aren't they"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'are' and plural subject requires the negative tag 'aren't they'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0022",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "INTERMEDIATE",
+          "q": "He knows nobody in the colony, ______?",
+          "options": [
+            "does he",
+            "did he",
+            "doesn't he",
+            "didn't he"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Nobody' makes the statement negative, so the question tag must be positive: 'does he'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0023",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "Jahangir was a great judge, ______?",
+          "options": [
+            "doesn't he",
+            "didn't he",
+            "wasn't he",
+            "weren't he"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'was' requires the negative tag 'wasn't he'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0024",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "I am looking after the garden, ______?",
+          "options": [
+            "amn't I",
+            "aren't I",
+            "isn't I",
+            "don't I"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The standard question tag for 'I am' in a positive statement is 'aren't I'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "QT-PDF-0025",
+          "section": "Question Tags",
+          "topic": "Grammar",
+          "subtopic": "Question Tags",
+          "difficulty": "BASIC",
+          "q": "It is quite hot outside today, ______?",
+          "options": [
+            "is it",
+            "isn't it",
+            "doesn't it",
+            "aren't it"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Positive statement with 'is' requires the negative tag 'isn't it'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Question_Tags_25_Questions.pptx",
+            "page": 1,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    },
+    {
+      "name": "Subject-Verb Agreement",
+      "questions": [
+        {
+          "id": "SVA-PDF-0001",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Neither of them / (b) are going to attend / (c) the party on 10th October. / (d) No error.",
+          "options": [
+            "Neither of them",
+            "are going to attend",
+            "the party on 10th October.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Neither of them' is singular and requires a singular verb. 'are going' should be 'is going'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0002",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) He walked five miles which are really a great distance / (b) for a man like him who is not only old but also ill. / (c) No error / (d) No error.",
+          "options": [
+            "He walked five miles which are really a great distance",
+            "for a man like him who is not only old but also ill.",
+            "No error",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Distances, when considered as a single unit, take a singular verb. 'are really' should be 'is really'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0003",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Either my colleague / (b) or a peon are coming home / (c) with the material today. / (d) No error.",
+          "options": [
+            "Either my colleague",
+            "or a peon are coming home",
+            "with the material today.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'Either...or', the verb agrees with the subject nearest to it. 'a peon' is singular, so 'are coming' should be 'is coming'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0004",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The rise and fall / (b) of the tide are due / (c) to lunar influence. / (d) No error.",
+          "options": [
+            "The rise and fall",
+            "of the tide are due",
+            "to lunar influence.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The rise and fall' refers to a single, compound idea (one phenomenon), so it takes a singular verb. 'are due' should be 'is due'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0005",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Many a man / (b) have succumbed / (c) to this temptation. / (d) No error.",
+          "options": [
+            "Many a man",
+            "have succumbed",
+            "to this temptation.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Many a' is always followed by a singular noun and a singular verb. 'have succumbed' should be 'has succumbed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0006",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The introduction of tea, coffee / (b) and such other beverages / (c) have not been without some effect. / (d) No error.",
+          "options": [
+            "The introduction of tea, coffee",
+            "and such other beverages",
+            "have not been without some effect.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'The introduction' (singular), not 'beverages'. Therefore, 'have not been' should be 'has not been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0007",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The newer type of automatic machines / (b) wash / (c) clothes faster. / (d) No error.",
+          "options": [
+            "The newer type of automatic machines",
+            "wash",
+            "clothes faster.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'type' (singular), so the verb must be singular. 'wash' should be 'washes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0008",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Each of the students in the computer class / (b) has to type / (c) their own research paper this semester. / (d) No error.",
+          "options": [
+            "Each of the students in the computer class",
+            "has to type",
+            "their own research paper this semester.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Each' is singular, so the possessive pronoun must also be singular. 'their' should be 'his or her'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0009",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Everyone of the films / (b) you suggested / (c) are not worth seeing. / (d) No error.",
+          "options": [
+            "Everyone of the films",
+            "you suggested",
+            "are not worth seeing.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Every one' (two words) is singular and requires a singular verb. 'are not' should be 'is not'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0010",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The Secretary and Principal of the college / (b) are attending / (c) the District Development Council Meeting at the Collectorate. / (d) No error.",
+          "options": [
+            "The Secretary and Principal of the college",
+            "are attending",
+            "the District Development Council Meeting at the Collectorate.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When two titles are joined by 'and' but share a single definite article ('The'), they refer to one person holding both posts. Thus, the verb must be singular: 'is attending'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0011",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) There is / (b) only one of his novels / (c) that are interesting. / (d) No error.",
+          "options": [
+            "There is",
+            "only one of his novels",
+            "that are interesting.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The relative pronoun 'that' refers to 'one' (singular), so the verb must be singular. 'are interesting' should be 'is interesting'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0012",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Knowledge of / (b) at least two languages / (c) are required to pass the examination. / (d) No error.",
+          "options": [
+            "Knowledge of",
+            "at least two languages",
+            "are required to pass the examination.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'Knowledge' (singular), so the verb must be singular. 'are required' should be 'is required'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0013",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) It is I / (b) who is to blame / (c) for this bad situation. / (d) No error.",
+          "options": [
+            "It is I",
+            "who is to blame",
+            "for this bad situation.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The relative pronoun 'who' refers to 'I', so the verb must agree with 'I'. 'is to blame' should be 'am to blame'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0014",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Romanticism of melancholy / (b) in art and literature are the reason / (c) for insensitivity to those suffering from depression. / (d) No error.",
+          "options": [
+            "Romanticism of melancholy",
+            "in art and literature are the reason",
+            "for insensitivity to those suffering from depression.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'Romanticism' (singular), so the verb must be singular. 'are the reason' should be 'is the reason'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0015",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Patience as well as perseverance / (b) are necessary / (c) for success. / (d) No error.",
+          "options": [
+            "Patience as well as perseverance",
+            "are necessary",
+            "for success.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When subjects are joined by 'as well as', the verb agrees with the first subject. 'Patience' is singular, so 'are necessary' should be 'is necessary'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0016",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) In Singapore / (b) my brother-in-law with his wife / (c) were present at the function. / (d) No error.",
+          "options": [
+            "In Singapore",
+            "my brother-in-law with his wife",
+            "were present at the function.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Phrases like 'with his wife' do not change the number of the subject. 'brother-in-law' is singular, so 'were present' should be 'was present'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0017",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) A hot and / (b) a cold spring / (c) was found near each other. / (d) No error.",
+          "options": [
+            "A hot and",
+            "a cold spring",
+            "was found near each other.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The repetition of the article 'a' indicates two distinct springs. Therefore, the subject is plural, and 'was found' should be 'were found'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0018",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Either of the roads / (b) lead / (c) to the park / (d) No error.",
+          "options": [
+            "Either of the roads",
+            "lead",
+            "to the park",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Either' is singular and requires a singular verb. 'lead' should be 'leads'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0019",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) One of my desires / (b) are to become / (c) a doctor. / (d) No error.",
+          "options": [
+            "One of my desires",
+            "are to become",
+            "a doctor.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One' is the subject and is singular. 'are to become' should be 'is to become'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0020",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The whole block of flats / (b) including two shops were / (c) destroyed in fire. / (d) No error.",
+          "options": [
+            "The whole block of flats",
+            "including two shops were",
+            "destroyed in fire.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'block' (singular). Phrases starting with 'including' do not change the number. 'were' should be 'was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0021",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The sum and substance / (b) of his poem / (c) are as follows. / (d) No error.",
+          "options": [
+            "The sum and substance",
+            "of his poem",
+            "are as follows.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The sum and substance' is a hendiadys (a single idea expressed by two words) and takes a singular verb. 'are' should be 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0022",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Neither of the / (b) five accused / (c) could be convicted. / (d) No error.",
+          "options": [
+            "Neither of the",
+            "five accused",
+            "could be convicted.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Neither of' takes a singular concept, and the modal 'could' does not change form for number.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0023",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The strain of all / (b) the difficulties, vexations and anxieties / (c) were more than he could beat. / (d) No error.",
+          "options": [
+            "The strain of all",
+            "the difficulties, vexations and anxieties",
+            "were more than he could beat.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'strain' (singular). 'were' should be 'was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0024",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Everybody / (b) it must be admitted / (c) has their ups and downs. / (d) No error.",
+          "options": [
+            "Everybody",
+            "it must be admitted",
+            "has their ups and downs.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Everybody' is singular, so the possessive pronoun must be singular. 'their' should be 'his or her'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0025",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Every woman in the world / (b) fervently hopes that their child / (c) will be a normal and healthy baby / (d) No error.",
+          "options": [
+            "Every woman in the world",
+            "fervently hopes that their child",
+            "will be a normal and healthy baby",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Every woman' is singular, so the possessive pronoun must be singular. 'their' should be 'her'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0026",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Neither of them / (b) sent their papers / (c) in time for the last seminar / (d) No error.",
+          "options": [
+            "Neither of them",
+            "sent their papers",
+            "in time for the last seminar",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Neither' is singular, so the possessive pronoun must be singular. 'their' should be 'his or her'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0027",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) This is a strange world / (b) where each one pursues their own golden bubble / (c) and laughs at others for doing the same. / (d) No error.",
+          "options": [
+            "This is a strange world",
+            "where each one pursues their own golden bubble",
+            "and laughs at others for doing the same.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Each one' is singular, so the possessive pronoun must be singular. 'their' should be 'his or her'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0028",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) If it were possible to get near when / (b) one of the volcanic eruptions take place / (c) we would see a grand sight. / (d) No error.",
+          "options": [
+            "If it were possible to get near when",
+            "one of the volcanic eruptions take place",
+            "we would see a grand sight.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One' is the subject and is singular. 'take place' should be 'takes place'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0029",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) A rise in rents and wages / (b) have been found / (c) to go together. / (d) No error.",
+          "options": [
+            "A rise in rents and wages",
+            "have been found",
+            "to go together.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'A rise' (singular). 'have been found' should be 'has been found'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA-PDF-0030",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) He is one of those few post-colonial writer who believes / (b) that this talk about colonialism has gone too far / (c) and has turned into a cliche. / (d) No error.",
+          "options": [
+            "He is one of those few post-colonial writer who believes",
+            "that this talk about colonialism has gone too far",
+            "and has turned into a cliche.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One of those' must be followed by a plural noun. 'writer' should be 'writers', and consequently 'believes' should be 'believe'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement PYQs.pdf",
+            "page": 1,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "documents_processed": 2,
+    "sections_detected": 1,
+    "questions_extracted": 55,
+    "questions_with_generated_options": 0,
+    "verified_questions": 55,
+    "needs_review": 0,
+    "duplicate_candidates": 0,
+    "json_validation": "PASSED"
+  }
+}

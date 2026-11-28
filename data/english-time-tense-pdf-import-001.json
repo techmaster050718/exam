@@ -1,0 +1,1890 @@
+{
+  "id": "english-time-tense-pdf-import-001",
+  "title": "English Time & Tense PDF Imported Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 72,
+  "source": {
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Tenses",
+      "questions": [
+        {
+          "id": "ENG-TENSE-PDF-0001",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The best thing about your father is that he is always taking life with a positive attitude. Find out the error.",
+          "options": [
+            "The best thing about your father is that",
+            "he is always taking",
+            "life with a positive",
+            "attitude.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple present 'takes' for habitual actions.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0002",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "You are coming so late sometimes that it becomes very difficult for me to manage such a huge number of students.",
+          "options": [
+            "You are coming so late",
+            "sometimes that it becomes",
+            "very difficult for me to manage",
+            "such a huge number of students.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple present 'come' for habits indicated by 'sometimes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0003",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I go to the office only twice a week these days because I have got to supervise the on-going construction work.",
+          "options": [
+            "I go to the office only",
+            "twice a week these days",
+            "because I have got to supervise",
+            "the on-going construction work.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'these days' indicates temporary situation, use present continuous 'am going'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0004",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "My mother goes out for a morning walk everyday because the doctor has advised her to do so.",
+          "options": [
+            "My mother goes out for a morning",
+            "walk everyday because",
+            "the doctor has advised her",
+            "to do so if she really wants to get well soon.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'every day' (two words) is the adverbial phrase, not adjective 'everyday'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0005",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "She is sneezing again, so I think she has a cold.",
+          "options": [
+            "She is",
+            "sneezing again,",
+            "so I think",
+            "she has a cold.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sneezing is momentary; use present perfect 'has sneezed' or simple present.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0006",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am not able to answer any of your questions because they did not give me enough information yet.",
+          "options": [
+            "I am not able to answer",
+            "questions because they",
+            "did not give me enough",
+            "information or data on it yet.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'yet' requires present perfect 'have not given'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0007",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "You always come late and now I am not going to tolerate it any more.",
+          "options": [
+            "You always come",
+            "late and now",
+            "I am not going to",
+            "tolerate it any more.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use present continuous with 'always' to show annoyance: 'are always coming'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0008",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "People know that India can be a superpower only when they will work honestly.",
+          "options": [
+            "People know that",
+            "India can be a superpower",
+            "only when they",
+            "will work honestly and sincerely.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clauses with 'when' take simple present 'work', not future.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0009",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Unless they come up and do not take up the responsibility of taking care of these pets, I cannot think of going away.",
+          "options": [
+            "Unless they come up",
+            "and do not take up the responsibility",
+            "of taking care of these pets,",
+            "I cannot think of going away.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Unless' is already negative; 'do not' creates a double negative.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0010",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am sorry to say that I cannot say anything unless I go through the entire documents.",
+          "options": [
+            "I am sorry to say",
+            "that I cannot say anything",
+            "unless I go through",
+            "the entire documents.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'entire' is singular, so 'documents' must be 'document'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0011",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Unless you have the thorough analysis of the project, you can't say whether it can be finished.",
+          "options": [
+            "Unless you have the thorough",
+            "analysis of the project,",
+            "you can't say whether it can be",
+            "finished within the given period of time or not.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use indefinite article 'a thorough analysis'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0012",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "You will have everything that you desire, provided that you work hard with some extra effort.",
+          "options": [
+            "You will have everything",
+            "that you desire,",
+            "provided that you work hard",
+            "with some extra effort.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0013",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He will call you up as soon as he will finish the work and move to another one.",
+          "options": [
+            "He will call you up",
+            "as soon as he will finish",
+            "the work and",
+            "move to another one.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clauses with 'as soon as' take simple present 'finishes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0014",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Everybody is talking about the latest movie, as it is bringing out the real face of Indian politics.",
+          "options": [
+            "Everybody is talking",
+            "about the latest movie produced by Vidhu Vinod Chopra,",
+            "as it is bringing out",
+            "the real face of Indian politics.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple present 'brings out' for general truths.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0015",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "There are a number of books on History, which has focussed on the social scourge.",
+          "options": [
+            "There are a number of books on History,",
+            "which has focussed on",
+            "the social scourge that",
+            "has been coming down for ages in India.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'which' refers to plural 'books', use 'have focussed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0016",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Most of the newspapers today are saying that the common wealth game, 2010 has proved highly advantageous.",
+          "options": [
+            "Most of the newspapers today are saying that",
+            "the common wealth game, 2010 has proved",
+            "highly advantageous for the politicians",
+            "and the bureaucrats who have been aspiring to be millionaires.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Commonwealth Games' is plural, use 'have proved'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0017",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "A book which was published in 1980 said that Indira Gandhi belonged to a Muslim family.",
+          "options": [
+            "A book which was published",
+            "in 1980 said",
+            "that Indira Gandhi belonged",
+            "to a Muslim family in reality.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Universal truths remain in simple present 'belongs'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0018",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I always admire the great man who said that one is wiser after an event.",
+          "options": [
+            "I always admire",
+            "the great man",
+            "who said that",
+            "one is wiser after an event.",
+            "No error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0019",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Now-a-days, film makers do not make that kind of movie which they made earlier.",
+          "options": [
+            "Now-a-days, film makers",
+            "do not make that kind",
+            "of movie which",
+            "they made earlier.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use 'used to make' for past habits.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0020",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When she asked me what I do these days, I started wondering if I should come out with the truth.",
+          "options": [
+            "When she asked me",
+            "what I do these days,",
+            "I started wondering",
+            "if I should come out with the truth.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sequence of tenses requires 'was doing' or 'did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time_and_Tense_20_Questions.pptx",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0021",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When you will find out any solution to this problem you will become able to finalise the project.",
+          "options": [
+            "When you will find out",
+            "any solution to this problem",
+            "you will become able",
+            "to finalise the project.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clause with 'when' takes simple present 'find out'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0022",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Whenever you are coming here, you bring a lot of sweets for me.",
+          "options": [
+            "Whenever",
+            "you are coming here,",
+            "you bring a lot of",
+            "sweets for me.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple present 'come' for habits.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0023",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is appearing to me that you are plotting against your friends and their parents.",
+          "options": [
+            "It is appearing to me",
+            "that you are plotting",
+            "against your",
+            "friends and their parents.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'appear' is a stative verb, use simple present 'appears'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0024",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The old man who is sitting in that room lived here for more than a month but he has never created any problem.",
+          "options": [
+            "The old man who is sitting in that room",
+            "lived here for more than",
+            "a month but he has never created",
+            "any problem.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Action continues to present, use present perfect 'has lived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0025",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "A mysogynist is a person who is hating woman but a philogynist is a person who loves woman.",
+          "options": [
+            "A mysogynist is a person",
+            "who is hating woman",
+            "but a philogynist is a person",
+            "who loves woman.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'hate' is stative, use simple present 'hates'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0026",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The secret of his good health lies in the fact that he is getting up before sunrise and has a two-mile walk every morning.",
+          "options": [
+            "The secret of his good",
+            "health lies in the fact that",
+            "he is getting up before sunrise",
+            "and has a two- mile walk every morning.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Daily routine requires simple present 'gets up'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0027",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "Now-a-days he teaches physics becuase the teacher of physics has been absenting himself for a month.",
+          "options": [
+            "Now-a-days he teaches physics",
+            "becuase the teacher of physics",
+            "has been absenting himself",
+            "for a month.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use stative 'has been absent'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0028",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He seems to be happy because his parents had come from London to live with him.",
+          "options": [
+            "He seems to be happy",
+            "because his parents",
+            "had come from London",
+            "to live with him.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Present result requires present perfect 'have come'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0029",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is high time you are starting this work, my friend said to me.",
+          "options": [
+            "It is high time",
+            "you are starting",
+            "this work,",
+            "my friend said to me.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'It is high time' takes simple past 'started'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0030",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have come to know that your father has died last week.",
+          "options": [
+            "I have come",
+            "to know that your",
+            "father has died",
+            "last week.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'last week' requires simple past 'died'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0031",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Many of my friends wished to come here today but none of them arrived yet.",
+          "options": [
+            "Many of my friends",
+            "wished to come here",
+            "today but",
+            "none of them arrived yet.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'yet' requires present perfect 'have arrived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0032",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She says that she will take her umbrella in case it will rain.",
+          "options": [
+            "She says",
+            "that she will take",
+            "her umbrella",
+            "in case it will rain.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Conditional 'in case' takes simple present 'rains'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0033",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I will let you know as soon as I will get any information about your promotion.",
+          "options": [
+            "I will let you know",
+            "as soon as I will get",
+            "any information",
+            "about your promotion.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clause takes simple present 'get'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0034",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When I will be thirty most of my friends will be above thirty five.",
+          "options": [
+            "When I will be thirty",
+            "most of my friends",
+            "will be above thirty",
+            "five.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clause takes simple present 'am'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0035",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This is, indeed, the first time in my life that I hear such an interesting story.",
+          "options": [
+            "This is, indeed,",
+            "the first time in my life that",
+            "I hear",
+            "such an interesting story.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'It is the first time' takes present perfect 'have heard'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0036",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "Before the alarm had stopped ringing Veera had pulled up the shade.",
+          "options": [
+            "Before the alarm",
+            "had stopped ringing",
+            "Veera had pulled up",
+            "the shade.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple past 'stopped' for the later action in past sequence.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0037",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have been knowing him for ten years but I don't know where he lives.",
+          "options": [
+            "I have been knowing",
+            "him for ten years",
+            "but I don't know",
+            "where he lives.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'know' is stative, use present perfect 'have known'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0038",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He uses to study at least till ten o'clock at night and then he goes to bed.",
+          "options": [
+            "He uses to study",
+            "at least till ten o'clock",
+            "at night and then",
+            "he goes to bed.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past habit is 'used to study'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0039",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "If he had a few hours to spare, he would spend them in a public library.",
+          "options": [
+            "If he had",
+            "a few hours to spare,",
+            "he would spend",
+            "them in a public library.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Correct Type 2 conditional structure.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0040",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "All the flowers in his garden will surely die before the rains will fall.",
+          "options": [
+            "All the flowers",
+            "in his garden will surely die",
+            "before the rains",
+            "will fall.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clause takes simple present 'fall'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0041",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If I would have done this, I would have done wrong and would have disappointed many of my friends.",
+          "options": [
+            "If I would have done this,",
+            "I would have done wrong",
+            "and would have disappointed",
+            "many of my friends.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Type 3 conditional 'if' clause takes past perfect 'had done'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0042",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "If she had told me that her husband never lived within his means, I would not have lent him the money.",
+          "options": [
+            "If she had told me that",
+            "her husband never lived",
+            "within his means, I would not",
+            "have lent him the money.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0043",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "ADVANCED",
+          "q": "I wish he saw you when you were living in England.",
+          "options": [
+            "I wish",
+            "he saw you",
+            "when you were",
+            "living in England",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Wish about past requires past perfect 'had seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0044",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The judge had not given any dicision until he had studied the case.",
+          "options": [
+            "The judge had not given",
+            "any dicision",
+            "until he had",
+            "studied the case.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple past 'did not give' for the later action.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0045",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I lived here since 1980, therefore I know everything about this city.",
+          "options": [
+            "I lived",
+            "here since 1980,",
+            "therefore I know everything",
+            "about this city.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'since' requires present perfect 'have lived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0046",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I have been working for this organisation for the last ten years.",
+          "options": [
+            "I have been",
+            "working for this",
+            "organisation for",
+            "the last ten years.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0047",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If we had Mohan in our team, we would have won the match against your team.",
+          "options": [
+            "If we had Mohan",
+            "in our team, we",
+            "would have won the match",
+            "against your team.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Type 3 conditional requires past perfect 'had had'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0048",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Radha came to the meeting much later than I expect.",
+          "options": [
+            "Radha came",
+            "to the meeting",
+            "much later",
+            "than I expect.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past context requires 'expected'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0049",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "If I was you I would have told the Chairman to keep his mouth shut.",
+          "options": [
+            "If I was you",
+            "I would have told",
+            "the Chairman to keep",
+            "his mouth shut.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Subjunctive mood requires 'were'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0050",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I want you to pick up the box of eggs gently and kept it in the corner carefully.",
+          "options": [
+            "I want you to",
+            "pick up the box",
+            "of eggs gently and",
+            "kept it in the corner carefully.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Parallel structure requires base form 'keep'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0051",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The victim tried to tell us what has happened but his words were not audible.",
+          "options": [
+            "The victim tried to tell us",
+            "what has happened",
+            "but his words",
+            "were not audible.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past context requires past perfect 'had happened'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0052",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "We got everything ready for all of them long before they arrived.",
+          "options": [
+            "We got",
+            "everything ready for all",
+            "of them long",
+            "before they arrived.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Action completed before another past action requires past perfect 'had got'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0053",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She was with me uptil now, so don't rebuke her for getting late.",
+          "options": [
+            "She was with",
+            "me uptil now,",
+            "so don't rebuke her",
+            "for getting late.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'uptil now' requires present perfect 'has been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0054",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have been adoring her for the voice with which she is gifted.",
+          "options": [
+            "I have been adoring",
+            "her for",
+            "the voice with",
+            "which she is gifted.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'adore' is stative, use present perfect 'have adored'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0055",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Had he come even a moment earlier, he would have found me there.",
+          "options": [
+            "Had he come",
+            "even a moment earlier,",
+            "he would have",
+            "found me there.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Correct Type 3 conditional inversion.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0056",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Many observations indicate that the number of the drug addicts is grew day by day.",
+          "options": [
+            "Many observations indicate",
+            "that the number of the drug",
+            "addicts is grew",
+            "day by day.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use present continuous 'is growing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0057",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Newspapers told us about the events that happen all over the world.",
+          "options": [
+            "Newspapers told",
+            "us about the events",
+            "that happen",
+            "all over the world.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "General truth requires simple present 'tell'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0058",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Here is coming my friend!, said Manju when she was anxious.",
+          "options": [
+            "Here is coming",
+            "my friend!, said Manju when",
+            "she was anxious.",
+            "No Error.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Use simple present 'Here comes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0059",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He advised me to do as he did but I did not pay any attention to his advice.",
+          "options": [
+            "He advised me",
+            "to do as he did",
+            "but I did not pay any attention",
+            "to his advice.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0060",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By this time next year he has had settled himself in London.",
+          "options": [
+            "By this time next year he",
+            "has had",
+            "settled himself",
+            "in London.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Future perfect requires 'will have'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0061",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is about time you have taken you children to shcool.",
+          "options": [
+            "It is about time",
+            "you have taken",
+            "you children",
+            "to shcool.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'It is about time' takes simple past 'took'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0062",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "I had hoped that I would see you the other day, but unfortunately I fell ill.",
+          "options": [
+            "I had hoped",
+            "that I would see",
+            "you the other day, but",
+            "unfortunately I fell ill.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0063",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The thief was caught after he has disposed of the stolen goods.",
+          "options": [
+            "The thief was caught",
+            "after he has disposed of",
+            "the stolen",
+            "goods.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past sequence requires past perfect 'had disposed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0064",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Sushma arrived here, did all the preparations and then has called on one of her intimate friends.",
+          "options": [
+            "Sushma arrived here,",
+            "did all the preparations",
+            "and then has called",
+            "on one of her intimate friends.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Parallel past sequence requires simple past 'called'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0065",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I could not recall what she has told me about her concern with Moti.",
+          "options": [
+            "I could not recall",
+            "what she has told",
+            "me about her",
+            "concern with Moti.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past context requires past perfect 'had told'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0066",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "That two and two always made four cannot be doubted.",
+          "options": [
+            "That two and two",
+            "always made",
+            "four cannot",
+            "be doubted.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Universal truth requires simple present 'make'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0067",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Nobody knows when death will knock at his door.",
+          "options": [
+            "Nobody knows",
+            "when death",
+            "will knock at",
+            "his door.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0068",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Dipu hopes to become an officer after he will complete his higher education.",
+          "options": [
+            "Dipu hopes to become",
+            "an officer after",
+            "he will complete",
+            "his higher education.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Time clause takes simple present 'completes'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0069",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "Meenu along with her parents is going to Mumbai tonight because her eldest brother is ill there.",
+          "options": [
+            "Meenu along with her parents",
+            "is going to Mumbai tonight",
+            "because her eldest brother",
+            "is ill there.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is grammatically correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0070",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "My friend said to me, When have you come here?",
+          "options": [
+            "My friend",
+            "said to me,",
+            "When have",
+            "you come here?",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Direct speech asking about past arrival should be 'When did'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0071",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "BASIC",
+          "q": "He would not have done all this if he had not been instigated by his wife.",
+          "options": [
+            "He would not have",
+            "done all this",
+            "if he had not been",
+            "instigated by his wife.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Correct Type 3 conditional passive.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-TENSE-PDF-0072",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher said to us that we should stay at home if it rains.",
+          "options": [
+            "The teacher said",
+            "to us that we",
+            "should stay at home",
+            "if it rains.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sequence of tenses requires past 'rained'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Time and Tenses.pdf",
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ]
+}

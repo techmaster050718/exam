@@ -1144,7 +1144,7 @@ img, svg { max-width: 100%; display: block; }
 .modal-backdrop {
   position: fixed;
   inset: 0;
-  z-index: 200;
+  z-index: 1000;
   background: rgba(0, 0, 0, 0.45);
   -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);

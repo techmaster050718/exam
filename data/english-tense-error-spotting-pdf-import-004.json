@@ -1,0 +1,1621 @@
+{
+  "id": "english-tense-error-spotting-pdf-import-004",
+  "title": "Tense - Spotting the Error (PPTX Imported)",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "sourceDocument": "Tense.pptx",
+  "answerSourceNote": "No answer key in the source file. correct_answer derived from grammar rules; items flagged needs_review are ambiguous.",
+  "questionCount": 57,
+  "source": {
+    "document": "Tense.pptx",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED_WITH_REVIEW_ITEMS",
+  "sections": [
+    {
+      "name": "Tenses",
+      "questions": [
+        {
+          "id": "ENG-PDF4-0001",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have not seen him since twenty years / and so I cannot say with certainty / whether he is alive or dead.",
+          "options": [
+            "I have not seen him since twenty years",
+            "and so I cannot say with certainty",
+            "whether he is alive or dead.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Duration with the perfect tense takes 'for': 'for twenty years'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 2,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0002",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When he did not find his cook in the kitchen / he asked his wife / where had he gone.",
+          "options": [
+            "When he did not find his cook in the kitchen",
+            "he asked his wife",
+            "where had he gone.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Indirect question keeps statement order: 'where he had gone'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 3,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0003",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Although I am playing cricket / for more than three years / I have not been able to score a century",
+          "options": [
+            "Although I am playing cricket",
+            "for more than three years",
+            "I have not been able to score a century",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Present perfect continuous: 'have been playing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 4,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0004",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I do not know where could he have gone / so early / in the morning.",
+          "options": [
+            "I do not know where could he have gone",
+            "so early",
+            "in the morning.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Indirect question order: 'where he could have gone'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 5,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0005",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By the time / we got our tickets and entered the cinema theatre, / the show was already begun.",
+          "options": [
+            "By the time",
+            "we got our tickets and entered the cinema theatre,",
+            "the show was already begun.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past perfect: 'the show had already begun'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 6,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0006",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By the time / we will get our tickets and enter the cinema theatre, / the show will have already begun.",
+          "options": [
+            "By the time",
+            "we will get our tickets and enter the cinema theatre,",
+            "the show will have already begun.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'by the time' the present tense stands for future: 'we get our tickets'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 7,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0007",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Gowri told me / his name after / he left.",
+          "options": [
+            "Gowri told me",
+            "his name after",
+            "he left.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Earlier action needs the past perfect: 'after he had left'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 8,
+            "question_number": 7
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0008",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "we have been / celebrating many festivals / since centuries.",
+          "options": [
+            "we have been",
+            "celebrating many festivals",
+            "since centuries.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Duration takes 'for': 'for centuries'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 9,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0009",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Old age and infirmity / had began to / catch up with him.",
+          "options": [
+            "Old age and infirmity",
+            "had began to",
+            "catch up with him.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past participle of 'begin' is 'begun': 'had begun'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 10,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0010",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The passer-by told us / where was the marriage hall / and even led us to it.",
+          "options": [
+            "The passer-by told us",
+            "where was the marriage hall",
+            "and even led us to it.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Indirect question order: 'where the marriage hall was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 11,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0011",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I have passed / the examination / two years ago",
+          "options": [
+            "I have passed",
+            "the examination",
+            "two years ago",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A definite past time ('two years ago') needs simple past: 'I passed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 12,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0012",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Since he joined / this post, he did not take / any bribe.",
+          "options": [
+            "Since he joined",
+            "this post, he did not take",
+            "any bribe.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' needs the present perfect: 'has not taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 13,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0013",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Perhaps you know / that I have passed / the examination in 1990.",
+          "options": [
+            "Perhaps you know",
+            "that I have passed",
+            "the examination in 1990.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'in 1990', use simple past: 'I passed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 14,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0014",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He has read four plays / written by Shakespeare / by the end of his vacation.",
+          "options": [
+            "He has read four plays",
+            "written by Shakespeare",
+            "by the end of his vacation.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'By the end of his vacation' needs future perfect: 'will have read'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 15,
+            "question_number": 14
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0015",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When they stole / the money / and where did they hide it?.",
+          "options": [
+            "When they stole",
+            "the money",
+            "and where did they hide it?.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Indirect question: 'where they hid it'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 16,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0016",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher / has took / the responsibility",
+          "options": [
+            "The teacher",
+            "has took",
+            "the responsibility",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past participle of 'take' is 'taken': 'has taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 17,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0017",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "For time immemorial / sea shells have been used by man / in many ways.",
+          "options": [
+            "For time immemorial",
+            "sea shells have been used by man",
+            "in many ways.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom is 'from time immemorial'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 18,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0018",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The river is in spate / and it has overflown / its banks.",
+          "options": [
+            "The river is in spate",
+            "and it has overflown",
+            "its banks.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The past participle is 'overflowed': 'has overflowed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 19,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0019",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The little boy / had been waiting for his turn / since a long time.",
+          "options": [
+            "The little boy",
+            "had been waiting for his turn",
+            "since a long time.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'For a long time' for duration.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 20,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0020",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This T.V. serial / is going on / for 3 years.",
+          "options": [
+            "This T.V. serial",
+            "is going on",
+            "for 3 years.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Present perfect continuous: 'has been going on for 3 years'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 21,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0021",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "In the early years of the renaissance of Bharatanatyam, hereditary dancers have their own set of accompanists / who lived with the dancers and travelled with them from place to place / when they gave performances.",
+          "options": [
+            "In the early years of the renaissance of Bharatanatyam, hereditary dancers have their own set of accompanists",
+            "who lived with the dancers and travelled with them from place to place",
+            "when they gave performances.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Narrative past: 'had their own set of accompanists'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 22,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0022",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This is turned out to be / one of our most successful projects / and we have made quite / a large profit from it.",
+          "options": [
+            "This is turned out to be",
+            "one of our most successful projects",
+            "and we have made quite",
+            "a large profit from it.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Has turned out' (present perfect).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 23,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0023",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He is given me / a lot of documents / to read before / the presentation tomorrow.",
+          "options": [
+            "He is given me",
+            "a lot of documents",
+            "to read before",
+            "the presentation tomorrow.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'He has given me' (present perfect).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 24,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0024",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Since the trip home / was expensive I / did not went home / during the holidays.",
+          "options": [
+            "Since the trip home",
+            "was expensive I",
+            "did not went home",
+            "during the holidays.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "After 'did not' use the base form: 'did not go'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 25,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0025",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "As she is late / for work yesterday she decided / to skip breakfast and / leave for office.",
+          "options": [
+            "As she is late",
+            "for work yesterday she decided",
+            "to skip breakfast and",
+            "leave for office.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Yesterday' needs the past: 'was late'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 26,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0026",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "As soon as the CEO entered the office, the / union leaders approached him / and report the matter to him.",
+          "options": [
+            "As soon as the CEO entered the office, the",
+            "union leaders approached him",
+            "and report the matter to him.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Parallel past: 'approached ... and reported'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 27,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0027",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The college / is running a computer course / since 2007.",
+          "options": [
+            "The college",
+            "is running a computer course",
+            "since 2007.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since 2007' needs 'has been running'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 28,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0028",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Did he tell you / why he hasn't / come yesterday?",
+          "options": [
+            "Did he tell you",
+            "why he hasn't",
+            "come yesterday?",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Yesterday' needs simple past: 'didn't come'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 29,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0029",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Last night I dream / I was a Sheikh on the 169th floor / of Burj Khalifa.",
+          "options": [
+            "Last night I dream",
+            "I was a Sheikh on the 169th floor",
+            "of Burj Khalifa.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past: 'dreamt/dreamed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 30,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0030",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She and her sister / were working here / since 1983.",
+          "options": [
+            "She and her sister",
+            "were working here",
+            "since 1983.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since 1983': 'have been working'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 31,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0031",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Nobody saw him / since the fire broke / in his locality.",
+          "options": [
+            "Nobody saw him",
+            "since the fire broke",
+            "in his locality.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' needs the present perfect: 'has seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 32,
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0032",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "By this time next year / Ramesh will take / his degree.",
+          "options": [
+            "By this time next year",
+            "Ramesh will take",
+            "his degree.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Future perfect: 'will have taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 33,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0033",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The families / are living in Gulmohar Park / for the last two decades.",
+          "options": [
+            "The families",
+            "are living in Gulmohar Park",
+            "for the last two decades.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'For the last two decades': 'have been living'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 34,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0034",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "My uncle / has left / for Bombay last Saturday.",
+          "options": [
+            "My uncle",
+            "has left",
+            "for Bombay last Saturday.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Last Saturday' needs simple past: 'left'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 35,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0035",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Good heavens ! / How has she / grown !",
+          "options": [
+            "Good heavens !",
+            "How has she",
+            "grown !",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Exclamatory order: 'How she has grown!'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 36,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0036",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I ate / nothing / since morning",
+          "options": [
+            "I ate",
+            "nothing",
+            "since morning",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since morning' needs the present perfect: 'have eaten nothing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 37,
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0037",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "He / is having / many friends here",
+          "options": [
+            "He",
+            "is having",
+            "many friends here",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Have' of possession is not used in the continuous: 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 38,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0038",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When I went there / Charles is playing / a game of chess",
+          "options": [
+            "When I went there",
+            "Charles is playing",
+            "a game of chess",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past continuous: 'was playing'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 39,
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0039",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The vaccine / when hit the market / is dogged by controversy",
+          "options": [
+            "The vaccine",
+            "when hit the market",
+            "is dogged by controversy",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past narrative: 'was dogged by controversy'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 40,
+            "question_number": 39
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0040",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "The victim tried to tell us / what has happened but / his voice was not audible.",
+          "options": [
+            "The victim tried to tell us",
+            "what has happened but",
+            "his voice was not audible.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Backshift: 'what had happened'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 41,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0041",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Our history can be seen as a long evolutionary dialectical development / in which there have been / a painstaking forging of rational and moral self.",
+          "options": [
+            "Our history can be seen as a long evolutionary dialectical development",
+            "in which there have been",
+            "a painstaking forging of rational and moral self.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'There has been' agrees with singular 'forging'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 42,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0042",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Last year two Italian prisoners of war / escapes from a prison camp / in Kenya during the war.",
+          "options": [
+            "Last year two Italian prisoners of war",
+            "escapes from a prison camp",
+            "in Kenya during the war.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Last year' needs simple past: 'escaped'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 43,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0043",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Madhuri Dixit / is having / a large fan following.",
+          "options": [
+            "Madhuri Dixit",
+            "is having",
+            "a large fan following.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Stative verb: 'has' (not 'is having').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 44,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0044",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "No one heard anything / about him since / he left India for good.",
+          "options": [
+            "No one heard anything",
+            "about him since",
+            "he left India for good.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' needs the present perfect: 'has heard'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 45,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0045",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Before the teacher / could finish the question / the students gave the correct answer.",
+          "options": [
+            "Before the teacher",
+            "could finish the question",
+            "the students gave the correct answer.",
+            "No error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'could finish' and 'gave' are consistent.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 46,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0046",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She did not prepare / her / breakfast yet.",
+          "options": [
+            "She did not prepare",
+            "her",
+            "breakfast yet.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Yet' needs the present perfect: 'has not prepared'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 47,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0047",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Perhaps you do not know / I am owning / a farm house besides two bungalows.",
+          "options": [
+            "Perhaps you do not know",
+            "I am owning",
+            "a farm house besides two bungalows.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Own' is stative: 'I own'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 48,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0048",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "When Anand reached his village / he found that / the news about him preceded him.",
+          "options": [
+            "When Anand reached his village",
+            "he found that",
+            "the news about him preceded him.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Earlier action: 'had preceded him'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 49,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0049",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "She will already return / home / when he arrives.",
+          "options": [
+            "She will already return",
+            "home",
+            "when he arrives.",
+            "No error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Future perfect: 'will already have returned'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 50,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0050",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Each one of them / has have his share / of joy and sorrow.",
+          "options": [
+            "Each one of them",
+            "has have his share",
+            "of joy and sorrow.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Has have' is wrong: 'has his share'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 51,
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0051",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "This custom / has come down / since times immemorial.",
+          "options": [
+            "This custom",
+            "has come down",
+            "since times immemorial.",
+            "No error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom is 'from times immemorial'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 52,
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0052",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Since his arrival in India, / he is visiting as many villages as he can / to acquire a firsthand knowledge of the rural India.",
+          "options": [
+            "Since his arrival in India,",
+            "he is visiting as many villages as he can",
+            "to acquire a firsthand knowledge of the rural India.",
+            "No error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since his arrival': 'has been visiting'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 53,
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0053",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Believe me, I / am believing / whatever you have said.",
+          "options": [
+            "Believe me, I",
+            "am believing",
+            "whatever you have said.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Believe' is stative: 'I believe'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 54,
+            "question_number": 53
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0054",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is time / we should have done / something useful",
+          "options": [
+            "It is time",
+            "we should have done",
+            "something useful",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'It is time' takes the past: 'we did something'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 55,
+            "question_number": 54
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0055",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "Mother said, / \"Son, / you have finished your homework?\"",
+          "options": [
+            "Mother said,",
+            "\"Son,",
+            "you have finished your homework?\"",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Question order: 'Have you finished your homework?'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 56,
+            "question_number": 55
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0056",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I am going to buy / a computer / when the prices comes down.",
+          "options": [
+            "I am going to buy",
+            "a computer",
+            "when the prices comes down.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Plural subject: 'prices come down'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 57,
+            "question_number": 56
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF4-0057",
+          "section": "Tenses",
+          "topic": "Grammar",
+          "subtopic": "Tenses",
+          "difficulty": "INTERMEDIATE",
+          "q": "I wish / I have learnt swimming / when I was young.",
+          "options": [
+            "I wish",
+            "I have learnt swimming",
+            "when I was young.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'I wish' + past perfect: 'I had learnt'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Tense.pptx",
+            "page": 58,
+            "question_number": 57
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1379 @@
+{
+  "id": "english-sva-2-001",
+  "title": "English Subject-Verb Agreement Question Bank - Part 2",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 50,
+  "source": {
+    "document": "Subject Verb Agreement..pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Subject-Verb Agreement",
+      "questions": [
+        {
+          "id": "SVA2-PDF-0001",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Two miles beyond / (b) that pasture was seen hundreds / (c) of cattle including / (d) some lambs. / (e) No Error.",
+          "options": [
+            "Two miles beyond",
+            "that pasture was seen hundreds",
+            "of cattle including",
+            "some lambs.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject 'hundreds of cattle' is plural, so the verb must be plural. 'was seen' should be 'were seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0002",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) It is noticed that / (b) the elite class have no soft / (c) corner for the downtrodden who are the / (d) real victims of the present social set-up. / (e) No Error.",
+          "options": [
+            "It is noticed that",
+            "the elite class have no soft",
+            "corner for the downtrodden who are the",
+            "real victims of the present social set-up.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Class' is a collective noun acting as a single unit here, so it takes a singular verb. 'have' should be 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0003",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Ritu as well as / (b) some of her friends / (c) have fallen in love with Sonu, who / (d) is the eldest son of an S. D. O. / (e) No Error.",
+          "options": [
+            "Ritu as well as",
+            "some of her friends",
+            "have fallen in love with Sonu, who",
+            "is the eldest son of an S. D. O.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When subjects are joined by 'as well as', the verb agrees with the first subject. 'Ritu' is singular, so 'have fallen' should be 'has fallen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0004",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) More than one successful candidate / (b) have taken the interview for one / (c) of the popular magazines / (d) being published from Delhi. / (e) No Error.",
+          "options": [
+            "More than one successful candidate",
+            "have taken the interview for one",
+            "of the popular magazines",
+            "being published from Delhi.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'More than one' is always followed by a singular noun and takes a singular verb. 'have taken' should be 'has taken'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0005",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Is there any difficulties / (b) in disposing of this gorgeous building / (c) built on such a spacious / (d) and beautiful campus. / (e) No Error.",
+          "options": [
+            "Is there any difficulties",
+            "in disposing of this gorgeous building",
+            "built on such a spacious",
+            "and beautiful campus.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Is' is singular, so the noun must be singular. 'difficulties' should be 'difficulty'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0006",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The leader as well as / (b) his followers are fatally injured in / (c) the train accident which occured last night / (d) near this railway crossing. / (e) No Error.",
+          "options": [
+            "The leader as well as",
+            "his followers are fatally injured in",
+            "the train accident which occured last night",
+            "near this railway crossing.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'as well as', the verb agrees with the first subject ('The leader', singular). 'are' should be 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0007",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The request of the workers' / (b) union that their wages should be / (c) increased were supported by / (d) a vast majority. / (e) No Error.",
+          "options": [
+            "The request of the workers'",
+            "union that their wages should be",
+            "increased were supported by",
+            "a vast majority.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'The request' (singular). 'were supported' should be 'was supported'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0008",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Along the northern forntier / (b) of India is seen / (c) the Himalayas mighty / (d) in their splendour. / (e) No Error.",
+          "options": [
+            "Along the northern forntier",
+            "of India is seen",
+            "the Himalayas mighty",
+            "in their splendour.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'The Himalayas' is a plural proper noun, so it requires a plural verb. 'is seen' should be 'are seen'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0009",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The publisher says / (b) that there is / (c) many important details to attend / (d) to before this book gets printed. / (e) No Error.",
+          "options": [
+            "The publisher says",
+            "that there is",
+            "many important details to attend",
+            "to before this book gets printed.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject 'details' is plural, so the verb must be plural. 'there is' should be 'there are'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0010",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) His politics is not / (b) good, so we have suggested to him / (c) that he should read Gandhi, Nehru / (d) and Karl Marx. / (e) No Error.",
+          "options": [
+            "His politics is not",
+            "good, so we have suggested to him",
+            "that he should read Gandhi, Nehru",
+            "and Karl Marx.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "When 'politics' refers to political principles or views, it is treated as plural. 'is not' should be 'are not'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0011",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Just outside / (b) the hotel is / (c) two bars, extremely beautiful / (d) as well as crowdy. / (e) No Error.",
+          "options": [
+            "Just outside",
+            "the hotel is",
+            "two bars, extremely beautiful",
+            "as well as crowdy.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject 'two bars' is plural, so the verb must be plural. 'is' should be 'are'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0012",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) We should not forget that / (b) we have a right to criticise but / (c) at the same time each of us / (d) have to remember the duty also. / (e) No Error.",
+          "options": [
+            "We should not forget that",
+            "we have a right to criticise but",
+            "at the same time each of us",
+            "have to remember the duty also.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Each' is singular, so it requires a singular verb. 'have to remember' should be 'has to remember'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0013",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Her pugnacious daughter / (b) always do something that may incur insult / (c) on her neighbours who hold a wrong / (d) opinion about her family. / (e) No Error.",
+          "options": [
+            "Her pugnacious daughter",
+            "always do something that may incur insult",
+            "on her neighbours who hold a wrong",
+            "opinion about her family.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Daughter' is singular, so the verb must be singular. 'do' should be 'does'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0014",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) One of / (b) the biggest industrial houses / (c) in Mumbai is on the verge of / (d) declaring a lock out. / (e) No Error.",
+          "options": [
+            "One of",
+            "the biggest industrial houses",
+            "in Mumbai is on the verge of",
+            "declaring a lock out.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'One' is the singular subject, correctly taking the singular verb 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0015",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Our Head of the Department assured / (b) us that a series of lectures on Milton / (c) were to be arranged / (d) the following week and so we should not create any nuissance. / (e) No Error.",
+          "options": [
+            "Our Head of the Department assured",
+            "us that a series of lectures on Milton",
+            "were to be arranged",
+            "the following week and so we should not create any nuissance.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'a series' (singular), not 'lectures'. 'were to be arranged' should be 'was to be arranged'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0016",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) A body of volunteers / (b) have been organized / (c) to help the faculty members / (d) in their attempt to raise the funds. / (e) No Error.",
+          "options": [
+            "A body of volunteers",
+            "have been organized",
+            "to help the faculty members",
+            "in their attempt to raise the funds.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'A body' is a collective noun acting as a single unit, so it takes a singular verb. 'have been' should be 'has been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0017",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Each of the students, / (b) whom I have chosen to take part / (c) in the cultural programmes to be performed / (d) in the City Hall, are up to the mark. / (e) No Error.",
+          "options": [
+            "Each of the students,",
+            "whom I have chosen to take part",
+            "in the cultural programmes to be performed",
+            "in the City Hall, are up to the mark.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Each' is singular, so the verb must be singular. 'are up' should be 'is up'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0018",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Everybody among the businessmen / (b) were enjoying drinking / (c) when the Manager of the hotel / (d) was shot dead. / (e) No Error.",
+          "options": [
+            "Everybody among the businessmen",
+            "were enjoying drinking",
+            "when the Manager of the hotel",
+            "was shot dead.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Everybody' is singular and requires a singular verb. 'were enjoying' should be 'was enjoying'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0019",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Most of the news / (b) pertaining to the sudden demise of Dr. Sen / (c) have been communicated by some of the ruffians / (d) whom I know well. / (e) No Error.",
+          "options": [
+            "Most of the news",
+            "pertaining to the sudden demise of Dr. Sen",
+            "have been communicated by some of the ruffians",
+            "whom I know well.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'News' is an uncountable noun and takes a singular verb. 'have been' should be 'has been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0020",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Although these building are / (b) in need of repair, / (c) there have been much improvement / (d) in their appearance. / (e) No Error.",
+          "options": [
+            "Although these building are",
+            "in need of repair,",
+            "there have been much improvement",
+            "in their appearance.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Improvement' is singular, so the verb must be singular. 'have been' should be 'has been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0021",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) He often says that / (b) it are these obscene films / (c) that lead the youth to their moral degradation / (d) and are responsible for many evils growing in our society. / (e) No Error.",
+          "options": [
+            "He often says that",
+            "it are these obscene films",
+            "that lead the youth to their moral degradation",
+            "and are responsible for many evils growing in our society.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The pronoun 'it' is singular and requires a singular verb. 'are' should be 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0022",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Not only the doctor / (b) but also the nurses of this nursing / (c) home is very kind and helpful / (d) to the attendants. / (e) No Error.",
+          "options": [
+            "Not only the doctor",
+            "but also the nurses of this nursing",
+            "home is very kind and helpful",
+            "to the attendants.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'not only... but also', the verb agrees with the subject nearest to it ('nurses', plural). 'is' should be 'are'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0023",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) There appears / (b) a number of new faces in the hall / (c) and I really do not know where they have / (d) come from and why. / (e) No Error.",
+          "options": [
+            "There appears",
+            "a number of new faces in the hall",
+            "and I really do not know where they have",
+            "come from and why.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'A number of' is always followed by a plural noun and takes a plural verb. 'appears' should be 'appear'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0024",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) The teachers face the / (b) same problems in their day to day lives / (c) as do an ordinary man / (d) of our society. / (e) No Error.",
+          "options": [
+            "The teachers face the",
+            "same problems in their day to day lives",
+            "as do an ordinary man",
+            "of our society.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'An ordinary man' is singular, so the verb must be singular. 'do' should be 'does'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0025",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The man who cannot / (b) believe his senses and the man who cannot / (c) believe anything else are / (d) insane. / (e) No Error.",
+          "options": [
+            "The man who cannot",
+            "believe his senses and the man who cannot",
+            "believe anything else are",
+            "insane.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. Two singular subjects joined by 'and' take a plural verb ('are').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0026",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) The available statistics / (b) indicate that the population of the world will double in about 30 years / (c) and human life will become / (d) more and more miserable. / (e) No Error.",
+          "options": [
+            "The available statistics",
+            "indicate that the population of the world will double in about 30 years",
+            "and human life will become",
+            "more and more miserable.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Statistics' meaning numerical data is plural and correctly takes 'indicate'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0027",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Shingles are a disease / (b) in which the patient develops / (c) lots of inflamed spots round the / (d) waist. / (e) No Error.",
+          "options": [
+            "Shingles are a disease",
+            "in which the patient develops",
+            "lots of inflamed spots round the",
+            "waist.",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Names of diseases ending in 's' (like shingles, measles) are singular. 'are' should be 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0028",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) What were once glorious forts / (b) are now nothing / (c) but piles of / (d) rubble. / (e) No Error.",
+          "options": [
+            "What were once glorious forts",
+            "are now nothing",
+            "but piles of",
+            "rubble.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'What' refers to 'forts' (plural), so the plural verbs 'were' and 'are' are correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0029",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) Whether you should get married / (b) now or whether you should remain / (c) single all your life / (d) are your personal problem. / (e) No Error.",
+          "options": [
+            "Whether you should get married",
+            "now or whether you should remain",
+            "single all your life",
+            "are your personal problem.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Two 'whether' clauses joined by 'or' represent a single alternative or choice, so they take a singular verb. 'are' should be 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0030",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Each faculty member as / (b) well as most of the students / (c) were of the view that there should / (d) be many more new courses in this college. / (e) No Error.",
+          "options": [
+            "Each faculty member as",
+            "well as most of the students",
+            "were of the view that there should",
+            "be many more new courses in this college.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'as well as', the verb agrees with the first subject ('Each faculty member', singular). 'were' should be 'was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0031",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Does his daily struggle / (b) for existence leave time / (c) to ponder over / (d) international affairs? / (e) No Error.",
+          "options": [
+            "Does his daily struggle",
+            "for existence leave time",
+            "to ponder over",
+            "international affairs?",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Struggle' is singular and correctly takes 'Does'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0032",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Either the manager / (b) or his assistants always try to misguide the public / (c) regarding the vacancy / (d) in the factory. / (e) No Error.",
+          "options": [
+            "Either the manager",
+            "or his assistants always try to misguide the public",
+            "regarding the vacancy",
+            "in the factory.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. With 'Either...or', the verb agrees with the nearest subject ('assistants', plural), so 'try' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0033",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Every man and woman / (b) of the village have come out / (c) to see this strange child / (d) who claims to know everything about his pre-natal existence. / (e) No Error.",
+          "options": [
+            "Every man and woman",
+            "of the village have come out",
+            "to see this strange child",
+            "who claims to know everything about his pre-natal existence.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Every' makes the compound subject singular. 'have come' should be 'has come'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0034",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) In our college, it / (b) was obligatory for each of / (c) the students to buy / (d) his own instruments. / (e) No Error.",
+          "options": [
+            "In our college, it",
+            "was obligatory for each of",
+            "the students to buy",
+            "his own instruments.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Each' is singular and correctly takes the singular possessive 'his'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0035",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Those athletes who / (b) did not adhere to the rules of athletics / (c) was deprived of taking part / (d) in the championship. / (e) No Error.",
+          "options": [
+            "Those athletes who",
+            "did not adhere to the rules of athletics",
+            "was deprived of taking part",
+            "in the championship.",
+            "No Error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The relative pronoun 'who' refers to 'athletes' (plural), so the verb must be plural. 'was deprived' should be 'were deprived'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0036",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) One of the developing or underdeveloped / (b) countries are not in favour of launching / (c) chemical warfare because it trembles / (d) to imagine its repercussions. / (e) No Error.",
+          "options": [
+            "One of the developing or underdeveloped",
+            "countries are not in favour of launching",
+            "chemical warfare because it trembles",
+            "to imagine its repercussions.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'One' is the subject and is singular. 'are not' should be 'is not'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0037",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Not John and his friends / (b) but Mary has surreptitiously taken / (c) your photographs and sent them / (d) to her friends. / (e) No Error.",
+          "options": [
+            "Not John and his friends",
+            "but Mary has surreptitiously taken",
+            "your photographs and sent them",
+            "to her friends.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. With 'not... but', the verb agrees with the subject after 'but' ('Mary', singular), so 'has' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0038",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) The idea of / (b) introducing genes / (c) to correct heritable and other / (d) disorders are revolutionary. / (e) No Error.",
+          "options": [
+            "The idea of",
+            "introducing genes",
+            "to correct heritable and other",
+            "disorders are revolutionary.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'The idea' (singular). 'are revolutionary' should be 'is revolutionary'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0039",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) An ability to shrink / (b) and reduce oneself to a tiny form and reverse the process whenever desired / (c) belongs to the realm of fantasy and is heard of only / (d) in fairy tales or tales of magic. / (e) No Error.",
+          "options": [
+            "An ability to shrink",
+            "and reduce oneself to a tiny form and reverse the process whenever desired",
+            "belongs to the realm of fantasy and is heard of only",
+            "in fairy tales or tales of magic.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'An ability' is singular and correctly takes 'belongs' and 'is'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0040",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Neither Rajni / (b) nor Ragini were to take to her heels / (c) when they saw a cobra laying / (d) at the gate. / (e) No Error.",
+          "options": [
+            "Neither Rajni",
+            "nor Ragini were to take to her heels",
+            "when they saw a cobra laying",
+            "at the gate.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "With 'Neither...nor', the verb agrees with the nearest subject ('Ragini', singular). 'were' should be 'was'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0041",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Have either of / (b) the two candidates been / (c) selected for the post of Branch Manager / (d) in the Punjab National Bank? / (e) No Error.",
+          "options": [
+            "Have either of",
+            "the two candidates been",
+            "selected for the post of Branch Manager",
+            "in the Punjab National Bank?",
+            "No Error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Either' is singular and should take a singular verb in formal English. 'Have' should be 'Has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0042",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) None / (b) of the five players / (c) who have been given a chance / (d) to join this team play confidently. / (e) No Error.",
+          "options": [
+            "None",
+            "of the five players",
+            "who have been given a chance",
+            "to join this team play confidently.",
+            "No Error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'None' meaning 'not one' takes a singular verb. 'play' should be 'plays'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0043",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) What she says / (b) and what she does / (c) are incomprehensible / (d) to an ordinary mind like yours. / (e) No Error.",
+          "options": [
+            "What she says",
+            "and what she does",
+            "are incomprehensible",
+            "to an ordinary mind like yours.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. Two 'what' clauses joined by 'and' represent distinct ideas and take a plural verb ('are').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0044",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) Where she went / (b) and where she left her purse / (c) are not known to us; so it / (d) is of no use being worried about her. / (e) No Error.",
+          "options": [
+            "Where she went",
+            "and where she left her purse",
+            "are not known to us; so it",
+            "is of no use being worried about her.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. Two 'where' clauses joined by 'and' represent distinct ideas and take a plural verb ('are').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0045",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) Nobody else / (b) but these comely young women have / (c) played a prank on you; but it is pitiable that you don't / (d) understand it. / (e) No Error.",
+          "options": [
+            "Nobody else",
+            "but these comely young women have",
+            "played a prank on you; but it is pitiable that you don't",
+            "understand it.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The subject is 'Nobody' (singular). Phrases starting with 'but' do not change the number. 'have' should be 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0046",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) Some highly significant / (b) observations has been made by the former UN / (c) Secretary General, Mr. Perez De Cuelar, / (d) in his annual report submitted to the current session of General Assembly. / (e) No Error.",
+          "options": [
+            "Some highly significant",
+            "observations has been made by the former UN",
+            "Secretary General, Mr. Perez De Cuelar,",
+            "in his annual report submitted to the current session of General Assembly.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Observations' is plural, so the verb must be plural. 'has been' should be 'have been'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0047",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) If any proof was needed to show that the United Nations / (b) have lately become a policy tool in the hands of the U. S. A. and that / (c) the world's sole might has a subservient international body, it was provided / (d) by President Bush's angry comment. / (e) No Error.",
+          "options": [
+            "If any proof was needed to show that the United Nations",
+            "have lately become a policy tool in the hands of the U. S. A. and that",
+            "the world's sole might has a subservient international body, it was provided",
+            "by President Bush's angry comment.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'United Nations' is the name of a single organization and takes a singular verb. 'have' should be 'has'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0048",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "INTERMEDIATE",
+          "q": "Spot the error: (a) If Mahatma Gandhi / (b) was alive / (c) he would start weeping / (d) to see the present condition of India. / (e) No Error.",
+          "options": [
+            "If Mahatma Gandhi",
+            "was alive",
+            "he would start weeping",
+            "to see the present condition of India.",
+            "No Error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "This is a hypothetical/unreal conditional (second conditional). The verb 'be' should be 'were' for all subjects. 'was' should be 'were'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0049",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "ADVANCED",
+          "q": "Spot the error: (a) Was she a bird / (b) she would definitely fly to you / (c) and say that she could not / (d) live without you. / (e) No Error.",
+          "options": [
+            "Was she a bird",
+            "she would definitely fly to you",
+            "and say that she could not",
+            "live without you.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. Inverted conditional 'Was she a bird' (meaning 'If she were a bird') is a valid literary construction.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "SVA2-PDF-0050",
+          "section": "Subject-Verb Agreement",
+          "topic": "Grammar",
+          "subtopic": "Subject-Verb Agreement",
+          "difficulty": "BASIC",
+          "q": "Spot the error: (a) There were / (b) reports a few days before the Accra Session commenced / (c) that concrete measures to / (d) restructure the movement would be considered. / (e) No Error.",
+          "options": [
+            "There were",
+            "reports a few days before the Accra Session commenced",
+            "that concrete measures to",
+            "restructure the movement would be considered.",
+            "No Error."
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The sentence is grammatically correct. 'Reports' is plural and correctly takes 'were'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Subject Verb Agreement..pdf",
+            "page": 1,
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "documents_processed": 6,
+    "sections_detected": 1,
+    "questions_extracted": 50,
+    "questions_with_generated_options": 0,
+    "verified_questions": 50,
+    "needs_review": 0,
+    "duplicate_candidates": 0,
+    "json_validation": "PASSED"
+  }
+}

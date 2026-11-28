@@ -1,0 +1,1757 @@
+{
+  "id": "english-preposition-error-spotting-pdf-import-002",
+  "title": "Preposition - Spotting the Error (PDF Imported)",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "sourceDocument": "Preposition_Questions.pdf",
+  "answerSourceNote": "No answer key in the source file. correct_answer derived from grammar rules; items flagged needs_review are ambiguous.",
+  "questionCount": 62,
+  "source": {
+    "document": "Preposition_Questions.pdf",
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED_WITH_REVIEW_ITEMS",
+  "sections": [
+    {
+      "name": "Prepositions",
+      "questions": [
+        {
+          "id": "ENG-PDF2-0001",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He took / leave of / four days",
+          "options": [
+            "He took",
+            "leave of",
+            "four days",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Leave' for a period takes 'for': 'took leave for four days' (or 'four days' leave').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 1,
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0002",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Children/ should always / listen the advice of their elders / and well wishers.",
+          "options": [
+            "Children/ should always",
+            "listen the advice of their elders",
+            "and well wishers.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Listen' takes 'to' before its object: 'listen to the advice'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 2,
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0003",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He will not / listen / what you say.",
+          "options": [
+            "He will not",
+            "listen",
+            "what you say.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Listen to what you say': 'listen' needs 'to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 3,
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0004",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Nobody denies / that my ideas / are different than yours.",
+          "options": [
+            "Nobody denies",
+            "that my ideas",
+            "are different than yours.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Different' takes 'from', not 'than': 'different from yours'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 4,
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0005",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "It was I who was responsible of / making all the arrangements for the / successful completion of his studies.",
+          "options": [
+            "It was I who was responsible of",
+            "making all the arrangements for the",
+            "successful completion of his studies.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The adjective 'responsible' takes 'for': 'responsible for making'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 5,
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0006",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "She was in the courtyard / when the burglars / entered into her house.",
+          "options": [
+            "She was in the courtyard",
+            "when the burglars",
+            "entered into her house.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Enter' is transitive: 'entered her house' needs no 'into'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 6,
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0007",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Our teacher / emphasised on / the use of correct grammar.",
+          "options": [
+            "Our teacher",
+            "emphasised on",
+            "the use of correct grammar.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Emphasise' is transitive and takes no 'on': 'emphasised the use'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 7,
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0008",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "On the time / of the opening ceremony of the theatre / a large crowd had assembled",
+          "options": [
+            "On the time",
+            "of the opening ceremony of the theatre",
+            "a large crowd had assembled",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The fixed phrase is 'at the time of'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 8,
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0009",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "While they were returning / from school, / a stalker attacked on them with a knife.",
+          "options": [
+            "While they were returning",
+            "from school,",
+            "a stalker attacked on them with a knife.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Attack' is transitive: 'attacked them', without 'on'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 9,
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0010",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The decline of his moral values / has caused a lot / of pain to his parents",
+          "options": [
+            "The decline of his moral values",
+            "has caused a lot",
+            "of pain to his parents",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'decline of' and 'pain to his parents' are correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 10,
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0011",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Without thinking / for a moment he / entrusted me in all the responsibilities.",
+          "options": [
+            "Without thinking",
+            "for a moment he",
+            "entrusted me in all the responsibilities.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Entrust' takes 'with' for the thing given: 'entrusted me with all the responsibilities'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 11,
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0012",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Sudha fell in / the well and nobody / tried to save him.",
+          "options": [
+            "Sudha fell in",
+            "the well and nobody",
+            "tried to save him.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Movement into a place is 'fell into the well'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 12,
+            "question_number": 12
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0013",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "I / prefer coffee / than tea",
+          "options": [
+            "I",
+            "prefer coffee",
+            "than tea",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Prefer X to Y', not 'than': 'prefer coffee to tea'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 13,
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0014",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Suresh is busy / in his work / for his presentation",
+          "options": [
+            "Suresh is busy",
+            "in his work",
+            "for his presentation",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Busy' takes 'with' for the work: 'busy with his work'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 14,
+            "question_number": 14
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0015",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "While crossing the road / an old man was / run out by a bus",
+          "options": [
+            "While crossing the road",
+            "an old man was",
+            "run out by a bus",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Run over' (not 'run out') means knocked down by a vehicle.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 15,
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0016",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Amphibians / can live / in water as well as land.",
+          "options": [
+            "Amphibians",
+            "can live",
+            "in water as well as land.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Land needs its own preposition: 'in water as well as on land'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 16,
+            "question_number": 16
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0017",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "My mother is fond off / cooking different / types of dishes",
+          "options": [
+            "My mother is fond off",
+            "cooking different",
+            "types of dishes",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Fond of', not 'fond off'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 17,
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0018",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Our teacher / cannot / control on the students.",
+          "options": [
+            "Our teacher",
+            "cannot",
+            "control on the students.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Control' is transitive: 'control the students' (or 'control over').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 18,
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0019",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The lawyer has been waiting / for the prisoner / since two hours",
+          "options": [
+            "The lawyer has been waiting",
+            "for the prisoner",
+            "since two hours",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Since' needs a point in time; a duration takes 'for two hours'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 19,
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0020",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Mr. Bacon has / great affection to / his family.",
+          "options": [
+            "Mr. Bacon has",
+            "great affection to",
+            "his family.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Affection' for family takes 'for'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 20,
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0021",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Rekha has a great / enmity for her / brother's friend.",
+          "options": [
+            "Rekha has a great",
+            "enmity for her",
+            "brother's friend.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Enmity' takes 'with/towards/against', not 'for'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 21,
+            "question_number": 21
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0022",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He threw the bucket / into the river / and returned home without any water.",
+          "options": [
+            "He threw the bucket",
+            "into the river",
+            "and returned home without any water.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'threw the bucket into the river' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 22,
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0023",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "There appears / to be very little / understanding among the two brothers",
+          "options": [
+            "There appears",
+            "to be very little",
+            "understanding among the two brothers",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Between' is used for two persons: 'between the two brothers'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 23,
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0024",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "She was / angry on me because I / had not invited her to party.",
+          "options": [
+            "She was",
+            "angry on me because I",
+            "had not invited her to party.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Angry with' a person ('angry at/about' a thing).",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 24,
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0025",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He got a prestigious job though / he was not worthy / for it.",
+          "options": [
+            "He got a prestigious job though",
+            "he was not worthy",
+            "for it.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Worthy of' is the correct collocation.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 25,
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0026",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He described about / the incident / in a very interesting way.",
+          "options": [
+            "He described about",
+            "the incident",
+            "in a very interesting way.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Describe' is transitive: 'described the incident'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 26,
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0027",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "My father / deals / with garments",
+          "options": [
+            "My father",
+            "deals",
+            "with garments",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "A dealer in goods 'deals in garments'; 'deal with' means handle.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 27,
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0028",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "I cannot / deal from / those unruly students",
+          "options": [
+            "I cannot",
+            "deal from",
+            "those unruly students",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Deal with' means handle or cope with.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 28,
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0029",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Despite of / working hard / he failed",
+          "options": [
+            "Despite of",
+            "working hard",
+            "he failed",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Despite' never takes 'of' (compare 'in spite of').",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 29,
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0030",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Ashok / married with / Rekha last month.",
+          "options": [
+            "Ashok",
+            "married with",
+            "Rekha last month.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Marry' is transitive: 'married Rekha'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 30,
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0031",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The earth's atmosphere / comprises of / three layers",
+          "options": [
+            "The earth's atmosphere",
+            "comprises of",
+            "three layers",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Comprise' means 'consist of' and takes no 'of': 'comprises three layers'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 31,
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0032",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The court held / the local MLA responsible / for the loss or damage to any public property.",
+          "options": [
+            "The court held",
+            "the local MLA responsible",
+            "for the loss or damage to any public property.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'held responsible for' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 32,
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0033",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He was debarred to attend / the monsoon session / of the Parliament.",
+          "options": [
+            "He was debarred to attend",
+            "the monsoon session",
+            "of the Parliament.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Debar' takes 'from': 'debarred from attending'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 33,
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0034",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "We will have to await for / the result / as the management is on strike.",
+          "options": [
+            "We will have to await for",
+            "the result",
+            "as the management is on strike.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Await' is transitive; 'wait for' is the prepositional verb.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 34,
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0035",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He should refrain / to associate himself with any party / because people have faith in his integrity.",
+          "options": [
+            "He should refrain",
+            "to associate himself with any party",
+            "because people have faith in his integrity.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Refrain' takes 'from': 'refrain from associating'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 35,
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0036",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The songs of / the old movies are / worth listening to.",
+          "options": [
+            "The songs of",
+            "the old movies are",
+            "worth listening to.",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'worth listening to' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 36,
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0037",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "It should be obvious to you / that if you persist bothering him, / he will get angry with you",
+          "options": [
+            "It should be obvious to you",
+            "that if you persist bothering him,",
+            "he will get angry with you",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Persist in' + gerund: 'persist in bothering'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 37,
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0038",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "I certainly / differ with you / in this matter",
+          "options": [
+            "I certainly",
+            "differ with you",
+            "in this matter",
+            "No error."
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "No error: 'differ with' (disagree with someone) is acceptable.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 38,
+            "question_number": 38
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0039",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He had a suspected fracture, / so he was / admitted into the hospital",
+          "options": [
+            "He had a suspected fracture,",
+            "so he was",
+            "admitted into the hospital",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The standard collocation is 'admitted to the hospital'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 39,
+            "question_number": 39
+          },
+          "verificationStatus": "NEEDS_REVIEW",
+          "needsReview": true,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0040",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "If you put your / heart to it, / you will be a winner",
+          "options": [
+            "If you put your",
+            "heart to it,",
+            "you will be a winner",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The idiom is 'put your heart into it'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 40,
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0041",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He walked / ten miles / by foot",
+          "options": [
+            "He walked",
+            "ten miles",
+            "by foot",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Mode of walking: 'on foot'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 41,
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0042",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He is good / in mathematics / but his friend isn't.",
+          "options": [
+            "He is good",
+            "in mathematics",
+            "but his friend isn't.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Good at' a subject.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 42,
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0043",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Those who are in power / have to be sensitive of / the sufferings of the poor",
+          "options": [
+            "Those who are in power",
+            "have to be sensitive of",
+            "the sufferings of the poor",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Sensitive to' someone's suffering.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 43,
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0044",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Which newspaper / do you / subscribe for?",
+          "options": [
+            "Which newspaper",
+            "do you",
+            "subscribe for?",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Subscribe to' a newspaper.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 44,
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0045",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "We thought that the train / would be late but / it arrived exactly in time.",
+          "options": [
+            "We thought that the train",
+            "would be late but",
+            "it arrived exactly in time.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'On time' means exactly punctual; 'in time' means early enough.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 45,
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0046",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Despite of repeated warnings, / he touched a live electric wire, / and was electrocuted.",
+          "options": [
+            "Despite of repeated warnings,",
+            "he touched a live electric wire,",
+            "and was electrocuted.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Despite' is not followed by 'of'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 46,
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "POSSIBLE_DUPLICATE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0047",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is my pleasure / to congratulate you for your success / in the Civil Services Examination",
+          "options": [
+            "It is my pleasure",
+            "to congratulate you for your success",
+            "in the Civil Services Examination",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Congratulate someone on' an achievement.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 47,
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0048",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "I will avail / myself with / this golden opportunity",
+          "options": [
+            "I will avail",
+            "myself with",
+            "this golden opportunity",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Avail oneself of' an opportunity.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 48,
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0049",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "It is half / past two / in my watch",
+          "options": [
+            "It is half",
+            "past two",
+            "in my watch",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'By my watch' is the idiom for telling time.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 49,
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0050",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "She can / cope up with any difficult situation / as she is a braveheart.",
+          "options": [
+            "She can",
+            "cope up with any difficult situation",
+            "as she is a braveheart.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Cope with' takes no 'up'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 50,
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0051",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "Ravi / told to his friend / to buy a car.",
+          "options": [
+            "Ravi",
+            "told to his friend",
+            "to buy a car.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Told his friend': 'tell' takes its indirect object without 'to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 51,
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0052",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He is / accused with / committing the murder.",
+          "options": [
+            "He is",
+            "accused with",
+            "committing the murder.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Accused of' a crime.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 52,
+            "question_number": 52
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0053",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The poet / described about / the spring season.",
+          "options": [
+            "The poet",
+            "described about",
+            "the spring season.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Describe' is transitive, so 'described the spring season'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 53,
+            "question_number": 53
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "POSSIBLE_DUPLICATE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0054",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The atmosphere / comprises of / many inert gases also.",
+          "options": [
+            "The atmosphere",
+            "comprises of",
+            "many inert gases also.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Comprise' takes no 'of': 'comprises many inert gases'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 54,
+            "question_number": 54
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "POSSIBLE_DUPLICATE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0055",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "We disposed off / our old furniture / before moving to Mumbai.",
+          "options": [
+            "We disposed off",
+            "our old furniture",
+            "before moving to Mumbai.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Dispose of' means get rid of.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 55,
+            "question_number": 55
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0056",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He was / bereft from / all his possession.",
+          "options": [
+            "He was",
+            "bereft from",
+            "all his possession.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Bereft of' is the correct collocation.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 56,
+            "question_number": 56
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0057",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He assented of / my proposal / as it was very attractive.",
+          "options": [
+            "He assented of",
+            "my proposal",
+            "as it was very attractive.",
+            "No error."
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Assent to' a proposal.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 57,
+            "question_number": 57
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0058",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "A large sign near / the entrance warns the visitors / to beware about bears.",
+          "options": [
+            "A large sign near",
+            "the entrance warns the visitors",
+            "to beware about bears.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Beware of' bears.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 58,
+            "question_number": 58
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0059",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher was tense / when he entered / the class which comprised of / a hundred students.",
+          "options": [
+            "The teacher was tense",
+            "when he entered",
+            "the class which comprised of",
+            "a hundred students."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Comprise' takes no 'of': 'which comprised a hundred students'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 59,
+            "question_number": 59
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "POSSIBLE_DUPLICATE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a)-(d). Identify the part containing an error."
+        },
+        {
+          "id": "ENG-PDF2-0060",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "There is no rule / regarding the length of a precis / with relation to / that of the original passage.",
+          "options": [
+            "There is no rule",
+            "regarding the length of a precis",
+            "with relation to",
+            "that of the original passage."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "The phrase is 'in relation to', not 'with relation to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 60,
+            "question_number": 60
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a)-(d). Identify the part containing an error."
+        },
+        {
+          "id": "ENG-PDF2-0061",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He / is suffering / with flu.",
+          "options": [
+            "He",
+            "is suffering",
+            "with flu.",
+            "No error."
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Suffer from' an illness.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 61,
+            "question_number": 61
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        },
+        {
+          "id": "ENG-PDF2-0062",
+          "section": "Prepositions",
+          "topic": "Grammar",
+          "subtopic": "Prepositions",
+          "difficulty": "INTERMEDIATE",
+          "q": "He wanted to go / to home / as he was sick.",
+          "options": [
+            "He wanted to go",
+            "to home",
+            "as he was sick.",
+            "No error."
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'Home' is an adverb here: 'go home', not 'go to home'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Preposition_Questions.pdf",
+            "page": 62,
+            "question_number": 62
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false,
+          "duplicateStatus": "NONE",
+          "sectionDirections": "Each item has a sentence divided into parts labelled (a), (b), (c)... Identify the part containing an error; if there is no error choose 'No error'."
+        }
+      ]
+    }
+  ]
+}

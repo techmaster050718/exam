@@ -1,0 +1,1344 @@
+{
+  "id": "english-voice-pdf-import-001",
+  "title": "English Voice PDF Imported Question Bank",
+  "subject": "English",
+  "sourceType": "PDF_IMPORTED",
+  "questionCount": 51,
+  "source": {
+    "importType": "PDF_IMPORTED"
+  },
+  "verificationStatus": "VERIFIED",
+  "sections": [
+    {
+      "name": "Voice",
+      "questions": [
+        {
+          "id": "ENG-VOICE-PDF-0001",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "Any step that the centre takes to establish peace and harmony in the country will be appreciate.",
+          "options": [
+            "Any step that the centre",
+            "takes to establish",
+            "peace and harmony in the country",
+            "will be appreciate",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires past participle 'appreciated'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 1
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0002",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The policemen who were on duty in this area were discovered two drug addicts.",
+          "options": [
+            "The policemen",
+            "who were on duty in this area",
+            "were discovered",
+            "two drug addicts",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'discovered'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 2
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0003",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "As the first President of India, Dr. Rajendra Prasad was known by all types of people in the world.",
+          "options": [
+            "As the first President",
+            "of India, Dr. Rajendra Prasad",
+            "was known by all types",
+            "of people in the world",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Correct preposition is 'known to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 3
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0004",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "The P. M. assured the people that his government would do its best to suppress communalism.",
+          "options": [
+            "The P. M. assured",
+            "the people that his government",
+            "would do its best",
+            "to suppress communalism",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 4
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0005",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher asked the students whether they could tell the name of the man who had been discovered America.",
+          "options": [
+            "The teacher asked",
+            "the students whether they could",
+            "tell the name of the man",
+            "who had been discovered America",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'had discovered'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 5
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0006",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "The case was enquired a month ago but no report has come yet.",
+          "options": [
+            "The case was",
+            "enquired a month ago",
+            "but no report",
+            "has come yet",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Requires preposition: 'enquired into'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 6
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0007",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "She held something at her side which was totally hiding by the folds of her sari.",
+          "options": [
+            "She held something",
+            "at her side which",
+            "was totally hiding",
+            "by the folds of her sari",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires past participle 'hidden'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 7
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0008",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "I was surprising at not having seen her even though she was standing just beside my wife.",
+          "options": [
+            "I was surprising",
+            "at not having seen",
+            "her even though she was standing",
+            "just beside my wife",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Feeling requires past participle 'surprised'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 8
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0009",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "In case you apologise for having broken your promises you will certainly be forgave.",
+          "options": [
+            "In case you apologise",
+            "for having broken your",
+            "promises you will",
+            "certainly be forgave",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires past participle 'forgiven'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 9
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0010",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "After every student had gone away, the peon locked up the classroom.",
+          "options": [
+            "After every student had",
+            "gone away,",
+            "the peon locked up",
+            "the classroom",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 10
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0011",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Had the police not reached here on time, I would have killed by the robbers.",
+          "options": [
+            "Had the police not",
+            "reached here",
+            "on time, I would",
+            "have killed by the robbers",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'have been killed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 11
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0012",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The teacher said, Years ago, it believed that the earth was flat.",
+          "options": [
+            "The teacher said, Years",
+            "ago, it believed",
+            "that the earth",
+            "was flat.",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'it was believed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 12
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0013",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "We have not been informed about the death of our beloved leader and torchbearer.",
+          "options": [
+            "We have not been",
+            "informed about the",
+            "death of our beloved",
+            "leader and torchbearer",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 13
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0014",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "They were kindly requested to attend the seminar in which lectures on the evils of communalism were to be delivered.",
+          "options": [
+            "They were kindly requested",
+            "to attend the seminar in which",
+            "lectures on the evils of communalism were",
+            "to be delivered",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 14
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0015",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "The headman advised the members of the family to inform the police of the occurrence.",
+          "options": [
+            "The headman advised",
+            "the members of the family to",
+            "inform the police",
+            "of the occurrence",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 15
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0016",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "By whom was he helped when he seriously wounded by a terrorist?",
+          "options": [
+            "By whom",
+            "was he helped",
+            "when he seriously wounded",
+            "by a terrorist?",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'was seriously wounded'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 16
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0017",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "The conclusion will be arrived but what we need most is to keep patience and to wait.",
+          "options": [
+            "The conclusion will be arrived",
+            "but what we need",
+            "most is to keep",
+            "patience and to wait",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Requires preposition: 'arrived at'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 17
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0018",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "We were extremely surprised by the poor results of that scholar's son and daughter.",
+          "options": [
+            "We were extremely",
+            "surprised by the poor results",
+            "of that scholar's son and daughter",
+            "",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 18
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0019",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "They were pleased by the news which they had received a day before.",
+          "options": [
+            "They were pleased",
+            "by the news",
+            "which they had received",
+            "a day before",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Correct preposition is 'pleased with/at'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 19
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0020",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "A Police Inspector sent to my house and all the rooms were checked.",
+          "options": [
+            "A Police Inspector sent",
+            "to my house",
+            "and all the rooms",
+            "were checked",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'was sent'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 20
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0021",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "The dacoits looted the house and before the police arrived the things were taken away.",
+          "options": [
+            "The dacoits looted",
+            "the house and before",
+            "the police arrived",
+            "the things were taken away",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Past perfect passive 'had been taken' is better, but 'were' is structurally flawed in sequence. Actually 'had been taken away' is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 21
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0022",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "When the leader was shot dead, the followers were run away.",
+          "options": [
+            "When the leader",
+            "was shot dead,",
+            "the followers",
+            "were run away",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'run away' is intransitive, active voice 'ran away' is required.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 22
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0023",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "He was said to have been won the prize because of the partiality of the judges.",
+          "options": [
+            "He was said",
+            "to have been won",
+            "the prize because of",
+            "the partiality of the judges",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active infinitive required: 'to have won'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 23
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0024",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The burglars were broken into the house and took away some cash and many precious things.",
+          "options": [
+            "The burglars were broken",
+            "into the house and",
+            "took away some cash",
+            "and many precious things",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'broke'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 24
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0025",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "She was advised by us to meet the Chairman and appraise him of her subordinate's misconduct.",
+          "options": [
+            "She was advised",
+            "by us to meet the Chairman",
+            "and appraise him of her",
+            "subordinate's misconduct",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 25
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0026",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The needy man was approched to the money lender and requested him to lend him some money.",
+          "options": [
+            "The needy man",
+            "was approched to the money lender",
+            "and requested him to",
+            "lend him some money",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'approached'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 26
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0027",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "When the damage has been done and the future of the people has darkened, nothing will be of any help.",
+          "options": [
+            "When the damage has been",
+            "done and the future of the",
+            "people has darkened,",
+            "nothing will be of any help",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 27
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0028",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "It was suggested by the doctor that the patient should be taken care.",
+          "options": [
+            "It was suggested",
+            "by the doctor",
+            "that the patient",
+            "should be taken care",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Requires preposition: 'taken care of'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 28
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0029",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "The bed has been arranged for the newly married couple but it has not been slept.",
+          "options": [
+            "The bed has been arranged",
+            "for the newly married",
+            "couple but it has",
+            "not been slept",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Requires preposition: 'slept in'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 29
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0030",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "The Chief Minister laid the foundation of a bridge and was hoped that it would be completed by January.",
+          "options": [
+            "The Chief Minister laid",
+            "the foundation of a bridge",
+            "and was hoped that it would be",
+            "completed by January",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Impersonal passive requires 'it was hoped'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 30
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0031",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Drawing the attention of the public, the leader said that he should be listened.",
+          "options": [
+            "Drawing the attention",
+            "of the public,",
+            "the leader said",
+            "that he should be listened",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Requires preposition: 'listened to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 31
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0032",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "The reporter said that the eminent scholar had been run over by a car.",
+          "options": [
+            "The reporter said",
+            "that the eminent",
+            "scholar had been run",
+            "over by a car",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 32
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0033",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "My father suggested to me that I should be written to him at least two letters every month.",
+          "options": [
+            "My father suggested",
+            "to me that I should",
+            "be written",
+            "to him at least two letters every month",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'write'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 33
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0034",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "By whom was Mr. Awdhesh Singh worshipped as the Gandhi of our time?",
+          "options": [
+            "By whom",
+            "was Mr. Awdhesh Singh worshipped",
+            "as the Gandhi",
+            "of our time",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 34
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0035",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "A new programme is soon to be telecast from the Delhi Doordarshan.",
+          "options": [
+            "A new programme",
+            "is soon to be",
+            "telecast from the Delhi",
+            "Doordarshan",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Proper noun doesn't need article: 'from Delhi'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 35
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0036",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "She was extremely annoyed by her lover's unreasonable behaviour.",
+          "options": [
+            "She was extremely",
+            "annoyed by",
+            "her lover's unreasonable",
+            "behaviour",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 36
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0037",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Many of the tourists did not reach the place because the bus was to detain by some ruffians.",
+          "options": [
+            "Many of the tourists",
+            "did not reach the place",
+            "because the bus was to detain",
+            "by some ruffians",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive infinitive required: 'to be detained'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 37
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0038",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Five persons killed and a baby was badly injured in the bus accident which took place last night.",
+          "options": [
+            "Five persons killed",
+            "and a baby was",
+            "badly injured in the",
+            "bus accident which took place last night",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'were killed'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 38
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0039",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "A five star hotel is to build in the centre of the town.",
+          "options": [
+            "A five star hotel",
+            "is to build",
+            "in the centre",
+            "of the town",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive infinitive required: 'to be built'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 39
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0040",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "Pt. Nehru was a man to be admired and so was Mrs. Indira Gandhi.",
+          "options": [
+            "Pt. Nehru was",
+            "a man to be",
+            "admired and",
+            "so was Mrs. Indira Gandhi",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 40
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0041",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "Some Hindu and some Muslim leaders are bent on strengthening communalism to achieve their political goals.",
+          "options": [
+            "Some Hindu and some Muslim leaders",
+            "are bent on strengthening",
+            "communalism to achieve their",
+            "political goals",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 41
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0042",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "Having found guilty of murder they were sentenced to life imprisonment.",
+          "options": [
+            "Having found",
+            "guilty of murder",
+            "they were sentenced",
+            "to life imprisonment",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive participle required: 'Having been found'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 42
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0043",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The report says that a lot of things including some drugs are to sell in the shop to be opened shortly.",
+          "options": [
+            "The report says that",
+            "a lot of things",
+            "including some drugs are",
+            "to sell in the shop to be opened shortly",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive infinitive required: 'to be sold'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 43
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0044",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "An unprecedented riot was broken out in this part of the state this month.",
+          "options": [
+            "An unprecedented",
+            "riot was broken out",
+            "in this part of the",
+            "state this month",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "'break out' is intransitive, active voice 'broke out' is required.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 44
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0045",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Mr. Gupta disowned his son only because he was married a schedule caste girl.",
+          "options": [
+            "Mr. Gupta disowned",
+            "his son only because",
+            "he was married",
+            "a schedule caste girl",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'married' or passive 'was married to'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 45
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0046",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "Accepting all sorts of challenges that life offers is a pleasure to the brave.",
+          "options": [
+            "Accepting",
+            "all sorts of challenges",
+            "that life offers is",
+            "a pleasure to the brave",
+            "No Error"
+          ],
+          "answer": 4,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Sentence is correct.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 46
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0047",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "Looking into the situation that prevailed a few years ago, he was taken that decision.",
+          "options": [
+            "Looking into the situation",
+            "that prevailed a few years",
+            "ago, he was taken",
+            "that decision",
+            "No Error"
+          ],
+          "answer": 2,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Active voice required: 'took'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 47
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0048",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "ADVANCED",
+          "q": "Dogs soon know the person whom they are kindly treated.",
+          "options": [
+            "Dogs soon know",
+            "the person whom",
+            "they are",
+            "kindly treated",
+            "No Error"
+          ],
+          "answer": 3,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires 'by whom they are kindly treated'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 48
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0049",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "BASIC",
+          "q": "No other leader of India is hold in so high esteem as Mahatma Gandhi, who is called the Father of the Nation.",
+          "options": [
+            "No other leader of India",
+            "is hold in so high esteem",
+            "as Mahatma Gandhi, who is",
+            "called the Father of the Nation",
+            "No Error"
+          ],
+          "answer": 1,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive requires past participle 'held'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 49
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0050",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The names record in this register deserve much attention of the police officers.",
+          "options": [
+            "The names record",
+            "in this register deserve",
+            "much attention",
+            "of the police officers",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive participle required: 'recorded'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 50
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        },
+        {
+          "id": "ENG-VOICE-PDF-0051",
+          "section": "Voice",
+          "topic": "Grammar",
+          "subtopic": "Voice",
+          "difficulty": "INTERMEDIATE",
+          "q": "The lonely traveller puzzled when he discovered the foot prints on the sand.",
+          "options": [
+            "The lonely traveller puzzled",
+            "when he discovered",
+            "the foot prints",
+            "on the sand",
+            "No Error"
+          ],
+          "answer": 0,
+          "type": "MCQ",
+          "subject": "English",
+          "explanation": "Passive/stative requires 'was puzzled'.",
+          "sourceLabel": "PDF_IMPORTED",
+          "source": {
+            "document": "Voice...pdf",
+            "question_number": 51
+          },
+          "verificationStatus": "VERIFIED",
+          "needsReview": false
+        }
+      ]
+    }
+  ]
+}
